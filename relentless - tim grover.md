@@ -44,7 +44,7 @@
       wrong with the way you were?"
   * "Most people are like lions in cages". Natural instincts and ambition suppressed, waiting for something to
     happen.
-  * "How I want you to envision instinct: no thinking. Just the gut reaction that comes from being os ready,
+  * "How I want you to envision instinct: no thinking. Just the gut reaction that comes from being so ready,
     so prepared, so confident, that there's nothing to think about. If you're driving, and suddenly the car
     ahead of you slams on its brakes, do you pause to consider all your options or stop to ask for advice? No,
     you slam on the brakes."
@@ -60,19 +60,20 @@
 * You have a dark side that refuses to be taught to be good (chap 4)
   * "The dark side is your fuel... it excites you, keeps you on the edge, recharges you, fills your tank. It's
     your one escape, the only thing that takes your mind somewhere else and allows you to blow off steam for a
-    brief time... it's anything that creatves a private challenge and tests you to control it before it controls
-    you."
-  * Athlets get only one chance per year to demonstrate that they are the best. "If you're so intensely wired
-    to attack adn win, you can't just turn that ona nd off, it's who you are, it defines you."
-  * "Really, is there that big a difference between the instincts of a powerful athlete? They're all "killers"
-    in their field, driven to be the best, diabolical in their strategy. Attack, control, win."
+    brief time... it's anything that creates a private challenge and tests you to control it before it
+    controls you."
+  * Athletes get only one chance per year to demonstrate that they are the best. "If you're so intensely wired
+    to attack and win, you can't just turn that on and off, it's who you are, it defines you."
+  * "Really, is there that big a difference between the instincts of a powerful businessman, crime boss, and
+    athlete? They're all "killers" in their field, driven to be the best, diabolical in their strategy.
+    Attack, control, win."
   * "Be honest: would you be as successful if you followed all the rules and always behaved and never took
     chances? No, you'd be just like everyone else, scared about failing and worried about being liked."
 * You're not intimidated by pressure, you thrive on it (chap 5)
   * If you're a true competitor, you always feel that pressure to attack and conquer, you thrive on it. You
     intentionally create situations to jack up the pressure even higher, challenging yourself to prove what
     you're capable of."
-  * "I tell my guys, 'Pressure, pressure, pressure.' Most people runf rom stress. I runt o it. Stress keeps
+  * "I tell my guys, 'Pressure, pressure, pressure.' Most people run from stress. I run to it. Stress keeps
     you sharp, it challenges you in ways you never imagined and forces you to solve issues and manage
     situations that send weaker people running for cover."
   * Cleaners never feel external pressure; they only accept internal pressure.
@@ -92,7 +93,7 @@
     it's for his sake, not yours. His only objective is putting you where he needs you to be so he can get the
     result he desires."
   * Portland rejected MJ as a draft pick because he couldn't serve as their center. "People who evaluate
-    talent will alwaks take the negative: 'He can't do this or that.' Ok, what can he do? He got this far for
+    talent will always take the negative: 'He can't do this or that.' OK, what can he do? He got this far for
     a reason, how did he get here? Let's find out what he can do and put him in the system where he can
     succeed."
     * This thinking applies to recruiting.
@@ -113,7 +114,7 @@
       probably laughing at your weakness."
   * Be great at one thing: the very best at it. Be average or good at the other things. But know which thing
     should dominate your schedule.
-* You don't have eto love thew ork, but you're addicted to the results. (chap 9)
+* You don't have to love the work, but you're addicted to the results. (chap 9)
   * It takes hard work all the time. Showing up every day, like a professional.
   * When you reduce your competition to whining that you "got lucky," you know you're doing something right.
   * "Anyone can start something. Few can finish."
@@ -123,8 +124,8 @@
     * MJ when his father died, and Wade during his divorce and custody battle.
 * You'd rather be feared than liked (chap 10)
   * "When you're completely focused on one thing -- your craft -- it's hard to pay attention to other people.
-    You might sincerely care about hwo someone is doing, but you're not going to pick up the phone to find
-    out, and if you do, it' usually because you have a motive for asking. You don't have time for chitchat or
+    You might sincerely care about how someone is doing, but you're not going to pick up the phone to find
+    out, and if you do, it's usually because you have a motive for asking. You don't have time for chitchat or
     lunch or anything that distracts you from your single-minded focus. You don't care about being liked, you
     care about getting what you want. Not a great way to make and keep friends. But the only way to be truly
     relentless." This was Kobe and MJ.
@@ -133,9 +134,9 @@
     open to advice that goes against what you want."
   * Cleaners trust few people; they'd almost always rather follow their instincts and fix the situation later
     if they're wrong, than trust someone else and kick themselves for not listening to that voice inside. If a
-    Cleaner screws up, he wants it to be because he did waht he thought was right, not because he did what
+    Cleaner screws up, he wants it to be because he did what he thought was right, not because he did what
     someone else told him to do."
-* You don't recognize failure; you konw there's more than one way to get what you want (chap 12)
+* You don't recognize failure; you know there's more than one way to get what you want (chap 12)
   * MJ's return: "as usual, they were wrong. A Cleaner is done when he says he's done, not when you say he's
     done."
   * Reframing reality: "Success and failure are 100 percent mental. One person's idea of success might seem
@@ -144,14 +145,14 @@
   * "When someone else says you've failed, what they really mean is 'if that were me, I would feel like a
     failure.' Well, that guy's not you, and he's obviously not a Cleaner, because Cleaners don't recognize
     failure."
-  * "A Cleaner never sees failure because to him, it' snever over. If something doesn't go as planned, he
-    insticively looks for options to make things work a different way. He doesn't feel embarrassed or ashamed,
-    he doesn't blame anyone else, and he doesn't care what anyone else says about his istuation. It's never
-    the end, it's neve rover. And he knows, without a doubt, that whatever happens, he'll find a way to come
-    out on top. If you ever find me and a bear wrestling in the woods, help the bear."
+  * "A Cleaner never sees failure because to him, it's never over. If something doesn't go as planned, he
+    instinctively looks for options to make things work a different way. He doesn't feel embarrassed or
+    ashamed, he doesn't blame anyone else, and he doesn't care what anyone else says about his situation. It's
+    never the end, it's never over. And he knows, without a doubt, that whatever happens, he'll find a way to
+    come out on top. If you ever find me and a bear wrestling in the woods, help the bear."
   * Don't try; act. And keep acting, with different tactics and from different directions, until you've
     mastered the situation.
   * Being able to sensibly change directions is a great strength for the tenacious. Being inflexible is weak.
 * You don't celebrate your achievements because you always want more (chap 13)
-  * After a win, get back to work: "there's always more work to do. And more to provde. Always more to prove."
+  * After a win, get back to work: "there's always more work to do. And more to prove. Always more to prove."
   * What's driving us? that electrifying, powerful surge of satisfaction when we complete the job.
