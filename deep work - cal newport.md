@@ -81,3 +81,32 @@
     * "A wooden wheel is not noble, but its shaping can be. The same applies to knowledge work. You don't need
       a rarified job; you need instead a rarified approach to your work." He argues that most knowledge work
       can be cast as craftsmanship, int hat you're applying high levels of skill.
+* Work deeply (chap 4)
+  * It costs willpower to switch to and then maintain focus on hard work, so use habits and rituals like a
+    "deep work by default" time and environment, so it's more automatic to engage in deep work, and so you're
+    less vulnerable to willpower fatigue and shiny distractions.
+  * Knuth's "monastic philosophy" to deep work
+    * "I have been a happy man ever since January 1, 1990, when I no longer had an email address. I'd used
+      email since about 1975, and it seems to me that 15 years of email is plenty for one lifetime. Email is a
+      wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to
+      be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+    * His approach is a radical reduction of all non-core, shallow work. This only really applies if you are
+      an individualized creator with a clear, narrow contribution, like an author or inventor.
+  * Bimodal strategy of deep work scheduling: reserve deep work days, or monthly retreats, or entire seasons
+    (like academics do in the summer). The rest of time is filled with operations.
+  * Rhythmic strategy of deep work scheduling: some time every day, like before you go to work. More habitual
+    and compatible with most environments, but less deep, since you'll get 2 hour chunks at most...
+    * Chappell, a doctoral candidate with a full time job and child: "he made a rule that he would wake up
+      and start working by 530am every morning. he would then work until 730am, make breakfast, and go to work
+      already done with his dissertation obligations for the day. Pleased by early progress, he soon pushed
+      his wake-up time to 445am to squeeze out even more morning depth.
+  * "Great creative minds think like artists but work like accounts." - David Brooks.
+  * How to ritualize deep work:
+    * Predetermine where you'll work and for how long, so you can precommit. Like your office with a clean
+      desk; or a spot reserved only for deep work, like the library.
+    * Determine how you'll use your time
+      * Have a pre-programmed agenda, or a metric you're trying to hit, like words per hour. And rules of
+        conduct: no email, phone in do-not-disturb mode.
+      * "Without this structure, you'll have to mentally litigate again and again what you should and should
+        not be doing during these sessions and keep trying to assess whether you're working sufficiently hard.
+        These are unnecessary drains on your willpower reserves.
