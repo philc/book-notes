@@ -110,3 +110,35 @@
       * "Without this structure, you'll have to mentally litigate again and again what you should and should
         not be doing during these sessions and keep trying to assess whether you're working sufficiently hard.
         These are unnecessary drains on your willpower reserves.
+  * How you'll support your work: e.g. walking, coffee, clear desk, music
+  * Making grand gestures
+    * A grand gesture is a big change in environment (like going to a new office; going on a work vacation) or
+      habit that makes it feel more special, and thus easier, to dedicate time to deep work, and sustain the
+      effort.
+      * JK Rowling finishing Deathly Hallows at a hotel in Edinburgh:
+      * "Writing a chapter of a Harry Potter novel, for example, is hard work and will require a lot of mental
+        energy -- regardless of where you do it. But when paying more than $1,000 a day to write the chapter
+        in a suite of an old hotel down the street from a Hogwarts-style castle, mustering the energy to begin
+        and sustain this work is easier than if you were instead in a distracting home office."
+      * Bill Gates think weeks.
+      * Stripe's "hack from Sao Paulo"
+      * Lex moving to SF to attempt a boot camp
+      * Building and using an external writing cabin on one's own property.
+  * Office: should provide inspiration and serendipity, but also focus and privacy when working. Hub and spoke
+    model achieves this. The spokes can be small teams or pairs of people.
+    * On the office space at MIT labs: "This combination of soundproofed offices connected to large common
+      areas yields a hub-and-spoke architecture of innovation in which both serendipitous encounter and
+      isolated deep thinking are supported. It's a setup that straddles a spectrum where on one extreme we
+      find solo thinker, isolated from inspiration but free from distraction, and on the other extreme, we
+      find the fully collaborative thinker in an open office, flush with inspiration but struggling to support
+      the deep thinking needed to build on it.
+    * In office spaces, "you should try to optimize each effort (depth and serendipity) separately, as opposed
+      to mixing them together into a sludge that impedes both goals."
+  * Accountability: the presence of the other party waiting for your next insight -- be it someone physically
+    in the same room or collaborating with you virtually --can short-circuit the natural instinct to avoid
+    depth.
+  * 4DX framework for executing (from management consulting)
+    * "Focus on the wildly important"
+      * "The more you try to do, the less you actually accomplish."
+      * Execution should be aimed at a small numer of "wildly important goals". This will help focus an
+        organization's energy to a sufficient intensity to ignite real results.
