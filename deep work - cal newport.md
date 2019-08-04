@@ -140,5 +140,36 @@
   * 4DX framework for executing (from management consulting)
     * "Focus on the wildly important"
       * "The more you try to do, the less you actually accomplish."
-      * Execution should be aimed at a small numer of "wildly important goals". This will help focus an
+      * Execution should be aimed at a small number of "wildly important goals". This will help focus an
         organization's energy to a sufficient intensity to ignite real results.
+  * Focus on an ambitious, specific goal and use that to motivate you to find deep work time.
+    * "If youw ant to win the war for attention, don't try to say 'no' to the trivial distractions you find on
+      the information smorgasbord; try to say 'yes' to the subject that arouses a terrifying longing, and let
+      the terrifying longing crowd out everything else."
+  * "I used to focus on lag measures of deep work, such as papers published per year. These measures, however,
+    lacked influence on my day-to-day behavior because there was nothing I could do in the short term that
+    could immediately generate a noticeable change to this long-term metric.
+    * Now he focuses on: time spent in a state of deep work dedicated toward your wildly important goal.
+    * Maybe at work, I should list my founder projects, and track how many hours I spend per day on them.
+      Could I achieve a target of 5h a day with my meeting and management load?
+  * For teams, consider a scoreboard of a leading metric for the wildly important goal. It will drive them
+    towards that goal and give them the focus, even when other demands vie for their attention."
+  * Downtime helps recharge the energy (willpower) needed to work deeply
+    * A study showed that walking through nature for 20m vs. a city improved the person's performance of a
+      concentration-sapping task by 20%.
+    * The study argues that the busy city streets require you to use directed attention, as you must navigate
+      complicated taks slike figuring out when to cross a street or walk around a slow group. So this activity
+      drains your directed attention, rather than restoring it. Nature requires much less directed attention
+      to walk through.
+  * Beware of the short-term productivity sip which comes at the expense of tommorrow's deep work
+    * "If you keep interruptiong your evening to check and respond to email, or put aside a few hours after
+      dinner to catch up on an approaching deadline, you're robbing your directed attention centers of the
+      uninterrupted rest they need for restoration."
+  * The work that evening downtime replaces is usually not that important
+    * It's not deep work, either becuase you're fatigued and can't do more, or you don't set up the
+      environment for depth.
+    * On the other hand, if you need to finish some shallow work to unlock time tomorrow for deep work, then
+      working in the evening rather than resting can be worthwhile.
+  * Beware the dynamic of attention residue: residue from even small contact with work (like checking email)
+    is large and pollutes your mindshare for awhile, preventing you from fulling focusing on the activity in
+    front of you.
