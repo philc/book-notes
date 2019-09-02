@@ -14,3 +14,4 @@
   * Game for closeness: "the boy would have his parents sit on the couch; then he'd run toward them, landing
     right between them. They would then fight over who could grab him first, and it usually turned into a
     giggly human tug-of-war."
+  * An example game for battling separation anxiety: "
