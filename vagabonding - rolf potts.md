@@ -1,7 +1,7 @@
 * Vagabonding: a privately meaningful manner of travel that emphasizes creativity, adventure, awareness,
   simplicity, discovery, independence, realism, self-reliance, and the growth of the spirit.
 * Earn your freedom (chap 2)
-  * Vagabonding "is not for comfort hounds, sophomoric isanthropes or poolside faint-hearts, whose thing
+  * Vagabonding "is not for comfort hounds, sophomoric misanthropes or poolside faint-hearts, whose thing
   convictions won't stand up to the problems that come along" - Ed Buryn.
   * Having to work to earn your time and resources for travel make the trip much more rewarding and meaningful.
     Compare this mindset to "trustafarians."
@@ -75,3 +75,48 @@
     * Let the merchant make the first offer -- and don't respond by offering half the price and haggling from
       there. The merchants already expect you to do this, and they adjust their prices accordingly. Instead,
       see if the merchant will make another, lower offer before you start making bids.
+* Meet your neighbors (chap 6)
+  * The experience off vagabonding revolves around the people you meet on the road.
+    * "If you view the world as a predominately hostile place, it will be" wrote Ed Buryn. By this same logic,
+      a positive worldview can lead to inspiring, human-centered road experiences.
+  * Don't congregate just with people you like: fellow travelers, while easy and rewarding, will be probably
+    less iconic and memorable.
+    * "Which encounter, after all, will teach you the most in Punjab: drinking Kingfisher lager with friendly
+      agnostic New Zealanders or sipping tea with friendly Indian Sikhs? Which activity would you enjoy most
+      in Cuba: scuba diving with a gregarious German college student or rumba dancing with a gregarious Havana
+      grandmother? Which of these experiences woudol you most likely share with your friends when you got
+      home? Which would you remember best in your old age?"
+  * "People travel to faraway places to watch, in fascination, the kind of people they ignore at home" -
+    Dogabert Runes. (e.g. the ethnic practices of a culture, like mexicans, whom they also have as neighbors
+    and could just observe at home).
+  * Many of your relationships with locals will be a front for them to sell you something, but that's not a
+    bad thing if you understand the dynamic. Their tourism industry arose out of genuine hospitality.
+    * "Of all the locals I hung out with in Egypt, my truest Eyption friend was a hotel clerk who accompanied
+      me to movies and markets during his time off from work. Of all the people I met in Burma, I learned the
+      most about the local culture from a trishaw driver who (after pedaling me around on a paid tour of the
+      Sagaing area) took me home to meet his family and insisted I sleep for free at the neighborhood
+      monastery."
+  * "Be aware that you occupy an economic dynamic whereever you go -- and that there is no particular virtue
+    in compulsively avoiding expenses (especially when many of those expenses are of direct benefit to local
+    families)."
+  * "Even if you do get 'ripped off' as an outsider, remember that event his is part of a time-honored
+    tradition."
+* Get into adventures (chap 7)
+  * Adventure is not about extreme feats or exploring frontiers. The frontiers have all been settled.
+    * "Which is the real addventure: spending three grand on a mach-one MiG jet ride over Kamchatka or
+      spending the same sum exploring the cities and villages of Siberia by train and motorcycle?"
+  * Adventure is a way of interpreting your recent travels.
+  * "The secret of adventure is not to carefully set kt out, but ot travel in such a way that it finds you. To
+    do this, you need to overcome the protective habits of home and open yourself up to unpredictability.
+* Be creative (chap 9)
+  * Your travel goals and preferences will quickly evolve after you've been traveling through your dream spots
+    for a few weeks.
+    * "you'll gradually come ot understand why longtime travelers insist that the journey itself is far more
+      important than any destination."
+  * If you find yourself settling into a consistent routine, and the places are blurring together, mix it up.
+    Visit the city or countryside or vice versa. Alone? Find a companion. Innovate on your transportation;
+    take an interesting method of transport to get from one side of the region to the other.
+  * "Should you have hobbies -- cooking, painting, music, meditation -- you might take this time to deepen and
+    diversify such interests within an exotic new context." Pickup games of chess, or basketball
+  * Volunteer work, to inject some meaning into your travels. E.g. working with kids at an afterschool program
+    in Peru.
