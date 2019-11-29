@@ -1,3 +1,10 @@
+* Favorite parts
+  * "I find that it is often better to play at being incompetent instead of pretending to be fearful, since
+    that seems to let the child loosen up and laugh about it more."
+* TODO:
+  * Trim these examples. Don't worry about preserving quotes. Strike out entire lines to make this denser.
+  * Pull a few highlights into "favorite parts"
+
 * The value of being a playful parent (chap 1)
   * "We complain about children's short attention spans, but how long can we sit and play marbles or Barbies
     or Monopoly or fantasy games before we get bored and distracted, or pulled away by the feeling that
@@ -100,3 +107,101 @@
   * Before you can begin instruction, or build character, the prereq is to be connected.
     * "Even if we don't like what we see when we tune in, we still have to tune in first.
 * Encourage their confidence (chap 4)
+  * Prepare your child for the world by both supporting and challenging them.
+  * Let them experiment with power, e.g. rule-breaking of trivial made-up rules in a safe environment.
+  * Game: "try to get past me to the touch." Building physical confidence and persistence.
+  * Enjoying the terrible twos: learn to recognize and even enjoy the burst in independence, while providing
+    the safety and structure of clear limits.
+  * Sportsmanship through hyperbole: set up a game where they will always win, and pretend to be a ridiculous
+    figure of a sore loser.
+  * Adults are famous for taking all the fun and playfulness out of learning swimming or math, by using
+    play or lessons that are too structured.
+  * When kids lose interest in an activity like sculpture, they don't say "I'm not sure I'm good at it, can
+    you help me get better?" they just say "I'm not interested anymore." We have to be detectives to gently
+    ferret out whether they're feeling powerless and are struggling, or whether their interests have really
+    changed.
+* Follow the giggles (chap 5)
+  * "Giggles are the best form of laughter. Whatever triggers it, keep repeating it."
+  * Awesome: "ask children to try to get *you* to laugh -- you'll get a good picture of what *they* think is
+    funny."
+  * Chasing a child and repeatedly missing: "Why is this so funny? The outrageous claims make the adult into a
+    fool, which is funny enough, but especially since it helps them feel more powerful."
+  * "ha ha" game for couples (and parents and kids): Harville Hendrix (relationship expert) suggests couples
+    play this game: standing very close, face-to-face, heels off the ground, bouncing lightly on the balls of
+    your feet. Each person takes a turn saying "ha!" in a friendly voice, back and forth, until both are
+    howling with real laughter. His thesis: face-to-face high energy fun is invaluable for reconnecting.
+  * Sometimes kids have a negative emotional outpour after a play session: once they feel safe and close from
+    all of the giggling, a slight at the end of the play session can trigger an emotional outpour. Don't
+    mistake the slight as the cause of the emotions. It's healthy for them to let it out. Sit with them through
+    it.
+* Learn to Roughhouse (chap 6)
+  * Provide basic safety. "Pushing and holding are more helpful in building confidence and connection than
+    hitting. Your commitment to *no one* getting hurt, including yourself, builds feelings of safety that
+    allow for effective wrestling."
+    * This also extends to emotional safety: no humiliating the other person.
+  * Find every opportunity for connection.
+    * "If the child avoids eye contact, you might say, 'Before we battle
+      to the death, let us do the ancient warrior custom of looking each other deep in the eyes.'"
+    * There is a huge different between wrestling and punching a punching bag, and the difference can be
+      summed up in two words: human connection.
+  * Use every opportunity to play through old hurts.
+    * "Replay:" For example, if a child had a disappointing defeat that day, let her replay it with you
+      through wrestling. You represent the obstacle or bully. The object of the game is not necessarily for
+      her to win this time around, that that can be helpful, but more important, to right all out with you
+      cheering her on.
+  * Stop when someone is hurt
+    * "Interrupting wrestling --or any activity -- to pay attention to physical injuries is especially key for
+      boys, who are often encouraged to be stoical and keep playing."
+  * No tickling allowed
+    * It's confusing: they're laughing and so seem to be enjoying it, but it's usually implemented with
+      forceful control by the parent. Makes the child feel like the situation is out of their control. If they
+      want to be tickled, do it sparingly with pokes, not an assault.
+  * "Her mother would let her climb as high as she wanted, a confident smile on her face, trusting Emma's
+    judgement. At the time, I thought this was horrible, but she was right. No broken bones. And I know, as a
+    therapist, that even if she had broken a bone, bones heal faster than timidity and fearfulness."
+  * Play out the situations where your child is impulsive. Just say "let's play school". "Let's play getting
+    dressed and ready." "Let's play that you want this toy real bad, adn I won't share it with you." Take a
+    real situation that i shard for them, label it as play, and let children practice gaining control over
+    their impulses in ways that won't get them punished or humiliated.
+* Suspend reality: reverse the roles (chap 7)
+  * "Let's pretend that you're the day and I'm the daughter, and you're mad at me" -- a five-year-old girl to
+    her angry father.
+  * Playtime should let kids have the power for once: be the teacher, pin papa to the mat, enforce the bed
+    time. The kid never has the power in life's situations until they're an adult.
+  * On their first ski trip, you can make kids feel more competent by reversing the role of beginning and
+    expert. If they fall, you can fall (hilariously) too.
+  * Join storytelling: ask your child how the story should go at various points. This allows them to explore
+    their fears and worries, without talking about them directly. E.g. the child creates terrifying dangers
+    for the hero, and the parent invents a way to resolve them.
+  * "If a child is afraid of bees, you might say 'You be a bee and I'll try to run away from you.' Let
+    yourself get stung, and then scream." Or be an incompetent bee chasing the kid, and mistakenly sting
+    yourself.
+  * "I find that it is often better to play at being incompetent instead of pretending to be fearful, since
+    that seems to let the child loosen up and laugh about it more."
+  * Watching scary or suspenseful movies: "I find it's a good idea to take what I call scream breaks. Pause
+    the movie and give a pretend scream, which will usually be followed by giggles. This break lets some of
+    the feelings out, like the valve on a pressure cooker."
+  * Game: Larry's school of nonsense. More fun than playing "regular school." The parent is the teacher and
+    makes up all kinds of ridiculous rules, which the kids break.
+  * Most play situations just repeat closely what is seen on TV. Toys which are merchandised afford no
+    flexibility in how they're used. E.g. a toy guy, a power ranger doll.
+  * Beware shows that mix sex and violence. They can be overwhelmingly stimulating for kids and corrupt their
+    imagination.
+  * Children's play time is shortening: some children barely know how to play if they don't have a
+    store-bought toy with them. Meanwhile, school days contain less and less play time, even in kindergarten,
+    and more academic preparation."
+* Empower girls and connect with boys (chap 8)
+  * "Parenting has been described as the process of giving our children both roots and wings."
+  * "Both closeness and confidence should be very child's birthright. But girls are discouraged from being too
+    powerful, and they are encouraged to e overly nice, to care more about relationships than about
+    achievement."
+  * Fortunately/unfortunately game: in order to help boys to talk more, play simple word and language games.
+    A favorite is fortunately/unfortunately: one person starts a story with Fortunately, says a line, then the
+    next person says the next line, but starting with "unfortunately". You go back and forth telling a tale of
+    disaster and rescue -- two important themes for most children.
+  * Girls relay their concerns onto dolls in doll play.
+  * "My favorite tactic with disengaged teenage girls is to say 'Okay, your turn.' They ask me what I mean. I
+    tell them that they can talk about anything they want, or we can go anywhere they want. Then I want."
+  * Some boys don't get the benefit of connection when wrestling or play fighting. They do karate moves, but
+    there's no contact. Instead say "see if you can push me over. How about if we wrestle and we just use
+    pushing."
