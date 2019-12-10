@@ -205,3 +205,64 @@
   * Some boys don't get the benefit of connection when wrestling or play fighting. They do karate moves, but
     there's no contact. Instead say "see if you can push me over. How about if we wrestle and we just use
     pushing."
+* Follow your child's lead (chap 9)
+  * "Just say yes". Most of the time we're in the mode of saying "no".
+  * Let children try and fail
+    * "Most situations in life aren't so drastic that children can't be allowed to figure them out on their
+      own. It's like doing children's homework for them: the answers may be right, but they haven't learned
+      anything. So instead of saying 'That won't work', try saying 'Let's try it and see.'"
+    * You will be seen as an ally, not as a naysayer.
+  * Given them dedicated "play time" with you
+    * Structured intentional 1:1 time where the child leads. "Go deep into their territory".
+    * This intentional, prescribed time helps the child anticipate and plan for it, and the parents to be
+      extra intentional once it begins. Kids often save up emotional issues to be worked through during this
+      time.
+      * "You don't answer the phone or cook dinner or take a nap during Play Time."
+    * Dedicated play time with each child helps sibling rivalry recede.
+    * Play time can be hard if we don't like the games selected, or it's boring. And we're always pulled
+      towards our own priorities -- work, chores, etc. Take time to renew after playtime. It's hard. Treat it
+      like deliberate practice; focus.
+    * If the kid is able to play by themselves, e.g. they move your piece around the monopoly board for you,
+      that's not an excuse to leave. Your job is to stay awake. That's the type of play your kid wanted at
+      that moment.
+    * Your kid communicates through play. Imagine if you don't engage, or keep interrupting and changing the
+      game on them. "We've all had the experience of wanting to tell someone something, but they keep
+      interrupting or changing the subject or telling us what to do or how to feel. We hate it, yet we do it
+      to children all the time."
+  * Be safe, but don't worry too much
+    * Regulating their play when it's dangerous: "That scares me. Let's see if we can figure out a way to do
+      it safely. If we can't, we'll have to forget it.
+* Take charge when necessary (chap 10)
+  * In short, join the activity on their terms, and steer it towards connecting.
+  * You can provide a gentle push to connect if the play isn't set up properly:
+    * "The next thing we need to do is connect: how do you think we ought to do it?" Children who aren't used
+      to being asked this question may need some ideas or suggestions about how to reconnect, such as hugging,
+      looking in each other's eyes, shaking hands, wrestling, giving a high-five. Children who have been asked
+      a few times generally have very clear ideas about how they want to connect.
+  * "Make every encounter into a two-way exchange"
+    * If a child is building a tower and ignoring you, rather than building your own tower in isolation,
+      collect all the blocks so she has to ask you for blocks. Or pick up blocks and ask how to build a tower
+      with them. Or build a goofy tower but fail until she instructs you on what to do.
+  * "Holding time" to force closeness during aggression. (This is controversial)
+    * If a child won't stop hitting or biting, gently but firmly restrain them. This is often enough to bring
+      a healing flood of tears. The emotional release is typically followed by a new level of closeness. With
+      "firm holding", the contact and the pressure and the safety help children to organize their sensations
+      and impulses.
+  * Introduce important themes into play
+    * Like playing "school drop off" at home, to defang it and remove separation anxiety.
+    * Example themes: potty training, punishment, separation anxiety, bed time, including others, sharing.
+    * "Having the child's dolls or stuffed animals act out exclusion and rejection is my favorite way to
+      introduce this theme."
+    * "Birthday party lists are not a time to empower children; they are a time to guide them, especially when
+      it comes to exclusion based on race or class, or exclusion of a scapegoat or outcast."
+      * If you want your child to be friends with someone, the parents should invite their whole family over.
+  * Make it fun
+    * Why don't we treat chores as fun? It's just a mindset.
+    * Patch Adams: "the file room of the Navy Federal Credit Union in Anacostia might seem like an unlikely
+      place to thrive."
+    * "I used to get upset at long lines and stuff, but now Seth and I can have a great time in line at the
+      supermarket."
+    * "Bribes are not the same as making the activity fun. In fact, bribes backfire, making it even less
+      likely that children will want to do something on their own initiative, whether it is getting up in the
+      morning, or studying in school, or doing chores. Unlike bribes, making everything fun fosters closeness,
+      confidence, and cooperation."
