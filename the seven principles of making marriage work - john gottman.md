@@ -1,4 +1,4 @@
-* My key takeaways
+* Gems
   * Friendship is the foundation of a good marriage, because it imbues the relationship with positivity, which
     provides security and helps the couple push through conflict and annoyance.
   * Repair attempts are key.
