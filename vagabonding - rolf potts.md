@@ -3,11 +3,11 @@
 * Earn your freedom (chap 2)
   * Vagabonding "is not for comfort hounds, sophomoric misanthropes or poolside faint-hearts, whose thing
   convictions won't stand up to the problems that come along" - Ed Buryn.
-  * Having to work to earn your time and resources for travel make the trip much more rewarding and meaningful.
-    Compare this mindset to "trustafarians."
+  * Having to work to earn your time and resources for travel make the trip much more rewarding and
+    meaningful. Compare this mindset to "trustafarians."
   * Vagabonding isn't an escape from your real life, but a discovery of your real life.
-  * Mindset: "make work serve your interests." Get your "recess" or take time off between jobs. Change jobs often
-    if needed. Or get a formal sabbatical.
+  * Mindset: "make work serve your interests." Get your "recess" or take time off between jobs. Change jobs
+    often if needed. Or get a formal sabbatical.
   * To stay safe, talk to locals and do business with mom-and-pop stores, rather than tourist spots.
 * Keep it simple (chap 3)
   * If you simplify your life and reduce the amount of energy required to run it, it will unlock a "wealth of
@@ -106,8 +106,8 @@
     * "Which is the real addventure: spending three grand on a mach-one MiG jet ride over Kamchatka or
       spending the same sum exploring the cities and villages of Siberia by train and motorcycle?"
   * Adventure is a way of interpreting your recent travels.
-  * "The secret of adventure is not to carefully set kt out, but ot travel in such a way that it finds you. To
-    do this, you need to overcome the protective habits of home and open yourself up to unpredictability.
+  * "The secret of adventure is not to carefully seek it out, but to travel in such a way that it finds you.
+    To do this, you need to overcome the protective habits of home and open yourself up to unpredictability.
 * Be creative (chap 9)
   * Your travel goals and preferences will quickly evolve after you've been traveling through your dream spots
     for a few weeks.
