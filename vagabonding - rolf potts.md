@@ -30,7 +30,7 @@
     * "I prefer the hum of excitement that comes with carefully preparing at home for the trip to come."
   * "We find after years of struggle that we do not take a trip; a trip takes us."
   * "These authors write pictures and frame rhapsodies, and lesser men follow and see with the author's eyes
-    instead of thei rown, and speak with his tongue..."
+    instead of their own, and speak with his tongue..."
   * Guidebooks are so easy to procure on the ground, so take 1 with you and buy for other regions when you
     arrive there.
   * "The fanciful idea of learning to tango, for instance, might make you consider visiting Argentina." Or a
@@ -42,30 +42,30 @@
       that I normally wouldn't have sought."
     * "Perfect harmony on the road is a pipe dream, so always allow your partnership room to breathe, even if
       this means amicably splitting up for weeks at a time."
-  * "With such an attitude, most people find themsevles brimming with confidence after their first few days or
+  * "With such an attitude, most people find themselves brimming with confidence after their first few days or
     vagabonding -- and kicking themselves for not having mustered the courage to do it years ago."
 * Don't set limits (chap 5)
   * On the road, the mundane things in life become fun and exotic:
     * "once you take the plunge and get out on the road, you'll quickly find yourself giddy at how easy and
       thrilling it all is. Normal experiences (such as ordering food or taking a bus) will suddenly seem
       extraordinary and full of possibility. All the details of daily life that you ignored back home -- the
-      taste of a soft drink, the sound of a radio, the smell of hte air -- will wuddenly seem rich and exotic.
+      taste of a soft drink, the sound of a radio, the smell of the air -- will suddenly seem rich and exotic.
       Food, fashions, and entertainment will prove delightfully quirky and shockingly cheap. In spite of all
       your preparation, you will invariably find yourself wanting to know more about the histories and
       cultures that envelop you. The subtle buzz of the unknown, initially a bit of a fright, will soon prove
-      adictive: simple trips to the market or the toilet can turn into adventures: simple conversations can
+      addictive: simple trips to the market or the toilet can turn into adventures: simple conversations can
       lead to charming friendships."
   * Awesome density of experience:
     * "Travel in general, and vagabonding in particular, produces an awesome density of experience. A cramming
       together of incidents, impressions and life detail that is both stimulating and exhausting. So much new
       and different happens to you so frequently, just when you're most sensitive to it... you may be excited,
-      bored, confused, despearate and amazed all in the same happy day."
+      bored, confused, desperate and amazed all in the same happy day."
   * "Slow down... take things as they come. Don't hit all the sights straight away."
   * "In many ways, this transition into travel can be compared to childhood: everything you see is new and
     emotionally affecting, basic tasks like eating and sleeping take on a heightened significant, and
-    entertainment can b efound in the simplest curiosities and novelties."
-  * You'll make mistakes, forget things, get swindled. But that'st part of the experience and learning curve.
-  * Walk off of the well-paved road of tourst attractions if the populatiry of the sights annoys you. Most
+    entertainment can be found in the simplest curiosities and novelties."
+  * You'll make mistakes, forget things, get swindled. But that's part of the experience and learning curve.
+  * Walk off of the well-paved road of tourist attractions if the popularity of the sites annoys you. Most
     don't, for some reason.
   * "If you set off on down the road with specific agendas and goals, you will at best discover the pleasure
     of actualizing them. But if you wander with open eyes and simple curiosity, you'll discover a much richer
@@ -84,14 +84,14 @@
     * "Which encounter, after all, will teach you the most in Punjab: drinking Kingfisher lager with friendly
       agnostic New Zealanders or sipping tea with friendly Indian Sikhs? Which activity would you enjoy most
       in Cuba: scuba diving with a gregarious German college student or rumba dancing with a gregarious Havana
-      grandmother? Which of these experiences woudol you most likely share with your friends when you got
+      grandmother? Which of these experiences would you most likely share with your friends when you got
       home? Which would you remember best in your old age?"
   * "People travel to faraway places to watch, in fascination, the kind of people they ignore at home" -
-    Dogabert Runes. (e.g. the ethnic practices of a culture, like mexicans, whom they also have as neighbors
+    Dogabert Runes. (e.g. the ethnic practices of a culture, like Mexicans, whom they also have as neighbors
     and could just observe at home).
   * Many of your relationships with locals will be a front for them to sell you something, but that's not a
     bad thing if you understand the dynamic. Their tourism industry arose out of genuine hospitality.
-    * "Of all the locals I hung out with in Egypt, my truest Eyption friend was a hotel clerk who accompanied
+    * "Of all the locals I hung out with in Egypt, my truest Egyptian friend was a hotel clerk who accompanied
       me to movies and markets during his time off from work. Of all the people I met in Burma, I learned the
       most about the local culture from a trishaw driver who (after pedaling me around on a paid tour of the
       Sagaing area) took me home to meet his family and insisted I sleep for free at the neighborhood
