@@ -5,7 +5,7 @@
   * "As I've become more experienced, my appreciation for management, and engineering management in
     particular, has grown, and I've come to view the field as a series of elegant, rewarding, and important
     puzzles. This book is a collection of those puzzles." (Nice framing for this work).
-* Organizations (chap 1)
+* Organizations (chap 2)
   * Sizing teams is the fundamental challenge of org design.
   * "Managers should support 6 to 8 engineers."
   * TLMs: typically manage 4 engineers. It has limited career growth, because to progress, they must either
@@ -99,3 +99,20 @@
       * "This isn't a one-time tool, but rather a great exercise to run once a year to identify things you
         could be delegating. This helps nurture an enduring organization, and also frees up time for you to
         continue growing into a larger role."
+* Tools (chap 3)
+  * Intro to systems thinking
+    * Causes of events are more subtle than they appear. They're the result of a system.
+    * Stocks: quantities. The accumulation of events over time.
+    * Flows: changes to stocks. They are rates. Inflows and outflows.
+  * Skepticism of guiding engineers through the standard career ladder
+    * "Chasing the next promotion is at best a market on a mass-produced treasure map."
+    * Instead, try to go somewhere that's disproportionately valuable to you. What skills does this person
+      want? Identify their gaps and work on those skills.
+  * His general outline for presenting to senior leadership
+    * 1) Tie topic to business value. 1-2 sentences. Why should we care?
+    * 2) Establish historical narrative. How things are going, how we got here.
+    * 3) Explicit ask from the audience. 1-2 sentences.
+    * 4) Data-driven diagnosis. A few paragraphs.
+    * 5) Decision-making principles. Your mental model.
+    * 6) What's next and when it will be done.
+    * 7) Return to explicit ask.
