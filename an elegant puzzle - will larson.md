@@ -1,6 +1,10 @@
 * Gems
   * Each technical team is in one of four states, and there is a durable "system-fix" to implemented for
     progressing to the next, more positive state. Identifying and implementing is the manager's job.
+  * Growth plates vs. stable parts: different parts of the product or business can be in different phases --
+    growing or stable. Execution is most valued in the growing parts -- just capture the obvious growth. In
+    contrast, new innovations and the ability to validate them are most valued in the stable parts, because
+    growth is harder.
 * Intro
   * "As I've become more experienced, my appreciation for management, and engineering management in
     particular, has grown, and I've come to view the field as a series of elegant, rewarding, and important
@@ -116,3 +120,62 @@
     * 5) Decision-making principles. Your mental model.
     * 6) What's next and when it will be done.
     * 7) Return to explicit ask.
+* Approaches (chap 4)
+  * Work the policy, not the exceptions
+    * If everyone has to escalate to management to get optimal treatment, they will. Everything will become an
+      exception. This is very inefficient.
+    * Good policy is opinionated. It's a small strategy.
+    * "The fixed cost of creating and maintaining a policy is high enough that I generally don't recommend
+      writing policies that do little to constrain behavior. In fact, that's a useful definition of bad
+      policy. In such cases, I instead recommend writing norms, which provide nonbinding recommendations.
+      Because they're nonbinding, they don't require escalations to address ambiguities or edge cases."
+  * Exception debt
+    * It can be hard to uphold policy, because it often trades global efficiency for local inefficiency, and
+      no individual cares about global efficiency. If you grant exceptions, they snowball and cause debt.
+  * Work the policy
+    * Treat escalations as reality. Maybe your policy is unrealistic. These are test cases, opportunities for
+      refinement.
+    * Batching escalation handling:
+      * "It's powerful because it creates a release valve for folks who are frustrated with rough edges in
+        your current policies -- they're setill welcome to escalate -- while also esnuring that everyone is
+        operating in a consistent, fair environment; escalations will only be used as inputs for updated
+        policy, not handled in a one-off fashion. The approach also maintains working o npolicy as a leveraged
+        operation for leadership, avoiding the onerous robes of an exceptions judge."
+      * When rolling out policy, declare a time at which point it will (maybe) be updated, given the
+        escalations that have happened.
+  * People over process
+    * In his experience, different process doesn't solve collaboration issues. The problem is the people.
+  * Do the hard thing now
+    * Run towards the problems. They only get harder with postponement.
+  * Think for yourself.
+    * Be a chef. There's only so much you can take from other people's frameworks, because your circumstsances
+      are different.
+  * Managing the growth plates
+    * In the growth plates of a company, execution is most valued: there's a long list of fairly obvious,
+      rewarding ideas. On the stable parts, ideas are more valuable, and the ability to validate them.
+    * Growth plates vs. stable parts: different parts of the product or business can be in different phases --
+      growing or stable. Execution is most valued in the growing parts -- just capture the obvious growth. In
+      contrast, new innovations and the ability to validate them are most valued in the stable parts, because
+      growth is harder.
+    * "The most confusing places to start are midsize, rapidly growing companies. That's because parts of the
+      company are growing quickly, with an emphasis on execution, and other parts have largely stabilized,
+      with ideas becoming the more valued currency. Long bones have grwoth plates at their ends, which is
+      where the growth happens, and the middle doesn't grow." This might be a useful mental model when trying
+      to understand why your behaviors might not be resonating in a new role.
+    * "So often, we make solid executors responsible for slower-growth areas -- we need the innovators in th
+      ehighest growth ones -- but the opposite tends to work better." Because slow-growth areas have already
+      ahd the easy/obvious incremental improvements done by previous executors.
+  * Ways engineering managers get stuck
+    * Optimize locally: picking technologies that the company can't support, or building a product that puts
+      you in competition with another team.
+    * Don't spend time building relationships." It is hard for your team to do the right things and get them
+      out the door without a supportive social network.
+    * Assume that more hiring can solve every problem. "Adding a wonderful person can move the needle, but
+      adding too many people can dilute yoru culture, and lead to people with unclear roles."
+    * Don't trust people enough to delegate. "Many organizations become bottlenecked on approvals, which is a
+      proxy for lack of trust."
+  * Finding managerial scope
+    * Broadly three types of engineering management jobs:
+      * Manager: you manage a team directly
+      * Director: you manage a team of managers
+      * VP: you manage and organization
