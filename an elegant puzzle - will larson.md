@@ -179,3 +179,22 @@
       * Manager: you manage a team directly
       * Director: you manage a team of managers
       * VP: you manage and organization
+    * Optimize for scope rather than org size.
+      * Grow scope through "broad, complex projects"
+      * "As managers... we should really be pursuing scope: not enumerating people but taking responsibility
+        for the success of icnreasingly important and complex facets of the organization. This is where
+        davancing your career can veer away from a zero-sum competition to have hte largest team and evolve
+        into a virtuous cycle of empowering the organization and taking on more ersponsibility."
+      * "There is a lot less competition for hard work."
+      * "You can always find an opportunity to increase your scope and learning, even in a company that
+        doesn't have room for more directors or vice presidents."
+* Culture (chap 5)
+  * Opportunity
+    * "There are workplaces where everyone around you is delightful, the customers are friendly, and you feel
+      respected, but you still return home each night dissatisfied."
+    * This is because opportunity is lacking, interesting projects are rare, and you're unchallenged.
+    * Fairness: basic recommendation is to make the distribution of limited opportunities (like cool projects,
+      leadership, education training) a fair, transparent process.
+  * Membership
+    * Tip: schedule in advance to eat lunch with a different coworker every day.
+    * Blended chats: get two entire teams to go get coffee together.
