@@ -198,3 +198,41 @@
   * Membership
     * Tip: schedule in advance to eat lunch with a different coworker every day.
     * Blended chats: get two entire teams to go get coffee together.
+  * Selecting project leads
+    * Avoid having the same handful of people lead all of the important projects: "I've come to believe that
+      having a wide cohort of coworkers who lead critical projects is one of the most important signifiers of
+      good organizational health."
+    * Otherwise it damages your culture and eventually limits your bandwidth.
+    * How to select project leads: spec the project's scope and time commitments and the selection criteria
+      for selecting a lead; announce it; let people apply; select the person using the criteria; announce that
+      decision.
+    * "The first few times you do this, it will feel constraining and inefficient. Increasingly, though, I
+      believe this is the most important change in my approach to leadership in the past few years. Done well,
+      it can be the cornerstone in your efforts to grow an inclusive organization."
+* Career (chap 6)
+  * Opportunities
+    * Promise change, not necessarily growth. Working on a static team at a rocketship company doesn't
+      necessarily mean high career growth.
+  * Give interviewers a sabbatical so they don't burn out on interviewing. E.g. 1 month of interviewing, then
+    1 month off. Batching.
+  * Recruiting
+    * Recommends eng managers do 1hr a week of cold sourcing, to build empathy with the process and to
+      encourage hands on changes.
+  * Career ladders
+    * Advises being tolerant of career ladder profileration. But only spend time refining a ladder with > 10
+      people on it.
+    * "One method for reducing the fixed cost of maintaining ladders is to establish a template and dshared
+      themes across every ladder."
+    * Ladders tend to get a new level every 2 years.
+    * "Crisp boundareis are important as they provide those on a ladder a useful mental model of where they
+      are in tehir journey, who their peers are, and whom they should view as role models.
+    * Every other activity of performance management builds on the ladders -- they're the foundation -- so
+      they're worth doing well.
+  * Challenges
+    * Class systems: folks often look at new role as less important, framing them as service roles to absorb
+      work they're not interested in. Sometimes roles are even explicitly designed this way, intended to
+      reduce work for another role as opposed to having an empowering mission on their own.
+      * You must be able to frame the role's work without referencing other existing roles in order for it to
+        succeed long-term. Roles should not be framed as support.
+    * Brittle organization: As you move away from generalized roles and toward specialists (to gain
+      efficiency), your organization becomes brittle because it more single points of failure.
