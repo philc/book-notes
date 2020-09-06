@@ -176,3 +176,76 @@
     * They pay 25% of the grwoth in EBITDA of that year out to the current employees.
     * (Seems to me like they give competitive salary and no stock, so their packages are 1/2 of what Google or
       FB will pay.)
+* Benefits who?
+  * "Gotcha benefits": those designed to keep you in the office.
+  * Basecamp's philosophy is to help people get away from work.
+    * Fully paid vacations every year for everyone who's been with the company for more than a year. The whole
+      trip is covered: airfare, hotel accomodations -- up to $5,000 per person or family.
+    * Three-day weekends all summer. May through September we only work 32-hour weeks. This allows everyoen to
+      take Friday off, or Monday off.
+    * 30d paid sabbaticals every three years.
+    * $1K per year continuing-education stipend, to develop *non-work* skills, like cooking. "Encouraging
+      people to do things they've always wanted to do but needed a bit of encouragement and help to actually
+      make happen."
+    * A local monthly CSA share.
+    * Once-a-month massage at an actual spa, not the office.
+* Library rules
+  * Open offices: "such offices are great at one thing: packing in as many people as possible at the expense
+    of the individual."
+  * "When sales or service people, who often need to be loud and jovial on the phone, have to share
+    accommodations with peopel who need long stretches of quiet, you're not only destrying productivity,
+    you're fomenting resentment."
+  * Offices should use "library rules": quiet, focused.
+* No "fakecations" -- encourage full disconnection.
+* The wrong time for real time
+  * "Following group chat at work is like being in an all-day meeting with random participants and no agenda.
+    It's completely exhausting."
+  * If it's an important decision to make, first "write it up", which moves it out of chat.
+  * People will always misuse chat. Chat is only good for urgent communication, handling crises, and 1:1
+    collaboration.
+* "Dreadlines"
+  * Delivery dates should either be flexible, or the scope of what gets delivered should be flexible.
+  * A deadline with a flexible scope invites pushback, compromises, and tradeoffs-- all ingredients in
+    healthy, calm projects. Its' when you try to fix both scope and time that you have a recipe for dread and
+    overwork.
+* Don't be a knee jerk
+  * In-person idea pitches invite interruption and knee jerk reactions.
+  * Instead, write up a complete memo, let everyone read it offline multiple times, and then host a considered
+    discussion.
+* What out for 12-day weeks
+  * Don't routinely ship on a Friday and then have to work weekends because you're monitoring and bugfixing
+    the release.
+* Bad habits beat good intentions
+  * "If we had started by hiring a bunch of people we didn't need in the beginning, we would have continued to
+    hire a bunch more people we don't need today. Instead, we hire when it hurts. Slowly, and only after we
+    clearly need someone. Not in anticipation of possibly maybe."
+* Narrow as you go
+  * Commit to an idea, see it through, make it happen. You can always go back later, but only if you actually
+    finish.
+  * "It's not that new approaches or ideas are bad, but their timing may well be. Always keeping the door open
+    to radical changes only invites chaos and second-guessing. Confidently close that door. Accept that better
+    ideas aren't necessarily better if they arrive after the train has left the setation. If they're so good,
+    they can catch the next one."
+* Worsot practices
+  * Be careful about taking popular wisdom without critical consideration.
+  * "Best practices" is a powerful, blunt label. It's hard to question ideas published with this label, and so
+    people blindly follow them.
+* Have less to do
+  * "Too much shit to do" is usually the root problem, and people try to solve it with productivity hacks.
+  * Say no is the only way to claw back time. It's obligation elimnation. Every other time saving hack is
+    snake oil.
+  * "At Basecamp we've become ruthless about eliminating either work that doesn't need to be done or work we
+    don't want to do."
+    * They stopped accepting payment by check early on. They let go of that non-trivial revenue because they didn't
+      want the work of processing paper checks to be on anyone's plate.
+* Three's company
+  * A team of three is their magic number. It's often 1 designer, two programmers.
+  * "we don't throw more people at problems, we chop problems down until they can be carried across the finish
+    line by teams of three."
+  * "What if there are five departments involved in a project or decision? There aren't." We intentionally
+    don't work on projects requiring that level of coordination.
+  * Benefits:
+    * With three people, scheduling is easy.
+    * Having such a small team tempers your ambition and keeps you honest.
+    * Three is a sharp wedge. "The problem with four is that you almost always need to add a fifth to manage
+      the the team."
