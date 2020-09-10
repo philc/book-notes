@@ -249,3 +249,10 @@
     * Having such a small team tempers your ambition and keeps you honest.
     * Three is a sharp wedge. "The problem with four is that you almost always need to add a fifth to manage
       the the team."
+* Season's greetings
+  * They "celebrate the summer months" by cutting out a workday each week. Part of the reason why is that
+    otherwise, work isn't seasonal and becomes monotonous.
+  * They use the summer months to tackle lighter projects.
+  * Their CSA box perk also acknowledges the seasons, since the ingredients change every quarter.
+* Calm's in the black
+  * Until you're profitable, you're racing the runway.
