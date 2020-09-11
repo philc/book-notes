@@ -12,7 +12,26 @@
   * What you want is the "oblivious joy of focus." Not to be in touch, not to be constantly reprioritizing
     your work to ensure it's maximally relevant and aligned.
   * "The best companies aren't families. They're supporters of families."
-* It's crazy t work
+  * At Basecamp, "we don't have imperial ambitions." It's about growing the pie and customer happiness, not
+    taking market share from the competition.
+  * On roadmaps: there is no one year plan. It's bullshit. Using a 6 week horizon lets you change your mind
+    often; "it's a huge relief."
+  * Setting company goals, OKRs: "It's hard enough to build a long-lasting sustainable business with happy
+    employees. So why impose some arbitrary number to loom over your job, salary, bonus, and kid's college
+    fund?"
+  * "The joy of missing out": don't think you can know everything that's going on at the company. Instead,
+    prioritize the oblivious joy of focus.
+  * "Best practices" is a powerful, blunt label. It's hard to question ideas published with this label, and so
+    people blindly follow them.
+  * "We don't throw more people at problems, we chop problems down until they can be carried across the finish
+    line by teams of three."
+  * They "celebrate the summer months" by cutting out a workday each week. Part of the reason why is that
+    otherwise, work isn't seasonal and becomes monotonous.
+  * "As we continued to hear fellow entrepreneurs reminiscing about the good old days, the more we kept
+    thinking, 'Why didn't they just grow slower and stay closer to the size they enjoyed the most?'" We
+    decided that if the good old days were so good, we'd do our best to simply settle there, and grow headcount
+    very slowly.
+* It's crazy at work
   * 1) the workday is being sliced into tiny, fleeting work moments by an onslaught of distractions.
   * 2) An unhealthy obsession with growth at any cost sets towering, unrealistic expectations that stress
     people out.
@@ -21,6 +40,8 @@
   * "The answer isn't more hours, it's less bullshit. Less waste, not more production. And far fewer
     distractions, less always-on anxiety, and avoiding stress."
   * "It's time to give people the uninterrupted time that great work demands."
+  * Relieve people from the conveyor belts of information and give them the focus that their best work
+    requires.
   * "Calm company"
     * This is their goal for Basecamp. There's no ego-driven goals.
   * "The modern workplace is sick. Chaos should not be the natural state at work. Anxiety isn't a prerequisite
@@ -28,7 +49,7 @@
     --side effects of broken models."
   * "Calm is more independence, less interdependence."
 * Your company is a product
-  * Your company is the thing that makes those products. That's why your company should be your best product."
+  * "Your company is the thing that makes your products. That's why your company should be your best product."
   * Companies should be malleable, to afford iteration, just like we try to make our products and our eng
     systems malleable.
   * A company is like software. It has to be usable. It has bugs, places where the company crashes because of
@@ -38,7 +59,7 @@
   * It's also just bad advice. You're not very likely to find that key insight or breakthrough idea north of
     the 14th hour in the day. Creativity, progress, and impact do not yield to brute force.
 * Happy pacifists
-  * Business literate is about fighting and dominating. It leads to zero-sum thinking.
+  * Business literature is about fighting and dominating. It leads to zero-sum thinking.
   * At Basecamp, "we don't have imperial ambitions."
   * "What's our market share? Don't know, don't care. It's irrelevant. Do we have enough customers paying us
     enough money to cover our costs and generate a profit? Yes. Is that number increasing every year? Yes.
@@ -55,12 +76,12 @@
   * "There are four quarters to a year. Forty to a decade. Every one of them has to produce, exceed, and beat
     EXPECTATIONS." (He assumes all numbers that get put into goals are arbitrary).
   * It's hard enough to build a long-lasting sustainable business with happy employees. So why impose some
-    arbitrary number to loom over your ob, salary, bonus, and kid's college fund?
-  * How about no targets, no goals?
-  * "if you must have a goal, how about just staying in business? Or serving your customers well? or being a
+    arbitrary number to loom over your job, salary, bonus, and kid's college fund?
+  * How about this: no targets, no goals?
+  * "If you must have a goal, how about just staying in business? Or serving your customers well? Or being a
     delightful place to work?"
-    * I.e. goals which are already aligned with what you want to do, but which aren't quantified and don't
-      have any teeth.
+    * I.e. using goals which are already aligned with what you want to do, but which aren't quantified and
+      don't have any teeth.
 * Don't change the world
   * Founders are infatuated with disruption. Aiming for a regular impact lifts burden off of your shoulders,
     letting you be satisfied with normal work efforts.
@@ -84,7 +105,7 @@
   * If you can't fit everything you want to do within 40 hours per week, you need to get better at picking
     what to do.
 * Protectionism
-  * On financial controls, beaureacracy, and heavyweight process
+  * On financial controls, bureaucracy, and heavyweight process
     * They guard so many things, but all too often they fail to protect what's both most vulnerable and most
       precious: their employees' time and attention.
   * Time and attention are best spent in large bills, if you will, not spare coins and small change.
@@ -98,14 +119,14 @@
   * Assertion: nobody is successful just because they put in more time than the next person. It was something
     else: luck, smarter technique, ...
 * Office hours
-  * Work doesn't happen at work any more. THe ideal places that work really gets done are any kind of
+  * Work doesn't happen at work any more. The ideal places that work really gets done are any kind of
     interruption-free zone.
   * On pinging experts
-    * THe person with the question needed something and they go tit. THe person with the answer was doing
+    * The person with the question needed something and they got it. The person with the answer was doing
       something else and had to stop. That's rarely a fair trade.
-    * It ragments the expert's workday. It's the productivity curse of being an expert. Control this
+    * It fragments the expert's workday. It's the productivity curse of being an expert. Control this
       productivity loss by containing it within office hours.
-  * While office hours increase latency of help, it often can wait. And it's a model that explicitly aligns
+  * While office hours increase latency of help, it can often wait. And it's a model that explicitly aligns
     with a calm work environment.
 * Calendar Tetris
   * At Basecamp, all calendars are private, which makes it much higher friction to get on someone's calendar.
@@ -126,11 +147,11 @@
 * FOMO? JOMO!
   * "Fuck that. People should be missing out! Most people should miss out on most things most of the time.
     That's we try to encourage at Basecamp JOMO -- the joy of missing out."
-  * "It's JOMO that lets you turn off the firehose of informationa nd chatter and interruptions to actually
+  * "It's JOMO that lets you turn off the firehose of information and chatter and interruptions to actually
     get the right shit done."
   * It's a fool's errand to think you can know everything that's going on at the company.
-  * The solution for status? Monthly snippets, writen by the tech lead, distilled and curated to be broad
-    appeal and useful.
+  * The solution for status updates? Monthly snippets, written by the tech lead, distilled and curated to be
+    broad appeal and useful.
   * It's "the oblivious joy of focus."
 * We're not family
   * Calling a company a family is manipulation to the employees.
@@ -154,7 +175,7 @@
     Forget the resume; who knows which part of the nike.come redesign they actually did. This gives more
     people a chance, and it avoids hiring an imaginary person.
 * Ignore the talent war
-  * "Talent isn't worth fighting over. It's not a fixed, scarce rseource that either you have or you don't. It
+  * "Talent isn't worth fighting over. It's not a fixed, scarce resource that either you have or you don't. It
     rarely even transplants all that well. Someone who's a superstar at one company often turns out to be
     completely ineffectual at another. Don't go to war over talent." Instead, get it through growing and
     nurturing.
@@ -173,15 +194,15 @@
     * "We don't pay traditional bonuses at Basecamp, either, so our salaries are benchmarked against other
       companies' salaries plus bonus packages. We used to do bonsues many years ago, but we found that they
       were quickly treated as expected salary, so if they ever dipped, people felt like they got a demotion."
-    * They pay 25% of the grwoth in EBITDA of that year out to the current employees.
+    * They pay 25% of the growth in EBITDA of that year out to the current employees.
     * (Seems to me like they give competitive salary and no stock, so their packages are 1/2 of what Google or
       FB will pay.)
 * Benefits who?
   * "Gotcha benefits": those designed to keep you in the office.
   * Basecamp's philosophy is to help people get away from work.
     * Fully paid vacations every year for everyone who's been with the company for more than a year. The whole
-      trip is covered: airfare, hotel accomodations -- up to $5,000 per person or family.
-    * Three-day weekends all summer. May through September we only work 32-hour weeks. This allows everyoen to
+      trip is covered: airfare, hotel accommodations -- up to $5,000 per person or family.
+    * Three-day weekends all summer. May through September we only work 32-hour weeks. This allows everyone to
       take Friday off, or Monday off.
     * 30d paid sabbaticals every three years.
     * $1K per year continuing-education stipend, to develop *non-work* skills, like cooking. "Encouraging
@@ -193,7 +214,7 @@
   * Open offices: "such offices are great at one thing: packing in as many people as possible at the expense
     of the individual."
   * "When sales or service people, who often need to be loud and jovial on the phone, have to share
-    accommodations with peopel who need long stretches of quiet, you're not only destrying productivity,
+    accommodations with people who need long stretches of quiet, you're not only destroying productivity,
     you're fomenting resentment."
   * Offices should use "library rules": quiet, focused.
 * No "fakecations" -- encourage full disconnection.
@@ -212,7 +233,7 @@
   * In-person idea pitches invite interruption and knee jerk reactions.
   * Instead, write up a complete memo, let everyone read it offline multiple times, and then host a considered
     discussion.
-* What out for 12-day weeks
+* Watch out for 12-day weeks
   * Don't routinely ship on a Friday and then have to work weekends because you're monitoring and bugfixing
     the release.
 * Bad habits beat good intentions
@@ -220,27 +241,27 @@
     hire a bunch more people we don't need today. Instead, we hire when it hurts. Slowly, and only after we
     clearly need someone. Not in anticipation of possibly maybe."
 * Narrow as you go
-  * Commit to an idea, see it through, make it happen. You can always go back later, but only if you actually
-    finish.
+  * Commit to an idea, see it through, make it happen. You can always go back to revise and improve it later,
+    but only if you actually finish.
   * "It's not that new approaches or ideas are bad, but their timing may well be. Always keeping the door open
     to radical changes only invites chaos and second-guessing. Confidently close that door. Accept that better
-    ideas aren't necessarily better if they arrive after the train has left the setation. If they're so good,
+    ideas aren't necessarily better if they arrive after the train has left the station. If they're so good,
     they can catch the next one."
-* Worsot practices
+* Worst practices
   * Be careful about taking popular wisdom without critical consideration.
   * "Best practices" is a powerful, blunt label. It's hard to question ideas published with this label, and so
     people blindly follow them.
 * Have less to do
   * "Too much shit to do" is usually the root problem, and people try to solve it with productivity hacks.
-  * Say no is the only way to claw back time. It's obligation elimnation. Every other time saving hack is
+  * Saying no is the only way to claw back time. It's obligation elimination. Every other time saving hack is
     snake oil.
   * "At Basecamp we've become ruthless about eliminating either work that doesn't need to be done or work we
     don't want to do."
-    * They stopped accepting payment by check early on. They let go of that non-trivial revenue because they didn't
-      want the work of processing paper checks to be on anyone's plate.
+    * They stopped accepting payment by check early on. They let go of that non-trivial revenue because they
+      didn't want the work of processing paper checks to be on anyone's plate.
 * Three's company
-  * A team of three is their magic number. It's often 1 designer, two programmers.
-  * "we don't throw more people at problems, we chop problems down until they can be carried across the finish
+  * A team of three is their magic number. It's often one designer, two programmers.
+  * "We don't throw more people at problems, we chop problems down until they can be carried across the finish
     line by teams of three."
   * "What if there are five departments involved in a project or decision? There aren't." We intentionally
     don't work on projects requiring that level of coordination.
@@ -256,3 +277,34 @@
   * Their CSA box perk also acknowledges the seasons, since the ingredients change every quarter.
 * Calm's in the black
   * Until you're profitable, you're racing the runway.
+* Priced to lose
+  * Basecamp uses flat pricing, no matter the size of the customer. There's no "per seat" pricing model. The
+    reason for this is they don't want to deal with outsized customers having influence over them, and don't
+    want to worry about revenue concentration.
+    * (This is crazy. They must be giving up some much potential revenue. This is an SMB strategy).
+  * On principle, they want to help small businesses, not the fortune 500. Those companies are already big
+    enough.
+  * "This leaves us free to make software for ourselves and on behalf of a broad base of customers, not at the
+    behest of any single one or a privileged few. It's a lot easier to do the right thing for the many when
+    you don't fear displeasing a few super customers."
+  * "Key account managers. Sales meetings. Schmoozing. The enterprise sales playbook is well established and
+    repulsive to us."
+  * They don't want to split their culture and team in half, with one part focused on big enterprise and the
+    other on small businesses.
+    * "Becoming a calm company is all about making decisions about who you are, who you want to serve, and who
+      you want to say no to. It's about knowing what to optimize for. It's not that any particular choice is
+      the right one, but not making one or dithering is definitely the wrong one."
+* Promise not to promise
+  * "We've always wanted customers to judge the product they could buy and use today, not some imaginary
+    version that might exist in the future."
+  * Says beware of roadmaps of any kind, and of saying "yes, but later" to stakeholders and customers. both
+    lead to expectations and stress managing those expectations.
+* They continue to operate three separate versions of Basecamp, and don't plan to ever migrate those customers
+  to later versions. Most customers don't care about the new UI they've added, and don't want their workflows
+  changed.
+* The good old days
+  * "As we continued to hear fellow entrepreneurs reminiscing about the good old days, the more we kept
+    thinking, 'Why didn't they just grow slower and stay closer to the size they enjoyed the most?'"
+  * "We decided that if the good old days were so good, we'd do our best to simply settle there. Maintain a
+    sustainable, manageable size. We'd still grow, but slowly and in control. We'd stay in the good days -- no
+    need to call them old anymore."
