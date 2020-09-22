@@ -41,15 +41,16 @@
     * It's much more helpful than someone with weak boundaries
       who then later copes with withdraw and resentment.
 
-* Chapter 2 parenting philosophies
-  * If you're trying to diligently follow some big parenting philosophy, you can miss the kid in front of you.
+* Parenting philosophies (chap 2)
+  * If you're trying to diligently follow some big popular parenting philosophy, you can miss the kid in front
+    of you.
   * Attachment theory
     * The outcome you're looking for in this framework is that your kid feels attached and secure; bonded.
       They can play independently in confidence.
   * If a philosophy is not working for the family as a whole (like co-sleeping) then it's not working and
     shouldn't be forced.
-  * Life shouldn't be about the kid. It isolates them from others and the community. As a counter example,
-    wearing kids in a carrier is good, because you can act as you normally would, and they get to participate.
+  * Life shouldn't be about the kid. It isolates them from others and the community. In contrast, wearing kids
+    in a carrier is good because you can act as you normally would, and they still get to participate.
   * "My child won't let me X" should never be a lament . E.g. "won't let me focus, talk on the phone, work
     out." (what was her recommendation here?)
   * A parent who is emotionally volatile is not providing safety for their kids. Kids want boring
@@ -59,42 +60,48 @@
     * Authoritative: more pragmatic, balanced, respecting both the child and parent.
     * Permissive: avoid confrontation and discipline. Let the kid figure it out. Assume they have the
       capability.
-      * "Govern, garden, guiding is a beautiful framework. It builds on itself. You don't want to be stuck
-        governing during the kid's later years, when they're blossoming."
+      * "Govern, garden, guide is a beautiful framework. Each stage builds on the previous. You don't want to
+        be stuck governing during the kid's later years, when they're blossoming."
     * If you're guiding your preschooler, you're being too permissive. They don't want to be guided. They want
       boundaries and governance.
 
-* Chapter 3 connection
-  * True connection. Not just being there together. It's the name of the game.
-  * Seeing the person, being present, loving them for who they are.
-  * Cruising through bed time, or not engaging when your kid wants to show you something, is a form of
-    disconnection.
-  * Rewatching usually isn't connecting. Just have fun and okay.
-  * Engaged rewarding. Bedtime reading usually less so because it's late and we're setting up barriers as you
-    go.
-  * Having them help with chores, cooking.
-  * Connection activities fill your cup too because you feel like a great parent.
-  * Multitasking is not connecting. Engage with your child for some concentrated time.
-  * Kids need slow transitions. Consider packing their schedule less.
-  * People will forget what you've said and dod, but will never forget how you made them feel.
-  * "Uh huh" parenting is unconnected.
+* Connection (chap 3)
+  * True connection is what it's about. Not just being in the same room together.
+    * Seeing the person, being present, loving them for who they are.
+  * Connecting
+    * Have them help with chores, cooking.
+    * We expect bedtime reading to be connecting, but often we make it disconnecting, because it's late and
+      we're setting up barriers as you go.
+      * (But we have to set boundaries, so how to balance the two?)
+  * Disconnecting
+    * "Uh huh" parenting (when your kid is trying to tell you something)
+    * Multitasking. Engage with your child for some concentrated time.
+    * Cruising through bed time or not engaging when your kid wants to show you something is a form of
+      disconnection.
+  * Connecting activities fill your cup too because you feel like a great parent.
+  * Kids need slow transitions. Consider packing their schedule less, so you can be focused on the time with
+    them, and who they are, rather than being focused on shuttling them between activities.
+  * People will forget what you've said and do, but will never forget how you made them feel.
 
-* Chapter 4 parents self care
-  * Teach your kids the lesson of self care by demonstrating it. Connection trickles down from a healthy
-    individual, to family, to kids.
-  * Hour when the working parent gets home is when both parents need a break to transition from childcare or
-    from a hard day at work. Have a nanny bathe the kids at that time so you can get a break. Go for a walk or
-    play video games. Or exercise.
+* Self care for parents (chap 4)
+  * Teach your kids the lesson of self care by demonstrating it yourself. Connection trickles down from a
+    healthy individual, to family, to kids.
+  * The hour when one of the working parents gets home is actually when both parents need a break to
+    successfully transition from childcare or from a hard day at work into connecting time as a family.
+    * Consider having a nanny bathe the kids at that time, so you can get a break. Go for a walk or play video
+      games, or exercise.
 
-* Chapter 5 not enough time
-  * Pareto principle: 80% of your results come from 20% of your time. Find the lower roi time and cut it,
-    given you're time scarce.
-  * Pick 3 big stones that you want done that day and week, and generally in your life. Focus on those. Those
-    priorities shift all the time; don't focus on the smaller stuff.
-  * Staying up too late is "fake productivity." Day t feels like you're being with yourself and it's self
-    care, but it's ultimately draining.
-  * Pick up toys, clean the kitchen, once a day. Interim cleanliness afford you no value.
-  * Chunk time. Communicate in chunks. Email batch once a day; texts also. Airplane mode otherwise.
+* Not enough time (chap 5)
+  * Pareto principle: 80% of your results come from 20% of your time. Find the lower ROI time and cut it,
+    given you're time is scarce.
+  * Pick 3 big "stones" that you want to pack into your day and week (or year). Focus on those, use them as
+    anchors. Those priorities don't shift. Don't focus on the smaller stuff.
+  * Staying up too late is "fake productivity." It feels like you're being with yourself and that it's self
+    care, but it's ultimately draining, because you're tired during that time, and it makes you tired for the
+    next day.
+  * Pick up toys, clean the kitchen, once a day. Interim cleanliness affords you no value.
+  * Chunk time. Communicate in chunks. Email batch once a day; texts also. Consider putting your phone in
+    airplane mode otherwise.
 
 * Chapter 6 parental anxiety
   * Don't get lost in the research of how to raise your child. They move on every day and you'll lose a lot of
