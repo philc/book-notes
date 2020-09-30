@@ -315,3 +315,70 @@
   * Acceptance
     * Pursuit of calm: aiming to be calmer this year than in years past. Accepting that there will be many
       periods where we are not calm.
+* Getting together (chap 7)
+  * Romanticism: "a disaster for love and relationships."
+    * "Our strongest cultural voices have, to our huge cost, given us a very unhelpful script to apply to a
+      hugely tricky task."
+  * Myths of romanticism
+    * Love will be just as strong 20 years later, after kids.
+      * "It's deeply hopeful about marriage. It tells us that marriage could combine all the excitement of a
+        love affair with all the advantages of a settled and practical union."
+    * Sex was made the pinnacle expression of love, coupling the two.
+    * Our partner will understand us intuitively
+    * Intuition beats analysis
+    * "True love accepts the other person for who they are."
+    * We don't need an education in love
+      * "We don't need an education to become a lover --we will pick that up along the way, by following our
+        feelings."
+    * "We should have no secrets and spend constant time together (work shouldn't get in the way)."
+  * "Classic" framework of love
+    * Realizing that we are rather flawed, and our partner is too, is of huge benefit to a couple in
+      increasing the amount of tolerance and generosity in circulation
+    * we need to make immense and often rather artificial-sounding efforts to understand one another because
+      intuition will never be enough
+  * Realize that each of us "is a hellish proposition"
+    * "We are necessarily going to bring an awesome amount of trouble into someone's life.
+  * The hellishness of others
+    * Success hinges on how we interpret the reasons behind their repeated failings.
+    * (The author provides some charitable interpretations of bad behavior, often stemming from the spouse's
+      childhood, which seem to me too convenient and quaint to be credible...)
+    * Our existing partner is disadvantaged by their incumbency; we know their flaws well. A stranger is
+      alluring because we're ignorant about them. But the stranger is hellish, just like our partner.
+  * The longing for reassurance
+    * Argues that the fear of rejection persists daily through long relationships. It's not just the
+      beginning. Any minor withdraw or tiff can trigger it.
+    * When we deny our own fear of rejection, frequently one becomes either avoidant or controlling.
+    * Says avoidant coping is learned as a child, when we tried to be close but got rejected or humiliated.
+      * "We grow suspicious, frantic, and easily furious in the face of the ambiguous moments of love."
+    * Anxious: our touching concern for connection unfortunately manifests as an attack.
+    * People are afraid to ask "do you still care?"
+      * "We force them to show us their commitment by putting them through an obstacle course of
+        administrative chores. We get very angry rather than admit, with serenity, that we're worried. We ward
+        off our vulnerability by denigrating the person who eludes us.
+    * "We should uncouple the admission of need from any associations with the unfortunate and punitive term
+      "neediness." We must get better at seeing the love and longing that lurk behind some of our and our
+      partner's most cold, stern, or managerial moments." (sounds difficult)
+  * Partner-as-child; the "infant model of interpretation"
+    * With children, we forgive their obnoxious, hurtful behavior because we don't assign mean intentions to
+      kids. We have benevolent explanations for their behavior.
+    * Consider doing the same with adults.
+      * "It's very touching that we live in a world where we have learned to be so kind to children; it would
+        be even nicer if we learned to be a little more generous toward the childlike parts of one another."
+      * Everyone is generally very good at loving little children. Argues that parts of adults will always
+        remain childish, because they're tied to how the person was a a kid. And this is the case with all
+        adults.
+    * (This theory is helpful; I could see how it would soften my interpretations. But how far can one take
+      it, really? Do you want as your partner, someone who manifests emotionally as a 3 year old? How do you
+      collaborate and problem-solve?
+    * "The problem with adults is that they look misleadingly adult."
+  * For the ancient Greeks, love is to adore someone's positive traits. For the negative traits, help educate
+    them out of them.
+    * "Good teachers know that timing is critical."
+    * Nagging is an attempt to education.
+      * "Lamentably, it doesn't work. Nagging breeds its evil twin, shirking. The other pretends to read the
+        paper, goes upstairs and feels righteous. The shrillness of one's tone gives them all the excuse they
+        need to trust that we have nothing kind or true to tell them."
+      * "We nag because we feel that our possession of the truth lets us off having to convey it elegantly. It
+        never does. The solution to nagging isn't to give up trying to get others to do what we want. Rather,
+        it is to recognize that persuasion always needs to be couched in terms that make intuitive sense to
+        those we want to alter."
