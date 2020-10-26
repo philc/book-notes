@@ -1,9 +1,13 @@
 * Gems
   * The solution to our relationship agitation is pessimism: lower our expectations. "Every human can be
-      guaranteed to frustrate, anger, annoy, madden, and disappoint us -- and we will (without any malice) do
-      the same to them."
+    guaranteed to frustrate, anger, annoy, madden, and disappoint us -- and we will (without any malice) do
+    the same to them."
     * The lower the expectations of relationships, sex, work, children, politics, the greater our satisfaction
       in the actual outcomes.
+  * "In many areas of life, we observe a strange, unexpected phenomenon: a prejudice in favor of
+    abstruseness, density, enigma, and the esoteric. Our respect for explanations that come close to
+    incomprehensible, that provoke puzzlement, that employ uncommon words suggests an implicit belief that
+    the truth should not come in a form that is easily fathomable." (yes, curious)
   * Being a "generous onlooker", interpreter
     * Even when they do not know any of the details, generous onlookers must make a stab at picturing the
       overall structure of what might have happened to the wretched being before them. They must guess that
@@ -22,6 +26,19 @@
       adjust as best they can to reality. By administering a sharp, clean blow, the diplomatic person kills
       off the torture of hope, accepting the frustration that is likely to come their way: the diplomat is
       kind enough to let themselves sometimes be the target of hate."
+  * Vulnerability
+    * Failure is what makes friends. Not winning. Hearing about the failure, what we're sad about, that we're
+      lonely, how we're being embarrassed. It's endearing.
+      * (But what about demonstrating strength? Vulnerability, without power, is warm but irrelevant).
+    * By being vulnerable, you're offering up the valuable opportunity for others to hurt and humiliate you.
+      * "Friendship is the dividend of gratitude that flows from an acknowledgment that one has offered
+        something very valuable by talking."
+  * Friendship
+    * "Friendships cannot develop until one side takes a risk and shows they are ready to like even when
+      there's as yet no evidence that they are liked back."
+    * "We should stop worrying quite so much whether or not people like us, and make that far more interesting
+      and socially useful move: concentrate on showing that we like them."
+
   * A need to be alone
     * "At a certain point, we have had enough of conversations that take us away from our own thought
       processes, enough of external demands that stop us heeding our inner tremors, enough of the pressure for
@@ -31,6 +48,16 @@
       processed, full of original opinions.
   * The cure for unrequited love is more knowledge, so that they cease to look like the ultimate love for
     us. More knowledge will "set you free."
+  * Partner-as-child; the "infant model of interpretation"
+    * With children, we forgive their obnoxious, hurtful behavior because we don't assign mean intentions to
+      kids. We have benevolent explanations for their behavior.
+    * Consider doing the same with adults.
+      * "It's very touching that we live in a world where we have learned to be so kind to children; it would
+        be even nicer if we learned to be a little more generous toward the childlike parts of one another."
+      * Everyone is generally very good at loving little children. Argues that parts of adults will always
+        remain childish, because they're tied to how the person was a a kid. And this is the case with all
+        adults.
+    * "The problem with adults is that they look misleadingly adult."
   * "It was meant to be nicer:" as children we were cherished. In marriage, that tends to wear off quickly and
      our partner isn't all that interested in the details of our lives and feelings. So don't judge our
      marital care against how we were treated as kids.
@@ -324,8 +351,8 @@
     * "They don't, as most people do, interrupt to intrude their own ideas; they interrupt to help the other
       get back to their original, more sincere yet elusive concerns."
   * Social catastrophe
-    * In recovering from severe faux pas, wonders whether we should just shut up and accept the failure,
-      rather than profusely apologizing, justifying, or back-pedaling.
+    * In recovering from severe faux pas, the author wonders whether we should just shut up and accept the
+      failure, rather than profusely apologizing, justifying, or back-pedaling.
 * Calm (chap 6)
   * Pessimism: a tool to improve satisfaction. The lower the expectations of relationships, sex, work,
     children, politics, the greater our satisfaction in the actual outcomes.
@@ -339,7 +366,7 @@
       processed, full of original opinions.
   * The importance of staring out the window
     * A period of purpose-free calm, where the birds in our mind, the ones that help constitute our identity,
-      can land and be considered. Not celebrated in a productivity-obsessed culture.
+      can land and be considered. This activity is not celebrated in a productivity-obsessed culture.
   * Nature
     * Watching a sunset after a hectic work day
       * "At this moment, nature seems to be sending us a humbling message: the incidents of our lives are not
@@ -348,7 +375,7 @@
     * The scene of a desert, where nothing changes day to day, and changes take centuries. Our lives come and
       go and mean little on such time scales.
     * "A central task of culture should be to remind us that the laws of nature apply to us as well as to
-      trees, clouds, and cliff face.s Our goal is to get clearer about where our own tantalizingly powerful
+      trees, clouds, and cliff faces. Our goal is to get clearer about where our own tantalizingly powerful
       yet always limited agency stops: where we will be left with no option but to bow to forces infinitely
       greater than our own."
   * Acceptance
@@ -367,13 +394,13 @@
     * Intuition beats analysis
     * "True love accepts the other person for who they are."
     * We don't need an education in love
-      * "We don't need an education to become a lover --we will pick that up along the way, by following our
+      * "We don't need an education to become a lover -- we will pick that up along the way, by following our
         feelings."
     * "We should have no secrets and spend constant time together (work shouldn't get in the way)."
   * "Classic" framework of love
     * Realizing that we are rather flawed, and our partner is too, is of huge benefit to a couple in
       increasing the amount of tolerance and generosity in circulation
-    * we need to make immense and often rather artificial-sounding efforts to understand one another because
+    * We need to make immense and often rather artificial-sounding efforts to understand one another because
       intuition will never be enough
   * Realize that each of us "is a hellish proposition"
     * "We are necessarily going to bring an awesome amount of trouble into someone's life.
@@ -423,7 +450,8 @@
         those we want to alter."
 * Dealing with problems (chap 9)
   * An average couple will have between thirty and fifty significant arguments a year.
-  * We assume our relationship is the exception, and that everyone else isn't haing frequent severe arguments.
+  * We assume our relationship is the exception, and that everyone else isn't having frequent severe
+    arguments.
   * "The tragedy of every sorry argument is that it is constructed around a horrific mismatch between the
     message we so badly want to send ('I need you to love me, know me, agree with me') and the manner in which
     we are able to deliver it (with impatient accusations, sulks, put-downs, sarcasm, exaggerated
@@ -435,14 +463,13 @@
     * The interminable argument: Arguments about disagreeing opinions on things, which are actually about "you
       don't respect my intelligence."
     * The defensive argument
-      * People don't change when they are told gleefully by their partner what is wrong
-        with them.
+      * People don't change when they are told gleefully by their partner what is wrong with them.
       * Regarding "winning" arguments: "this is fundamentally to misunderstand the point of relationships,
         which is not so much to defeat an opponent as to help each other evolve into the best versions of
         ourselves" -- the mistaken belief that "whoever is right should win the argument".
     * Spoiling argument: spoiling the cheery mood of the other partner so they can be on the same gloomy level
-      as us. Doesn't work. Once their cheery afternoon is spoiled, they will resent you rather than connect with
-      you.
+      as us. Doesn't work. Once their cheery afternoon is spoiled, they will resent you rather than connect
+      with you.
     * Absentee argument: the partner becomes a sink for every large disappointment in our lives, like a
       plateauing career, jealousy over the success of our old college friends, declining health.
       * The author argues that this is a marked cry for love and help. (really...?)
@@ -485,8 +512,9 @@
     certainly shouldn't be labeled as "cowardice."
     * "Wiser societies would be careful never to stigmatize the act of compromise. It is painful enough to
       have to do it; it is even more painful to have to hate oneself for having done so."
+    * (Sounds woefully depressing and defeatist)
   * A modest argument for marriage
-    * It's a good that the institution makes it hard to "throw in the towel."
+    * It's good that the institution makes it hard to "throw in the towel."
     * Marriage acts as a formal obstacle to make one's impulses less dangerous.
       * "We don't need a marriage certificate to show affection and admiration. And indeed, forcing commitment
         only increases the danger of eventual inauthenticity and dishonesty. If love doesn't work out, being
@@ -495,9 +523,9 @@
       * "We deliberately invite an elderly aunt or uncle whom we don't even like much to fly around the world
         to be there. We are willingly creating a huge layer of embarrassment were we ever to turn round and
         admit it might have been a mistake."
-    * Long relationships allows for gradual self-development: "It's too easy to seem kind and normal when we keep
-      starting new relationships." But true self-improvement can only come when considering others' views of
-      us over long periods of time.
+    * Long relationships allows for gradual self-development: "It's too easy to seem kind and normal when we
+      keep starting new relationships." But true self-improvement can only come when considering others' views
+      of us over long periods of time.
     * Some types of investments require security. Like having children, giving up one's career.
 * Work (chap 10)
   * All important, ambitious efforts cause some enemies.
@@ -519,16 +547,16 @@
     * "The real crisis of capitalism is that product development lags so far behind the best insights of
       advertising. Since the 1960s, advertising has worked out just how much we need help with the true
       challenges of life."
-    * A lifestyle ad campaign can make you long for lost memories, like the sweet times past of rolling around
-      on the carpet with the kids, but can't deliver any solutions for you. A watchmaker cannot create for us
-      a beautiful father-son relationship.
+    * A lifestyle ad campaign can make you long for lost moments, like the sweet times past of rolling around
+      on the carpet with your young kids, but can't deliver any solutions for you. A watchmaker cannot create
+      for us a beautiful father-son relationship.
     * Businesses target only the lower needs of Maslov's pyramid. "We have simply accepted... that there is
-      nothing business can do to address them, when in fact, being able to structure businesses around these
-      (higher) needs would be the commercial equivalent of the discovery of steam power or the invention of
-      the electric light bulb."
+      nothing business can do to address [the higher needs], when in fact, being able to structure businesses
+      around these needs would be the commercial equivalent of the discovery of steam power or the invention
+      of the electric light bulb."
       * (The one modern "product" I'm aware of that can help with the higher needs is coaching/therapy;
         coaching for the marriage, parenting, career, lifestyle. It's the productization of wisdom and
-        self-discovery of the more important topics in life."
+        self-discovery of the more important topics in life.)
       * "The challenge now is to narrow the gap between the fantasies being offered and what we truly spend
         our lives doing and our money buying."
   * On society's view of poverty
@@ -539,8 +567,8 @@
       judged. This is not an unimportant piece of progress."
 * Culture (chap 11)
   * (An essay on the differences between classical and romanticism)
-    * Argues Romanticism dominates modern thinking. It has many truths to impart, but must be balanced with
-      Classical thinking.
+    * Romanticism dominates modern thinking. It has many truths to impart, but must be balanced with Classical
+      thinking.
   * "We need to fall silent -- more frequently than we do -- and simply listen."
   * Romanticism: "authenticity is the highest form of morality. Politeness is a lid that we place upon our
     real selves to suppress the truths that could free us."
@@ -581,7 +609,7 @@
     * "Confronted by the many failings of our real-life communities, culture gives us the option of assembling
       a tribe for ourselves, drawing their members across the widest ranges of time and space, blending some
       living friends with some dead authors, architects, musicians, and composers, painters and poets."
-    * What an honor, for one deceased, to be counted a s friend among the future generations of the living.
+    * What an honor, for one deceased, to be counted as a friend among the future generations of the living.
   * "Good enough"
     * Be happy with "good enough." Perfectionism in relationships creates emotional agony. Good enough
       relationships can still have very dark moments.
@@ -592,8 +620,8 @@
   * Elements of wisdom
     * Appreciation
       * "it isn't that they are sentimental and naive; in fact, precisely the opposite. Because they have seen
-        how hard things can get, they know how to draw the full value from the peaceful and the sweet
-        --whenever and wherever these arise."
+        how hard things can get, they know how to draw the full value from the peaceful and the sweet --
+        whenever and wherever these arise."
         * Seeing the charm of a 3 year old playing in a garden.
     * Folly
       * The wise budget for madness in others.
