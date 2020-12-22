@@ -46,6 +46,15 @@
       creativity and character. For example, I could envision ways in which technology would help us get the
       most out of people" (and not become bloated).
     * "I didn't like the alternative of not allowing ourselves to become all we could be."
+  * "Another one of those"
+    * "Whenever something new came along that required me to make a decision, I would reflect on my criteria
+      for making that decision and write it down as a principle so people could make the connections between
+      the situation, my principle for handling these situations, and my actions. More and more, we saw
+      everything as 'another one of those' -- another of a certain type of situation like hiring, firing,
+      determining compensation, dealing with dishonesty -- that had principles for handling them."
+      * Making his decision making about how to run the business into a concrete algorithm, so it was
+        transparent and repeatable. Just like their investment strategy: underlying each principle was an
+        overarching philosophy, which was also written down.
 
 * Other people's notes for review
   * https://inside.bwater.com/publications/principles_excerpt
