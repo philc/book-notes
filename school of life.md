@@ -38,7 +38,6 @@
       there's as yet no evidence that they are liked back."
     * "We should stop worrying quite so much whether or not people like us, and make that far more interesting
       and socially useful move: concentrate on showing that we like them."
-
   * A need to be alone
     * "At a certain point, we have had enough of conversations that take us away from our own thought
       processes, enough of external demands that stop us heeding our inner tremors, enough of the pressure for
@@ -130,6 +129,7 @@
       abstruseness, density, enigma, and the esoteric. Our respect for explanations that come close to
       incomprehensible, that provoke puzzlement, that employ uncommon words suggests an implicit belief that
       the truth should not come in a form that is easily fathomable." (yes, curious)
+
 * Knowing the past (chap 2)
   * No one passes through childhood without incurring deep emotional "primal wounds." Our childhoods are so
     long. It's 20 years before we're classified as adults.
@@ -197,6 +197,7 @@
       * Do we, overall, feel the world to be wide, safe, and reasonable enough for us to have a legitimate
         shot at a measure of contentment, or must we settle, resentfully, for inauthenticity and
         misunderstanding?
+
 * Therapy (chap 3)
   * (A treatise glorifying the use of therapy as an effective tool. Isn't this too rosy?)
   * Psychotherapy is a tool, like a bucket to help you hold water, or a knife to cut.
@@ -242,6 +243,7 @@
     * "One of the great problems of human beings is that we're far too good at keeping going."
     * The big disruptions in "business as usual" shouldn't be censored and treated as scandalous. They're
       clear indicators that things must change, and death of the thing is preferable to the status quo.
+
 * Kindness, meritocracies (chap 4)
   * Being a "generous onlooker", interpreter
     * Even when they do not know any of the details, generous onlookers must make a stab at picturing the
@@ -290,6 +292,7 @@
         adjust as best they can to reality. By administering a sharp, clean blow, the diplomatic person kills
         off the torture of hope, accepting the frustration that is likely to come their way: the diplomat is
         kind enough to let themselves sometimes be the target of hate."
+
 * Charm (chap 5)
   * Shyness
     * This is curable by focusing on the universal identity that we share with everyone. We are not an
@@ -353,6 +356,7 @@
   * Social catastrophe
     * In recovering from severe faux pas, the author wonders whether we should just shut up and accept the
       failure, rather than profusely apologizing, justifying, or back-pedaling.
+
 * Calm (chap 6)
   * Pessimism: a tool to improve satisfaction. The lower the expectations of relationships, sex, work,
     children, politics, the greater our satisfaction in the actual outcomes.
@@ -381,6 +385,7 @@
   * Acceptance
     * Pursuit of calm: aiming to be calmer this year than in years past. Accepting that there will be many
       periods where we are not calm.
+
 * Getting together (chap 7)
   * Romanticism: "a disaster for love and relationships."
     * "Our strongest cultural voices have, to our huge cost, given us a very unhelpful script to apply to a
@@ -448,6 +453,7 @@
         never does. The solution to nagging isn't to give up trying to get others to do what we want. Rather,
         it is to recognize that persuasion always needs to be couched in terms that make intuitive sense to
         those we want to alter."
+
 * Dealing with problems (chap 9)
   * An average couple will have between thirty and fifty significant arguments a year.
   * We assume our relationship is the exception, and that everyone else isn't having frequent severe
@@ -527,6 +533,7 @@
       keep starting new relationships." But true self-improvement can only come when considering others' views
       of us over long periods of time.
     * Some types of investments require security. Like having children, giving up one's career.
+
 * Work (chap 10)
   * All important, ambitious efforts cause some enemies.
     * Being mature involves a frank relationship with one's own darkness, complexity, and ambition. It
@@ -565,6 +572,7 @@
       feel respect for them, and so take the humiliation away from poverty.
     * "An artist like Netscher isn't changing how much the low-paid earn; he is changing how the low-paid are
       judged. This is not an unimportant piece of progress."
+
 * Culture (chap 11)
   * (An essay on the differences between classical and romanticism)
     * Romanticism dominates modern thinking. It has many truths to impart, but must be balanced with Classical

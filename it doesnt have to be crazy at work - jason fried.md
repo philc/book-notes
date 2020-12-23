@@ -172,7 +172,7 @@
   * "We do better work, broader work, and more considered work when the team reflects the diversity of our
     customer base. 'Not exactly what we already have' is a quality in itself."
   * Method: put a project in front of the candidate, pay them $1500, and have them work on it for a week.
-    Forget the resume; who knows which part of the nike.come redesign they actually did. This gives more
+    Forget the resume; who knows which part of the nike.com redesign they actually did. This gives more
     people a chance, and it avoids hiring an imaginary person.
 * Ignore the talent war
   * "Talent isn't worth fighting over. It's not a fixed, scarce resource that either you have or you don't. It
