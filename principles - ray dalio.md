@@ -255,6 +255,51 @@
         develop no matter what, as it will help you develop guardrails that will prevent you from doing what
         you shouldn't be doing." (I haven't been great at this).
 * Use the 5-step process to get what you want out of life (chap 19)
+  * Have clear goals
+    * While you can have virtually anything you want, you can't have everything you want.
+    * "Life is like a giant smorgasbord with more delicious alternatives than you can ever hope to taste."
+    * Desires are typically first-order consequences. Don't confuse goals with desires.
+    * Never rule out a goal because you think it's unattainable. Very few are completely unattainable. They
+      get unlocked with more knowledge.
+    * Remember that great expectations create great capabilities. Larger gaps produce better solutions.
+  * Identify and don't tolerate problems
+    * "View painful problems as potential improvements that are screaming at you."
+    * Each problem you fave is an opportunity. The painful ones are the greatest opportunities.
+    * Don't avoid confronting problems because they are rooted in harsh realities that are unpleasant to look
+      at.
+      * I think he's advising to weed out the emotion of shame if it's preventing you from overcoming your
+        pride, acknowledging poor performance, and troubleshooting.
+    * "Once you identify a problem, don't tolerate it. You need to develop a fierce intolerance of badness of
+      any kind, regardless of its severity."
+      * Well said. This is the emotion that's triggered in me when I see bugs, see our system fall down, or a
+        debugging workflow is harder than it should be.
+      * I could use this framing a lot more in my life. "Why don't I have an efficient go-to healthy snack?
+        I've gone long enough without it."
+  * Diagnose problems to get at their root causes
+    * Problem-solvers jump right to solution brainstorming once a problem is identified. Instead,
+      diagnose/analyze it for 15m. Flesh out the picture of the problem, so you can see and eliminate the root
+      causes and become equipped to think strategically.
+  * Design a plan that will get you around the problems
+    * Think about your problem as a set of outcomes produced by a machine.
+      * This distances yourself from the performance you currently have, and helps reveal how to close the
+        gaps. Be objective and dispassionate.
+    * "Movie script model": think of your plan as being like a movie script in that you visualize who will do
+      what through time.
+      * Start with coarse goals; layer in granularity, then plot all of hte actions over time.
+  * Push through to completion
+    * Do what's necessary to push these designs through to results
+  * Weakness doesn't matter if you find solutions
+    * Everyone has at least one big thing tha tstands in their way of success. Each person typically fails at
+      one particular step in this five step process more often than the others. Which part are you the most
+      weak?
+    * "Humility can be even more valuable than having good mental maps if it leads you to see out better
+      answers than you could come up with on your own. Having both open-mindedness and goo dmental maps is
+      most powerful of all."
+    * On a grid fo "what you know" vs. "humble/open-minded", you want to be in the upper right.
+* Be radically open-minded (chap 20)
+  * Have humility.
+  * Optimize through data collection. That will build your confidence in your decision making, and yield
+    better decisions.
 
 * Other people's notes for review
   * https://inside.bwater.com/publications/principles_excerpt
