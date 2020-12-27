@@ -427,7 +427,7 @@
       be brought to bear."
 * Intro to work principles (chap 23)
   * Write out concrete values of what the org is about, and the rationale for each, before hiring others, and
-    ensure they align with what the org stands for. It's how you can ensure hte people will want to be
+    ensure they align with what the org stands for. It's how you can ensure the people will want to be
     together long-term.
   * Mental model of a machine operator
     * The operator looks down on the machine from a higher level, and repeatedly assesses whether the outcomes
