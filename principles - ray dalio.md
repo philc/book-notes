@@ -438,10 +438,68 @@
     people I enjoyed and respected."
     * He considered his team as partners, not employees.
   * "The main test of a great partnership is not whether the partners eve disagree -- people in all healthy
-    relationships disagree --but whehter they can bring their disagreements to the surface and get through
+    relationships disagree -- but whether they can bring their disagreements to the surface and get through
     them well. Having clear processes for resolving disagreements efficiently and clearly is essential for
     business partnerships, marriages, and all other forms of partnership."
   * "Bridgewater is the opposite of a cult: the way it works is to maximally encourage independent thinking."
+
+* Trust in Radical Truth and Radical Transparency (chap 24)
+  * "What most people like best is knowing there is no spin."
+  * Example anecdote from Bridgewater: they told a department that management was investigating selling them
+    to another firm, even when there was still tremendous uncertainty about the deal.
+    * But people are generally terrible at keeping cool under uncertainty. How did they think this was a good
+      idea?
+    * Author says that this helped build and maintain trust with that department.
+  * "For me, not telling people what's really going on so as to protect them from the worries of life is like
+    letting your kids grow into adulthood believing in the )tooth Fairy or Santa Claus. While concealing the
+    truth might make people happier in the short run, it won't make them smarter or more trusting in the long
+    run. (it's a real asset that people know they can trust what we say. For that reason I believe that it's
+    almost always better to shoot straight, even when you don't have all the answers or when there's bad news
+    to convey. As Winston Churchill said, 'There is no worse course in leadership than to hold out false hopes
+    soon to be swept away.' People need to face harsh and uncertain realities if they are going to learn how
+    to deal with them -- and you'll learn a lot about the people around you by seeing how well they do."
+    (sounds compelling).
+  * Realize that you have nothing to fear from knowing the truth
+    * The doctor's diagnosis will benefit you in the long run, because you'll be able to respond to it.
+  * Have integrity and demand it from others
+    * Avoid having a "duality" -- different inside from your outside.
+    * "Aligning what you say with what you think and what you think with what you feel will make you much
+      happier and much more successful. Thinking solely about what's accurate instead of how it is perceived
+      pushes you to focus on the most important things." (yes, sounds more efficient)
+    * Never say anything about someone that you wouldn't say to them directly and don't try people without
+      accusing them to their faces.
+  * Create an environment where "no one has the right to hold a critical opinion without speaking up"
+    * "Don't judge people in your head without them getting to defend themselves."
+    * Be extremely open. "It's simple: just don't filter."
+  * Be radically transparent
+    * Not totally transparent... but way more than most companies.
+    * Use transparency to help enforce justice
+      * He wants justice to prevail. If they violate a law, he believes the SEC should give Bridgewater what
+        it deserves.
+    * In considering the value of transparency, he's consistently evaluating the second and third order
+      affects... which seem to be often even stronger long-term benefits than the first-order effects.
+    * Make sure those who are given radical transparency recognize their responsibilities to handle it well
+      and to weigh things intelligently.
+      * People who are given the privilege of information need to know the boundaries around its use.
+* Cultivate meaningful work and meaningful relationships (chap 25)
+  * Is Bridgewater like a family, or a team? he says "like a family business." There's deep connection and
+    support, but they will (lovingly) cut a member who's not performing.
+  * "For example, we put into place a policy that we would pay for half of practically any activities that
+    people want to do together up to a set cap (we now support more than a hundred clubs and athletic and
+    common-interest groups)."
+  * Be loyal to the common mission and not to anyone who is not operating consistently within it
+  * Be crystal clear on what the deal is
+    * Make sure people give more consideration to others than they demand for themselves
+      * If you approach disagreements with this principle in mind, there will be much less emotional energy
+        spend on "who is offending whom."
+    * Make sure that people understand the difference between fairness and generosity
+      * E.g. demanding a cash equivalent if you're not eligible for a perk.
+      * "Generosity is good and entitlement is bad, and they can easily be confused, so be crystal clear on
+        which is which."
+    * Pay fairly. The compensation for work must be economically viable for both sides.
+  * Recognize that the size of the organization can pose a threat to meaningful relationships
+    * 50-100 still feels like a community, so carve up departments as needed to preserve that feel at some
+      level of the org.
 
 * Other people's notes for review
   * https://inside.bwater.com/publications/principles_excerpt
