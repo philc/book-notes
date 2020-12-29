@@ -500,6 +500,61 @@
   * Recognize that the size of the organization can pose a threat to meaningful relationships
     * 50-100 still feels like a community, so carve up departments as needed to preserve that feel at some
       level of the org.
+* Create a culture in which it is okay to make mistakes and unacceptable not to learn from them (chap 26)
+  * Scenario: firing someone who had made a severe mistake would've encouraged the remaining employees to hide
+    their mistakes.
+  * At Blackstone they built a centralized "issue log" of mistakes made by traders, so everyone could learn
+    from them and they could be systematically solved. (Sounds like eng post-mortems)
+  * "Don't feel bad about your mistakes or those of others. Love them!"
+    * Don't judge. Instead, feel good about the evolutionary process.
+  * Don't worry about looking good -- worry about achieving your goals
+    * Get over "blame" and "credit" and get on with "accurate" and "inaccurate"
+  * "Remember to reflect when you experience pain"
+    * Go towards the pain, live where it is. It's a precious resource; use it to learn and grow.
+  * "Know that nobody can see themselves objective." So you need outside data to truly understand yourself
+    when you're making mistakes.
+* Get and stay in sync (alignment) (chap 27)
+  * "Spend lavishly on the time and energy you devote to getting in sync, because it's the best investment you
+    can make."
+    * Is this true? Why is it that so often, it's super expensive to get alignment?
+  * Watch out for "topic slip". Complete a topic before skipping forward to the next one.
+  * Watch out for assertive "fast talkers"
+    * This is a technique where the speaker makes assertions faster than they can be assessed. It doesn't
+      allow for rigorous discourse.
+    * "Recognize that it's your responsibility to make sense of things and don't move on until you do. If
+      you're feeling pressured, say something like 'Sorry, but I'm going to need to slow you down so I can
+      make sense of what you're saying.' Then ask your questions. All of them."
+  * If you find you can't reconcile major differences -- especially in values -- consider whether the
+    relationship is worth preserving.
+* Believability weight your decision making (chap 28)
+  * In short, query or put in a room three credible people who can help with an important decision, select
+    them carefully, and focus on their reasoning, not their past conclusions.
+  * "Remember that everyone has opinions and they are often bad. Opinions are easy to produce; everyone has
+    plenty of them and most people are eager to share them -- even to fight for them. Unfortunately many are
+    worthless or even harmful, including a lot of your own."
+  * "Don't pay as much attention to people's conclusions as to the reasoning that led them to their
+    conclusions. It is common for conversations to consist of people sharing their conclusions rather than
+    exploring the reasoning that led to those conclusions. As a result, there is an overabundance of
+    confidently expressed bad opinions."
+    * The reasoning is probably timeless, whereas the conclusion is also a function of circumstance.
+  * Selecting the right people to ask is half the work of getting to the truth.
+    * "If you ask someone a question, they will probably give you an answer, so think through to whom you
+      should address your questions."
+  * Disagreeing must be done efficiently
+    * The author recommends a brain trust of three people for most important decisions.
+      * "Since you don't have the time to thoroughly examine everyone's thinking yourself, choose your
+        believable people wisely."
+* Recognize how to get beyond disagreements
+  * "Make sure people don't confuse the right to complain, give advice, and openly debate with the right to
+    make decisions"
+    * Decision makers have specific responsibility and authority which they must bear. They are responsible
+      for the result of the decision, so they must be the one to make it.
+  * "Don't let the little things divide you when your agreement on the big things should bind you."
+    * "Narcissism of small differences."
+  * "Once a decision is made, everyone should get behind it even though individuals may still disagree"
+    * "In order to be effective, all groups that work together have to operate with protocols that allow time
+      for disagreements to be explored, but in which dissenting minority parties recognize that group cohesion
+      supersedes their individual desires once they have been overruled."
 
 * Other people's notes for review
   * https://inside.bwater.com/publications/principles_excerpt
