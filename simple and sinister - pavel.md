@@ -68,3 +68,19 @@
   * "The more snugly your arms are pressed against your legs and torso, the more powerful the swings will be.
     You will literally be launching the bell with your body, as opposed to waiting for the power to be
     transmitted through the shoulders."
+  * "If your technique is correct, the kettlebell will form an extension of the arms." The arms just transfer
+    the power of the explosion from the hips. They're loose, like ropes.
+  * "Do not try to swing it higher! Like a broad jump or a straight punch,t he swing is an exercise in
+    projecting power forward."
+  * One armed swings are less balanced and recruit more muscle and stabilizers.
+  * The hard style one-arm swing is an anti-rotation exercise. In other words, the weight is trying to twist
+    you, while you insist on staying on a straight and narrow."
+    * That said it's impossible to avoid some rotation, especially with a heavy bell.
+  * Taking care of the hands
+    * Use a little bit of chalk.
+    * Hook the handle with your fingers, don't overgrip.
+    * For swings, you can use thin cotton gardening gloves.
+* The get up
+  * "Exceptionally functional."
+  * "The body is on piece."
+  * "The get-up is a slow exercise and there is never an excuse to be out of position".
