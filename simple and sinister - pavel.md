@@ -3,7 +3,7 @@
     * Strength, power, endurance are skills to be practiced, not worked out. "Set aside 30m each day, as you
       would to master a musical instrument."
 * Intro
-  * The Russuan Kettlebell: an extreme handheld gym. Well-rounded fitness.
+  * The Russian Kettlebell: an extreme handheld gym. Well-rounded fitness.
   * In a nutshell, there are only two moving parts to this program: the swing and the get-up. No other
     exercises offer as many all-around benefits in such a tight package.
   * "A workout should give you more than it takes out of you." This workout leaves gas in the tank.
@@ -84,3 +84,29 @@
   * "Exceptionally functional."
   * "The body is on piece."
   * "The get-up is a slow exercise and there is never an excuse to be out of position".
+* The routine
+  * Bang out 10 sets of each exercise daily, like brushing your teeth."
+    * "Once you feel competent with the basic swing and get-up technique, here is the plan: it is simple as
+      could be: just bout out 10 sets of each exercise daily, like brushing your teeth. All of your attention
+      is on technique and power, and zero brain cells need to be involved in analyzing the workout and
+      planning how to change it. What an opportunity to become an ultimate technician!"
+  * Warmup
+    * Three circuits of mobility exercises: prying goblet squats, hip bridges, haloes.
+    * "As an option, you may follow these with a couple of sets of get-ups with exaggerated slowness and
+      precision with a shoe or a light kettlebell. Groove the movement. Instead of doing full get-ups, you may
+      select a particular phase, say supine to elbow, and polish it. Take the movement apart and put it back
+      together. This is not a warm-up, but a practice."
+  * Every third workout, swing the same weight kettlebell, but with two hands instead of one, focusing on
+    power and explosiveness. Two hands is easier, and is thus a form of active rest.
+  * "Do not hesitate to switch to two-arm swings when you are dragging your tail -- and reap its many benefits
+    while giving your mind a grip break."
+  * "Do NOT do 10 reps left and 10 right back to back; set the kettlebell down and recover between the sides."
+    Just like you would with a two-handed set -- take a break.
+  * There are no time goals with the "Simple" part of the program, so forget about watching the clock.
+  * Progression
+    * "The type of progression where you up the load and then stay with it for a time is called step loading.
+      It is very powerful and reliable."
+    * Own a weight. Then, introduce a heavier weight (usually plus 8kg) 20 reps at a time, mixed in with the
+      weight you've mastered. Every 4 weeks, increase the rep count of the heavier weight by 20.
+    * Introduce the heaiver weight into the third set. As you add mor eheavy sets, append them, working your
+      way to the end. Then replace the first two sets.
