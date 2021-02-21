@@ -3,7 +3,7 @@
     * "Six weeks is long enough to build something meaningful start-to-finish and short enough that everyone
       can feel the deadline looming from the start, so they use the time wisely."
   * Shaping the work
-    * A small senior team works in parallel to the cycle team to shape and vet the next ste of bets.
+    * A small senior team works in parallel to the cycle team to shape and vet the next set of bets.
       "Pre-work."
   * Targeting risk
     * The greatest risk is not shipping on time.
@@ -18,7 +18,7 @@
   * Property 2: it's solved
     * The overall solution is spelled out. The solution elements are connected.
   * Property 3: it's bounded
-    * It's definition and scope matches the appetite the company has for it.
+    * The idea's definition and scope matches the appetite the company has for it.
   * Shaping is strategic work. "Setting the appetite and coming up with a solution requires you to be critical
     about the problem. What are we trying to solve? Why does it matter? What counts as success? Which
     customers are affected? What is the cost of doing this instead of something else?"
@@ -39,7 +39,7 @@
       number. Appetites start with a number and end with a design."
     * Set a time box and maximize what you can do within it.
     * (Isn't the use of "appetite" backwards for some types of work? If the descoped solution doesn't hit the
-      high note, then its value may be zero, and thus so will its appetite.)
+      high note, then its value may be zero, and thus so is its appetite.)
     * Also cap the shaping/research investment: "if it's not critical now and we can't get our hands around
       the problem, we'll walk away from it and work on something else."
 * Find the elements (chap 3)
@@ -52,10 +52,10 @@
 * Risks and Rabbit Holes (chap 4)
   * The ideal delivery time distribution is tall and narrow, with its center at the appetite size (six weeks
     in their case).
-  * The distribution is long-tailed to the right when there's unidentified/unsolved rabbit holes when it
-    goes to the implementation team.
+  * The distribution is long-tailed to the right if there's unidentified/unsolved rabbit holes when it goes to
+    the implementation team.
   * In the shaping phase, pre-solve problems that wouldn't be fair for a designer to try and solve in the
-    pressure of a cycle without introducing lots of delivery risk.
+    pressure of a cycle, without introducing lots of delivery risk.
   * Declare out of bounds
     * "It's still a good idea to call out any cases you specifically aren't supporting to keep the project
       well within the appetite."
@@ -91,7 +91,7 @@
       prevents everyone from moving forward on the timely projects that really matter right now."
       * (It's not that expensive... or is it? Discussing old stories during sprint planning does seem to take
         awhile).
-  * At six week boundaries, host a "betting table." Dispassionate review of where to place your chips.
+  * At six week boundaries, host a "betting table". Dispassionate review of where to place your chips.
     * "At the betting table, they look at pitches from the last six weeks -- or any pitches that somebody
       purposefully revived and lobbied for again. Nothing else is on the table."
       * Each option on the betting table is well-shaped and risk-reduced.
@@ -99,7 +99,7 @@
       * "What if the pitch was great, but the time just wasn't right? Anyone who wants to advocate for it
         again simply tracks it independently -- their own way -- and then lobbies for it six weeks later."
   * Decentralized lists
-    * Support an keep a list of requests or issues that come up more often than others. Product tracks ideas
+    * Support and keep a list of requests or issues that come up more often than others. Product tracks ideas
       they hope to be able to shape in a future cycle. Programmers maintain a list of bugs they'd like to fix
       when they have some time.
   * "This way the conversation is always fresh. Anything brought back is brought back with a context, by a
@@ -119,7 +119,7 @@
       * "After working hard to ship their six week projects, they enjoy having time that's under their
         control."
     * (I wonder if the cooldown period becomes the quality work overflow, where the engineer goes back and
-      fixes the corners that were cut? is that a bad thing? Seems refreshing to have that time to do so
+      fixes the corners that were cut? Is that a bad thing? Seems refreshing to have that time to do so
       earmarked. Maintain less debt, as a rule.
   * Standardized team sizes
     * Each team is 1 designer and 1-2 engineers.
@@ -127,7 +127,7 @@
     * "Small batch" teams use the cycle to do several 1-2 week projects.
   * 1-2 hour meeting. "Pitches" are available to review offline, beforehand.
   * A well set up betting table gives leadership a "hands on the wheel" feeling of control.
-    * "The meeting is short, the options well-shaped, and the headcount low. )when these criteria are met, the
+    * "The meeting is short, the options well-shaped, and the headcount low. When these criteria are met, the
       betting table becomes a place to exercise control over the direction of the product instead of a battle
       for resources or a plea for prioritization."
   * The meaning of a bet
@@ -143,11 +143,10 @@
     * There's an explicit policy that projects can fail if they exceed the appetite.
     * If a project runs over, it's paused, and gets put back on the shaping track for the following cycle.
       Then it can surface again for betting on the reshaped, derisked version.
-    * (This is good discipline).
-    * "The circuit breaker motivates teams to take more ownership over their projects."
-  * Bugs: prioritize non-P9 bugs in the normal batch cycle schedule, and assign them to small-batch teams.
+    * "The circuit breaker motivates teams to take more ownership over their projects" and get them shipped.
+  * Bugs: prioritize non-P0 bugs in the normal batch cycle schedule, and assign them to small-batch teams.
   * The advantage of considering big bugs at the level of the betting table:
-    * "Time should always be used strategically. )there's a huge difference between delaying other work to fix
+    * "Time should always be used strategically. There's a huge difference between delaying other work to fix
       a bug versus deciding up front that the bug is worth the time to fix."
   * Break big projects into six week chunks. Shaping just one six week milestone at a time lowers the risk.
 * Place your bets (chap 8)
@@ -192,9 +191,70 @@
       mostly handled by other teams. We'll often take care of those updates and publish an announcement about
       the new feature during cool-down after a cycle."
   * Getting oriented: the first few days of a cycle are reviewing the current system and finding the best
-    entrypoint. (Why don't they do this technical design before the cycle starts, to further derisk the
+    entry point. (Why don't they do this technical design before the cycle starts, to further derisk the
     cycle?)
   * Argues that you can't do sufficiently good task breakdowns until you start implementing. Then you discover
     all kinds of work.
-* Get one piece done (chap 10)
-  * TODO(philc):
+* Get one piece done (chap 11)
+  * Integrate vertically -- one "slice". E.g. do both the frontend and the backend, rather than just one.
+  * Demo something early.
+  * Start in the middle: hack on the interesting, meaty bit first. Derisk the most risky part.
+* Map the scopes (chap 12)
+  * Don't group tasks by person/role as the primary means of organization.
+    * "People will complete tasks, but the tasks won't add up to a finished part of the project early enough."
+  * "Scope map": breaking a project into scopes (complete features / vertically-integrated slices), and
+    tackling each scope in sequence.
+  * The set of scopes you pick becomes the language for the project: which things you group together as
+    distinct features, the labels you use for those things. This language determines how the work is
+    organized, and how progress is reported.
+  * The recommended workflow is to generate many unscoped tasks, and then group them into scopes, and run at
+    the first one.
+  * Discovering scopes
+    * This is mapping out "the anatomy of the problem."
+    * "Scope mapping isn't planning. You need to walk the territory before you can draw the map."
+    * "The scopes need to be discovered by doing the real work and seeing how things connect and don't
+      connect."
+      * You can't see the interdependencies during the planning phase. You see them after week one or two.
+  * A poorly defined scope is one which has a name that is not unique to the project. E.g. "front-end work",
+    "bugs". They're grab bags.
+* Show progress (chap 13)
+  * Work is shaped like a hill
+    * The first, uphill phase is figuring out what to do. This phase progressively eliminates unknowns.
+    * The second, downhill phase is execution: getting it done.
+    * "The uphill phase is full of uncertainty, unknowns, and problem solving. The downhill phase is marked by
+      certainty, confidence, seeing everything, and knowing what to do."
+  * At Basecamp they project status by plotting each scope on a "hill diagram", to convey which part --
+    eliminating uncertainty, or execution -- a scope is in. This is easy for the cycle team to do, and doesn't
+    rely on fleshed out TODO lists or estimates.
+  * Comparing hill charts over time to see which scopes the team is focusing on, and what's gotten stuck, is a
+    powerful view.
+  * Management should step in and troubleshoot or rework the project when a scope is getting stuck in the
+    uphill portion.
+  * Prioritize derisking, which means getting the hardest scopes to the top of the hill before doing the
+    easier downhill portions.
+* Decide when to stop (chap 14)
+  * Summary thus far: "when the end of the cycle approaches, the techniques we covered so far will put the
+    team in a good position to finish and ship. The shaped work gave them guard rails to prevent them from
+    wandering. They integrated one scope at a time so there isn't half-finished work lying around. And all the
+    most important problems have been solved because they prioritized those unknowns first when they sequenced
+    the work."
+  * When deciding whether it's good enough to ship, compare to the baseline
+    * "Compare down to the baseline of what the product is today, not up to the ideal of what you intend to
+      make it."
+    * This helps overcome the desire to ship the perfect version of a new feature.
+  * Six-week time box: "without a deadline, they could easily delay the project for changes that don't
+    actually deserve the extra time."
+  * Scope grows like grass; it's natural, and it's no one's fault.
+  * Scope hammgering: "Chiseling scope down as the deadline approaches"
+    * "People often talk abotu 'cutting' scope. We use an even stronger word -- hammering -- to reflect the
+      power and force it takes to repeatedly bang the scope so it fits in the time box."
+    * The act of marking unfinished tasks as nice-to-have is scope hammering. These tasks wait until the end
+      of the cycle to get done, and only if there's time.
+  * QA is for edge cases
+    * Basecamp has millions of users, and a 12 person product team behind it. There's 1 QA person. The QA
+      person's job is only to check edge cases. Developers take responsibility for the main cases.
+    * "QA generates discovered tasks that are all nice-to-haves by default. The designer-programmer team
+      triages them and, depending on severity and available time, eleveates some of them to must-haves."
+* Move on (chap 15)
+  * Feedback needs to be shaped
+    * Don't immediately act on feedback from customers about a newly-launched feature.
