@@ -33,15 +33,15 @@ Chapter 1: See things for what they are -- Intense Realism
 * "The Hustler's Eye": words from "Truth" (a hustler acquaintance): you must have your eye fixed on reality
   and sharpened to a razor's edge. The harsh world of hustling does this for you... or you die.
 * Once Fifty got a music contract, he observed the environment carefully and quickly realized, through the
-  initial glamor, that he was a pawn in their game. They didn't care about him and would discard him once his
-  heat dissapated.
+  initial glamour, that he was a pawn in their game. They didn't care about him and would discard him once his
+  heat dissipated.
 * "Reality is my drug. The more I have of it, the more power I get and the higher I feel." - Fifty.
   * Relying not on other people, but on himself and the "hustler's eye."
 * A realist's eye can be applied to people and to business situations. You want to study people and try to
   understand some of the mystery behind how they act and how they will respond. This will give you knowledge
   and power. In business, you want to really see why you're not growing as fast as you can, and what changes
   are rippling through the industry and what dangers loom around the corner.
-* "Having clarity about where you are headed,w hat people are up to, and what is happening int he world around
+* "Having clarity about where you are headed, what people are up to, and what is happening in the world around
   you will translate into confidence and power, a sensation of lightness" (rather than it feeling onerous to
   be a realist).
 * He criticizes escapism, distractions produced by the entertainment industry, and politics, for their effect
@@ -62,7 +62,7 @@ Chapter 1: See things for what they are -- Intense Realism
   people's maneuvers personally; you merely try to defend or advance yourself."
 * "Self detachment": every few weeks, engage in a ritual of self analysis. Detach and look at yourself from
   the third person (like the machine operator idea from Principles), to assess who you are and where you're
-  headed. Look at your most recent actions as if they were the manuveurs of another person. Are you impressed
+  headed. Look at your most recent actions as if they were the maneuvers of another person. Are you impressed
   and threatened, or do you see exploitable weakness? Only use detachment this when analyzing, not in the
   moment, because that will erode your self-confidence.
 
