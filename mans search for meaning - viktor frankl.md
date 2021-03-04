@@ -1,4 +1,4 @@
-* Experiences in a concentration camp (chap 1)
+* Experiences in a concentration camp (part 1)
   * "We who have come back, by the aid of many lucky chances or miracles -- whatever one may choose to call
     them -- we know: the best of us did not return."
     * Because it takes sacrificing others -- your friends -- to survive. The transports always took a set
@@ -90,3 +90,43 @@
   * "A man who becomes conscious of the responsibility he bears toward a human being who affectionately waits
     for him, or to an unfinished work, will never be able to throw away his life. He knows the 'why' for his
     existence, and will be able to bear almost any 'how'."
+  * "I told them of a comrade who on his arrival in camp had tried to make a pact with Heaven that his
+    suffering and death should save the human being he loved from a painful end. For this man, suffering and
+    death were meaningful; his was a sacrifice of the deepest significance. He did not want to die for
+    nothing."
+  * Upon their liberation day, they did not celebrate with mad joy. They has this capability stamped out of
+    them over the years of captivity. Their freedom appeared as a dream -- unreal, unlikely.
+    * "We had literally lost the ability to feel pleased and had to relearn it slowly."
+    * Some ate ravenously for days. Others couldn't stop talking; they desired to express themselves.
+    * Some sought release by becoming oppressors of others soon after being oppressed.
+  * "Woe to him who found that the person whose memory alone had given him courage in camp did not exist any
+    more! Woe to him who, when the day of his dreams finally came, found it so different from all he had
+    longed for!"
+    * Bitterness and disillusionment plagued some. In camp, at least they had hope for something concretely
+      better on the horizon. After liberation, some who went home found no one waiting for them, and there was
+      no obvious next thing to hope for.
+  * "The crowning experience of all, for the homecoming man, is the wonderful feeling that, after all he has
+    suffered, there is nothing he need fear any more -- except his God."
+* Logotherapy (part 2)
+  * Logotherapy in a nutshell
+    * "Logotherapy focuses rather on the future, that is to say, on the meanings to be fulfilled by the patient
+      in his future."
+    * Logos -- "meaning": the meaning of human existence.
+    * Search for meaning is man's primary motivational force. Not the will to pleasure, nor the will to power.
+    * The assignment of logotherapy is to help the patient find the meaning of his life.
+    * Nietzsche: "He who has a *why* to live for can bear almost any *how*."
+    * "Mental health is based on a certain degree of tension, the tension between what one has already achieved
+      and what one still ought to accomplish, or the gap between what one is and what one should become. Such a
+      tension is inherent in the human being."
+  * The existential vacuum
+    * The feeling of one's life being meaningless. This usually manifests in a state of boredom, during
+      leisure hours.
+    * Argues that traditions and religion have rapidly diminished in the twentieth century and this has
+      deprived many of their sense of meaning.
+  * The meaning of lie
+    * It must have a different answer for each person.
+      * "To put the question in general terms would be comparable to the question posed to a chess champion:
+        'tell me, master, what is the best move in the world?'
+    * "Therein he cannot be replaced, nor can his life be repeated. Thus, everyone's task is as unique as is
+      his specific opportunity to implement it."
+    * The question can be reversed. Each man is questioned by life: how will you add your meaning? In what way?
