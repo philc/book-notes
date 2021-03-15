@@ -62,15 +62,15 @@
     * A life that can only demonstrate a noble attitude in the face of suffering can still be meaningful, in
       the same way that a creative life is full of meaning. It can still demonstrate dignity, unselfishness.
   * Being robbed of one's future
-    * "On entering camp a chance took place in the minds of the men. With the end of uncertainty there came the
-      uncertainty of the end. It was impossible to foresee whether or when, if at all, this form of existence
-      would end."
-    * Prisoners, in a new uncertain state of life, could no longer live for the future, because of their wildly
-      uncertain present. Similar effect happens to the unemployed. Without a future and without a goal. A
-      feeling of lifelessness, as if they'd already died. Everything became pointless. But this frame of mind
-      robbed the prisoners of the ability to see small opportunities to grow spiritually.
-      * "People forgot that often it is just such an exceptionally difficult external situation which gives man
-        the opportunity to grow spiritually beyond himself."
+    * "On entering camp a chance took place in the minds of the men. With the end of uncertainty there came
+      the uncertainty of the end. It was impossible to foresee whether or when, if at all, this form of
+      existence would end."
+    * Prisoners, in a new uncertain state of life, could no longer live for the future, because of their
+      wildly uncertain present. Similar effect happens to the unemployed. Without a future and without a goal.
+      A feeling of lifelessness, as if they'd already died. Everything became pointless. But this frame of
+      mind robbed the prisoners of the ability to see small opportunities to grow spiritually.
+      * "People forgot that often it is just such an exceptionally difficult external situation which gives
+        man the opportunity to grow spiritually beyond himself."
     * "It is a peculiarity of man that he can only live by looking to the future."
       * Even in prison, some found a goal and strove for it.
   * The impact of hope on one's immune system
@@ -109,24 +109,109 @@
     suffered, there is nothing he need fear any more -- except his God."
 * Logotherapy (part 2)
   * Logotherapy in a nutshell
-    * "Logotherapy focuses rather on the future, that is to say, on the meanings to be fulfilled by the patient
-      in his future."
+    * "Logotherapy focuses rather on the future, that is to say, on the meanings to be fulfilled by the
+      patient in his future."
     * Logos -- "meaning": the meaning of human existence.
     * Search for meaning is man's primary motivational force. Not the will to pleasure, nor the will to power.
     * The assignment of logotherapy is to help the patient find the meaning of his life.
     * Nietzsche: "He who has a *why* to live for can bear almost any *how*."
-    * "Mental health is based on a certain degree of tension, the tension between what one has already achieved
-      and what one still ought to accomplish, or the gap between what one is and what one should become. Such a
-      tension is inherent in the human being."
+    * "Mental health is based on a certain degree of tension, the tension between what one has already
+      achieved and what one still ought to accomplish, or the gap between what one is and what one should
+      become. Such a tension is inherent in the human being."
   * The existential vacuum
     * The feeling of one's life being meaningless. This usually manifests in a state of boredom, during
       leisure hours.
     * Argues that traditions and religion have rapidly diminished in the twentieth century and this has
       deprived many of their sense of meaning.
-  * The meaning of lie
+  * The meaning of life
     * It must have a different answer for each person.
       * "To put the question in general terms would be comparable to the question posed to a chess champion:
         'tell me, master, what is the best move in the world?'
     * "Therein he cannot be replaced, nor can his life be repeated. Thus, everyone's task is as unique as is
       his specific opportunity to implement it."
-    * The question can be reversed. Each man is questioned by life: how will you add your meaning? In what way?
+    * The question can be reversed. Each man is questioned by life: how will you add your meaning? In what
+      way?
+  * The essence of existence
+    * "The logotherapist's role consists of widening and broadening the visual field of the patient so that
+      the whole spectrum of potential meaning becomes conscious and visible to him."
+      * Rather than producing a specific picture.
+    * Meaning must be found outside ourselves -- in a cause, or another person, or God. The more oen forgets
+      himself, the more meaning he finds.
+    * Meaning of life can be discovered in three ways:
+      * To create/do a deed
+      * Experience something or someone
+      * The attitude we take in suffering
+  * The meaning of suffering
+    * "We may also find meaning in life even when confronted with a hopeless situation, when facing a fate
+      that cannot be changed. For what then matters is to bear witness to the uniquely human potential at its
+      best, which is to transform a personal tragedy into a triumph, to turn one's predicament into a human
+      achievement. When we are no longer able to change a situation -- just think of an incurable disease such
+      as inoperable cancer -- we are challenged to change ourselves."
+    * "'What would have happened, Doctor, if you had died first, and your wife would have had to survive you?'
+      'Oh', he said, 'for her this would have been terrible; how she would have suffered!' Whereupon I
+      replied, 'You see, Doctor, such a suffering has been spared her, and it was you who have spared her this
+      suffering --to be sure, at the price that now you have to survive and mourn her.'"
+      * (Yes, beautiful; now this man's sadness and mourning has a purpose).
+  * Life's transitoriness
+    * "the person who attacks the problems of life actively is like a man who removes each successive leaf
+      from his calendar and files it neatly and carefully away with its predecessors, after first having
+      jotted down a few diary notes on the back. He can reflect with pride and joy on all the richness set
+      down in these notes, on all the life he has already lived to the fullest. What will it matter to him if
+      he notices that he is growing old? Has he any reason to envy the young people whom he sees, or wax
+      nostalgic over his own lost youth? What reasons has he to envy a young person? For the possibilities
+      that a young person has, the future which is in store for him? 'No, thank you', he will think. 'Instead
+      of possibilities, I have realities in my past, not only the reality of work done and of love loved, but
+      of sufferings bravely suffered. These sufferings are even the things of which I am most proud, though
+      these are things which cannot inspire envy.'"
+  * Logotherapy as a technique
+    * "Pleasure is, and mus remain, a side-effect or by-product, and is destroyed and spoiled to the degree to
+      which it is made a goal in itself."
+      * "Hyper intention" defeats the goal, making it harder to achieve.
+    * Paradoxical intention: overcome a fear or obsession by acting out the opposite, willingly. E.g. go pick
+      up a spider if you're afraid of spiders. It defeats it of its power.
+    * How much attention you give something determines its power over you.
+      * "A similar chain of events can be observed in obsessive-compulsive cases in which the patient fights
+        the ideas which haunt him. Thereby, however, he increases their power to disturb him, since pressure
+        precipitates counterpressure."
+  * The collective neurosis
+    * "Every age (generation) has its own collective neurosis, and every age needs its own psychotherapy to
+      cope with it."
+    * A case against nihilism
+      * "Man does not simply exist but always decides what his existence will be, what he will become in the
+        next moment."
+  * The psychiatric credo:
+    * "An incurably psychotic individual may lose his usefulness but yet retain the dignity of a human being.
+      This is my psychiatric credo. Without it I should not think it worthwhile to be a psychiatrist. For
+      whose sake? Just for the sake of a damaged brain machine which cannot be repaired? If the patient were
+      not definitely more, euthanasia would be justified."
+    * "Our generation is realistic, for we have come to know man as he really is. After all, man is that being
+      who invented the gas chambers of Auschwitz; however, he is also that being who entered those gas
+      chambers upright, with the Lord's Payer or the Shema Yisrael on his lips."
+* The case for tragic optimism
+  * An optimism in the face of pain, guilt, death.
+  * You cannot search for happiness directly. You must search for a root reason to be happy/fulfilled. Which
+    can come even in the simple pleasure of life's struggle.
+    * "Once an individual's search for a meaning is successful, it not only renders him happy but also gives
+      him the capability to cope with suffering."
+    * "In the concentration camps, this behavior was paralleled by those who one morning, at five, refused to
+      get up and go to work and instead stayed in the hut, on the straw wet with urine and feces. Nothing --
+      neither warnings nor threats -- could induce them to change their minds. And then something typical
+      occurred: they took out a cigarette from deep down in a pocket where they had hidden it and started
+      smoking. At that moment we knew that for the next forty-eight hours or so we would watch them dying."
+      * (Horrific... the swift loss of meaning and the decision to end life. How bleak must life have looked?)
+  * The existential vacuum: "People have enough to live by but nothing to live for; they have the means but no
+    meaning."
+  * The most powerful argument in favor of a tragic optimism is the "defiant power of the human spirit."
+    * "If one cannot change a situation that causes his suffering, he can still choose his attitude. Long (a
+      cripple) had not chosen to break his neck, but he did decide not to let himself be broken by what had
+      happened to him."
+  * For criminals, if offering them excuses for their behavior to choose from, it robs them of their
+    responsibility, and their power to have chosen differently. The author claims that the prisoners he's
+    encountered instead want to be heard and understood, and to be culpable.
+  * "Don't confound dignity with usefulness"
+    * "From this one may see that there is no reason to pity old people. Instead, young people should envy
+      them. It is true that the old have no opportunities, no possibilities in the future. But they have more
+      than that. Instead of possibilities in the future, they have realities in the past -- the potentialities
+      they have actualized, the meanings they have fulfilled, the values they have realized -- and nothing and
+      nobody can ever remove these assets from the past."
+  * The meaning of his life is to help others find the meaning of theirs.
