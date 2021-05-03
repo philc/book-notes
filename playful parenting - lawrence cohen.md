@@ -1,4 +1,4 @@
-* Jewels
+* Gems
   * "I find that it is often better to play at being incompetent instead of pretending to be fearful, since
     that seems to let the child loosen up and laugh about it more."
   * Parent is too busy to play right now
@@ -7,10 +7,6 @@
       the child manage the wait until she could get some attention from her parents.
   * Sportsmanship through hyperbole: set up a game where they will always win, and pretend to be a ridiculous
     figure of a sore loser.
-  * Punishment
-    * Parents may think they are giving a punishment (the yelling), but the child sees it as a reward (the
-      reconciliation after yelling). If children don't know how to arrive at the reconciliation directly, they
-      do it with bad behavior to prompt the yelling.
   * Empty threats: specially anxiety-arousing for children. We may know we would never leave them in the
       grocery store, but children aren't sure.
   * Games based on knowledge of a TV show or video game are less  universal and thus less inclusive.

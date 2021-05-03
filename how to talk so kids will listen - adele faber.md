@@ -1,9 +1,17 @@
-* Big ideas
-  * Natural consequence is a better teacher than punishment
-  * Descriptive praise instead of evaluative praise
-  * Demonstrating that you understand the other person' feelings establishes your position as being on their
-    side. With that positioning, you will be much more effective in working through their negative feelings
-    with them, e.g. via problem-solving or offering choices.
+* Gems
+  * Big ideas
+    * Natural consequence is a better teacher than punishment
+    * Descriptive praise instead of evaluative praise
+    * Demonstrating that you understand the other person's feelings establishes your position as being on
+      their side. With that positioning, you will be much more effective in working through their negative
+      feelings with them, e.g. via problem-solving or offering choices.
+  * Your attitude is what's important. If you're being patronizing or manipulative, it will come through.
+  * Don't follow your empathy with "but"; it negates what you've said. Use "the problem is...".
+  * Is most of your time spent asking them to do something? Is there enough time just spent being together?
+  * Be on their side!
+    * Instead of being on the school's side, or the sibling's side, or the other person's side, always come
+      off as being on their side. Imagine you're with your very best friend. Reframe your entire thinking if
+      necessary. The situation at hand is an external problem to be solved.
 
 * Helping children deal with their feelings (chapter 1)
   * 4 strategies
@@ -23,7 +31,7 @@
     * Pity
     * Other tips
       * When they call themselves names, don't use the words back to them.
-      * Your responses of empathy should have similar intensity to their emotion
+      * Your responses of empathy should have similar intensity to their emotion.
       * People object when you repeat things back exactly. It doesn't show you're processing anything.
   * Do not follow up your empathy with a "but". It negates everything that came before; it's dismissive.
     * Simple change: replace "but" with "the problem is..."
@@ -79,26 +87,26 @@
   * If you don't get through to the child, just transform the message by employing one of the other
     techniques.
   * Attitudes in your message:
-    * children thrive when you convey "you're basically a capable loving person and once you're alerted to the
-      issue, you'll resolve it.
-    * Poisonous is one which says "you're not doing anything right, and this latest example is the latest
-      proof of that."
+    * Children thrive when you convey "you're basically a capable loving person and once you're alerted to the
+      issue, you'll resolve it."
+    * A poisonous attitude says "you're not doing anything right, and this current example is the latest proof
+      of that."
   * Be careful of "please" in intense situations. If you really want something to happen, don't soften it with
     please.
 
 * Alternatives to punishment (chapter 3)
   * Punishment
-    * They argue this does not work: it distracts the child from the issue, and deprives them of the feeling
-      of remorse.
+    * The author argues this does not work: it distracts the child from the issue, and deprives them of the
+      feeling of remorse.
     * Natural consequences are better teachers than punishment.
       * Natural consequence: people's natural reactions to their behavior. E.g. "I won't want to lend you
-        clothes if you mess them up before returning."; the parent not wanting to play anymore because the kid
+        clothes if you mess them up before returning"; the parent not wanting to play anymore because the kid
         isn't being nice; parent doesn't want to bring the child to the grocery store because they don't
         behave.
       * Punishment is actively and intentionally depriving someone of privileges which are usually not even
         related to the bad behavior. E.g. "no TV tonight if you don't sit still during church."
   * Prevention is very effective, better than reactive solutions. E.g. to prevent your kid from misbehaving in
-    the grocery store, draw two people in a grocery store and role play.
+    the grocery store, beforehand, draw two people in a grocery store and role play.
   * "Problem solve" it together
     * Before entering a problem-solving exercise with anyone, psyche yourself up to be listening, open minded,
       non-judgmental, and collaborative.
@@ -110,21 +118,22 @@
     want to introduce choice into the situation to allow your child some autonomy, allow them to come up with
     options, and pick one themselves.
   * Timeouts
-    * instead of separation, a misbehaving child needs more close time with a listening parent, who can say
+    * Instead of separation, a misbehaving child needs more close time with a listening parent, who can say
       it's not acceptable, and brainstorm alternatives with the kid.
-    * "I know you get mad when your sister pulls your arms. How can we let her know this, without hitting her?"
+    * "I know you get mad when your sister pulls your arms. How can we let her know this, without hitting
+      her?"
 
 * Encouraging autonomy (chapter 4)
   * One of the most important things we can do as parents is encouraging their own autonomy. They cannot be
-    protected by us their entire lives. They need to be given space to make their own decisions, mistakens,
-    and solutions.
+    protected by us their entire lives. They need to be given space to make their own decisions, mistakes, and
+    solutions.
   * Show respect for their struggles. Offer advice before actually opening the jar for them. Don't rush in to
     tie their shoes.
   * When children ask questions, help them explore the answer for themselves. Don't jump in with answers. "Why
     does grandma visit so often?" Replay the question and see what they think. See yourself as a sounding
     board.
   * If you weigh in on every detail of their life, then every step of the way, there's a contest of wills
-    between your judgement and there's.
+    between your judgement and theirs.
   * On giving advice
     * First let the child develop their own thoughts about the situation. Then offer yours. They will be in a
       better frame of mind to receive your advice.
@@ -134,9 +143,10 @@
   * Anecdote: one mother used to have fights about clothing with her daughter every day. They problem-solved
     together, and now the kid can wear whatever they want on the weekend, and on school days, the mother puts
     out 2 outfits and the daughter picks one.
-  * Having kids write even basic for themselves (sports, academics) is very powerful. It seems so grow-up and
-    serious. Writing things down is much more powerful than just talking about it. You can even ask kids to
-    write down a schedule and figure out how they're going to make time for the things they want to do.
+  * Having kids write even basic goals for themselves (sports, academics) is very powerful. It seems so
+    grow-up and serious. Writing things down is much more powerful than just talking about it. You can even
+    ask kids to write down a schedule and figure out how they're going to make time for the things they want
+    to do.
   * Don't take hope away by protecting them from disappointment: don't say "it's very unlikely you can be a
     pro basketball team so aim lower."
 
@@ -188,7 +198,7 @@
     * http://www.parents-central.com/2012/descriptive-praise-a-powerful-motivator-to-shape-your-childs-behavior/s
 
 * Freeing children from roles (chapter 6)
-  * Avoid giving your kids a label or roll ("he's a troublemaker", "she always has to be the boss") because
+  * Avoid giving your kids a label or role ("he's a troublemaker", "she always has to be the boss") because
     your perceptions will inevitably reinforce it in your mind, and if the child hears it, they will accept it
     and live up to it.
   * Even favorable roles are dangerous, e.g. "she brings me so much joy", because they may feel like they
@@ -221,14 +231,14 @@
     loses their cell phone, consider praising how long they kept the cell phone in their possession, and let
     them naturally brainstorm how they're going to keep it from being lost again in the future, and take pride
     in their ownership. Similar scenario: when they get a bad grade.
-  * Rather than putting a kid in a roll -- "they're picky eater", "they're shy", "they're slow to warm up to
-    new things" as a defense towards other adults as to why your kid is an engaging with them, instead use the
-    phrase "when they're ready". This seems to satisfy everybody's concern that the kid is an engaging in the
-    way they expect.
+  * Rather than putting a kid in a role -- "they're picky eater", "they're shy", "they're slow to warm up to
+    new things" as a defense towards other adults as to why your kid is not engaging with them, instead use
+    the phrase "when they're ready". This seems to satisfy everybody's concern that the kid isn't engaging in
+    the way they expect.
   * Competitive games
-    * They're hard for any age. If you going to play board games like Candy Land, then the person who completes
-      the board first can be in first place, but let everybody else complete the game.
+    * They're hard for any age. If you're going to play board games like Candy Land, then the person who
+      completes the board first can be in first place, but let everybody else complete the game.
     * Kids love races. A way to make them noncompetitive is to buy a stopwatch, have one kid race, and the
-      other kid time then and then have them switch, and then have them try to be their own times. You might
+      other kid time then and then have them switch, and then have them try to beat their own times. You might
       think they would directly compare, but they don't enough to ruin the fun. They focus on beating their
       own times.

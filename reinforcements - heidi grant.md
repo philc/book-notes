@@ -1,4 +1,4 @@
-* Jewels
+* Gems
   * Summary: People are helpful more often than not. They don't think less of you for needing help. Helping,
     with the right reinforcers in place, feels wonderful. There is no better way to give someone the
     opportunity to feel good about themselves than to ask them to help you. It brings out the best feelings in
@@ -10,10 +10,14 @@
     better about the whole situation and get the self-esteem benefits.
   * Don't create distance when asking for help: overdoing empathy, apologizing profusely, using disclaimers,
     saying how much they'll enjoy helping, minimizing the magnitude of your request.
-  * When showing gratitude, praise the giver's identity, not their act, and not how much their help is
+  * When showing gratitude, praise the helper's identity, not their act, and not how much their help is
     benefiting you. People like to be helpers, not to give help.
   * Create an in-group. It connects, and motivates each member to help each other. Emphasize shared
     experiences. E.g. "We're on the same journey together." "We're both always trying to help our teams."
+  * Helpers want to feel like they are being impactful, and seeing the impact refuels their tank.
+    * Make it clear and explicit what type and level of impact you expect to result from their help. Avoid
+      vague appeals, like "I'd like to pick your brain" -- they can't connect how that vague help will result
+      in some outcome.
 
 * Asking for help makes us feed bad (chap 1)
   * A list of psychological experiments surfacing just how terrifying it is to ask a random stranger for a
@@ -73,7 +77,6 @@
     * Grudging yes. The giver will not derive satisfaction. This is the worst reaction.
     * Enthusiastic yes: this is strategically the best response. It sets you up, as the giver, to feel good
       about yourself.
-
   * As a help-giver, frame the inbound request such that you can give an "enthusiastic yes!". You will feel
     better about the whole situation.
     * (I did this once with Alon while at Liftoff and I felt better about it).
@@ -218,5 +221,5 @@
     * Make it clear and explicit what type and level of impact you expect to result from their help. Avoid
       vague appeals, like "I'd like to pick your brain" -- they can't connect how that vague help will result
       in some outcome.
-    * Follow-up afterward; let them know in advance that you will. This increases their confidence that they'll
-      end up feeling effective.
+    * Follow-up afterward; let them know in advance that you will. This increases their confidence that
+      they'll end up feeling effective.
