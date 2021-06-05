@@ -12,43 +12,44 @@
 * Organizations (chap 2)
   * Sizing teams is the fundamental challenge of org design.
   * "Managers should support 6 to 8 engineers."
+  * "Managers of managers should support four to six managers."
   * TLMs: typically manage 4 engineers. It has limited career growth, because to progress, they must either
     dedicate more time to management and become full time managers, or dedicate more time to IC work and lose
     or freeze their management load.
   * Coaches: "managers with greater than 8 reports." They act as coaches and safety nets for problems. They
     have to operate shallow rather than deep because of their report count.
-  * "Managers of managers should support four to six managers."
-  * Eng teams should be eight
-    * The primary reason for this is that oncall rotations want eight engineers, and it's the most functional
-      for an eng team to carry its own pager.
+  * Eng teams should be eight people
+    * The primary reason for this is that oncall rotations want eight engineers, and it's most functional for
+      an eng team to carry its own pager.
     * Rotations can be shared across teams, although most find being oncall for components they're unfamiliar
       with to be disproportionately stressful.
   * "Small teams (fewer than four) are not teams"
     * He's regretted forming these teams. Lumpy delivery, fragile in the face of churn.
   * "Keep innovation and maintenance together"
-    * It's good for more. Avoids a two-class system. Difficult.
+    * Avoids a two-class system. Difficult to execute.
     * To create a new team, grow an existing team to 8-10, and then split into two teams of 4-5.
   * Four states of a team
+    * Also described in this [short article](https://lethain.com/durably-excellent-teams/).
     * The four states:
       * Falling behind. Solution: add people
         * What about taking people from other teams? "I'm pretty negative on that... people are not fungible,
           and generally folks end up in useful places. By nature, it's also impossible for this discussion not
           to become political. So implement this system fix by adding *net new* people to the company."
-      * Treading water: reduce WIP
-        * Able to get the critical work done, but not paying down debt.
-      * Repaying debt: add time
+      * Treading water. Solution: reduce work in progress
+        * In this phase, the team is able to get the critical work done, but they're not paying down debt.
+      * Repaying debt. Solution: add time
         * This is the turning point, because the benefits of debt repayment compounds, as each improvement you
           make provides more future time.
         * Once some debt gets repaid, the stakeholders will be hungry for more velocity, and more of their
-          bandwidth to be spend on roadmap work. Allow this team enough space for the compounding to take
+          bandwidth to be spent on roadmap work. Allow this team enough space for the compounding to take some
           effect.
-      * Innovating: add slack
+      * Innovating. Solution: add slack
     * Do the exercise of labeling which state each team is in, and how exactly to apply the fix dictated by
       the system.
     * "We reach for adding headcount too quickly."
     * Your job as a manager is to initiate the correct "system fix" to progress the team to the next, better
-      state. Don't just support the team tactically; you won't have confidence that you'll ever get out of the
-      current state. First, institute the system fix, then support the team, to allow the fix to "work its
+      state. Don't just support the team tactically. You won't have confidence that you'll ever get out of the
+      current state. First, institute the system fix; then, support the team. This allows the fix to "work its
       magic."
     * These system fixes are slow to take effect, but durable.
     * Recommends focusing on one team at a time to get it into the "treading water" state, before focusing at
@@ -78,7 +79,7 @@
   * "More engineers, more problems"
     * The book provides some estimates of how the productivity of your trained engineers can erode to zero
       under conditions of high headcount growth, due to the crushing load of interviewing, training, oncall,
-      more teams, and new management layers.
+      overhead due to more teams, and new management layers.
   * Ways to manage entropy
     * Interview load
       * Batch together the interviewing responsibility that engineers must do, and then give them a month off.
@@ -86,8 +87,8 @@
     * Controlling the volume and sprawl of ad hoc interruptions
       * Second most effective time thief.
       * Funnel interruptions into an increasingly small area, and then automate that area as much as possible.
-        Ask people to file tickets, create chatbots that automate filing tickets, create a service cookbook,
-        etc.
+        Ask people to file tickets, create chatbots that automate filing tickets, create a cookbook for each
+        service maintained, etc.
       * Add "answering questions" to your oncall's responsibility set.
       * Consider an "ownership registry" so questions can immediately go to the right person. Similar to the
         solution of documenting "who's oncall?"
@@ -95,7 +96,7 @@
         sounds like he hasn't seen it actually work at scale.
   * Managing "organizational risk"
     * It's organization debt that most likely becomes abruptly due.
-    * He minimizes this risk by stabilizing team-by-team, and org by org, before moving on and spreading
+    * He minimizes this risk by stabilizing team-by-team, and org by org, before moving on, which may spread
       himself thin.
   * Succession planning
     * After three years in a role, you're likely to switch. To do so successfully, document all of the gaps
@@ -147,38 +148,37 @@
     * In his experience, different process doesn't solve collaboration issues. The problem is the people.
   * Do the hard thing now
     * Run towards the problems. They only get harder with postponement.
-  * Think for yourself.
-    * Be a chef. There's only so much you can take from other people's frameworks, because your circumstances
-      are different.
-  * Managing the growth plates
-    * In the growth plates of a company, execution is most valued: there's a long list of fairly obvious,
-      rewarding ideas. On the stable parts, ideas are more valuable, and the ability to validate them.
+  * Think for yourself
+    * Be a chef rather than a cook. There's only so much you can take from other people's frameworks, because
+      your circumstances are different.
+  * Managing through the "growth plates"
+    * Growth plates: "Long bones have growth plates at their ends, which is where the growth happens; the
+      middle of the bone doesn't grow."
     * Growth plates vs. stable parts: different parts of the product or business can be in different phases --
       growing or stable. Execution is most valued in the growing parts -- just capture the obvious growth. In
       contrast, new innovations and the ability to validate them are most valued in the stable parts, because
       growth is harder.
     * "The most confusing places to start are midsize, rapidly growing companies. That's because parts of the
       company are growing quickly, with an emphasis on execution, and other parts have largely stabilized,
-      with ideas becoming the more valued currency. Long bones have growth plates at their ends, which is
-      where the growth happens, and the middle doesn't grow." This might be a useful mental model when trying
-      to understand why your behaviors might not be resonating in a new role.
+      with ideas becoming the more valued currency." This might be a useful mental model when trying to
+      understand why your behaviors might not be resonating in a new role.
     * "So often, we make solid executors responsible for slower-growth areas -- we need the innovators in the
       highest growth ones -- but the opposite tends to work better." Because slow-growth areas have already
       had the easy/obvious incremental improvements done by previous executors.
   * Ways engineering managers get stuck
-    * Optimize locally: picking technologies that the company can't support, or building a product that puts
+    * Optimizing locally: picking technologies that the company can't support, or building a product that puts
       you in competition with another team.
-    * Don't spend time building relationships." It is hard for your team to do the right things and get them
+    * Not spending time building relationships. It is hard for your team to do the right things and get them
       out the door without a supportive social network.
-    * Assume that more hiring can solve every problem. "Adding a wonderful person can move the needle, but
+    * Assuming that more hiring can solve every problem. "Adding a wonderful person can move the needle, but
       adding too many people can dilute your culture, and lead to people with unclear roles."
-    * Don't trust people enough to delegate. "Many organizations become bottlenecked on approvals, which is a
+    * Not trusting people enough to delegate. "Many organizations become bottlenecked on approvals, which is a
       proxy for lack of trust."
   * Finding managerial scope
     * Broadly three types of engineering management jobs:
       * Manager: you manage a team directly
       * Director: you manage a team of managers
-      * VP: you manage and organization
+      * VP: you manage an organization
     * Optimize for scope rather than org size.
       * Grow scope through "broad, complex projects"
       * "As managers... we should really be pursuing scope: not enumerating people but taking responsibility
@@ -211,13 +211,13 @@
       it can be the cornerstone in your efforts to grow an inclusive organization."
 * Career (chap 6)
   * Opportunities
-    * Promise change, not necessarily growth. Working on a static team at a rocketship company doesn't
+    * Promise change, not necessarily growth. Working on a static team at a rocket ship company doesn't
       necessarily mean high career growth.
   * Give interviewers a sabbatical so they don't burn out on interviewing. E.g. 1 month of interviewing, then
     1 month off. Batching.
   * Recruiting
     * Recommends eng managers do 1hr a week of cold sourcing, to build empathy with the process and to
-      encourage hands on changes.
+      encourage hands on changes to the recruiting process.
   * Career ladders
     * Advises being tolerant of career ladder proliferation. But only spend time refining a ladder with > 10
       people on it.
