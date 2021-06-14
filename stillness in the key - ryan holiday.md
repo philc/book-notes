@@ -22,7 +22,7 @@
   * "This book is an attempt to answer the pressing question of our time: if the quiet moments are the best
     moments, and if so many wise, virtuous people have sung their praises, why are they so rare?"
 * The domain of the mind (chap 1)
-  * (Covering Kennedy's urban missle crisis)
+  * (Covering Kennedy's urban missile crisis)
   * On Kennedy working through the insanity of the Cuban Missile Crisis, "the Daoists would say that he had
     stilled the muddied water in his mind until he could see through it."
   * To achieve good outcomes in stressful scenarios requires calm, open-mindedness, empathy, and clarity of
@@ -199,3 +199,67 @@
   * No matter what you think of evidence, faith and belief are powerful forces.
   * "This is about rejecting the tyranny of our intellect, and our immediate observational experience, and
     accepting something bigger, something beyond ourselves."
+* Enter relationships (chap 17)
+  * "There is no enjoying the possession of anything valuable unless one has someone to share it with." -
+    Seneca
+  * "It is true that relationships take time. They also expose and distract us, cause pain, and cost money. We
+    are also nothing without them."
+  * "A solitary existence is terribly misguided." People trade relationships for self-sufficiency, or extreme
+    dedication to their calling.
+  * "Who is there who would wish to be surrounded by all the riches in the world and enjoy every abundance in
+    life and yet not love or be loved by anyone?" - Cicero.
+  * Connection requires surrender -- a willingness to be part of a greater whole.
+  * Relationships and responsibility enhance every career, rather than starve it. Anything else is a myth.
+  * "The notion that isolation, that total self-driven focus, will get you to a supreme state of enlightenment
+    is not only incorrect, it misses the obvious: Who will even care that you did all that? Your house might
+    be quieter without kids and it might be easier to work longer hours without someone waiting for you at the
+    dinner table, but it is a hollow quiet and an empty ease."
+  * "Stillness is for other people."
+* "Conquer your anger" (chap 18)
+  * Love, gratitude, and purpose are cleaner fuel for success than anger.
+  * On Michael Jordan's use of anger: "Could it have actually been a parasitic by-product that prevented him
+    from enjoying what he accomplished? (Tom Brady wins a lot without being mean or angry.)"
+  * Success via anger tends to prevent you from enjoying it along the way.
+  * Believes people who are driven by anger are not happy, nor still.
+* All is one (chap 19)
+  * The Greeks on the dependence between people: "they believes that each person on this planet had an
+    important role to play."
+  * Mitfreude -- the active wishing of goodwill to other people (vs. schadenfreude)
+  * Everyone feels similar feelings as you about something
+    * "no one is alone, in suffering or in joy. Down the street, across the ocean, in another language,
+      someone else is experiencing nearly the exact same thing. It has always been and always will be thus."
+    * "You can even use this to connect more deeply with yourself and your own life. The moon you're looking
+      at tonight is the same moon you looked at as a scared young boy or girl, it's the same you'll look at
+      when you're older -- in moments of joy and in pain -- and it's the same that your children will look at
+      in their own moment sand their own lives."
+* The domain of the body (chap 20)
+  * "Around noon he'd stop in to say hello to his wife for the first time --believing all his life that the
+    secret to a happy marriage was that spouses should not see each other before noon." (Churchill)
+  * Churchill took up bricklaying and oil painting as hobbies to shift his mind away from his over-stressed
+    primary faculties.
+  * "Life does that to us. It kicks our ass. Everything we work for can be taken away."
+      * How do you handle the stress of the whiplash? Love the discipline you know and let it support you.
+  * Churchill himself would write that every prophet must be forced into the wilderness --where they undergo
+    solitude, deprivation, reflection, and meditation. It's from this physical ordeal he said that "psychic
+    dynamite" is made. When Churchill was recalled, he was ready. He was rested. He could see what no one else
+    could or would. Everyone else cowered in fear of Hitler, but Churchill did not."
+* Say no (chap 21)
+  * The many ways in which we must learn to say no:
+    * No, I'm not available
+    * No, that sounds great but I'd rather not
+    * No, I'm going to wait and see
+    * No, I don't like that idea
+    * No, I don't need that -- I'm going to make due with what I have
+    * No, because if I said yes to you, I would have to say yes to everyone
+  * "Always think about what you're really being asked to give. Because the answer is often a piece of your
+    life, usually in exchange for something you don't even want. Remember, that's what time is. It's your
+    life, it's your flesh and blood, that you can never get back."
+* Take a walk (chap 22)
+  * "When Martin Luther King Jr. was a seminary student at Crozer, he took an hour walk each day through the
+    campus woods to 'commune with nature'."
+  * Walking is a deliberate exercise in peace.
+  * Be present; get lost; go slowly; be unreachable.
+  * "Walk away from the thoughts that need to be walked away from."
+  * "This isn't about burning calories or getting your heart rate up. On the contrary, it's not about
+    anything. It is instead just a manifestation, an embodiment of the concepts of presence, of detachment, of
+    emptying th emind, of noticing and appreciating the beauty of the world around you."
