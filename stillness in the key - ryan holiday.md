@@ -263,3 +263,22 @@
   * "This isn't about burning calories or getting your heart rate up. On the contrary, it's not about
     anything. It is instead just a manifestation, an embodiment of the concepts of presence, of detachment, of
     emptying th emind, of noticing and appreciating the beauty of the world around you."
+* Build a routine (chap 23)
+  * Routine is useful to order the world and provide a platform for reliable excellence.
+  * "Routine, done for long enough and done sincerely enough, becomes more than routine. It becomes ritual --
+    it becomes sanctified and holy."
+  * About sports players, "the greats know that complete freedom is a nightmare."
+  * Routine can be one's writing utensils laid out before sitting down to write.
+  * "To one person, taking care of a horse is a chore. To Simon Bolivar it was a sacred, essential part of his
+    day. When the body is busy with the familiar, the mind can relax. The monotony becomes muscle memory."
+  * Make a routine to defend against the day's chaos.
+    * "Needless to say, this is exhausting. It is a whirlwind of conflicting impulses, incentives,
+      inclinations, and external interruptions. It is no path to stillness and hardly a way to get the best
+      out of yourself."
+  * Automate good and virtuous decisions by putting them into your routine. Like only putting healthy food
+    around the house.
+* Get rid of your stuff (chap 24)
+  * "One of Seneca's most powerful metaphors is the slaveowner owned by his slaves, or the wealthy man whose
+    vast estates lord over him rather than the other way around."
+    * Signing up for increased responsibility because of the complexity of your life or your possessions can
+      decrease rather than increase your enjoyment of life.
