@@ -278,7 +278,54 @@
   * Automate good and virtuous decisions by putting them into your routine. Like only putting healthy food
     around the house.
 * Get rid of your stuff (chap 24)
-  * "One of Seneca's most powerful metaphors is the slaveowner owned by his slaves, or the wealthy man whose
+  * "One of Seneca's most powerful metaphors is the slave owner owned by his slaves, or the wealthy man whose
     vast estates lord over him rather than the other way around."
     * Signing up for increased responsibility because of the complexity of your life or your possessions can
       decrease rather than increase your enjoyment of life.
+  * "When he saw a child drinking water from a well with his hands, Diogenes smashed his own cup, realizing
+    that he had been carrying around an extraneous possession."
+  * "We become tied down by what we own."
+  * (John Boyd) "If a man can reduce his needs to zero, he is truly free: there is nothing that can be taken
+    from him and nothing anyone can do to hurt him."
+  * "No one dogged by creditors is free." Live within your means.
+  * Dependency on things gives your enemies a vulnerability.
+  * The "catastrophe of success" is the way that we become less able to do things ourselves, with time.
+  * "The more we own, the more we oversee, the less room we have to move and, ironically, the less still we
+    become."
+    * Does this apply to the number of projects -- at home, in the workplace, open source, hobbies -- that I
+      feel responsibility for and maintain? Have these become the masters of my attention? Too much
+      responsibility limiting the potency of my current pursuit.
+  * "Don't use money to purchase status anxiety."
+    * We find sly ways to mention our possessions in conversation. This is unflattering behavior.
+* Seek solitude (chap 25)
+  * "A crowded world thinks that aloneness is always loneliness and that to seek it is perversion." - John
+    Graves
+  * "Solitude is the school of genius." It is in the shower or on hikes where we come up with our insights and
+    realizations.
+  * Gates think weks: 7 days alone in a cabin in a forest. When he emerges, he's able to see farther into the
+    distance.
+  * "Everywhere I have sought peace and not found it, except in a corner with a book." (Thomas a Kempis)
+  * "Our responsibilities will be better off for our temporary experience" because we will carry back with us
+    some stillness, gratitude, patience, and insight.
+* Be a human being (chap 26)
+  * Used the example of Queen Victoria and Albert - don't overwork, burnout, and die.
+  * "This is the key. The body that each of us has was a gift. Don't work it to death. Don't burn it out.
+    Protect the gift."
+* Go to sleep (chap 27)
+  * 'People say, "I'll sleep when I'm dead," as they hasten that very death.'
+  * Churchill thought that the siesta had life-giving powers.
+* Find a hobby (chap 28)
+  * William Gladstone, prime minister of England, had tree-cutting with an axe as a hobby, to clear his mind
+    and become absorbed in something consuming and repetitive.
+  * "Leisure historically meant simply freedom from the work needed to survive, freedom *for* intellectual or
+    creative pursuits. It was learning and study and the pursuit of higher things."
+  * "William Osler, the founder of Johns Hopkins University, told aspiring medical students that when
+    chemistry or anatomy distressed their soul, 'week peace in the great pacifier, Shakespeare."
+  * For leisure, "what is absent is any external justification -- you can't do leisure for pay, you can't do
+    it to impress people." Leisure is not absent of action -- it's just absent of justification.
+  * Meditative peace from trying to conquer the limits of the physical body:
+    * "The repetition of a long swim, the challenge of lifting weights, the breathlessness of a sprint --
+      there is a cleansing experience, even if it is accompanied by suffering."
+  * "Sitting alone with a canvas? A book club? A whole afternoon for cycling? Chopping down trees? Who has the
+    time? If Churchill had the time, if Gladstone had the time, you have the time."
+  * The ideal Renaissance man is active, busy, fulfilled, and balanced.
