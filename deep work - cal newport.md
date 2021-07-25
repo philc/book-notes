@@ -4,6 +4,11 @@
     with great intensity.
   * Be invincible to the temptation to context switch.
     * When your mind wanders, return it. This is not only productive: it builds muscles of focus.
+  * Deliberate practice: "Let your mind become a lens, thanks to the converging rays of attention; let your
+    soul be all intent on whatever it is that is established in your mind as a dominant, wholly absorbing
+    idea."
+  * Cal, on being present for his kids after work: the lack of distraction in my life tones down that
+    background hum of nervous mental energy that seems to increasingly pervade people's daily lives.
 * Intro
   * Carl Jung's stone "Tower" (his private home office): "There was no electricity at the Tower, so as day
     gave way to night, light came from oil lamps and heat from the fireplace. Jung would retire to bed by ten
