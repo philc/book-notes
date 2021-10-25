@@ -86,3 +86,56 @@
       time we do something could be the last time we do it, and this recognition can invest the things we do
       with a significance and intensity that would otherwise be absent. We will no longer sleepwalk through
       our life.
+* The dichotomy of control (chap 5)
+  * Summary
+    * Save a ton of mental bandwidth and anguish by identifying the things you worry about, over which you
+      have no control, and stop worrying about them.
+    * For the rest, set internal goals about your inputs, because you can control your inputs, your values,
+      and character.
+  * Set internal, not external goals.
+    * One cannot fully control whether he wins the tennis match, but can control his internal goals, and
+      inputs: play the best game possible given his current abilities.
+    * "what better way is there to win a tennis match than by playing to the best of your ability? The Stoics
+      realized that our internal goals will affect our external performance, but they also realized that the
+      goals we consciously set for ourselves can have a dramatic impact on our subsequent emotional state."
+      (So set your goal to play your best game, not to win, and let that goal naturally carry you to victory).
+  * Rather than a goal of having my spouse love me, a related internal goal is to "behave in a lovable
+    manner."
+  * Reducing the sting of getting a manuscript rejected: "she should have as her goal not something external
+    over which she has little control, such as getting her novel published, but something internal over which
+    she has considerable control, such as how hard she works on the manuscript or how many times she submits
+    it in a given period of time."
+  * Internalizing one's goal to do one's best to change society is the only way to remain tranquil while
+    participating in civil affairs and politics (because so little is under your control).
+* Fatalism (chap 6)
+  * "We must learn to welcome whatever falls to our lot and persuade ourselves that whatever happens to us is
+    for the best. Indeed, according to Marcus, a good man will welcome 'every experience the looms of fate may
+    weave for him.'"
+    * "The fates" write the play, in which we are the actors.
+  * "We can either spend this moment wishing it could be different, or we can embrace this moment. If we
+    habitually do the former, we will spend much of our life in a state of dissatisfaction; if we habitually
+    do the latter, we will enjoy our life. This, I think, is why the Stoics recommend that we be fatalistic
+    with respect to the present."
+  * (What's being described is like a form of negative visualization: rather than thinking about how our
+    situation could be worse, so that we can enjoy it more, refuse to think about how it could be better, so
+    we can remain present, and enjoy it.)
+* Self-denial (chap 7)
+  * "Voluntary discomfort"
+    * Consider pretending that bad things have happened, and deprived you of your comforts, to appreciate more
+      what you have. "Practicing poverty".
+    * Like living in a cold climate for a season to appreciate your warm climate home.
+  * Benefits
+    * A form of training, to prepare the body and mind
+      * "We harden ourselves against misfortunes that might befall us in the future.
+    * Reduce anxiety about future calamities, after voluntarily experiencing minor ones
+    * Appreciate what we already have
+  * In addition to voluntary discomfort, Stoics advised periodically foregoing pleasure. Develop the muscle of
+    self-control. Allows us to be able to focus and not be distracted by temptations.
+  * "This self-control make sit far more likely that they will attain the goals of their philosophy of life,
+    and this in turn dramatically increases their chances of living a good life."
+  * Abstaining from pleasure can itself be a pleasure
+    * "If you refrain from eating the ice cream, you will forgo this gastronomic pleasure but will experience
+      pleasure of a different kind: As Epictetus observes, you will 'be pleased and will praise yourself' for
+      not eating it."
+    * "If we weighed the costs and benefits of eating it against the costs of not eating it -- we might find
+      that the sensible thing for us to do, if we wish to maximize our pleasure, is not eat it."
