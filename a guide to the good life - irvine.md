@@ -1,3 +1,6 @@
+* Gems
+  * If a contemptible person insults you, it can be ignored. Maybe even find comfort in that, if they're upset
+    with you, you must be doing the right thing.
 * Intro
   * "A grand goal in living is the first component of a philosophy of life. This means that if you lack a
     grand goal in living, you lack a coherent philosophy of life."
@@ -139,3 +142,82 @@
       not eating it."
     * "If we weighed the costs and benefits of eating it against the costs of not eating it -- we might find
       that the sensible thing for us to do, if we wish to maximize our pleasure, is not eat it."
+* Meditation (chap 8)
+  * Western meditation is very different from Eastern meditation. Rather than an emptying of the mind, it's
+    a period of active inquiry.
+  * "Self-review of daily living."
+    * To help us advance our practice of Stoicism, Seneca advises that we periodically meditate on the events
+      of daily living, how we responded to these events, and how, in accordance with Stoic principles we
+      should have responded to them."
+  * Seneca: "His advice to himself: when contemplating whether to criticize someone, he should consider not
+    only whether the criticism is valid but also whether the person can stand to be criticized. He adds that
+    the worse a man is, the less likely he is to accept constructive criticism."
+  * "Seneca's conclusion: if you are going to publish, you must be willing to tolerate criticism." Just don't
+    take it heart.
+  * "We should likewise be careful observers of the actions of other people. We can, after all, learn from
+    their mistakes and their successes." (As case studies).
+  * Becoming less sensitive to external inputs when practicing stoicism.
+    * "We will shrug off their insults and slights. We will also shrug off any praise they might direct our
+      way."
+* Duty (chap 9)
+  * We usually seek the approval of other people -- to appear good in their eyes -- and this creates a lot of
+    work in us to come off well, and the outcome isn't really in our control. This will disrupt our
+    tranquility.
+  * Marcus said "fellowship is the purpose behind our creation." Fulfilling our purpose requires being social;
+    it's our social duty.
+  * Marcus did not think very highly of humanity: "Marcus suggests that when we know our death is at hand, we
+    can ease our anguish on leaving this world by taking a moment to reflect on all the annoying people we
+    will no longer have to deal with when we are gone."
+  * Marcus concluded that doing his social duty was the best chance at having a good life. There's a certain
+    kind of delight that comes from fulfilling one's purpose, and doing good.
+* Social relations (chap 10)
+  * Be selective of our friends; corrupted values and vices are contagious. Avoid those who are whiners and
+    complainers; they destroy tranquility.
+  * When annoyed by people: empathize -- no doubt we annoy others at times. And being annoyed makes the whole
+    experience worse for us -- it only hurts us. (Is this true? If we successfully correct the person who's
+    being annoying, that helps everyone, and it's an act of kindness towards them).
+  * It's wasted -- and negative -- energy to speculate about what an annoying person is thinking.
+    * "We can also, Marcus suggests, lessen the negative impact other people have on our life by controlling
+      our thoughts about them."
+  * "People, Marcus reminds us, do not choose to have the faults they do. Consequently, there is a sense in
+    which the people who annoy us cannot help doing so."
+    * (No, this is too generous. Many faults should be diminished if not for malice and pride, or selfishness,
+      each of which shouldn't be simply looked over as intrinsic, imutable qualities, to be forgiven and
+      forgotten.)
+  * "Social fatalism" -- Marcus is resigned to accept people as they come.
+    * "Even though it is possible to change others, we can take some of the agony out of dealing with them by
+      telling ourselves that they are fated to behave as they do."
+  * "He adds that if we detect anger and hatred within us and wish to seek revenge, one of the best forms of
+    revenge on another person is to refuse to be like him." (fun)
+  * "It is easy these days to find people who will agree that their life would have gone better if they had
+    shown more sexual reserve; it is hard to find people who think their life would have gone better if they
+    had shown less."
+    * (OK; how "sexually reserved" should one be?)
+* Insults (chap 11)
+  * Insults can be intensely painful, because they affect our pride and identity, and can be remembered long
+    after they've occurred, upsetting our tranquility.
+  * "One of their sting-elimination strategies is to pause, when insulted, to consider whether what the
+    insulter said is true. If it is, there is little reason to be upset."
+    * "Why is it an insult to be told what is self-evident?"
+  * "As we make progress in our practice of Stoicism, we will become increasingly indifferent to other
+    people's opinions of us."
+  * "Indeed, a Stoic sage, were one to exist, would probably take the insults of his fellow humans to be like
+    the barking of a dog."
+  * If a contemptible person insults you, it can be ignored. Maybe even find comfort in that, if they're upset
+    with you, you must be doing the right thing.
+  * The voicing of an insult doesn't intrinsically carry a string -- the harm only occurs if we let it, bu
+    judging the words as harmful and then reacting negatively to them.
+  * How to respond to insults? With humor (particularly self-deprecating humor), or with no response at all --
+    with a magnanimous air. A non-response robs the insulter of the pleasure of having upset us and seeing
+    that effect.
+  * Some insults require a vigorous response, if they are likely to encourage more insults. Like checking a
+    disruptive student in class. Correct them as you would a child, with the intention of teaching them.
+* Grief (chap 12)
+  * The goal is not to silence grief; doing so would not honor the affection we have for the lost life. The
+    goal is to avoid being excessively grief-stricken.
+  * Negative visualization helps anticipate and remove the shock of losing a loved one.
+  * "Retrospective negative visualization" is comparing the time that we got with a person to having had no
+    time at all. In doing so, we can be thankful of the time we had.
+  * (some of the material in this chapter doesn't sound like a healthy approach -- "overcoming grief with
+    reason")
+  *
