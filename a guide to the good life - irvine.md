@@ -220,4 +220,32 @@
     time at all. In doing so, we can be thankful of the time we had.
   * (some of the material in this chapter doesn't sound like a healthy approach -- "overcoming grief with
     reason")
-  *
+* Anger (chap 13)
+  * Seneca argues that anger is an unhelpful emotion, too damaging to be worth its benefits.
+  * Being overly sensitive makes one susceptible to anger. Harden yourself by avoiding too much comfort, and
+    experiencing conflict often.
+  * Marcus: consider one's angry moments over offenses. What cosmic insignificance those offenses are.
+    * "(Marcus) reflects on the times, almost a century earlier, of Emperor Vespasian. People everywhere were
+      doing the usual things: marryaing, raising children, farming, loving, envying, fighting, and feasting.
+      But, he points out, 'of all that life, not a trace survives today.'"
+  * It will combat our anger to remember that we are all sinners and worthy of anger. We are no different than
+    the next man.
+  * If you do lash out, apologizing is very calming and helps us look past the original offense. And it feels
+    good to show a high quality character.
+  * Seneca: instead of being angry, "why not make yourself a person to be loved by all while you live and
+    missed when you have made your departure?"
+* Personal values (chap 14)
+  * Optimizing for popularity leads to being enslaved by others. Popularity is not something we fully control.
+    * "Stoics value their freedom, and they are therefore reluctant to do anything that will give others power
+      over them. But if we seek social status, we give other people power of us: We have todo things alculated
+      to make them admire us, and we have to refrain from doing things that will trigger their disfavor.
+      Epictetus therefore advises us not to seek social status, since if we make it our goal to please others,
+      we will no longer be free to please ourselves. We will, he says, have enslaved ourselves."
+  * The foolish desire for "immortal fame"
+    * "Think about how foolish it is to want to be rememberred after we die. For one thing, since we are dead,
+      we will not be able to enjoy our fame. For another, we are foolish to think that future generations will
+      praise us, without even having met us, when we find it so difficult to praise our contemporaries, even
+      though we meet them routinely. Instead of thinking about future fame, Marcus says, we would do well to
+      concern ourselves with our present situation; we should "make the best of today."
+  * Sometimes even your friend won't root for you to succeed, because if you do, it will make them
+    uncomfortable.
