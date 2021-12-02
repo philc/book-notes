@@ -1,6 +1,10 @@
 * Gems
   * If a contemptible person insults you, it can be ignored. Maybe even find comfort in that, if they're upset
     with you, you must be doing the right thing.
+  * Seneca: old age is full of delights and should be cherished. We graduate out of many vices and appetites;
+    we live with the full benefit of our years of wisdom.
+  * "Someone who thinks he will live forever is far more likely to waste his days than someone who fully
+    understands that his days are numbered."
 * Intro
   * "A grand goal in living is the first component of a philosophy of life. This means that if you lack a
     grand goal in living, you lack a coherent philosophy of life."
@@ -234,7 +238,7 @@
     good to show a high quality character.
   * Seneca: instead of being angry, "why not make yourself a person to be loved by all while you live and
     missed when you have made your departure?"
-* Personal values (chap 14)
+* Personal values - on seeking fame (chap 14)
   * Optimizing for popularity leads to being enslaved by others. Popularity is not something we fully control.
     * "Stoics value their freedom, and they are therefore reluctant to do anything that will give others power
       over them. But if we seek social status, we give other people power of us: We have todo things alculated
@@ -249,3 +253,50 @@
       concern ourselves with our present situation; we should "make the best of today."
   * Sometimes even your friend won't root for you to succeed, because if you do, it will make them
     uncomfortable.
+* Personal values - on luxurious living (chap 15)
+  * If one becomes unable to enjoy "anything but the best", it's a state worthy of pity. It is more of an
+    achievement to be able to find delight in the most primitive things.
+  * Increasingly discerning tastes is a curse.
+    * "People who achieve luxurious lifestyles are rarely satisfied: experiencing luxury only whets their
+      appetite for even more luxury."
+  * Musonious: eat for nourishment, and favor foods that require little prep.
+  * "Life's necessities are cheap and easily obtainable. Those who crave luxury typically have to spend
+    considerable time and energy to attain [and maintain] it; those who eschew luxury can devote this same
+    time and energy to other, more worthwhile undertakings."
+  * Stoicism calls for plain living, but not for poverty. A luxurious lifestyle has the danger of
+    compromising our character and consuming our attention.
+* Exile (chap 16)
+  * "It may be true, says Seneca, that by being exiled he has been deprived of his country, his friends and
+    family, and his property, but he has taken with him into exile the things that matter most: his place in
+    Nature and his virtue."
+  * Exile is just a "change of location."
+  * "Diogenes, with typical Cynic wit, responded that although it was true that the people of Sinope had
+    sentenced him to exile, he in turn had sentenced them to remain in Sinope."
+  * Exile has helped some -- by curtailing their pace of luxurious living, and by causing some to become
+    philosophers.
+* Old age (chap 17)
+  * "A twenty-year old might reject Stoicism in the belief that the world is going to be her oyster; an
+    eighty-year-old knows full well that the world isn't her oyster and that her situation is only going to
+    worsen with teh passing years. Although she may have believed she was immortal when she was tenty, her own
+    mortality is now painfully obvious to her. Facedw ith death, she might finally be willing to settle for
+    'mere tranquility', and she might, as a result, be ripe for stoicism."
+    * 80/20 inverse. What a difference 60 years makes...
+  * Seneca: old age is full of delights and should be cherished. We graduate out of many vices and appetites;
+    we live with the full benefit of our years of wisdom.
+    * (What a great framing)
+  * Using our knowledge of our proximity to death to our advantage:
+    * "In our youth, because we assumed that we would live forever, we took our days for granted and as a
+      result wasted many of them. In our old age, however, waking up each morning cna be a cause for
+      celebration. As Seneca notes, 'If God is pleased to add another day, we should welcome it with glad
+      hearts.' And after celebrating having been given another day to live, we can fill that day with
+      appreciative living."
+* Dying (chap 18)
+  * "Someone who thinks he will live forever is far more likely to waste his days than someone who fully
+    understands that his days are numbered."
+* On becoming a Stoic (chap 19)
+  * "Musonious observes that the time and energy people expend on illicit love affairs far outweighs the time
+    and energy it would take them, as practicing Stoics, to develop the self-control required to avoid such
+    affairs."
+  * Having a philosophy of life reduces the effort required to make life's decisions
+    * "It is, after all, hard to know what to choose when you aren't really sure what you want."
+  * The reward for practicing Stoicism is the ability to frequently take delight in the world around us.
