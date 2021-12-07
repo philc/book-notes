@@ -5,12 +5,32 @@
     we live with the full benefit of our years of wisdom.
   * "Someone who thinks he will live forever is far more likely to waste his days than someone who fully
     understands that his days are numbered."
+  * "By contemplating the impermanence of everything in this world, we are forced to recognize that every
+    time we do something could be the last time we do it, and this recognition can invest the things we do
+    with a significance and intensity that would otherwise be absent. We will no longer sleepwalk through
+    our life."
+  * "Social fatalism" -- Marcus is resigned to accept people as they come.
+    * "Even though it is possible to change others, we can take some of the agony out of dealing with them by
+      telling ourselves that they are fated to behave as they do."
+  * My other self is a coward
+    * "When doing things to cause myself physical and mental discomfort, I view myself -- or at any rate, a
+      part of me -- as an opponent in a kind of game. This opponent -- my 'other self', as it were -- is on
+      evolutionary autopilot: He wants nothing more than to be comfortable and to take advantage of whatever
+      opportunities for pleasure present themselves. My other self lacks self-discipline."
+  * "It is curious, but my competitors in a race are simultaneously my teammates in the much more important
+    competition against my other self. By racing against each other, we are all simultaneously racing
+    against ourselves."
+  * Stoicism calls for plain living, but not for poverty. A luxurious lifestyle has the danger of
+    compromising our character and consuming our attention.
+    * Increasingly discerning tastes is a curse.
+  * Tool: asking "will this improve my long-term happiness?" is a good way to extinguish our desires for
+    short-term gratification and consumption.
 * Intro
   * "A grand goal in living is the first component of a philosophy of life. This means that if you lack a
     grand goal in living, you lack a coherent philosophy of life."
-    * The most important thing you want "out" of life.
+    * This grand goal is the most important thing that you want "out" of life.
 * The first stoics (chap 2)
-  * "The Stoics enjoyed whatever "good things" happened to be available, but even as they did so, they
+  * "The Stoics enjoyed whatever 'good things' happened to be available, but even as they did so, they
     prepared themselves to give up the things in question."
     * In contrast to the asceticism of the Cynics.
   * Stoic virtue, which leads to a well-lived life.
@@ -43,7 +63,7 @@
       take it for granted. The antidote is negative visualization.
     * This adaptation has the power to extinguish our enjoyment of the world.
     * "Satisfaction treadmill"
-      * "There are doubtless many thing sin our life to which we have adapted, things that we once dreamed of
+      * "There are doubtless many things in our life to which we have adapted, things that we once dreamed of
         having but that we now take for granted, including, perhaps, our spouse, our children, our house, our
         car, and our job."
     * "The easiest way for us to gain happiness is to learn how to want the things we already have."
@@ -65,8 +85,8 @@
   * "Contemplating our own death can dramatically enhance our enjoyment of life."
   * Catastrophes
     * A catastrophe has great value in that it can blast people out of their jadedness. Ironically, those who
-      have experienced hardship are more joyful than those who haven't.
-    * Negative visualization, in contrast to catastrophes:
+      have experienced hardship are often more joyful than those who haven't.
+    * The benefits of negative visualization, in contrast to catastrophes:
       * We don't have to wait to engage in negative visualization the way we have to wait to be struck by a
         catastrophe.
       * Being struck by a catastrophe can easily kill us; engaging in negative visualization can't.
@@ -74,8 +94,8 @@
         catastrophe, can last indefinitely.
   * Saying grace before a meal can be a form of negative visualization. Transform an ordinary meal into a
     cause for celebration.
-  * Proud adults who look down on people who are satisfied. Argues that drive is not worth having if it comes
-    at the expense of satisfaction.
+  * On proud adults who look down on people who are satisfied, the author argues that drive is not worth
+    having if it comes at the expense of satisfaction.
     * "They have somehow gotten the idea that by refusing to take delight in the world, they are demonstrating
       their emotional maturity: to take delight in things, they think, is childish."
   * "Enjoy and appreciate what you have without clinging to it."
@@ -92,7 +112,7 @@
     * "By contemplating the impermanence of everything in this world, we are forced to recognize that every
       time we do something could be the last time we do it, and this recognition can invest the things we do
       with a significance and intensity that would otherwise be absent. We will no longer sleepwalk through
-      our life.
+      our life."
 * The dichotomy of control (chap 5)
   * Summary
     * Save a ton of mental bandwidth and anguish by identifying the things you worry about, over which you
@@ -113,7 +133,7 @@
     she has considerable control, such as how hard she works on the manuscript or how many times she submits
     it in a given period of time."
   * Internalizing one's goal to do one's best to change society is the only way to remain tranquil while
-    participating in civil affairs and politics (because so little is under your control).
+    participating in civil affairs and politics, because so little is under your control.
 * Fatalism (chap 6)
   * "We must learn to welcome whatever falls to our lot and persuade ourselves that whatever happens to us is
     for the best. Indeed, according to Marcus, a good man will welcome 'every experience the looms of fate may
@@ -130,15 +150,15 @@
   * "Voluntary discomfort"
     * Consider pretending that bad things have happened, and deprived you of your comforts, to appreciate more
       what you have. "Practicing poverty".
-    * Like living in a cold climate for a season to appreciate your warm climate home.
+    * Like living in a cold climate for a season to appreciate your warm climate back home.
   * Benefits
     * A form of training, to prepare the body and mind
-      * "We harden ourselves against misfortunes that might befall us in the future.
+      * "We harden ourselves against misfortunes that might befall us in the future."
     * Reduce anxiety about future calamities, after voluntarily experiencing minor ones
     * Appreciate what we already have
   * In addition to voluntary discomfort, Stoics advised periodically foregoing pleasure. Develop the muscle of
     self-control. Allows us to be able to focus and not be distracted by temptations.
-  * "This self-control make sit far more likely that they will attain the goals of their philosophy of life,
+  * "This self-control makes it far more likely that they will attain the goals of their philosophy of life,
     and this in turn dramatically increases their chances of living a good life."
   * Abstaining from pleasure can itself be a pleasure
     * "If you refrain from eating the ice cream, you will forgo this gastronomic pleasure but will experience
@@ -185,8 +205,8 @@
       our thoughts about them."
   * "People, Marcus reminds us, do not choose to have the faults they do. Consequently, there is a sense in
     which the people who annoy us cannot help doing so."
-    * (No, this is too generous. Many faults should be diminished if not for malice and pride, or selfishness,
-      each of which shouldn't be simply looked over as intrinsic, imutable qualities, to be forgiven and
+    * (No, this is too generous. Many faults could be diminished if not for malice and pride, or selfishness,
+      each of which shouldn't be simply looked over as innate, immutable qualities, to be forgiven and
       forgotten.)
   * "Social fatalism" -- Marcus is resigned to accept people as they come.
     * "Even though it is possible to change others, we can take some of the agony out of dealing with them by
@@ -196,7 +216,6 @@
   * "It is easy these days to find people who will agree that their life would have gone better if they had
     shown more sexual reserve; it is hard to find people who think their life would have gone better if they
     had shown less."
-    * (OK; how "sexually reserved" should one be?)
 * Insults (chap 11)
   * Insults can be intensely painful, because they affect our pride and identity, and can be remembered long
     after they've occurred, upsetting our tranquility.
@@ -209,7 +228,7 @@
     the barking of a dog."
   * If a contemptible person insults you, it can be ignored. Maybe even find comfort in that, if they're upset
     with you, you must be doing the right thing.
-  * The voicing of an insult doesn't intrinsically carry a string -- the harm only occurs if we let it, bu
+  * The voicing of an insult doesn't intrinsically carry a string -- the harm only occurs if we let it, but
     judging the words as harmful and then reacting negatively to them.
   * How to respond to insults? With humor (particularly self-deprecating humor), or with no response at all --
     with a magnanimous air. A non-response robs the insulter of the pleasure of having upset us and seeing
@@ -222,35 +241,36 @@
   * Negative visualization helps anticipate and remove the shock of losing a loved one.
   * "Retrospective negative visualization" is comparing the time that we got with a person to having had no
     time at all. In doing so, we can be thankful of the time we had.
-  * (some of the material in this chapter doesn't sound like a healthy approach -- "overcoming grief with
-    reason")
+  * (some of the material in this chapter doesn't sound like a healthy, in-touch approach -- "overcoming grief
+    with reason")
 * Anger (chap 13)
   * Seneca argues that anger is an unhelpful emotion, too damaging to be worth its benefits.
   * Being overly sensitive makes one susceptible to anger. Harden yourself by avoiding too much comfort, and
     experiencing conflict often.
   * Marcus: consider one's angry moments over offenses. What cosmic insignificance those offenses are.
     * "(Marcus) reflects on the times, almost a century earlier, of Emperor Vespasian. People everywhere were
-      doing the usual things: marryaing, raising children, farming, loving, envying, fighting, and feasting.
+      doing the usual things: marrying, raising children, farming, loving, envying, fighting, and feasting.
       But, he points out, 'of all that life, not a trace survives today.'"
   * It will combat our anger to remember that we are all sinners and worthy of anger. We are no different than
     the next man.
   * If you do lash out, apologizing is very calming and helps us look past the original offense. And it feels
-    good to show a high quality character.
+    good to demonstrate a high quality character.
   * Seneca: instead of being angry, "why not make yourself a person to be loved by all while you live and
     missed when you have made your departure?"
 * Personal values - on seeking fame (chap 14)
   * Optimizing for popularity leads to being enslaved by others. Popularity is not something we fully control.
     * "Stoics value their freedom, and they are therefore reluctant to do anything that will give others power
-      over them. But if we seek social status, we give other people power of us: We have todo things alculated
-      to make them admire us, and we have to refrain from doing things that will trigger their disfavor.
-      Epictetus therefore advises us not to seek social status, since if we make it our goal to please others,
-      we will no longer be free to please ourselves. We will, he says, have enslaved ourselves."
+      over them. But if we seek social status, we give other people power of us: We have to do things
+      calculated to make them admire us, and we have to refrain from doing things that will trigger their
+      disfavor. Epictetus therefore advises us not to seek social status, since if we make it our goal to
+      please others, we will no longer be free to please ourselves. We will, he says, have enslaved
+      ourselves."
   * The foolish desire for "immortal fame"
-    * "Think about how foolish it is to want to be rememberred after we die. For one thing, since we are dead,
+    * "Think about how foolish it is to want to be remembered after we die. For one thing, since we are dead,
       we will not be able to enjoy our fame. For another, we are foolish to think that future generations will
       praise us, without even having met us, when we find it so difficult to praise our contemporaries, even
       though we meet them routinely. Instead of thinking about future fame, Marcus says, we would do well to
-      concern ourselves with our present situation; we should "make the best of today."
+      concern ourselves with our present situation; we should 'make the best of today.'"
   * Sometimes even your friend won't root for you to succeed, because if you do, it will make them
     uncomfortable.
 * Personal values - on luxurious living (chap 15)
@@ -277,16 +297,16 @@
 * Old age (chap 17)
   * "A twenty-year old might reject Stoicism in the belief that the world is going to be her oyster; an
     eighty-year-old knows full well that the world isn't her oyster and that her situation is only going to
-    worsen with teh passing years. Although she may have believed she was immortal when she was tenty, her own
-    mortality is now painfully obvious to her. Facedw ith death, she might finally be willing to settle for
-    'mere tranquility', and she might, as a result, be ripe for stoicism."
+    worsen with the passing years. Although she may have believed she was immortal when she was twenty, her
+    own mortality is now painfully obvious to her. Faced with death, she might finally be willing to settle
+    for 'mere tranquility', and she might, as a result, be ripe for stoicism."
     * 80/20 inverse. What a difference 60 years makes...
   * Seneca: old age is full of delights and should be cherished. We graduate out of many vices and appetites;
     we live with the full benefit of our years of wisdom.
     * (What a great framing)
   * Using our knowledge of our proximity to death to our advantage:
     * "In our youth, because we assumed that we would live forever, we took our days for granted and as a
-      result wasted many of them. In our old age, however, waking up each morning cna be a cause for
+      result wasted many of them. In our old age, however, waking up each morning can be a cause for
       celebration. As Seneca notes, 'If God is pleased to add another day, we should welcome it with glad
       hearts.' And after celebrating having been given another day to live, we can fill that day with
       appreciative living."
@@ -300,3 +320,34 @@
   * Having a philosophy of life reduces the effort required to make life's decisions
     * "It is, after all, hard to know what to choose when you aren't really sure what you want."
   * The reward for practicing Stoicism is the ability to frequently take delight in the world around us.
+* The decline of Stoicism (chap 20)
+  * Argues Christianity promoted many of the same values of Stoicism and crowded out Stoicism.
+  * "The Stoics understood that there is at best a loose connection between our external circumstances and how
+    happy we are. In particular, it is entirely possible for someone banished to a desolate island to be
+    happier than someone living a life of luxury."
+* Practicing Stoicism (chap 22)
+  * Start with negative visualization. Upon completing, you are left only with gratitude for what you have.
+  * Having dark thoughts about a person when you can't openly confront them:
+    * "Instead I find myself having black thoughts about him. Again, these feelings of anger are pointless:
+      they disturb me but have no impact at all on the person at whom I am angry. Indeed, if anything, they
+      serve to compound the harm he does me. What a waste!"
+  * Practicing yoga can be a good vehicle for voluntary discomfort.
+  * Proactively looking for situation to practice stoic techniques:
+    * "I like to engage in activities, such as competitive rowing, that give me butterflies simply so I can
+      practice dealing with them."
+  * My other self is a coward
+    * "When doing things to cause myself physical and mental discomfort, I view myself -- or at any rate, a
+      part of me -- as an opponent in a kind of game. This opponent -- my 'other self', as it were -- is on
+      evolutionary autopilot: He wants nothing more than to be comfortable and to take advantage of whatever
+      opportunities for pleasure present themselves. My other self lacks self-discipline."
+  * "It is curious, but my competitors in a race are simultaneously my teammates in the much more important
+    competition against my other self. By racing against each other, we are all simultaneously racing against
+    ourselves."
+  * "As a consumer, I seem to have crossed some kind of great divide. It seems unlikely that, having crossed
+    it, I will ever be ale to return to the mindless consumerism that I once found to be so entertaining."
+  * Tool: asking "will this improve my long-term happiness?" is a good way to extinguish our desires for
+    short-term gratification and consumption.
+  * "I have likewise gone out of my way to put myself into situations that test my courage and willpower, in
+    part to see whether I can pass such tests."
+    * Those practicing Stoicism often desire some kind of hardship, to truly see if their skills are actually
+      strong enough to weather hardship. They desire a test. E.g. welcoming insults, or even death.
