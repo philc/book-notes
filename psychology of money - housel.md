@@ -5,6 +5,17 @@
     hate."
   * "The correct lesson to learn from surprises is that the world is surprising", and not simply that "I'll
     never make that mistake again."
+  * "Bubbles do their damage when long-term investors playing one game setart taking their cues from those
+    short-term traders playing another."
+  * Fine vs. fee
+    * "Thinking of market volatility as a fee rather than a fine is an important part of developing the kind
+      of mindset that lets you stick around long enough for investing gains to work in your favor."
+    * You can't get something for free. If you want a good return, you must be willing to pay its fee of high
+      volatility.
+    * "The worthwhile tradeoff of fees is obvious when it's clear you're paying one."
+  * Human interest is asymmetric between losses and gains. This makes pessimism generally more compelling. But
+    most people should choose optimism in thier investor outlook, because the world generally gets better for
+    most people over time.
 * Intro
   * In finance and investing, people who are untrained can regularly outperform those who are far more
     knowledgeable. In what other profession is that the case? none. Argues this is because financial success
@@ -111,3 +122,92 @@
     knowing their forecasts are backed up by decades, even centuries, of data. But since economies evolve,
     recent history is often the best guide to the future, because ti's more likely to include important
     conditions that ar erelevant to the future."
+* Room for error (chap 13)
+  * "Room for error lets you endure a range of potential outcomes, and endurance lets you stick around long
+    enough to make the odds of benefiting from a low-probability outcome fall in your favor. The biggest gains
+    occur infrequently, either because they don't happen often or because they take time to compound."
+  * Room for error: assume your future returns will be 1/3 lower than the historical average, so that your
+    planning doesn't flirt too closely with the line, and so you don't miss a key date, like your desired
+    age of retirement.
+  * "Avoid single points of failure." Avoid catastrophic risks, like leveraged bets.
+* You'll change (chap 14)
+  * Preferences and goals change: "An underpinning of psychology is that people are poor forecasters of their
+    future selves."
+  * "Young people pay good money to get tattoos removed that teenagers paid good money to get. Middle-aged
+    people rushed to divorce people who young adults rushed to marry. Older adults work hard to lose what
+    middle-aged adults worked hard to gain."
+  * If your financial plan can remain uninterrupted throughout your life because accommodates changing
+    preferences, then compounding can work uninterrupted.
+  * "Regrets are especially painful when you abandon a previous plan and feel like you have to run in the
+    other direction twice as fast to make up for lost time."
+    * Avoid extreme ends of financial and life planning, like working excessively hard when your children are
+      young, so you can retire early and be present in their teens... the benefits of such strategies will
+      wear off, and they're prone to regret.
+    * Aim for moderation in your savings rate, free time, commute, time with family.
+  * "I have no sunk costs." Be free to abandon lifestyle or financial decisions from your past which no longer
+    suit your changed self.
+* Nothing's free (chap 15)
+  * Framing "fee" vs. "fine"
+    * A fee is "the price of admission." A fine is "a punishment for wrongdoing."
+    * "Thinking of market volatility as a fee rather than a fine is an important part of developing the kind
+      of mindset that lets you stick around long enough for investing gains to work in your favor."
+    * You can't get something for free. If you want a good return, you must be willing to pay its fee of high
+      volatility.
+    * "The worthwhile tradeoff of fees is obvious when it's clear you're paying one."
+    * "Market returns are never free."
+    * (interesting)
+* You and me (chap 16)
+  * "Beware taking financial cues from people playing a different game than you are."
+  * "When investors have different goals and time horizons -- and they do in every asset class -- prices that
+    look ridiculous to one person can make sense to another, because the factors those investors pay attention
+    to are different."
+  * Bubbles are less about valuations rising, and more about investor time horizons shrinking.
+  * "The formation of bubbles isn't so much about people irrationally participating in long-term investing.
+    They're about people somewhat rationally moving toward short-term trading to capture momentum that had
+    been feeding on itself."
+  * "Bubbles do their damage when long-term investors playing one game start taking their cues from those
+    short-term traders playing another."
+  * Author's investment mission statement: "I am a passive investor optimistic in the world's ability to
+    generate real economic growth and I'm confident htat over the next 30 years that growth will accue to my
+    investments."
+    * With a mission statement like this, whatever happen sin the market this year is irrelevant and can be
+      ignored. This year's return and volatility are part of a different game.
+* The seduction of pessimism (chap 17)
+  * "Optimism sounds like a sales pitch. Pessimism sounds like someone trying to help you."
+  * "Optimism is the best bet for most people because the world tends to get better for most people most of
+    the time." The problem is that optimism sounds oblivious to risk.
+  * Doom-saying gets TV airtime. It's always fashionable.
+  * Human interest is asymmetric between losses and gains. This makes pessimism generally more compelling.
+  * "Progress happens too slowly to notice, but setbacks happen too quickly to ignore."
+  * "Growth is driven by compounding, which always takes time. Destruction is driven by single points of
+    failure, which can happen in seconds, and loss of confidence, which can happen in an instant."
+    * Which in turn makes the narratives about misfortune fresh and recent.
+  * One reason why pessimism may be so seductive: "expecting things to be bad is the best way to be pleasantly
+    surprised when they're not."
+* When you'll believe anything (chap 18)
+  * The 2008 recession was due to a narrative change
+    * "This is different from Germany in 1945, whose manufacturing base had been obliterated. Or Japan in the
+      200s, whose working-age population was shrinking. That's *tangible* economic damage. In 2009 we
+      inflicted narrative damage on ourselves, and it was vicious."
+    * "Stories are the most powerful force in the economy."
+  * "The more you want something to be true, the more likely you are to believe a story that overestimates the
+    odds of it being true." We are receptive to an "appealing fiction."
+  * Even worst-case projections rarely expect anything worse than just "slow-ish" growth. It's an appealing
+    fiction, and it's easy to believe because expecting anything worse is too painful to consider."
+  * "Since big events come out of nowhere, forecasts may do more harm than good, giving the illusion of
+    predictability in a world where unforeseen events control most outcomes."
+  * Why do investors demand forecasts when they know they're unreliable? It's because we all want to believe
+    we live in a predictable, controllable world. Useful forecasts serve as an appealing fiction.
+* All together now (summary) (chap 19)
+  * "Manage money in a way that helps you sleep at night."
+  * "Use money to gain control over your time, because not having control of your time is such a powerful and
+    universal drag on happiness. The ability to do what you want, when you want, with who you want, for as
+    long as you wan tto, pays the highest dividend that exists in finance."
+  * Uncertainty, dobut, regret about your investments: you have to view these as fees you have to pay to get a
+    return, not fines (ie. a penalty which you should avoid).
+  * "You should like risk because ti pays off over time. But you should be paranoid of ruinous risk because it
+    prevents you from taking future risks that will pay off over time."
+* Confessions - author's investment philosophy (chap 20)
+  * Used to pick stocks. Now just holds index funds. "I can afford not to be the best investor in the world,
+    but I can't afford to be the worst."
+  * Optimizes for simplicity and ease of mind.
