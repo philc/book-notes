@@ -1,5 +1,17 @@
+* Gems
+  * Efficiency and flexibility are opposing qualities in a team or business. Slack represents how far from
+    perfectly efficient you are willing to go, to achieve some level of flexibility.
+  * You can keep a whole work force busy (fully utilized) if you allow work to buffer at each point in the
+    network (on each person's desk, or on each team's backlog). This has the downside of reducing the velocity
+    of tasks through the system.
+  * Most equate control in their career as their main opportunity for growth
+    * "You have to give her some leeway, some opportunity to choose her own directions and make her own
+      mistakes. Mistakes are important here. If she has control over her choices only to the extent that she
+      makes the same ones that you would have made for her, she has no control at all."
+    * This can be called "control slack" -- enough slack in the system to absorb suboptimal choices, which
+      provides the benefit of employee control.
 * Prelude
-  * The efficiency-flexibility quandary: the more efficient you get, the harder it is to change."
+  * The efficiency-flexibility quandary: the more efficient you get, the harder it is to change.
   * Resources availability implies some inefficiency.
   * You increase efficiency by eliminating slack in the system. But slack is required for change.
 * Madmen in the halls (chap 1)
@@ -19,7 +31,7 @@
     * "She's available to do stuff that you or your people find you need to have done. That's part of what's
       so great about Sylvia: when something comes up, she can usually get cracking on it right away."
   * You can keep a whole work force busy (fully utilized) if you allow work to buffer at each point in the
-    network (on each person's desk, or on each team's backlog). This has the effect of reducing the velocity
+    network (on each person's desk, or on each team's backlog). This has the downside of reducing the velocity
     of tasks through the system.
 * The myth of fungible resources (chap 3)
   * A common strategy in restructuring is to allocate people into a pool so their partial time can be finely
@@ -27,27 +39,30 @@
   * "A highly partitioned worker can't be obsessively involved in any of his/her many fragmented tasks, and so
     tends not to bind into the team. Whatever the productivity boost due to team action may be, the
     partitioned worker does not benefit from it."
-  * Task switching penalty = mechanics of moving to a new task + rework due to inopportune abort of previous
-    task + immersion time for think-intensive tasks + frustration (emotional immersion in previous task) +
-    loss of team binding effect.
-    * From a live study of software developers in 1984, "we modeled performance against task-switching
-      frequency and came to the conclusion that the best way to understand task switching was to assume that
-      each switch imposes a direct penalty of 20m of concentration."
-    * So, restructuring which increases fragmentation of work for each worker carries a large productivity
-      penalty.
+  * Task switching penalty =
+    * mechanics of moving to a new task +
+    * rework due to inopportune abort of previous task +
+    * immersion time for think-intensive tasks +
+    * frustration (emotional immersion in previous task) +
+    * loss of team binding effect.
+  * From a live study of software developers in 1984, "we modeled performance against task-switching
+    frequency and came to the conclusion that the best way to understand task switching was to assume that
+    each switch imposes a direct penalty of 20m of concentration."
+  * So, restructuring which increases fragmentation of work for each worker carries a large productivity
+    penalty.
   * Author estimates ("in his experience") that no less than 15% loss in productivity (6hrs/week) having a
     person do two jobs versus one (i.e. cover two bases, or work with two teams). The penalty increases with
     many jobs.
 * Managing Eve (chap 5)
   * For curious, hungry employees, work must be structured to provide growth. It's as essential as the
     paycheck.
-  * Trying to control the work of volunteers in a non-profit, and robbing them of their motivation:
+  * On trying to control the work of volunteers in a non-profit, which robs them of their motivation:
     * "If you looked over their shoulders enough or imposed standards that were different from their own, they
       would shrug and walk away from the work, leaving you to do it yourself. Control, as they see it, is
-      their payment for working.
-  * Most equate control as their main opportunity for growth
+      their payment for working."
+  * Most equate control in their career as their main opportunity for growth
     * "You have to give her some leeway, some opportunity to choose her own directions and make her own
-      mistakes. Mistakes are important here. If she has control over her choices only to the extend that she
+      mistakes. Mistakes are important here. If she has control over her choices only to the extent that she
       makes the same ones that you would have made for her, she has no control at all."
     * This can be called "control slack" -- enough slack in the system to absorb suboptimal choices, which
       provides the benefit of employee control.
