@@ -4,12 +4,20 @@
   * You can keep a whole work force busy (fully utilized) if you allow work to buffer at each point in the
     network (on each person's desk, or on each team's backlog). This has the downside of reducing the velocity
     of tasks through the system.
-  * Most equate control in their career as their main opportunity for growth
+  * Most employees equate control in their career as their main opportunity for growth
     * "You have to give her some leeway, some opportunity to choose her own directions and make her own
       mistakes. Mistakes are important here. If she has control over her choices only to the extent that she
       makes the same ones that you would have made for her, she has no control at all."
     * This can be called "control slack" -- enough slack in the system to absorb suboptimal choices, which
       provides the benefit of employee control.
+  * "Slack is the way you invest in change. Slack represents operational capacity sacrificed in the interests
+    of long-term health."
+  * On too much process:
+    * "As defense against failure, standard process is a kind of armor. The more worried you are about
+      failure, the heavier the armor you put on. But armor always has a side effect of reduced mobility. The
+      overarmored organization has lost the ability to move and move quickly."
+  * The first requirement of vision is to know who we are. Someone who can say "product X might be nice, but
+    it *just isn't us*."
 * Prelude
   * The efficiency-flexibility quandary: the more efficient you get, the harder it is to change.
   * Resources availability implies some inefficiency.
@@ -44,7 +52,7 @@
     * rework due to inopportune abort of previous task +
     * immersion time for think-intensive tasks +
     * frustration (emotional immersion in previous task) +
-    * loss of team binding effect.
+    * loss of team binding effect
   * From a live study of software developers in 1984, "we modeled performance against task-switching
     frequency and came to the conclusion that the best way to understand task switching was to assume that
     each switch imposes a direct penalty of 20m of concentration."
@@ -60,7 +68,7 @@
     * "If you looked over their shoulders enough or imposed standards that were different from their own, they
       would shrug and walk away from the work, leaving you to do it yourself. Control, as they see it, is
       their payment for working."
-  * Most equate control in their career as their main opportunity for growth
+  * Most employees equate control in their career as their main opportunity for growth
     * "You have to give her some leeway, some opportunity to choose her own directions and make her own
       mistakes. Mistakes are important here. If she has control over her choices only to the extent that she
       makes the same ones that you would have made for her, she has no control at all."
@@ -106,7 +114,7 @@
     In a dysfunctional org where there's lots of wasted time, it might deliver a larger improvement.
   * Supplying additional pressure doesn't free up as much time as you'd expect within an already functioning
     org.
-    * "Ina healthy knowledge-worker organization, people don't waste a lot of time anyway, since wasted time
+    * "In a healthy knowledge-worker organization, people don't waste a lot of time anyway, since wasted time
       is an affront to them as much as it is to their management. They are more likely to be frustrated by
       wasted time than enjoy it."
 * Overtime (chap 9)
@@ -121,7 +129,7 @@
 * Power sweeper (chap 11)
   * It's bad optics to hire clerks and secretaries, but we really should. High-paid managers shouldn't be
     doing their own tech support or tweaking fonts in a deck.
-    * "We have become so obsessed with getting rid of people who are burdened with the characterization
+    * "We have become so obsessed with getting rid of people who are burdened with the characterization of
       overhead that we have ended up with organizations where many high-priced knowledge workers and managers
       are spending as much as a quarter of their time being their own overhead."
   * Low-level support roles should add less interaction overhead to a team than a full IC, because the
@@ -138,7 +146,7 @@
       burden and do it yourself."
   * "Assigning yourself to an unfilled position in your domain means that you unassign yourself (at least
     partially) from the task of managing that domain."
-  * Organizations discount the value of management, because they're not making the product, and their
+  * Organizations discount the value of management, because managers are not making the product, and their
     interventions interrupt that process in the short term. But the reality is that the changes made by good
     managers greatly increase output in the long run.
     * "Getting rid of management to save cost is like losing weight by giving blood."
@@ -148,11 +156,12 @@
       like the best of all worlds. But it wasn't. I was walking away from the challenge of management to
       return to work I knew cold. The relief it gave me was the relief of retreat."
   * Why management is hard
-    * Unlike engineering, the problems are not well-defined what makes a good solution is not black and white.
+    * Unlike engineering, the problems are not well-defined, and what makes a good solution is not black and
+      white.
     * The skills are inherently difficult to master.
 * Culture of fear (chap 13)
   * The paradox of over-staffing
-    * "the nature of project work is that whatever it is you're about to build, the early conceptual phases
+    * "The nature of project work is that whatever it is you're about to build, the early conceptual phases
       are crucial. But this kind of conceptual work can't be done with a crowd of people. A staff of no more
       than six might make perfect sense while the first-cut design decisions are made. Burdening the project
       with an extra fifty people at this stage will only make the work go slower."
@@ -185,7 +194,7 @@
     lost the ability to move and move quickly."
 * Quality (chap 16)
   * He argues that the corporate headline of "quality programs" really means headlining "defect prevention."
-    While important, this tends to crowd out the team's company's focus on much more impactful things of
+    While important, this tends to crowd out the team's and company's focus on much more impactful things of
     product value, like uniqueness, and usefulness to the customer.
   * "Defect prevention and removal efforts may add sufficient overhead to the overall process so that it is
     too slow and unresponsive to market needs."
@@ -227,23 +236,24 @@
     proclamation.
 * Fear and safety (chap 22)
   * Starting with a new way of doing things: "people can make this kind of change, but they can only make it
-    if they feel safe. In unsafe environment, people are not likely to let themselves be trust into a position
-    of inexperience."
+    if they feel safe. In an unsafe environment, people are not likely to let themselves be thrust into a
+    position of inexperience."
   * Change has an intrinsic cost. While time may have made the old way no longer the best way, the old way
     has the advantage that it's familiar and people have mastered it.
 * Trust and trustworthiness (chap 23)
-  * How effective leaders quickly acquire trust: by giving it
+  * Effective leaders quickly acquire trust is by giving it
     * "The giving of trust is an enormously powerful gesture. The recipient gives back loyalty as an almost
       autonomous response."
     * Good leaders "give responsibility well before it's been completely earned. They know when to turn their
       backs and take their chances."
-    * This is how parents progressively empower their kids -- with responsibility and trust.
+    * This is how parents progressively empower their kids -- with responsibility and trust on the edge of
+      their capabilities.
 * Timing of change (chap 24)
   * In periods of growth, people feel like they're winning, and have less anxiety about change. Change is
     perceived differently, as "growth-related change", e.g. necessary scaling and refactoring now that our
     team or business is larger. It's good. This is the easiest time to introduce chance.
-  * Introducing change during decline carries the added baggage
-    that people are anxious about corporate health, and maybe their jobs.
+  * Introducing change during decline carries the added baggage that people are anxious about corporate
+    health, and maybe their jobs.
 * What middle management is there for (chap 25)
   * Argues middle managers are the change agents -- the implementers of reinvention. If they get trimmed for
     the sake of efficiency, they org will find it much harder to execute change.
@@ -253,7 +263,7 @@
 * Danger in the white space (chap 27)
   * Competition between middle managers, creating silos
     * "Over the years, I have come to believe that this kind of competition is almost never explicitly
-      designer into an organization; rather, it happens without anyone really wanting it."
+      designed into an organization; rather, it happens without anyone really wanting it."
   * "In knowledge work, all internal competition is destructive." It inhibits cooperation, which is essential
     in knowledge work.
   * "Slackless organizations tend to be authoritarian. When efficiency is the principal goal, decision making
@@ -273,7 +283,7 @@
     (e.g. employee comp). This form of control doesn't feel sufficient when managing a single team or project,
     but at a company level with a portfolio of teams and projects, it can be sufficiently effective.
   * "Risk management is the explicit quantitative declaration of uncertainty."
-    * Delivery date of a project should be shown as a probability distribution function
+    * Delivery date of a project should be shown as a probability distribution function.
 * Risk management: the minimal prescription (chap 30)
   * "Risk diagrams": for each component, a list of outcomes, and a probability for each.
   * Risk containment: when risk materializes and costs you unplanned money or delay, this gets paid out of a
