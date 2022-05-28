@@ -1,3 +1,8 @@
+* Gems
+  * Have real conversations: "what's going on in your life that's important to you? How are you feeling about
+    things?" Not sports.
+
+
 * A brief history of male friendships (chap 3)
   * Argues that 150 years ago and into antiquity, many well-documented male relationships were openly fervent,
     emotionally; today's reservedness is not some function of men in general.
@@ -78,3 +83,41 @@
   * Share similar experiences: "the purpose here is not to give corrective advice but to support your friend
     emotionally in whatever he is experiencing. 'I get it' are three of the most powerful words in our
     language."
+* Staying the course (chap 7)
+  * Example routine with a friend: workout for 1hr, hot tub, grab lunch.
+  * Have real conversations: "what's going on in your life that's important to you? How are you feeling about
+    things?" Not sports.
+  * Add fresh rituals to your routine. Novelty is as important as consistency.
+  * Be honest with your friends. "A true friend is someone who stabs you in the front." - Oscar Wilde.
+  * "When a geographical disruption occurs in a close friendship, you may need to do some serious emotional
+    processing, talking, and planning with your friend to continue nurturing your friendship."
+* Friendship first aid (chap 8)
+  * "Chronic neglect -- forgetting to return call,s not showing up on time, or ignoring important events in
+    the other guy's life -- can undermine your friendship. These behaviors communicate indifference and lack
+    of respect."
+  * "Some friendships fade out because of loss of motivation due to time constraints, distance, and
+    reprioritizing commitments. If this is the case, it may be good to acknowledge this with the guy. Just as
+    often, you and he can find a way to keep the relationship going in a scaled-down fashion."
+* The men behind your marriage (chap 9)
+  * "Don't be afraid to notice your friend's stress and bring it to his attention."
+  * "For most guys, this kind of concern and inquiry is appreciated; opinions and judgments, usually not."
+  * "Wait for an asnwer. If your friend is downplaying the roblem, you can say something about how you feel
+    (or felt) observing this: 'It's troubling to see how different you are when you two are together!' Or
+    'Hey, man, that was upsetting. You nearly took her head off. What are you so angry about?' Your freeling
+    responses will let him know that you care and are reacting to what's going on."
+  * "The most important thing is to support your friend in figuring this out for himself. Hold off on weighing
+    in or predicting an outcome."
+  * Don't pile on, complaining about your own relationship. It shifts focus from him to you.
+  * Share your experience only when asked.
+* The father's club (chap 10)
+  * "In my close male friendships, I was finally finding the missing pieces of my relationship with my father
+     -- softness and openness along with the kind of strength that I so admired in him."
+    * Both are present in a good male friendship.
+  * "Occasionally inviting your children to join you ons pecial outings with your guy friends -- say for a
+    weekend hiking trip -- is not only fun for them but shows them directly how men can connect about
+    parenting."
+  * Show interest in and support your kids in making strong friendships with other children
+    * "To what types of people is he drawn? What is she getting from and bringing to her friendships? You will
+      need to inquire and talk to your kids about these important relationships. This is a good way to learn
+      about your child, what her interests and emotional needs are. It's also a way to find out about how
+      healthy their relationships are."
