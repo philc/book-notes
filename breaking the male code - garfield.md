@@ -2,7 +2,6 @@
   * Have real conversations: "what's going on in your life that's important to you? How are you feeling about
     things?" Not sports.
 
-
 * A brief history of male friendships (chap 3)
   * Argues that 150 years ago and into antiquity, many well-documented male relationships were openly fervent,
     emotionally; today's reservedness is not some function of men in general.
