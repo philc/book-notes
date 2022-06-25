@@ -103,3 +103,133 @@
   * They stumbled upon using their website to allow users to email money, to satisfy the use case when they
     forgot their Palm Pilots.
   * When Sacks invterviewed by invite of Thiel, he was unafraid to trash the product during his interview.
+* Money talks (chap 7)
+  * Musk was influenced by Amazon's success of being a superstore -- he set the X.com strategy to be the same
+    thing for financial services.
+  * "Debora Bezona had seen her share of companies as a benefits consultant, and when she signed X.com on as a
+    lcient, she remarked that it was 'the most diverse company I had ever worked with." (Compared to
+    Confinity, which was all 20-something males).
+  * "Musk gave employees ample freedom -- 'the room to be everything they could be' -- but set palpably high
+    expectations for performance. 'I have never worked so hard and ffast in all my life' Bezona said."
+  * "'Instead of writing everything yourself, we should use frameworks. You can get a lot more done in a
+    little time.' Musk supported the decision (to switch to Microsoft stack) beacuse it swapped flexibility
+    for efficiency."
+* If you build it (chap 8)
+  * Both Confinity and X.com grew like wildfire after launch. Both teams lived at the office.
+  * "The explosion of interest was exhausting yet energizing."
+  * "It's important to take feedback from your environment. You want to be as closed-loop as possible." - Musk
+  * Sacks became Confinity's first head of product.
+  * "I kind of became, like, 'Dr. No.' Because I'd always have to say no to everyone's stupid ideas... it was
+    really important that we not squander our precious engineering bandwidth on dieas that didn't make sense
+    for the long-term strategy of the company." - Sacks
+  * The growth innovation was a cash referral bonus for inviting friends.
+    * "In time, this bonus effort was hailed as one of the all-time great 'viral marketing' programs."
+  * "Thiel abhorred bureaucracies, and now that Confinity was growing, he risked being ensnared by the very
+    things he had abandaoned upon leaving law firm life -- management, paperwork, meetings. 'Peter is evne
+    less tolerant of bullshit than I am,' the famously administrivia-averse Musk remarked. 'My bullshit
+    tolerance is low, but Peter is like zero.'"
+  * "Great, I don't want to be CEO. I had no desire to be CEO. It's really a lot of chores... being CEO
+    sucks." - Musk
+* The widget wars (chap 9)
+  * "Network effects trump everything else" and Paypal got to email payments first, and to eBay.
+  * "Given a teetering market and a take-no-prisoners competitor, Thiel and others in the company began
+    considring an alternative course. 'A lot of us came to the conclusion that this wouldu be a
+    winner-take-all market, and that this should be a single company. Or both of us would spend ourselves into
+    oblivion."
+  * X.com's initial offer for Paypal was 92/8% releative valuation!
+    * Final relval was 50-50.
+  * Elon wasn't excited: "To put Confinity on par with his own company was bad enough, but especially so when
+    he considered X.com's lead in non-eBay accounts. He wasn't overly worried about market trends, user
+    growth, burn rate, or the competitive landscape -- X.com could have won through will and skill."
+  * "The reason I agreed to the fity-fity is because Bill Harris (his CEO) said he would resign if I didn't.
+    Otherwise, I was going to pass on the deal." (This was during a crucial fundraise, and would've torpedoed
+    it).
+  * "Shotgun wedding" merger.
+* Crash (chap 10)
+  * 100's of new users each hour, backlog of complaints, complicated merger, different techs, and actively
+    fundraising!
+  * $8M burn per month for the merged company.
+  * Thiel hustled to close the fund raise before the bubble burst.
+  * The ankle-biting competitors in payments suddenly died off when the dot-com crash happened.
+  * "If the team hadn't closed that on ehundred million, there would be no SpaceX, no LinkedIn, and no
+    Tesla." - Woolworth, X.com's CEO.
+* The nut house coup (chap 11)
+  * Using family in Nebraska to stand up customer service.
+    * "Anderson thought of her sister, Jill Harriman, who lived in Nebraska and whose Midwest patience she
+      believed would offer a strong antidote to simmering user frustration. Musk saw promise. 'Just go hold
+      wild,' he remembers telling her. 'Get a building and just go. We need a hundred people in thirty days.'"
+  * On being accepting of failure on the path to success:
+    * "If you can't tell me the four ways you fucked something up...
+      before you got it right, you probably weren't the person who worked on it." - Elon
+  * "If there were two paths where we had to choose one thing or hte other, and one asn't obviously better
+    than the other, then rather than spend a lot of time trying to figure out which one was slightly better,
+    we would just pick one and do it. And sometimes we'd be wrong... but oftentimes it's better to just pick a
+    path and do it rather than just vacillate endlessly on the choice."
+  * "Those in or near the executive ranks had grown accustomed to small, informal meetings, particularly at
+    Confinity. But at the new X.com, lengthy meetings became a fact of life. 'We would attend these exec
+    meetings where you've got twenty-plus people in a room!' remebers an exasperated Sacks."
+  * "2x problem" post-merger
+    * "CEO Bill Harris bore the brutn of the blame for the slowdown. 'He never solved the 2x problem,' one
+      executive recalled, alluding to the talent duplication following mergers."
+  * "Harris was also a decidely nontechnical CEO. By his own admission, this presented challenges at
+    engineering-focused X.com."
+  * X.com was at the mergy of eBay. One policy decision could wipe them out.
+  * Harris was focusing on user growth, but the rest of leadership believed revenue growth was the core
+    problem. They were already growing virally.
+  * On Thiel wanting to depart: "The company would be fine without him in an operational role -- and more
+    importantly, he would be better off without the encumberances of executive life."
+  * "Musk also blanced at the CEO's desire to hire more business and finance heavies. 'He was going to "tame
+    us young whippersnappers" with these, like seasoned financial executives or whatever. And we're like, "Uh,
+    these are the same seasoned executives at these banks who can't do jack, who can't compete with us?
+    Doesn't make sense."'"
+  * "Sacks shared Musk's view that post-merger growth and development had slowed to a rate that risked the
+    operation's future. Harris's imposition of additional meetings, formality, and process, he believed, came
+    at the expense of releasing new features.
+  * "X.com's leaders took Bill Harris's rocky tenure as evidence that such 'supervision' was not only
+    unnecessary, but counterproductive. For every Schmidt-like success, there seemed to be a John Sculley
+    waiting in the winds."
+  * Musk was skeptical that a wizened adult figure (Harris) was needed to whip young companies into shape:
+    * "The founder may be bizarre and erratic but this is a creative force, and they should run the company...
+      If someone's the creative force, or one of the creative forces, behind a company, at least they
+      understand which direction to go. Maybe they don't run the ship perfectly. The ship may be a little
+      erratic, and the morale may be mixed. And some parts of the ship aren't working that well. But it's
+      going in the actual right direction. Or you can have a ship that has everything buttoned down. The sails
+      are full. Morale is great. Everyoen's cheering. And it's heading straight for the reef."
+* Button up (chap 12)
+  * "Both had observed an irksome startup paradox: as X.com had grown in size, it began to accomplish less
+    work of substance."
+  * "The word *manager* had acquired this negative connotation. To call them 'product managers' would imply
+    that their job was just to 'manage things' as opposed to 'make things happen.'" - Sacks
+    * So PMs were called "producers."
+  * Output vs. employee happiness
+    * "In the view of X.com's leaders, growing organizations often made a crucial mistake: employee happiness
+      became a bigger concern than output. Its leaders feared X.com would fall into the same trap, and to
+      avoid it, company leaders set a cultural tone of impatience. They sacrified solidarity for speed and
+      made decisions by fiat when necessary. 'It wasn't an open democracy of ideas,' recalled early X.com
+      engineer and later Yelp cofounder Jeremy Stoppelman."
+  * They developed the idea of two deposits into an account to verify its ownership.
+    * "David Sacks captured the idea's elegant simplicity in his launch announcement, calling it 'an idea
+      that, like )velcro, you wish you had thought of.'"
+* The sword (chap 13)
+  * "David Sacks said taht we had the sword of Damocles hanging over our head the whole time." The sword was
+    eBay, who could crush them at any time.
+  * "The two eng teams remained separate, and operated two websites. Musk wanted to rewrite Paypal on MS
+    Windows.
+    * (He should have known better. He should have known this would cause a mutiny).
+  * Musk said "Linux in 2000 was very primitive. It didn't have much support... so why the fuck are we using
+    Linux?"
+    * MS Windows also had a recruiting advantage.
+  * "Another engineer knocked Microsoft as having been 'written because it solved an existing problem... if
+    you have these off-the-shelf tools that will just work for you,t hen you're not doing something that's new
+    and interesting and unseen.'"
+  * X.com's MS Windows servers needed to reboot every 13 seconds, due to memory leaks!
+  * The Windows rewrite didn't go well
+    * "During those several months, the company lost millions to fraud. 'If you're spending that time fixing
+      memory leads,' one QA analyst remarked, 'you're not solving the problem that's causing $30 million in
+      loss.'"
+  * Max's team had an aversion for windows, despite any valid technical arguments
+    * "With its open-source codebase and hacker roots, Liux reflected personal preference as much as
+      architectural choice -- and made it hard to sawllow a changeover to a closed-source system built by a
+      massive, multibillion-dollar corporation."
+    * "I'm just going to leave, Levchin remembered thinking. This V2 thing is just destroying my will to
+      live."
