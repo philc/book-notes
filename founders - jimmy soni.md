@@ -233,3 +233,87 @@
       massive, multibillion-dollar corporation."
     * "I'm just going to leave, Levchin remembered thinking. This V2 thing is just destroying my will to
       live."
+* Ambition's debt (chap 14)
+  * "Messy though it was, Musk's ouster from X.com gave him creative breathing room. Freed of X.com duties, he
+    could return to his earliest passions: space exploration and electrical energy. 'Steve Jobs made Pixar
+    great because he was fired from Apple,' observed early X.com engineer Scott Alexander. 'Elon did SpaceX
+    and made Tesla great because he was fired from X.com.'"
+* Igor (chap 15)
+  * Thiel was contrarian, appointing and betting on pepole based on talent rather than experience.
+  * A round table after the coup:
+    * "with Musk out, the company was now teirs. But so were its crises. Thiel divided up responsibility to
+      those in attendance for combating each of hte existential threats."
+  * Wow, Paypal/Levchin were the first to develop and use a CAPTCHA, to deter signups by bots, who wanted to
+    steal the $20 signup bonus.
+  * "'Peter called it the dials,' Sacks remebered. 'It's easy to stop fraud if you're willing to kill
+    usability. What's hard is maintaining a sufficient level of usability without letting fraud get out of
+    control. So Max controlled the fraud dial. I controlled the usability dial. And we'd come together to
+    agree on a compromise.'"
+  * "During this period, the company's leadership built what Sacks called 'the tight, iterative loop between
+    product and finance.' Weekly weekend meetings became the norm, and the company watched each adjustment of
+    hte dials closely.'"
+  * Two-fold strategy of preventing fraud at the "front door" (gates) vs. "back door" (detection).
+  * "Confinity didn't have interns in the traditional sense: Levchin preferred his teams small and his
+    engineers self-reliant. He wasn't about to tutor a college student."
+  * They converted the fraud problem to a tractable, mathematical problem.
+  * "PayPal's use of random forests, for instance, was among the world's first applications of that learning
+    method for a commercial purpose."
+* Use the force (chap 16)
+  * On upselling sells to business accounts: "Human beings are creatures of momentum, and finding ways to
+    change the default (behaviors, thinking, narrative, etc.) can result in massive change." - Amy Rowe
+    Klement.
+  * "The outages still caused panicky all-nighters, but unlike in the early months, the company felt users
+    were more forgiving. At this point, they needed PayPal as much as PayPal needed them."
+* Guerrillas (chap 18
+  * Sacks formed an "ebay response team" -- cross functional group to work on the PayPal competitive threat.
+  * There was a "fiery independent streak within the eBay seller community. 'There were some sellers that
+    didn't like giving eBay as much power over hteir business as it had... [using PayPal] was an opportunity
+    to be a little more independent from eBay.'"
+  * "The community liked PayPal. The community was successful with PayPal. We didn't like it -- but it was
+    what our community wanted." - eBay's Rob Chestnut
+* World domination (chap 19)
+  * "For Musk, Thiel, and other PayPal executives, urgency was the default posture on all things -- including
+    and especially its international expansion campaign."
+  * Got funding post-dotcom crash by cutting BD deals with a major bank in every region to have them be
+    PayPal's exclusive partner in that region. But they had no intention of leveraging that bank abroad --
+    they just wanted the war chest so they could win the domestic battle.
+  * PayPal's conquesting recipe
+    * "Sacks estimated that it took the company three months of pre-launch preparation and an aggressive
+      post-launch sales and marketing effort to conquer a new market. Thus, whenever possible, PayPal would
+      explore markets that '(1) are relatively proximate to our existing territory in terms of functionality
+      and (2) have a strong need for our service because they are under-served by existing options.'"
+* Blindsided (chap 20)
+  * "Thiel had concerns about the IPO. '[Thiel] just kept saying, "I don't want to run a public company. I
+    [have] no desire to be a public CEO. I'd rather do other things. I don't want to go public,"' Knight
+    recalled. 'He convinced me. I didn't think it was any more complicated than that.'"
+  * Nov 18 1999 -> Feb 2 2000: from 1,000 userse to 100,000 users. Apr 15 2000: 1M users!
+  * "Peter was right to sideline them. The investment bankers just got in the way of PayPal's success."
+  * "Thiel raged about the media's coverage at the office. 'It really pissed Peter off,' engineer Russ Simmons
+    remembered. 'And he gave this speech in front of the whole company talking about how they were idiots and
+    we were going to prove them wrong. That's one fo the times when I've seen him most fired up.'"
+* Outlaws (chap 21)
+  * "'[The underwriters] were like, "You guys have to have more seasoned execs on here. We can't take this to
+    our clients,"' Woolway remembered. 'And we said, "Nope. This is the team we have."
+  * From the middle of January through early February, PayPal faced two lawsuits, the threat of a third, the
+    Louisana ban, license inquiries from California and New York, the Gartner survey flap, and skeptical
+    investors. These stiff headwinds had delayed the IPO from Feb 6 to Feb 15."
+  * Peopel were super skeptical, but it had a 55% pop on the first day.
+  * "With his holdings, Musk's grub stake was now worth more than $100 million." .The company was valuaed at
+    $1B.
+  * "PayPal going public is what allowed me to have the capital to start SpaceX, because I could sell stock or
+    borrow against the stock. Before that, I didn't really hav meaningful cash." - Musk
+* And all I got was a T-shirt (chap 22)
+  * PayPal crashing eBay's customer conference. Awesome... so aggressive.
+  * "The IPO was incredibly helpful to the deal, because there was a mark".
+  * "David Sacks told his product team that it wasn't clear who the 'victor' would have been if teh two
+    companies had continued fighting it out. 'In these cases, if it's clear, then a deal usually cannot be
+    stuck' he explained ot his team, per Eric Jackson's recounting. 'Victors wouldn't want to be acquired
+    because they'd know they were going to win, and losers wouldn't be able to convince anyone to acquire
+    them.'"
+  * "In the final analysis, the eBay sale was another in the company's rich history of risk-mitigation
+    tactics. The list included merging, cutting bonus payments, fighting fraud, and even going public. From
+    one angle, PayPal's success was an exercise in careful hedging as much as it was in innovating -- and the
+    sale to eBay was simply the latest hedge."
+* The floor (conclusion)
+  * Most PayPal execs were planning to leave post acquisition. eBay did not want them to stay; they had their
+    own tallent. Thiel left right after the deal closed.
