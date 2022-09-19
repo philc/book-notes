@@ -159,3 +159,59 @@
     wakefulness, or take melatonin supplements.
   * "The parts of our brain that ignite healthy deep sleep at night are the very same araes that degenerate,
     or atrophy, earliest and most severely as we age."
+* Your mother and Shakespeare knew (the benefits of sleep for the brain) (chap 6)
+  * Sleep prior to learning primes the brain to be able to form more memories. Like clearing the deck of the
+    previous day's learning os ther'es more space for the new.
+  * 20% improvement in ability to memorize facts, after a nap
+    * "The difference between the two groups at six p.m. was not small: a 20 percent learning advantage for
+      thsoe who slept."
+  * Shallow NREM sleep contains electrical waves from the hippocampus (short-term memories) to the cortext,
+    clearning out the hippocampus and committing that information to long-term storage.
+  * Elderly (age 60-80) have a 40% deficit of sleep spindles in their shallow NREM sleep, and thus less
+    capability to learn and remember factual information.
+  * Sleep after learning performs memory consolidation, committing the new information.
+  * After studying, sleep. Time awake before the exam accelerates forgetting.
+  * The amount of deep NREM sleep is highly predictive of how much information from the day prior will be
+    retained.
+  * "Before having slept, participants were fetching memories from the short-term storage site of the
+    hippocampus -- that temporary warehouse, which is a vulnerable place to live for any long duration of time
+    if you are a enw memory. But things looked veryr different by the next morning. The memories had moved.
+    After the full night of sleep, participants were now retrieving that same ifnromation from the neocortex,
+    which sits at the top of the brain -- a region that serves as teh long-term storages ite for fact-based
+    memories, where they can now live safely, perhaps in perpetuity."
+    * (This was discovered using MRI scans; cool).
+  * "Even day-time naps as short as twenty minutes can offer a memory consolidation advantage, so long as they
+    contain enough NREM sleep."
+  * "It will even salvage those that appeared to have been lost soon after learning. In other words, following
+    a night of sleep you regain access to memories that you could not retrieve before sleep."
+  * Experiments show that reinforcing electrical voltage of NREM brainwaves, or playing audio chimes in time
+    with those waves, improves memorry consolidation by 40%. (Was this just in seniors, or in everyone?)
+  * (I wonder if reduced retention ability is a feature of old age, not a bug. What if our cortext is full of
+    valuable memories and we commit only the most useful facts during our late life sleep?)
+  * Sleep to forget?
+    * "[Forgetting] also lowers the brain resources required for retrieving those memories we want to retain."
+    * "Sleep helps you retain everything you need and nothing that you don't, improving the ease of memory
+      recollection."
+    * (So is it wise to try to artificially increase how much information we retain during sleep, incurring
+      the downside of diluting our brain's retrieval efficiency?)
+  * In an experiment of daytime naps: "sleep powerfully, yet very selectively, boosted the retention of those
+    words previously tagged for 'remembering,' yet actively avoided the strengthening of those memories tagged
+    for 'forgetting.'"
+    * Sleep is more intelligent/discriminating than we'd once imagined.
+  * For motor skill memory, "practice, then sleep, makes perfect." This is probably why regularly-scheduled
+    sessions, like piano lessons, spread across days, allows for the most progress.
+    * "20 percent improvement in performance speed and 35 percent improvement in accuracy" of a new skill,
+      after a night's sleep. Time awake does not produce this improvement.
+    * "Their typing, post-sleep, was now fluid and unbroken. Gone was the staccato performance, replaced by
+      seamless automaticity, which is the ultimate goal of motor learning."
+  * During sleep, "rather than a transfer from short to long-term memory required for saving facts, the motor
+    memories had been shifted over to brain circuits that operate below the level of consciousness. As a
+    result, those skill actions were now instinctual habits. They flowed out of hte body with ease, rather
+    than feeling effortful and deliberate."
+  * The motor memory consolidation happens ins tage 2 REM which is the most abundant durring hours 6-8 of an 8
+    hour sleep.
+  * "We see a spike in stage 2 NREM sleep, including sleep spindles, right around the infant's time of
+    transition from crawling to walking." (This is an intense period of motor skill development for the
+    infant).
+  * "Following a stroke, the brain begins to reconfigure those neural connections that remain, and sprout new
+    connections around the damaged zone." Sleep aids this process.
