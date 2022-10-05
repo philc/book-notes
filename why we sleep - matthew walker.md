@@ -1,24 +1,24 @@
 * To sleep (chap 1)
-  * "Vehicular accidents caused by drowsy driving exceed thsoe caused by alcohol and drugs combined."
-  * Sleep is clearly designed to be important. It is a bounty of ehalth benefits.
+  * "Vehicular accidents caused by drowsy driving exceed those caused by alcohol and drugs combined."
+  * Sleep is clearly designed to be important. It is a bounty of health benefits.
   * "Sleep is the single most effective thing we can do to reset our brain and body health each day." It's
     yours for the taking.
 * Caffeine, jet lag, and melatonin (chap 2)
-  * Circadian rhythm, the "powerful sculpting force" around the day. It controls release of horrmones and your
+  * Circadian rhythm, the "powerful sculpting force" around the day. It controls release of hormones and your
     mood throughout the day.
   * When daylaightght is absent, the natural human circadian rhythm is 24.25 hours. For some mammals, it's
     less than 24hrs. The sunlight resets our imprecise internal clock.
   * "Whiel light is the most reliable and thus the primary zeitgeber (synchronizer), there are many factors
     that can be used in addition to, or in the absence of, daylight."
     * Even blind people have an accurate circadian rhythm.
-  * The body's temperature fluctuates by 1/2 a degree throughout the day. The drop int emperature at night
+  * The body's temperature fluctuates by 1/2 a degree throughout the day. The drop in temperature at night
     helps initiate sleep.
     * The body's temp fluctuates whether you actually sleep or not.
   * About circadian rhythms, "the respsective peak and trough points are strikingly different from one
     individual to the next."
-  * "An adult's owlness or larkness, also known as their chronotype, is strongly determined by gnetics. If
+  * "An adult's owlness or larkness, also known as their chronotype, is strongly determined by genetics. If
     you are a night owl, it's likely that one (or both) of your parents is a night owl."
-  * "Unfortunately, owls are more chronically sleep-depreived, having to wake up with the larks, but not being
+  * "Unfortunately, owls are more chronically sleep-deprived, having to wake up with the larks, but not being
     able to fall asleep until far later in the evening." Owls are thus often forced to burn the proverbial
     candle at both ends. Greater ill health caused by a lack of sleep therefore befalls owls, including higher
     rates of depression, anxiety, diabetes, cancer, heart attack, and stroke."
@@ -48,7 +48,7 @@
     * Beware dark chocolate at night, because it contains caffeine.
     * Caffeine crash: the high contrast between complete wakefulness because of adenosine blockage, versus the
       high adenosine count once the caffeine wars off.
-    * (Fun diagram of the effects of varoius drugs on spiderweb building. Caffeine produced the worst
+    * (Fun diagram of the effects of various drugs on spiderweb building. Caffeine produced the worst
       results).
   * Sleep pressure and circadian rhythm do not coordinate, but they are usually aligned.
   * "Sleep debt" comes from adenosine accumulation across nights, because the sleep each night wasn't long
@@ -59,10 +59,10 @@
   * The first half of the night is dominated by deep sleep, stages 3 and 4. The second half is by REM.
   * (The EKG spindles from brain activity in deep NREM sleep are incredible -- how can they be so slow and
     predictable / rhythmic? It's millions of brain cells somehow coordinating and firing in unison.)
-  * The slow, synchronized waves of deep sleep are somehow transferring memroies from short to long term
+  * The slow, synchronized waves of deep sleep are somehow transferring memories from short to long term
     storage.
   * "REM sleep has also been called paradoxical sleep: a brain that appears awake, yet a body that is clearly
-    asleep. It is often imposible to distinguish REM sleep from wakefulness using just electrical brainwave
+    asleep. It is often impossible to distinguish REM sleep from wakefulness using just electrical brainwave
     activity."
   * "Each and every night, REM sleep ushers you into a preposterous theater wherein you are treated to a
     bizarre, highly associative carnival of autobiographical themes."
@@ -70,8 +70,8 @@
     completely paralyzed. There is no tone in the voluntary muscles of your body. None whatsoever."
     * Your muscles maintain tone in NREM sleep.
 * Ape beds, dinosaurs, and napping with half a brain (chap 4)
-  * All animals stuided have some form of sleep, where they are passive and unresponsive to external stimuli,
-    and when depreived, they seek to recuperate it.
+  * All animals studient have some form of sleep, where they are passive and unresponsive to external stimuli,
+    and when deprived, they seek to recuperate it.
   * Dolphins sleep in one brain hemisphere at a time.
   * Birds that group together in a flock will from a line; the middle of the flock sleeps with both halves of
     their brain. The end guards will sleep with only 1/2 of their rains, keeping one eye open.
@@ -208,10 +208,92 @@
     memories had been shifted over to brain circuits that operate below the level of consciousness. As a
     result, those skill actions were now instinctual habits. They flowed out of hte body with ease, rather
     than feeling effortful and deliberate."
-  * The motor memory consolidation happens ins tage 2 REM which is the most abundant durring hours 6-8 of an 8
+  * The motor memory consolidation happens in stage 2 REM which is the most abundant during hours 6-8 of an 8
     hour sleep.
   * "We see a spike in stage 2 NREM sleep, including sleep spindles, right around the infant's time of
     transition from crawling to walking." (This is an intense period of motor skill development for the
     infant).
   * "Following a stroke, the brain begins to reconfigure those neural connections that remain, and sprout new
     connections around the damaged zone." Sleep aids this process.
+* Too extreme for the Guinness Book of World Records: sleep deprivation and the brain (chap 7)
+  * "People miserably under-predict their degree of performance disability due to sleep."
+  * "Based on epidemiological studies of average sleep time, millions of individuals unwittingly spend years
+    of their life in a sub-optimal state of psychological and physiological functioning, never maximizing
+    their potential of mind or body due to their blind persistence in sleeping too little."
+  * "Drink drivers are often late in braking, and late in making evasive maneuvers. But when you fall asleep,
+    or have a microsleep, you stop reacting altogether." And this results in more deadly crashes.
+  * Power naps temporarily stave off severe lapses in concentration, but for a short time, and to a limited
+    degree.
+  * Impulse and reward centers of the brain -- the stratum -- become hyperactive in response to rewards when
+    the person is sleep deprived.
+    * "The heightened sensitivity of these hedonic regions was linked to a loss of the rational control from
+      the prefrontal context."
+  * "Insufficient sleep during childhood significantly predicts early onset of drug and alcohol use in that
+    same child during their later adolescent years, even when controlling for other high-risk traits, such as
+    anxiety, attention deficits, and parental history of drug use."
+  * In the movie Memento, "the part of his brain that was damaged was the hippocampus. It is the very same
+    structure that sleep deprivation will attack, blocking your brain's capacity for new learning."
+  * Cramming for an exam gives you only short-term recall
+    * "Those few memories you are able to learn while sleep-deprived are forgotten far more quickly in the
+      hours and days thereafter."
+  * "If you don't sleep the very first night after learning, you lose the chance to consolidate those
+    memories, even if you get lots of 'catch-up' sleep thereafter."
+  * Alzheimer's results in amyloid plaque buildup in the brain, which erodes the area of the brain which
+    coordinates NREM sleep. We know that less NREM inhibits the brain's ability to clear waste products like
+    amyloid. Which causes which? It's unclear, but sleep disorders greatly increase the chance of Alzheimer's.
+* Cancer, heart attacks, and a shorter life (chap 8)
+  * "Every experiment that has investigated the impact of deficient sleep on the human body has observed an
+    overactive sympathetic nervous system." I.e. stress is set to "on".
+  * Being awake does not burn materially more calories than when asleep.
+  * Sleep deprivation makes you feel more ravenous because satiety hormones are suppressed.
+  * Also, you crave more snacks/munchies because there's less impulse control: the brain prefers high-calorie
+      and sugary foods under sleep deprivation because the prefrontal cortex exhibits much less oversight of the
+      cravings.
+  * Sleep deprivation lowers testosterone in men by large amounts, as if they had aged by 10-15 years.
+  * Experimental finding: when exposed to a cold virus, 5hr/night sleepers had 50% infection rate. 8hr/night
+    had 18%.
+  * When getting vaccines, being well-slept allows the body to produce 100% more antibodies than those who
+    were poorly slept.
+  * "A single night of four hours of sleep -- such as going to bed at three a.m. and waking up at seven a.m.
+    -- swept away 70 percent of the natural killer cells circulating in the immune system, relative to a full
+    eight-hour night of sleep." You become immediately prone to sickness.
+* Dreaming as overnight therapy (chap 10)
+  * The author conjectures that dreaming provides a form of therapy which removes the "emotional charge" of
+    our most painful experiences.
+    * (This has been proven experimentally: sleeping reduced emotional response upon recalling a disturbing
+      image, but only after dream sleep.)
+  * "Through its therapeutic work at night, REM sleep performed the elegant trick of divorcing the bitter
+    emotional rind from the information-rich fruit. We can therefore learn and usefully recall aslient life
+    events without being crippled by the emotional baggage that those painful experiences originally carried."
+  * "Her patients required REM sleep with dreaming, but dreaming of a very specific kind: that which expressly
+    involved dreaming about the emotional themes and sentiments of the waking trauma. It was only that
+    content-specific form of dreaming that was able to accomplish clinical remission and offer emotional
+    closure in these patients."
+  * PTSD patients cannot uncharge the traumatic memory, due to high levels of stress hormones, but the body
+    keeps trying. This results in recurring nightmares. A drug can lower these stress levels, allowing the
+    patient to dream normally, and this greatly relieves symptoms. (Amazing).
+  * The ability to finely read the facial expressions of others diminishes from recent sleep loss. We can
+    make foes out of our friends.
+    * "Gone was the precise ability to read giveaway clues in another's face."
+* Dream creativity and dream control (chap 11)
+  * "Upon awakenings from NREM sleep, participants did not appear to be especially creative, solving few of
+    the anagram puzzles. But it was a different story when I woke them up out of REM sleep, from the dreaming
+    phase. Overall, problem-solving abilities rocketed up, with participants solving 15 to 35 percent more
+    puzzles when emerging from REM sleep compared with awakenings from NREM sleep or during daytime waking
+    performance!" (Neat)
+  * Being awoken from NREM vs. REM sleep and being tested on memory association networks:
+    * "Gone is the hierarchy of logical associative connection. The REM-sleep dreaming brain was utterly
+      uninterested in bland, commonsense links -- the one-step-to-the-next associations. Instead, the
+      REM-sleep brain was shortcutting the obvious links and favoring very distantly related concepts. The
+      logic guards had left the REM-sleep dreaming brain."
+    * Widening our mental aperture: "The brain becomes actively biased toward seeking out the most distant,
+      nonobvious links between sets of information."
+  * "Learning versus comprehension. REM sleep allows your brain to move beyond the former and truly grasp the
+    latter."
+  * "A problem difficult at night is resolved in the morning after the committee of sleep has worked on it." -
+    John Steinbeck
+  * "Different from solidifying memories, which we now realize to be the job of NREM sleep, REM sleep, and the
+    act of dreaming, takes that which we have learned in one experience setting and seeks to apply it to
+    others stored in memory."
+  * On Edison: maybe he slept less as he claimed, but he generously used daytime napping as a tool, callin git
+    "the genius gap."
