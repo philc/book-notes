@@ -6,15 +6,15 @@
 * Caffeine, jet lag, and melatonin (chap 2)
   * Circadian rhythm, the "powerful sculpting force" around the day. It controls release of hormones and your
     mood throughout the day.
-  * When daylaightght is absent, the natural human circadian rhythm is 24.25 hours. For some mammals, it's
+  * When daylight is absent, the natural human circadian rhythm is 24.25 hours. For some mammals, it's
     less than 24hrs. The sunlight resets our imprecise internal clock.
-  * "Whiel light is the most reliable and thus the primary zeitgeber (synchronizer), there are many factors
+  * "While light is the most reliable and thus the primary zeitgeber (synchronizer), there are many factors
     that can be used in addition to, or in the absence of, daylight."
     * Even blind people have an accurate circadian rhythm.
   * The body's temperature fluctuates by 1/2 a degree throughout the day. The drop in temperature at night
     helps initiate sleep.
     * The body's temp fluctuates whether you actually sleep or not.
-  * About circadian rhythms, "the respsective peak and trough points are strikingly different from one
+  * About circadian rhythms, "the respective peak and trough points are strikingly different from one
     individual to the next."
   * "An adult's owlness or larkness, also known as their chronotype, is strongly determined by genetics. If
     you are a night owl, it's likely that one (or both) of your parents is a night owl."
@@ -28,21 +28,21 @@
       * It ramps up at dusk and coordinates the timing of sleep to other brain regions.
     * Pace of jet lag adjustment
       * "It's a slow process. For every day you are in a different time zone, your suprachiasmatic nucleus can
-        only readjust by about one hour. It therefore took me about eight days to readjust to London time after
-        having been in San Francisco."
-    * Traveling Westward is easier than eastward, because it's easier to stretch a day and stay up late than it
-      is to shrink a day.
+        only readjust by about one hour. It therefore took me about eight days to readjust to London time
+        after having been in San Francisco."
+    * Traveling Westward is easier than eastward, because it's easier to stretch a day and stay up late than
+      it is to shrink a day.
     * Flight crews do routinely make long haul flights. Disturbing.
-      * "Parts of their brains -- specifically those related to learning an dmemory -- had physically shrunk,
+      * "Parts of their brains -- specifically those related to learning and memory -- had physically shrunk,
         suggesting the destruction of brain cells caused by the biological stress of time-zone travel."
     * Take melatonin at 7pm in the new time zone to mimic the body's natural reaction to dusk, and signal that
       it will soon be time for sleep.
   * Adenosine is a hormone that builds up continuously and implements sleep pressure.
-    * "Think of it as a chemical barometer that continuously regiseters the amount of elapsed time since you
+    * "Think of it as a chemical barometer that continuously registers the amount of elapsed time since you
       woke up this morning."
     * "High concentrations of adenosine simultaneously turn down the 'volume' of wake-promoting regions in the
       brain and turn up the dial on sleep-inducing regions."
-    * Cafffeine mutes adenosine by occupying the neuroreceptors that adenosine targets.
+    * Caffeine mutes adenosine by occupying the neuroreceptors that adenosine targets.
     * Caffeine level peaks 30m after oral consumption. The half-life is six hours. Although genetics allow
       some people to have a more efficient enzyme which clears it in less than three hours.
     * Beware dark chocolate at night, because it contains caffeine.
@@ -55,7 +55,7 @@
     enough to clear all of the adenosine.
   * The target for a healthy sleep program is to wake up without the use of an alarm clock.
 * Defining and generating sleep (chap 3)
-  * During sleep, NREM (non-rapid eye movement) transitions to REM sleep every 90m.
+  * During sleep, NREM(non-rapid eye movement) transitions to REM sleep every 90m.
   * The first half of the night is dominated by deep sleep, stages 3 and 4. The second half is by REM.
   * (The EKG spindles from brain activity in deep NREM sleep are incredible -- how can they be so slow and
     predictable / rhythmic? It's millions of brain cells somehow coordinating and firing in unison.)
@@ -70,7 +70,7 @@
     completely paralyzed. There is no tone in the voluntary muscles of your body. None whatsoever."
     * Your muscles maintain tone in NREM sleep.
 * Ape beds, dinosaurs, and napping with half a brain (chap 4)
-  * All animals studient have some form of sleep, where they are passive and unresponsive to external stimuli,
+  * All animals studied have some form of sleep, where they are passive and unresponsive to external stimuli,
     and when deprived, they seek to recuperate it.
   * Dolphins sleep in one brain hemisphere at a time.
   * Birds that group together in a flock will from a line; the middle of the flock sleeps with both halves of
@@ -94,30 +94,30 @@
       experience and even regulate those emotions. Moreover, we can recognize and help shape the emotions of
       others. Through both of these intra- and interpersonal processes, we can forge the types of cooperative
       alliances that are necessary to establish large social groups, and beyond groups, entire societies
-      brimming with powerful structures and idealogies. What may at first blush have seemed like a modest
+      brimming with powerful structures and ideologies. What may at first blush have seemed like a modest
       asset awarded by REM sleep to a single individual is, I believe, one of the most valuable commodities
       ensuring the survival and dominance of our species as a collective."
-  * On the value of creativity vs. the value of socail complexity
+  * On the value of creativity vs. the value of social complexity
     * "Creativity is an evolutionary powerful tool, yes. But it is largely limited to an individual. Unless
-      creative, ingenious solutions can be shared betwen individuals through the emotionally rich, pro-social
+      creative, ingenious solutions can be shared between individuals through the emotionally rich, pro-social
       bonds and cooperative relationships that REM sleep fosters -- then creativity is far more likely to
       remain fixed within an individual, rather than spread to the masses."
   * Summary of his view on the impact of sleep on human evolution: the breakout moment was learning to form
     large social groups.
-    * "Our shift from tree to ground sleeping instigated an ever more bountiful amount of rleative REM sleep
-      comparedw ith other primates, and from this bounty emerged a steep increase in cognitive creativity,
+    * "Our shift from tree to ground sleeping instigated an ever more bountiful amount of relative REM sleep
+      compared with other primates, and from this bounty emerged a steep increase in cognitive creativity,
       emotional intelligence, and thus social complexity."
-* Changes in sleep across the life sepan (chap 5)
+* Changes in sleep across the life span (chap 5)
   * Two weeks before birth, a baby doubles its consumption of REM sleep to 12 hours a day.
     * Possibly why: "The brain, like the roof of a house, is one of the last items to be constructed during
       development. And like a roof, there are sub-stages to that process -- you need a roof frame before you
       can start adding roof tiles."
     * "Dazzling bursts of electrical activity during REM sleep stimulate the lush growth of neural pathways."
   * On autism
-    * "Imbalances in synpatic connections are common in autistic individuals: excecss amounts of connectivity
+    * "Imbalances in synaptic connections are common in autistic individuals: excess amounts of connectivity
       in some parts of the brain, deficiencies in others." There's less hardware for social engagement.
     * The brain's uneven development when they're young may have a root cause in their sleep drive
-      * "Biologically, it is as if the day and night are far less light and dark, respsecitively, for autistic
+      * "Biologically, it is as if the day and night are far less light and dark, respectively, for autistic
         individuals. As a consequences, there is a weaker signal for when stable wake and solid sleep should
         take place. Additionally, and perhaps related, the total amount of sleep that autistic children can
         generate is less than that of non-autistic children."
@@ -142,7 +142,7 @@
   * "The ability to learn, retain, and thus remember new memories persists, even when set against the backdrop
     of general connectivity down-scaling throughout late development. Nevertheless, by teenage years, the
     brain is less malleable, or plastic, than during infancy or early childhood -- one example being the ease
-    with which younger childrenc an pick up a second language comparedw ith older adolescents."
+    with which younger children can pick up a second language compared with older adolescents."
   * Children have a circadian rhythm that runs earlier than teens and adults, which prevents them from
     indulging in late nights.
   * Teens have later circadian rhythms than even adults, which makes early school start times tragic for their
@@ -150,23 +150,23 @@
   * Older adults need as much sleep as always, but can't generate as much sleep drive as they age.
   * In your 40s, the deep NREM brainwaves are less deep and less powerful -- 60% less so than when we were
     teens.
-  * Older adults have weakened bladders adn thus more fragmented sleep, and less efficient time in bed. To
+  * Older adults have weakened bladders and thus more fragmented sleep, and less efficient time in bed. To
     mitigate this, drink less before bed.
-  * In seniors, dozing off on the couch because you stayed up toolate given the shifting circadian rhythm, is
+  * In seniors, dozing off on the couch because you stayed up too late given the shifting circadian rhythm, is
     in fact a nap which reduces adenosine sleep pressure when you awake in your chair, decreasing sleep
     efficiency from then on.
-  * If you want to shift your rhythm to later, get sunlight late in the day to promote melatoni and
+  * If you want to shift your rhythm to later, get sunlight late in the day to promote melatonin and
     wakefulness, or take melatonin supplements.
-  * "The parts of our brain that ignite healthy deep sleep at night are the very same araes that degenerate,
+  * "The parts of our brain that ignite healthy deep sleep at night are the very same areas that degenerate,
     or atrophy, earliest and most severely as we age."
 * Your mother and Shakespeare knew (the benefits of sleep for the brain) (chap 6)
   * Sleep prior to learning primes the brain to be able to form more memories. Like clearing the deck of the
-    previous day's learning os ther'es more space for the new.
+    previous day's learning os there's more space for the new.
   * 20% improvement in ability to memorize facts, after a nap
     * "The difference between the two groups at six p.m. was not small: a 20 percent learning advantage for
-      thsoe who slept."
-  * Shallow NREM sleep contains electrical waves from the hippocampus (short-term memories) to the cortext,
-    clearning out the hippocampus and committing that information to long-term storage.
+      those who slept."
+  * Shallow NREM sleep contains electrical waves from the hippocampus (short-term memories) to the cortex,
+    clearing out the hippocampus and committing that information to long-term storage.
   * Elderly (age 60-80) have a 40% deficit of sleep spindles in their shallow NREM sleep, and thus less
     capability to learn and remember factual information.
   * Sleep after learning performs memory consolidation, committing the new information.
@@ -175,9 +175,9 @@
     retained.
   * "Before having slept, participants were fetching memories from the short-term storage site of the
     hippocampus -- that temporary warehouse, which is a vulnerable place to live for any long duration of time
-    if you are a enw memory. But things looked veryr different by the next morning. The memories had moved.
-    After the full night of sleep, participants were now retrieving that same ifnromation from the neocortex,
-    which sits at the top of the brain -- a region that serves as teh long-term storages ite for fact-based
+    if you are a new memory. But things looked very different by the next morning. The memories had moved.
+    After the full night of sleep, participants were now retrieving that same information from the neocortex,
+    which sits at the top of the brain -- a region that serves as the long-term storage site for fact-based
     memories, where they can now live safely, perhaps in perpetuity."
     * (This was discovered using MRI scans; cool).
   * "Even day-time naps as short as twenty minutes can offer a memory consolidation advantage, so long as they
@@ -185,8 +185,8 @@
   * "It will even salvage those that appeared to have been lost soon after learning. In other words, following
     a night of sleep you regain access to memories that you could not retrieve before sleep."
   * Experiments show that reinforcing electrical voltage of NREM brainwaves, or playing audio chimes in time
-    with those waves, improves memorry consolidation by 40%. (Was this just in seniors, or in everyone?)
-  * (I wonder if reduced retention ability is a feature of old age, not a bug. What if our cortext is full of
+    with those waves, improves memory consolidation by 40%. (Was this just in seniors, or in everyone?)
+  * (I wonder if reduced retention ability is a feature of old age, not a bug. What if our cortex is full of
     valuable memories and we commit only the most useful facts during our late life sleep?)
   * Sleep to forget?
     * "[Forgetting] also lowers the brain resources required for retrieving those memories we want to retain."
@@ -233,7 +233,7 @@
     anxiety, attention deficits, and parental history of drug use."
   * In the movie Memento, "the part of his brain that was damaged was the hippocampus. It is the very same
     structure that sleep deprivation will attack, blocking your brain's capacity for new learning."
-  * Cramming for an exam gives you only short-term recall
+  * Cramming foran exam gives you only short-term recall
     * "Those few memories you are able to learn while sleep-deprived are forgotten far more quickly in the
       hours and days thereafter."
   * "If you don't sleep the very first night after learning, you lose the chance to consolidate those
@@ -263,7 +263,7 @@
     * (This has been proven experimentally: sleeping reduced emotional response upon recalling a disturbing
       image, but only after dream sleep.)
   * "Through its therapeutic work at night, REM sleep performed the elegant trick of divorcing the bitter
-    emotional rind from the information-rich fruit. We can therefore learn and usefully recall aslient life
+    emotional rind from the information-rich fruit. We can therefore learn and usefully recall salient life
     events without being crippled by the emotional baggage that those painful experiences originally carried."
   * "Her patients required REM sleep with dreaming, but dreaming of a very specific kind: that which expressly
     involved dreaming about the emotional themes and sentiments of the waking trauma. It was only that
@@ -295,5 +295,45 @@
   * "Different from solidifying memories, which we now realize to be the job of NREM sleep, REM sleep, and the
     act of dreaming, takes that which we have learned in one experience setting and seeks to apply it to
     others stored in memory."
-  * On Edison: maybe he slept less as he claimed, but he generously used daytime napping as a tool, callin git
+  * On Edison: maybe he slept less as he claimed, but he generously used daytime napping as a tool, calling it
     "the genius gap."
+* Things that go bump in the night - sleep disorders (chap 12)
+  * Insomnia patients at bedtime: the emotional centers in the brain do not ramp down normally
+    * "Think of a time when you closed the lid of a laptop to put it to sleep, but came back later to find
+      that the screen was still on, the cooling fans were still running, and the computer was still active,
+      despite the closed lid."
+* iPads, Factory Whistles, and Nightcaps - what's stopping you from sleeping? (chap 13)
+  * "Compared to reading a printed book, reading on an iPad suppressed melatonin release by over 50 percent at
+    night. Indeed, iPad reading delayed the rise of melatonin by up to three hours, relative to the natural
+    rise in these same individuals when reading a printed book."
+  * The brain is not done processing and committing learned knowledge after the first night of sleep:
+    * "Memories remain perilously vulnerable to any disruption of sleep (including that from alcohol) even up
+      to three nights after learning, despite two full nights of natural sleep prior."
+  * "Your nocturnal melatonin levels are therefore controlled not only by the loss of daylight at dusk, but
+    also the drop in temperature that coincides with the setting sun. Environmental light and temperature
+    therefore synergistically, though independently, dictate nightly melatonin levels and sculpt the ideal
+    timing of sleep."
+  * (Splash water on your face before bed, to cool off?)
+  * Unknowingly ejecting feet from the covers, to lower body temp:
+    * "The limb rebellion aids in keeping the body core cool, allowing to fall and stay asleep."
+  * "A bedroom temperature of around 65F is ideal for the sleep of most people, assuming standard
+    bedding and clothing."
+  * Cool result: using a thermally cooled body suit reduces time to fall asleep by 20%, and reduced the
+    probability that subjects would wake up in the second half of the night from 58% to 4% (!).
+  * Why hot baths help you fall asleep
+    * "The hot bath invites blood to the surface of your skin, giving you that flushed appearance. When you
+      get out of the bath, those dilated blood vessels on the surface quickly help radiate out inner heat, and
+      your core body temperature plummets."
+  * Alarm clock: "Participants artificially wrenched from sleep will suffer a spike in blood pressure and a
+    shock acceleration in heart rate caused by an explosive burst of activity from the fight-or-flight branch
+    of the nervous system."
+* Hurting and helping your sleep - pills vs. therapy (chap 14)
+  * Rather than sleep pills, which deliver a false, shallow sleep, the author recommends behavioral therapy
+    where a therapist enforces good sleep hygiene and constrains sleep initially, to rebuild confidence
+    against insomnia.
+  * Do exercise at least 2 hours before bed
+    * "Try not to exercise right before bed. Body temperature can remain high for an hour or two after
+      physical exertion. Should this occur too close to bedtime, it can be difficult to drop your core
+      temperature sufficiently to initiate sleep due to the exercise-driven increase in metabolic rate."
+  * "For healthy sleep, the scientific evidence suggests that you should avoid going to bed too full or too
+    hungry."
