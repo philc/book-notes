@@ -337,3 +337,38 @@
       temperature sufficiently to initiate sleep due to the exercise-driven increase in metabolic rate."
   * "For healthy sleep, the scientific evidence suggests that you should avoid going to bed too full or too
     hungry."
+* Sleep and society (chap 15)
+  * Mental laziness due to sleep debt:
+    * "You find that those individuals who obtained less sleep in the preceding days are the same people who
+      consistently select less challenging problems. They opt for the easy way out, generating fewer creative
+      solutions in the process."
+    * (There's a study cited which proves causation, not correlation)
+  * Ethical deviance in the workplace increases with sleep loss. I.e. self-control is inhibited, lying, taking
+    credit for the work of others.
+  * "[Nasa] discovered that naps as short as twenty-six minutes in length still offered a 34 percent
+    improvement in task performance and more than a 50 percent increase in overall alertness." These results
+    helped establish a nap culture for Nasa office workers.
+  * "It is the lack of REM sleep -- that critical stage occurring in the final hours of sleep that we strip
+    from our children and teenagers by way of early school start times -- that creates the difference between
+    a stable and unstable mental state."
+  * "Published in his seminal papers and book Genetic Studies of Genius, Terman found that no matter what the
+    age, the longer a child slept, the more intellectually gifted they were."
+  * "Increasing sleep by way of delayed school start times wonderfully increases class attendance, reduces
+    behavioral and psychological problems, and decreases substance and alcohol use."
+  * "Later start times beneficially mean a later *finish* time. This protects many teens from the
+    well-researched 'danger window' between three and six p.m., when schools finish but before parents return
+    home."
+* A new vision for sleep in the twenty-first century (chap 16)
+  * How to make better sleeping habits stick.
+    * "one practice known to convert a healthy new habit into a permanent way of life is exposure to your own
+      data."
+  * Author notes that schools teach diet, P.E., sex, and alcohol, but none teach about the promise of sleep
+    and sleep hygiene.
+  * Cool idea: work health insurance programs give workers more time off if they string together 20 nights of
+    7hr sleep.
+  * Sleep is needed most in the ICU, and the environment is not set up to deliver it.
+    * "Incessant beeping and buzzing from equipment, sporadic alarms, and frequent tests prevent anything
+      resembling restful sleep for the patient."
+    * "As it turns out, 50 to 80 percent of all intensive care alarms are unnecessary or ignorable by staff."
+  * When tired, injuries hurt more
+    * "Sleep appears to be a natural analgesic, and without it, pain is perceived more acutely by the brain."
