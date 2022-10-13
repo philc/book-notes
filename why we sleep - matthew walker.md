@@ -1,3 +1,75 @@
+* Gems
+  * "Sleep debt" comes from adenosine accumulation across nights, because the sleep each night wasn't long
+    enough to clear all of the adenosine.
+  * The target for a healthy sleep program is to wake up without the use of an alarm clock.
+  * The first half of the night is mostly deep sleep, and second is mostly REM. Memory committal occurs in
+    deep sleep. Dreaming and emotional processing occurs in REM, as well as "creative processing": seeking to
+    associate new knowledge with existing, diverse memories.
+  * REM
+    * "What emerges from all of those studies is that REM sleep is not optional during early human life, but
+      obligatory. Every hour of REM sleep appears to count, as evidenced by the desperate attempt by a fetus
+      or newborn to regain any REM sleep when it is lost."
+    * At birth, the NREM/REM ratio beings at 50/50, and throughout childhood, slowly transitions to 80/20.
+    * Argues that brain pathway expansion is the priority early in life, and is done via REM. Pruning
+      pathways, for efficiency, becomes the priority at puberty, and is done through NREM.
+    * Good analogy of an ISP using use-dependent shaping of the network
+      * "A use-reshaping and downsizing must still occur if maximum network efficiency is to be achieved."
+  * Aging
+    * In our 40s, the deep NREM brainwaves are less deep and less powerful -- 60% less so than when we were
+      teens.
+    * Older adults have weakened bladders and thus more fragmented sleep, and less efficient time in bed. To
+      mitigate this, drink less before bed.
+    * In seniors, dozing off on the couch because you stayed up too late given the shifting circadian rhythm,
+      is in fact a nap which reduces adenosine sleep pressure when you awake in your chair, decreasing sleep
+      efficiency from then on.
+  * Learning
+    * Sleep prior to learning primes the brain to be able to form more memories. Like clearing the deck of the
+      previous day's learning so there's more space for the new.
+    * 20% improvement in ability to memorize facts, after a nap
+    * Sleep after learning performs memory consolidation, committing the new information.
+    * After studying, sleep. Time awake before the exam accelerates forgetting.
+    * "Before having slept, participants were fetching memories from the short-term storage site of the
+      hippocampus -- that temporary warehouse, which is a vulnerable place to live for any long duration of
+      time if you are a new memory. But things looked very different by the next morning. The memories had
+      moved. After the full night of sleep, participants were now retrieving that same information from the
+      neocortex, which sits at the top of the brain -- a region that serves as the long-term storage site for
+      fact-based memories, where they can now live safely, perhaps in perpetuity."
+      * (This was discovered using MRI scans; cool).
+    * (From what I understand from this material, the best way to achieve the benefits of deliberate practice
+      is to nap in the middle of the day to consolidate the learning. The nap has to be long enough to allow
+      for NREM).
+    * For motor skill memory, "practice, then sleep, makes perfect." This is probably why regularly-scheduled
+      sessions, like piano lessons, spread across days, allows for the most progress.
+      * "20 percent improvement in performance speed and 35 percent improvement in accuracy" of a new skill,
+        after a night's sleep. Time awake does not produce this improvement.
+      * "Their typing, post-sleep, was now fluid and unbroken. Gone was the staccato performance, replaced by
+        seamless automaticity, which is the ultimate goal of motor learning."
+    * The motor memory consolidation happens in stage 2 REM which is the most abundant during hours 6-8 of an
+      8 hour sleep.
+    * The brain is not done processing and committing learned knowledge after the first night of sleep:
+      * "Memories remain perilously vulnerable to any disruption of sleep (including that from alcohol) even up
+        to three nights after learning, despite two full nights of natural sleep prior."
+  * Being awake does not burn materially more calories than when asleep. Sleep deprivation makes you feel more
+    ravenous because satiety hormones are suppressed. And there's less impulse control, so you crave junk food.
+  * The author conjectures that dreaming provides a form of therapy which removes the "emotional charge" of
+    our most painful experiences.
+    * (This has been proven experimentally: sleeping reduced emotional response upon recalling a disturbing
+      image, but only after dream sleep.)
+    * "Through its therapeutic work at night, REM sleep performed the elegant trick of divorcing the bitter
+      emotional rind from the information-rich fruit. We can therefore learn and usefully recall salient life
+      events without being crippled by the emotional baggage that those painful experiences originally carried."
+  * "A problem difficult at night is resolved in the morning after the committee of sleep has worked on it." -
+    John Steinbeck
+  * "Compared to reading a printed book, reading on an iPad suppressed melatonin release by over 50 percent at
+    night. Indeed, iPad reading delayed the rise of melatonin by up to three hours, relative to the natural
+    rise in these same individuals when reading a printed book."
+  * Cool result: using a thermally cooled body suit reduces time to fall asleep by 20%, and reduced the
+    probability that subjects would wake up in the second half of the night from 58% to 4% (!).
+  * "You find that those individuals who obtained less sleep in the preceding days are the same people who
+    consistently select less challenging problems. They opt for the easy way out, generating fewer creative
+    solutions in the process."
+  * "Published in his seminal papers and book Genetic Studies of Genius, Terman found that no matter what the
+    age, the longer a child slept, the more intellectually gifted they were."
 * To sleep (chap 1)
   * "Vehicular accidents caused by drowsy driving exceed those caused by alcohol and drugs combined."
   * Sleep is clearly designed to be important. It is a bounty of health benefits.
@@ -6,8 +78,8 @@
 * Caffeine, jet lag, and melatonin (chap 2)
   * Circadian rhythm, the "powerful sculpting force" around the day. It controls release of hormones and your
     mood throughout the day.
-  * When daylight is absent, the natural human circadian rhythm is 24.25 hours. For some mammals, it's
-    less than 24hrs. The sunlight resets our imprecise internal clock.
+  * When daylight is absent, the natural human circadian rhythm is 24.25 hours. For some mammals, it's less
+    than 24hrs. The sunlight resets our imprecise internal clock.
   * "While light is the most reliable and thus the primary zeitgeber (synchronizer), there are many factors
     that can be used in addition to, or in the absence of, daylight."
     * Even blind people have an accurate circadian rhythm.
@@ -22,7 +94,7 @@
     able to fall asleep until far later in the evening." Owls are thus often forced to burn the proverbial
     candle at both ends. Greater ill health caused by a lack of sleep therefore befalls owls, including higher
     rates of depression, anxiety, diabetes, cancer, heart attack, and stroke."
-    * The owls are disadvantaged because the work place has standardized on the early lark schedule.
+    * Owls are disadvantaged because the work place has standardized on the early lark schedule.
   * Melatonin
     * Melatonin is the hormone emitted by your brain to implement the circadian rhythm.
       * It ramps up at dusk and coordinates the timing of sleep to other brain regions.
@@ -55,7 +127,7 @@
     enough to clear all of the adenosine.
   * The target for a healthy sleep program is to wake up without the use of an alarm clock.
 * Defining and generating sleep (chap 3)
-  * During sleep, NREM(non-rapid eye movement) transitions to REM sleep every 90m.
+  * During sleep, NREM (non-rapid eye movement) transitions to REM sleep every 90m.
   * The first half of the night is dominated by deep sleep, stages 3 and 4. The second half is by REM.
   * (The EKG spindles from brain activity in deep NREM sleep are incredible -- how can they be so slow and
     predictable / rhythmic? It's millions of brain cells somehow coordinating and firing in unison.)
@@ -85,7 +157,8 @@
   * "From a prescription written long ago in our ancestral genetic code, the practice of natural biphasic
     sleep, and a healthy diet, appear to be the keys to a long-sustained life."
     * Argues that there's a measurable, decreased risk of heart disease in enclaves of Greece where siestas
-      still happen. Why do kids stop napping? Would they take a siesta if they had less stimulation?
+      still happen. I wonder why do kids stop napping -- would they take a siesta if they had less
+      stimulation?
   * (There's a lot of wishful evolutionary speculation in this chapter)
   * Argues that our intensity of sleep, i.e. the proportion of REM sleep, is what enables us to be intelligent
     and socially complex, when compared to other animals.
@@ -125,12 +198,12 @@
       * Initial read on the direction of causality here: "rats deprived of REM sleep during infancy go on to
         become socially withdrawn and isolated as adolescents and adults."
   * Alcohol suppresses REM sleep. Mothers who drink, even a glass in the first two weeks, noticeably inhibit
-    the REM sleep of hte fetus. Same is true when drinking while breast feeding.
+    the REM sleep of the fetus. Same is true when drinking while breast feeding.
   * Alcohol consumption during pregnancy has been linked to autism.
   * "What emerges from all of those studies is that REM sleep is not optional during early human life, but
-    obligatory. Every hour of REM sleep appears to count, as evidenced by the desperate attempt by a fetu sor
+    obligatory. Every hour of REM sleep appears to count, as evidenced by the desperate attempt by a fetus or
     newborn to regain any REM sleep when it is lost."
-  * At birth, the NREM/REM ratio beings at 50/540, and throughout childhood, slowly transitions to 80/20.
+  * At birth, the NREM/REM ratio beings at 50/50, and throughout childhood, slowly transitions to 80/20.
   * Argues that brain pathway expansion is the priority early in life, and is done via REM. Pruning pathways,
     for efficiency, becomes the priority at puberty, and is done through NREM.
   * Good analogy of an ISP using use-dependent shaping of the network
@@ -143,12 +216,15 @@
     of general connectivity down-scaling throughout late development. Nevertheless, by teenage years, the
     brain is less malleable, or plastic, than during infancy or early childhood -- one example being the ease
     with which younger children can pick up a second language compared with older adolescents."
+  * (When we say the adult brain is becoming more efficient because pathways are pruned -- does that simply
+    mean that it requires less energy and calories to operate? If so, that's a shame -- we have an abundance
+    of calories.)
   * Children have a circadian rhythm that runs earlier than teens and adults, which prevents them from
     indulging in late nights.
   * Teens have later circadian rhythms than even adults, which makes early school start times tragic for their
     sleep health.
   * Older adults need as much sleep as always, but can't generate as much sleep drive as they age.
-  * In your 40s, the deep NREM brainwaves are less deep and less powerful -- 60% less so than when we were
+  * In our 40s, the deep NREM brainwaves are less deep and less powerful -- 60% less so than when we were
     teens.
   * Older adults have weakened bladders and thus more fragmented sleep, and less efficient time in bed. To
     mitigate this, drink less before bed.
@@ -161,7 +237,7 @@
     or atrophy, earliest and most severely as we age."
 * Your mother and Shakespeare knew (the benefits of sleep for the brain) (chap 6)
   * Sleep prior to learning primes the brain to be able to form more memories. Like clearing the deck of the
-    previous day's learning os there's more space for the new.
+    previous day's learning so there's more space for the new.
   * 20% improvement in ability to memorize facts, after a nap
     * "The difference between the two groups at six p.m. was not small: a 20 percent learning advantage for
       those who slept."
@@ -184,6 +260,9 @@
     contain enough NREM sleep."
   * "It will even salvage those that appeared to have been lost soon after learning. In other words, following
     a night of sleep you regain access to memories that you could not retrieve before sleep."
+  * (From what I understand from this material, the best way to achieve the benefits of deliberate practice is
+    to nap in the middle of the day to consolidate the learning. The nap has to be long enough to allow for
+    NREM).
   * Experiments show that reinforcing electrical voltage of NREM brainwaves, or playing audio chimes in time
     with those waves, improves memory consolidation by 40%. (Was this just in seniors, or in everyone?)
   * (I wonder if reduced retention ability is a feature of old age, not a bug. What if our cortex is full of
@@ -206,7 +285,7 @@
       seamless automaticity, which is the ultimate goal of motor learning."
   * During sleep, "rather than a transfer from short to long-term memory required for saving facts, the motor
     memories had been shifted over to brain circuits that operate below the level of consciousness. As a
-    result, those skill actions were now instinctual habits. They flowed out of hte body with ease, rather
+    result, those skill actions were now instinctual habits. They flowed out of the body with ease, rather
     than feeling effortful and deliberate."
   * The motor memory consolidation happens in stage 2 REM which is the most abundant during hours 6-8 of an 8
     hour sleep.
@@ -220,7 +299,7 @@
   * "Based on epidemiological studies of average sleep time, millions of individuals unwittingly spend years
     of their life in a sub-optimal state of psychological and physiological functioning, never maximizing
     their potential of mind or body due to their blind persistence in sleeping too little."
-  * "Drink drivers are often late in braking, and late in making evasive maneuvers. But when you fall asleep,
+  * "Drunk drivers are often late in braking, and late in making evasive maneuvers. But when you fall asleep,
     or have a microsleep, you stop reacting altogether." And this results in more deadly crashes.
   * Power naps temporarily stave off severe lapses in concentration, but for a short time, and to a limited
     degree.
@@ -233,7 +312,7 @@
     anxiety, attention deficits, and parental history of drug use."
   * In the movie Memento, "the part of his brain that was damaged was the hippocampus. It is the very same
     structure that sleep deprivation will attack, blocking your brain's capacity for new learning."
-  * Cramming foran exam gives you only short-term recall
+  * Cramming for an exam gives you only short-term recall
     * "Those few memories you are able to learn while sleep-deprived are forgotten far more quickly in the
       hours and days thereafter."
   * "If you don't sleep the very first night after learning, you lose the chance to consolidate those
@@ -247,16 +326,16 @@
   * Being awake does not burn materially more calories than when asleep.
   * Sleep deprivation makes you feel more ravenous because satiety hormones are suppressed.
   * Also, you crave more snacks/munchies because there's less impulse control: the brain prefers high-calorie
-      and sugary foods under sleep deprivation because the prefrontal cortex exhibits much less oversight of the
-      cravings.
+    and sugary foods under sleep deprivation because the prefrontal cortex exhibits much less oversight of
+    the cravings.
   * Sleep deprivation lowers testosterone in men by large amounts, as if they had aged by 10-15 years.
   * Experimental finding: when exposed to a cold virus, 5hr/night sleepers had 50% infection rate. 8hr/night
     had 18%.
   * When getting vaccines, being well-slept allows the body to produce 100% more antibodies than those who
     were poorly slept.
   * "A single night of four hours of sleep -- such as going to bed at three a.m. and waking up at seven a.m.
-    -- swept away 70 percent of the natural killer cells circulating in the immune system, relative to a full
-    eight-hour night of sleep." You become immediately prone to sickness.
+  -- swept away 70 percent of the natural killer cells circulating in the immune system, relative to a full
+  eight-hour night of sleep." You become immediately prone to sickness.
 * Dreaming as overnight therapy (chap 10)
   * The author conjectures that dreaming provides a form of therapy which removes the "emotional charge" of
     our most painful experiences.
@@ -272,15 +351,16 @@
   * PTSD patients cannot uncharge the traumatic memory, due to high levels of stress hormones, but the body
     keeps trying. This results in recurring nightmares. A drug can lower these stress levels, allowing the
     patient to dream normally, and this greatly relieves symptoms. (Amazing).
-  * The ability to finely read the facial expressions of others diminishes from recent sleep loss. We can
-    make foes out of our friends.
+  * The ability to finely read the facial expressions of others diminishes from recent sleep loss. We can make
+    foes out of our friends.
     * "Gone was the precise ability to read giveaway clues in another's face."
 * Dream creativity and dream control (chap 11)
   * "Upon awakenings from NREM sleep, participants did not appear to be especially creative, solving few of
     the anagram puzzles. But it was a different story when I woke them up out of REM sleep, from the dreaming
     phase. Overall, problem-solving abilities rocketed up, with participants solving 15 to 35 percent more
     puzzles when emerging from REM sleep compared with awakenings from NREM sleep or during daytime waking
-    performance!" (Neat)
+    performance!" (Neat. Although could it be that they were simply more alert because of the physiological
+    nature of REM sleep?)
   * Being awoken from NREM vs. REM sleep and being tested on memory association networks:
     * "Gone is the hierarchy of logical associative connection. The REM-sleep dreaming brain was utterly
       uninterested in bland, commonsense links -- the one-step-to-the-next associations. Instead, the
@@ -316,8 +396,8 @@
   * (Splash water on your face before bed, to cool off?)
   * Unknowingly ejecting feet from the covers, to lower body temp:
     * "The limb rebellion aids in keeping the body core cool, allowing to fall and stay asleep."
-  * "A bedroom temperature of around 65F is ideal for the sleep of most people, assuming standard
-    bedding and clothing."
+  * "A bedroom temperature of around 65F is ideal for the sleep of most people, assuming standard bedding and
+    clothing."
   * Cool result: using a thermally cooled body suit reduces time to fall asleep by 20%, and reduced the
     probability that subjects would wake up in the second half of the night from 58% to 4% (!).
   * Why hot baths help you fall asleep
@@ -360,12 +440,12 @@
     home."
 * A new vision for sleep in the twenty-first century (chap 16)
   * How to make better sleeping habits stick.
-    * "one practice known to convert a healthy new habit into a permanent way of life is exposure to your own
+    * "One practice known to convert a healthy new habit into a permanent way of life is exposure to your own
       data."
   * Author notes that schools teach diet, P.E., sex, and alcohol, but none teach about the promise of sleep
     and sleep hygiene.
   * Cool idea: work health insurance programs give workers more time off if they string together 20 nights of
-    7hr sleep.
+    7+hr sleep.
   * Sleep is needed most in the ICU, and the environment is not set up to deliver it.
     * "Incessant beeping and buzzing from equipment, sporadic alarms, and frequent tests prevent anything
       resembling restful sleep for the patient."

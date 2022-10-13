@@ -2,6 +2,10 @@
   * "Startups operate on the principle that you need to work with other people to get stuff done, but you also
     need to stay small enough so that you actually can."
   * "Even more important than nimbleness, small size affords space to think."
+  * "When a big company makes an offer to acquire a successful startup, it almost always offers too much or
+    too little: founders only sell when they have no more concrete visions for the company, in which case the
+    acquirer probably overpaid; definite founders with robust plans don't sell, which means the offer wasn't
+    high enough."
 * Preface
   * 0 to 1 is a new innovation. 1 to n is "adding more of something familiar."
   * "The single most powerful pattern I have noticed is that successful people find value in unexpected
@@ -106,3 +110,103 @@
       completely new and it's probably not going to become a monopoly."
     * Paypal wasn't positioned to be disruptive; they didn't want to invite a fight with Visa, even though
       they were building in that direction.
+* You are not a lottery ticket (chap 6)
+  * Believe in a definite rather than indefinite future. One that you will need to bring about with the work
+    of your hands. THis encourages ambition, proactivity, and a mindset of hard work.
+  * "From the Renaissance and the Enlightenment to the mid-20th century, luck was something to be mastered,
+    dominated, and controlled."
+    * "Focus on cause and effect."
+  * "When people lack concrete plans to carry out, they use formal rules to assemble a portfolio of various
+    options", rather than bringing about a definite vision.
+  * "By the time a student gets to college, he's spent a decade curating a bewilderingly diverse resume to
+    prepare for a completely unknowable future. Come what may, he's ready -- for nothing in particular."
+  * "A definite view, by contrast, favors firm convictions. Instead of pursuing many-sided mediocrity and
+    calling it 'well-roundedness,' a definite person determines the one best thing to do and then does it."
+  * Mindset
+    * Definite: "the future will likely be X, and we can make it so."
+    * Indefinite: "the future is unknown; we'll react when it arrives."
+  * Categorizing recent history
+    * Definite and optimistic: US, 1950s-1960s (space age)
+    * Indefinite and optimistic: US, 1982-present
+    * Definite and pessimistic: China, present
+    * Indefinite and pessimistic: Europe, present
+  * (Would definite/indefinite be better framed as proactive vs. reactive?)
+  * Indefinite pessimism: probably my view of Liftoff in its mature phase, as the space consolidates and Apple
+    rolls out ATT. The employees and investors are crying out for a vision that delivers definite optimism. If
+    Apple ATT materializes, then it becomes definite pessimism.
+  * "To a definite optimist, the future will be better than the present if he plans and works to make it
+    better."
+    * A simple if-then mental model.
+  * Indefinite optimism
+    * Thiel believes this is the dominant American viewpoint, for the boomers.
+    * It encourages tracked careers, and incremental improvement of what we have today.
+  * "Instead of working for years to build a new product, indefinite optimists rearrange already-invented
+    ones. Bankers make money by rearranging the capital structures of already existing companies. Lawyers
+    resolve disputes over old things or help other people structure their affairs."
+    * (So depressing)
+  * "Finance epitomizes indefinite thinking because it's the only way to make money when you have no idea how
+    to create wealth."
+  * Under indefinite optimism, the government's role is to provide insurance to the citizens, rather than
+    coordinating ambitious plans to engineer material improvements to the nation.
+  * "In business, arguing over process has become a way to endlessly defer making concrete plans for a better
+    future."
+  * He slams biotech startups as making poor progress due to many factors, but most of all an indefinite
+    attitude -- "See what sticks; try things at random."
+  * "U.S. companies are letting cash pile up on their balance sheets without investing in new projects because
+    they don't have any concrete plans for the future."
+  * "Would-be entrepreneurs are told that nothing can be known in advance: we're supposed to listen to what
+    customers say they want, make nothing more than a 'minimum viable product,' and iterate our way to
+    success."
+  * Apple is an inspiration because of their ambitious multi-year plans, not their diligent iteration or
+    aesthetic design.
+  * "When a big company makes an offer to acquire a successful startup, it almost always offers too much or
+    too little: founders only sell when they have no more concrete visions for the company, in which case the
+    acquirer probably overpaid; definite founders with robust plans don't sell, which means the offer wasn't
+    high enough."
+  * On Facebook rejecting Yahoo's $1B offer, "a business with a good definite plan will always be underrated
+    in a world where people see the future as random."
+  * "We have to find our way back to a definite future, and the Western world needs nothing short of a
+    cultural revolution to do it."
+* Follow the money (the power law) (chap 7)
+  * Exponential growth creates severely unequal distributions.
+  * In VC, startups, and potentially elsewhere, this means some companies and markets make up the vast
+    majority of value. Facebook, Google, Apple.
+  * People don't think or observe in power law terms, and make irrational decisions because of it.
+  * "Since nobody wants to give up on an investment, VCs usually spend even more time on the most problematic
+    companies than they do on the most obviously successful."
+    * But this means the firm focuses on the average portfolio companies, which is a poor investment if only
+      one or two of the investments have the potential to make the fun.
+  * Because VC returns are based on funding a company in the head of a power law, diversification is not a
+    useful goal for VC funds.
+  * "Everybody who passes through the American school system learns not to think in power law terms. Every
+    high school course period lasts 45 minutes whatever the subject. Every student proceeds at a similar pace.
+    At college, model students obsessively hedge their futures by assembling a suite of exotic and minor
+    skills."
+  * "You can't trust a world that denies the power law to accurately frame your decisions for you, so what's
+    most important is rarely obvious."
+* Secrets (ideas) (chap 8)
+  * This chapter is about modeling innovation as "secrets" that you can discover.
+  * "What valuable company is nobody building?"
+  * Argues that modern society believes there are no "hard secrets" left. There are no blank spaces on the
+    map.
+  * "Anyone who might have had the ambition to look for a secret will first ask himself: if it were possible
+    to discover something new, wouldn't someone from the faceless global talent pool of smarter and more
+    creative people have found it already? This voice of doubt can dissuade people from even starting to look
+    for secrets in a world that seems too big a place for any individual to contribute something unique."
+    * People think, the world is flat, and the good secrets have already been discovered.
+  * There are many secrets. Just dream of all that we don't have today -- you'll find ideas like Uber, Airbnb.
+  * "The best place to look for secrets is where no one else is looking" -- not within established majors.
+* Foundations (about founding logistics) (chap 9)
+  * Founders: have a strong prehistory.
+  * Three people is an ideal-sized board.
+  * On the bus or off the bus -- about consultants: "Anyone who doesn't own stock options or draw a regular
+    salary from your company is fundamentally misaligned. At the margin, they'll be biased to claim value in
+    the near term, not help you create more in the future. That's why hiring consultants doesn't work."
+  * "Cash-poor executives" aligns motivations to grow the company at all costs.
+  * "High cash compensation teaches workers to claim value from the company as it already exists instead of
+    investing their time to create new value in the future."
+  * "Equity is the one form of compensation that can effectively orient people toward creating value in the
+    future."
+  * "Anyone who prefers owning a part of your company to being paid in cash reveals a rpeference for the long
+    term and a commitment to increasing your company's value in the future. Equity can't create perfect
+    incentives, but it's the best way for a founder to keep everyone in the company broadly aligned."
