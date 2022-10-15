@@ -6,6 +6,9 @@
     too little: founders only sell when they have no more concrete visions for the company, in which case the
     acquirer probably overpaid; definite founders with robust plans don't sell, which means the offer wasn't
     high enough."
+  * "It's better to think of distribution as something essential to the design of your product. If you've
+    invented something new but you haven't invented an effective way to sell it, you have a bad business -- no
+    matter how good the product."
 * Preface
   * 0 to 1 is a new innovation. 1 to n is "adding more of something familiar."
   * "The single most powerful pattern I have noticed is that successful people find value in unexpected
@@ -23,7 +26,7 @@
     different future."
   * "Even more important than nimbleness, small size affords space to think."
 * Party like it's 1999 (chap 2)
-  * (How much of our  best practices are shaped by mistaken reactions ot the past? E.g. lean startup,
+  * (How much of our best practices are shaped by mistaken reactions ot the past? E.g. lean startup,
     unambitious incremental progress, avoiding the creation of new markets?)
   * Don't be afraid to question or abandon the current wisdom
     * "To build the next generation of companies, we must abandon the dogmas created after the crash."
@@ -74,7 +77,7 @@
   * "The value of a business today is the sum of all the money it will make in the future."
     * Twitter is more valuable than Times because Twitter has a future where it will capture monopoly profits
       for many years. Times doesn't.
-  * For companies which will endure (Paypal, LinkedIn) high multiples are justified because most of the cash
+  * For companies which will endure (PayPal, LinkedIn) high multiples are justified because most of the cash
     flows will occur in the future.
   * "For a company to valuable it must grow and endure, but many entrepreneurs focus only on short-term
     growth. They have an excuse: growth is easy to measure, but durability isn't."
@@ -83,7 +86,7 @@
   * Characteristics of a monopoly
     * Proprietary technology
       * To qualify, you must be 10x better.
-      * Examples: Google search, Paypal, Apple iPod.
+      * Examples: Google search, PayPal, Apple iPod.
       * Ways to get 10x: solve a problem for the first time; scale the solution 10x; be an integrated
         solution.
       * (Believes integrated solutions are an under-tapped way to achieve this).
@@ -108,7 +111,7 @@
       market. "Disruption" invites a competitive battle.
     * "Indeed, if your company can be summed up by its opposition to already existing firms, it can't be
       completely new and it's probably not going to become a monopoly."
-    * Paypal wasn't positioned to be disruptive; they didn't want to invite a fight with Visa, even though
+    * PayPal wasn't positioned to be disruptive; they didn't want to invite a fight with Visa, even though
       they were building in that direction.
 * You are not a lottery ticket (chap 6)
   * Believe in a definite rather than indefinite future. One that you will need to bring about with the work
@@ -207,6 +210,106 @@
     investing their time to create new value in the future."
   * "Equity is the one form of compensation that can effectively orient people toward creating value in the
     future."
-  * "Anyone who prefers owning a part of your company to being paid in cash reveals a rpeference for the long
+  * "Anyone who prefers owning a part of your company to being paid in cash reveals a preference for the long
     term and a commitment to increasing your company's value in the future. Equity can't create perfect
     incentives, but it's the best way for a founder to keep everyone in the company broadly aligned."
+* The mechanics of mafia (chap 10)
+  * By mafia, he means a company culture where people build links and relationships for the long-run, which
+    will outlive the current company.
+  * Thiel's job before PayPal: "The lawyers I worked with ran a valuable business, and they were impressive
+    individuals one by one. But the relationships between them were oddly thin."
+  * 7 people from PayPal have founded $1B+ companies.
+  * "Since time is your most valuable asset, it's odd to spend it working with people who don't envision any
+    long-term future together. If you can't count durable relationships among the fruits of your time at work,
+    you haven't invested your time well."
+  * A career optimization: "I thought stronger relationships would make us not just happier and better at work
+    but also more successful in our careers even beyond PayPal."
+  * "Recruiting is a core competency for any company. It should never be outsourced."
+  * Why should someone join you instead of FAANG? "The only good answers are specific to your company, so you
+    won't find them in this book. But there are two general kinds of good answers: answers about your mission
+    and answers about your team."
+  * The main pitch element to your 20th hire should be: the team.
+  * "Be the Google of 1999, not the Google of 2014" when pitching candidates.
+  * "Internal peace is what enables a startup to survive at all."
+    * Internal conflict is like an autoimmune disease. he says defining clear roles where every person was
+      uniquely responsible for one thing reduced conflict.
+  * "You don't need to worry if your company doesn't make sense to conventional professionals. Better to be
+    called a cult -- or even a mafia."
+    * (A culture of extreme dedication is productive, passionate. It's one's work, which is a big portion of
+      one's waking life. The opposite is a consulting firm, where one goes to exchange time for money with
+      little care for the actual work or the projects you're contributing to.)
+* If you build it, will they come? (distribution) (chap 11)
+  * You need distribution. It's half of the product.
+  * A founder must be a great sales person: internally, in recruiting, for PR, and to customers.
+  * In the valley there's a cognitive bias against the importance of distribution, and sales people in
+    particular.
+  * "Whatever the career, sales ability distinguishes superstars from also-rans."
+    * Deal-makers, self-promoters, in academia, engineering -- everywhere.
+  * "Even the agenda of fundamental physics and the future path of cancer research are results of persuasion."
+  * "It's better to think of distribution as something essential to the design of your product. If you've
+    invented something new but you haven't invented an effective way to sell it, you have a bad business -- no
+    matter how good the product."
+    * "Success because of product quality" never happens.
+  * (There's a helpful chart that shows CAC vs. target markets; the dead zone is a CAC of $1,000 because it's
+    too expensive for mass appeal products, and too small to warrant sales.)
+  * Complex sales limit your growth rate, because the cycles are long and you need to progressively build up a
+    reference pool of customers of increasing size.
+  * Palantir's sales engine: "Our deal sizes range from $1 million to $100 million. At that price point,
+    buyers want to talk to the CEO, not the VP of Sales."
+  * The dead zone: a product which has $1,000 LTV is expensive enough to require sales, but not lucrative
+    enough to warrant it.
+  * Think of marketing and advertising as a big megaphone, to maximize reach.
+  * PayPal achieved viral growth by paying people to sign up, and paying them to refer friends. Their CAC was
+    $20 because that was the referral bonus they paid.
+  * They went after acquiring the high-velocity power users on eBay, rather than e.g. immigrants wiring money
+    back home.
+  * The power law of distribution
+    * "One of these (distribution) methods is likely to be far more powerful than every other for any given
+      business: distribution follows a power law of its own."
+    * Businesses typically only get one distribution channel to work, if any. The kitchen sink approach
+      doesn't add value.
+  * A great company appears attractive to outsiders and recruits because of the selling work, not because of
+    the product quality.
+  * "Nerds who instinctively mistrust the media often make the mistake of trying to ignore it."
+  * Consider having a public relations strategy, even if you don't need it for customer acquisition. "The
+    press can help attract investors and employees."
+* Man and machine (chap 12)
+  * An essay about how we should build tools to enhance human productivity, and not think of machines as
+    purely eliminating jobs.
+  * Machines becoming more sophisticated and eliminating jobs is very different, and much better, than the
+    same happening due to globalization."
+  * "Computers are tools, not rivals" (unlike globalization).
+  * "When we design new computer technology to help solve problems, we get all the efficiency gains of a
+    hyper-specialized trading partner without having to compete with it for resources."
+* Seeing green (chap 13)
+  * The failure of cleantech from 2006-2012, analyzed using the framework for entrepreneurial success
+    presented earlier in the book.
+  * Incremental improvement doesn't sell easily
+    * No cleantech solutions offered 10x improvements in efficiency or cleanliness at the same cost.
+    * "even if your system really is 20% better on net for the customer who buys it, people are so used to
+      exaggerated claims that you'll be met with skepticism when you try to sell."
+  * Cleantech companies compete for a huge competitive energy market, and it's misleading to realistically
+    size their market prospects against the global energy market.
+  * "Cleantech executives were running around wearing suits and ties. This was a huge red flag, because real
+    technologists wear T-shirts and jeans. So we instituted a blanket rule: pass on any company whose founders
+    dressed up for pitch meetings."
+  * Cleantech companies had poor answers for why they would be around and dominant in 10 years. Solar panel
+    pricing from China, and natural gas fracking killed many of them.
+  * "Great companies have secrets: specific reasons for success that other people don't see." Cleantech
+    companies based their plans on excitement and broadly recognized need for clean energy, not an actual,
+    specific secret insight.
+  * Tesla as a successful case study
+    * "Doing something different is what's truly good for society -- and it's also what allows a business to
+      profit by monopolizing a new market."
+      * Versus nonprofits who all pursue undifferentiated strategies to achieve a big goal like clean energy.
+    * "Special forces"
+      * "If you're at Tesla, you're choosing to be at the equivalent of Special Forces. There's the regular
+        army, and that's fine, but if you are working at Tesla, you're choosing to step up your game."
+    * Most cleantech companies underestimate distribution, but Tesla took it seriously, going directly to
+      consumers and owning the sales process, like Apple did.
+    * "Tesla built a unique brand around the secret that cleantech was even more of a social phenomenon than
+      an environmental imperative", and it started with luxury.
+* The founder's paradox (chap 14)
+  * Jobs preferred closed systems; Gates preferred open.
+  * "Founders are important not because they are the only ones whose work has value, but rather because a
+    great founder can bring out the best work from everybody at his company."
