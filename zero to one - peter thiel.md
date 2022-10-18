@@ -1,4 +1,6 @@
 * Gems
+  * "The single most powerful pattern I have noticed is that successful people find value in unexpected
+    places, and they do this by thinking about business from first principles instead of formulas."
   * "Startups operate on the principle that you need to work with other people to get stuff done, but you also
     need to stay small enough so that you actually can."
   * "Even more important than nimbleness, small size affords space to think."
@@ -6,9 +8,38 @@
     too little: founders only sell when they have no more concrete visions for the company, in which case the
     acquirer probably overpaid; definite founders with robust plans don't sell, which means the offer wasn't
     high enough."
+  * The benefits of monopolies
+    * Perfectly competitive businesses do not have surplus to innovate or focus on research. The reward of
+      a decade of monopoly profits provides incentive to innovate.
+    * "Creative monopolists give customers more choices by adding entirely new categories of abundance to the
+      world. Creative monopolies aren't just good for the rest of society; they're powerful engines for making
+      it better."
+    * In a static market, monopolies collect rent at the expense of consumers. But in the real world they are
+      innovating and creating new markets.
+    * "The history of progress is a history of better monopoly businesses replacing incumbents."
+  * You want to dominate a market for years, collecting monopoly profits. To do so you don't necessarily need
+    to be first; that's a tactic. You do need to be the last significant innovation.
+  * "When people lack concrete plans to carry out, they use formal rules to assemble a portfolio of various
+    options", rather than bringing about a definite vision.
+    * "Would-be entrepreneurs are told that nothing can be known in advance: we're supposed to listen to what
+      customers say they want, make nothing more than a 'minimum viable product,' and iterate our way to
+      success."
   * "It's better to think of distribution as something essential to the design of your product. If you've
     invented something new but you haven't invented an effective way to sell it, you have a bad business -- no
     matter how good the product."
+  * There are many secrets. Just dream of all that we don't have today -- you'll find ideas like Uber, Airbnb.
+  * "On the bus or off the bus" -- regarding consultants: "Anyone who doesn't own stock options or draw a
+    regular salary from your company is fundamentally misaligned. At the margin, they'll be biased to claim
+    value in the near term, not help you create more in the future. That's why hiring consultants doesn't
+    work."
+  * Why should someone join you instead of FAANG? "The only good answers are specific to your company, so you
+    won't find them in this book. But there are two general kinds of good answers: answers about your mission
+    and answers about your team."
+    * "Be the Google of 1999, not the Google of 2014" when pitching candidates.
+  * "Great companies have secrets: specific reasons for success that other people don't see." Cleantech
+    companies based their plans on excitement and broadly recognized need for clean energy, not an actual,
+    specific secret insight.
+
 * Preface
   * 0 to 1 is a new innovation. 1 to n is "adding more of something familiar."
   * "The single most powerful pattern I have noticed is that successful people find value in unexpected
@@ -134,9 +165,6 @@
     * Definite and pessimistic: China, present
     * Indefinite and pessimistic: Europe, present
   * (Would definite/indefinite be better framed as proactive vs. reactive?)
-  * Indefinite pessimism: probably my view of Liftoff in its mature phase, as the space consolidates and Apple
-    rolls out ATT. The employees and investors are crying out for a vision that delivers definite optimism. If
-    Apple ATT materializes, then it becomes definite pessimism.
   * "To a definite optimist, the future will be better than the present if he plans and works to make it
     better."
     * A simple if-then mental model.
@@ -179,8 +207,8 @@
     companies than they do on the most obviously successful."
     * But this means the firm focuses on the average portfolio companies, which is a poor investment if only
       one or two of the investments have the potential to make the fun.
-  * Because VC returns are based on funding a company in the head of a power law, diversification is not a
-    useful goal for VC funds.
+  * Because VC returns are based on funding a company in the head of a power law distribution, diversification
+    is not a useful goal for VC funds.
   * "Everybody who passes through the American school system learns not to think in power law terms. Every
     high school course period lasts 45 minutes whatever the subject. Every student proceeds at a similar pace.
     At college, model students obsessively hedge their futures by assembling a suite of exotic and minor
@@ -202,9 +230,10 @@
 * Foundations (about founding logistics) (chap 9)
   * Founders: have a strong prehistory.
   * Three people is an ideal-sized board.
-  * On the bus or off the bus -- about consultants: "Anyone who doesn't own stock options or draw a regular
-    salary from your company is fundamentally misaligned. At the margin, they'll be biased to claim value in
-    the near term, not help you create more in the future. That's why hiring consultants doesn't work."
+  * "On the bus or off the bus" -- regarding consultants: "Anyone who doesn't own stock options or draw a
+    regular salary from your company is fundamentally misaligned. At the margin, they'll be biased to claim
+    value in the near term, not help you create more in the future. That's why hiring consultants doesn't
+    work."
   * "Cash-poor executives" aligns motivations to grow the company at all costs.
   * "High cash compensation teaches workers to claim value from the company as it already exists instead of
     investing their time to create new value in the future."
