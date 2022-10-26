@@ -146,7 +146,7 @@
       they were building in that direction.
 * You are not a lottery ticket (chap 6)
   * Believe in a definite rather than indefinite future. One that you will need to bring about with the work
-    of your hands. THis encourages ambition, proactivity, and a mindset of hard work.
+    of your hands. This encourages ambition, proactivity, and a mindset of hard work.
   * "From the Renaissance and the Enlightenment to the mid-20th century, luck was something to be mastered,
     dominated, and controlled."
     * "Focus on cause and effect."
