@@ -173,3 +173,56 @@
   * Argues the quality / cost reduction gains over time -- "traveling along the experience curve" -- are
     widely similar across firms.
   * Operational excellence is essential for establishing sources of power, but it is not itself power.
+* The path to power - "me too" won't do (chap 8)
+  * (Helpful chapter on how firms actually transition from having no Power to having Power).
+  * "Armed with one or more of these Power types, your business is ideally positioned to become a durable
+    cash-generator, despite the best efforts of competitors. If you possess none of these, your business is at
+    risk."
+  * "Competitors can easily mimic the improvements yielded by operational excellence, eventually arbitraging
+    out the valeu to the business."
+  * Netflix had counter-positioning power against Blockbuster when it was in the DVD business. But it had no
+    power in the streaming business, despite being a first mover, and competent. "Operational excellence is
+    not a strategy."
+  * "here one might hypothesize some Scale Economies: as Netflix accumulates more data, the acuity of their
+    recommendations increases. True, but not linear: these advantages paid only diminishing returns, meaning a
+    smaller competitor of an attainable scale could realize most of the same benefit."
+    * Sounds like a criticism that could be made against any personalization company claiming their data sets
+      provide durable Power.
+  * Netflix spent most of their time on operational excellence, and rightfully so -- it was necessary, but not
+    sufficient, to guarantee ongoing differentiation.
+  * Transitioning into originals unlocked Economies of Scale power, because the content became a fixed rather
+    than variable cost, and could be consumed by Netflix's existing large subscriber base -- larger than
+    competitors'.
+  * "The saga of Netflix's ascent exemplifies intelligent adaptation over an extended period in the face of
+    daunting uncertainty. The terrain of entrepreneurs, not planners."
+  * "Prior to Netflix's success, the value potential was opaque to the investment community, not because
+    investors were thoughtless or ill-informed, but because the 'route to Power' was not just unknown, but
+    unknowable -- even to Netflix management."
+    * As soon as they established power and proved it, their share price increased 100x.
+  * What route did Netflix take to creating Power? They took the competitive position of an attractive new
+    service. "Netflix's pioneering rollout excited customers, and their influx propelled Netflix to an early
+    relative scale advantage that the company has never relinquished."
+  * The 7 powers maps "the only seven worthwhile destinations" for a company.
+  * "Crafting": the author argues that Netflix crafted their course through experimentation and testing the
+    waters, rather than far-sighted strategic planning.
+    * Crafting was the only feasible way to discover and develop all of the complements to their streaming
+      product.
+  * The first cause of every power type is invention: some new thing to break in with.
+  * "Flux" creates new footholds for invention to crack open the market and for firms to obtain power.
+  * "The 7 Powers framework focuses your attention on the critical issues and increases the odds of a
+    favorable outcome." This is "the most that strategy can accomplish, as the company develops inventions."
+  * (If power only follows invention, then a firm without power should edicate itself to having a malleable
+    development process and seek positions of high potential energy, to fuel the rate of invention.)
+  * Value capture: "Invention drives a favorable change in system economics -- you get more for less. The
+    resulting gain in the end will be split somehow between your company and other segments of the value
+    chain. The 7 Powers is all about making sure that you get some of the increase. But it is the gain
+    customers experience that will shape the market size."
+  * "Compelling value", that is sufficiently compelling such that customers rapidly adopt a product, differs
+    in magnitude by industry. For software, compelling may mean a 10x improvement. For battery efficiency, it
+    might be 2x. Jobs described this threshold as "insanely great" products.
+  * How to create invention and compelling value? Several options:
+    * Start from:
+    * 1) Your capabilities: customer need is unknown; takes awhile. E.g. Pixar.
+    * 2) Customer needs: well-known customer problem. Risk is technical: can you solve the problem?
+    * 3) Competitor-led: With a new technique or chaning environment, can you offer 10x better solution and
+      then stay ahead?
