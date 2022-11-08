@@ -5,8 +5,8 @@
     what's causing it, you're more likely to find the right path. We've been in that place many times over the
     years at Basecamp."
   * On financial controls, bureaucracy, and heavyweight process
-    * They guard so many things, but all too often they fail to protect what's both most vulnerable and most
-      precious: their employees' time and attention.
+    * They guard against so many things, but all too often they fail to protect what's both most vulnerable
+      and most precious: their employees' time and attention.
   * Don't let others schedule your time: If you don't own the vast majority of your time, it's impossible to
     be calm. You'll always be stressed out, feeling robbed of the ability to actually do your job.
   * What you want is the "oblivious joy of focus." Not to be in touch, not to be constantly reprioritizing
@@ -29,10 +29,10 @@
     otherwise, work isn't seasonal and becomes monotonous.
   * "As we continued to hear fellow entrepreneurs reminiscing about the good old days, the more we kept
     thinking, 'Why didn't they just grow slower and stay closer to the size they enjoyed the most?'" We
-    decided that if the good old days were so good, we'd do our best to simply settle there, and grow headcount
-    very slowly.
+    decided that if the good old days were so good, we'd do our best to simply settle there, and grow
+    headcount very slowly.
 * It's crazy at work
-  * 1) the workday is being sliced into tiny, fleeting work moments by an onslaught of distractions.
+  * 1) The workday is being sliced into tiny, fleeting work moments by an onslaught of distractions.
   * 2) An unhealthy obsession with growth at any cost sets towering, unrealistic expectations that stress
     people out.
   * "People can't get work done at work anymore" because of distractions, so work inevitably bleeds into home

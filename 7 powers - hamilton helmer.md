@@ -211,7 +211,7 @@
   * "Flux" creates new footholds for invention to crack open the market and for firms to obtain power.
   * "The 7 Powers framework focuses your attention on the critical issues and increases the odds of a
     favorable outcome." This is "the most that strategy can accomplish, as the company develops inventions."
-  * (If power only follows invention, then a firm without power should edicate itself to having a malleable
+  * (If power only follows invention, then a firm without power should dedicate itself to having a malleable
     development process and seek positions of high potential energy, to fuel the rate of invention.)
   * Value capture: "Invention drives a favorable change in system economics -- you get more for less. The
     resulting gain in the end will be split somehow between your company and other segments of the value
@@ -226,3 +226,55 @@
     * 2) Customer needs: well-known customer problem. Risk is technical: can you solve the problem?
     * 3) Competitor-led: With a new technique or chaning environment, can you offer 10x better solution and
       then stay ahead?
+* The power progression (chap 9)
+  * Intel as a case study: they had operational excellence and world class management in both their memory and
+    microprocessor business, but only one provided an enduring high-margin business, because in
+    microprocessors Intel had Power.
+  * MS-DOS and Lotus 123 were written for the Intel processor. This meant that IBM PC clones had to adopt
+    Intel chips too. This network economy eventually disappeared as OSes and applications abstracted away the
+    chipset.
+  * "The one-sentence story of Intel is a single design win, then a decade and a half of very high Switching
+    Costs, then Scale Economies."
+  * (This chapter has a helpful, thorough analysis of each of Intel's sources of power)
+  * All of Intel's sources of Power (scale economies, network economies, switching costs) were rooted in their
+    takeoff period.
+  * Network economies: the takeoff stage is critical for this power, because Network Economies are often
+    characterized by a tipping point: "once the leader has achieved an edge in installed base, most users will
+    find it to their benefit to choose that leader."
+    * (This was the case with Microsoft's languages, and later their operating systems. "We set the
+      standard.")
+  * "Takeoff is the stage when differential customer acquisition can take place at favorable terms, which is
+    why it presents such ideal Power opportunities."
+    * From the author's experience, the "takeoff period" for companies in a market lasts while the business is
+      growing 40% or more per year. Such high growth indicates ongoing flux and opportunity to establish
+      power, and for market leadership swaps.
+  * "If a company has not established Power, competitive arbitrage will catch up as soon as growth slows;
+    fundamentals will assert themselves, and the favorable early returns will prove fleeting."
+    * The company will transition to being a low-margin player running hard on a treadmill of competition.
+    * (Thiel: competition is for losers)
+  * "The [Benefit of power] are common, and they often bear little positive impact on company value, as they
+    are generally subject to full arbitrage. The true potential for value lies in those rare instances in
+    which you can *prevent* such arbitrage, and it is the Barrier which accomplishes this. Thus, the decisive
+    attainment of Power often syncs up with the establishment of the Barrier."
+  * So, the question is, "when must Power be established"? It varies by the type of Power.
+  * Power progression: Phase of business -> when a power can be established
+    * Origination: Cornered Resource, Counter-Positioning
+    * Takeoff: Network Economies, Scale Economies, Switching Costs
+    * Stability: Branding, Process Power
+  * "The Counter-Positioning and Cornered Resource are most likely to be established in the origination stage.
+    These are wonderful, durable types of Power specifically because your 'route to Power' is locked in early,
+    so lon gas you execute well."
+  * Process Power is developed in the stability phase. "Only when a company has scaled sufficiently and
+    operated long enough can it have evolved processes which are sufficiently complex or opaque to defy speedy
+    emulation."
+  * Branding: if one can invest enough time into branding, and remaining a market leader until the stability
+    phase, then you can qualify for this power, which is unavailable to new entrants.
+  * "In the high flux shortened time frame of the takeoff Stage, sufficiently timely imitation becomes less
+    likely, and excellent execution can be highly strategic."
+  * (Warren Buffet) "Good managers can rarely reverse the course of a bad business, i.e. one without Power."
+  * A business must have a route to Power over each one of its competitors for it to have sustainable
+    differentiation. The Power used may be different per competitor.
+  * The prospect of monopoly profits is the incentive -- the fuel -- for invention.
+    * "From a static viewpoint, the search for POwer may seem like a zero sum game of preventing gains flowing
+      to consumers. But from a Dynamics viewpoint, it is the possibility of Power that is a critical motivator
+      of invention."
