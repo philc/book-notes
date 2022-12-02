@@ -65,3 +65,81 @@
     times for eating, sleeping, watching Tv.
   * Dolto popularized listening carefully to one's kids and giving them the credit of being rational, while
     still setting boundaries (a cadre).
+* Day care? (chap 6)
+  * The believed benefit of a creche (a French daycare), besides the watching of the kid, is the
+    socialization.
+  * According to a large study, children fared better when "enhancing experiences" -- like going to the
+    library -- were part of the childcare.
+* Bebe au lait (chap 7)
+  * Few women in France breastfeed their kids. The reason seems to be cultural: women don't think they have
+    enough milk, and there's no peer pressure for them to do so.
+* The perfect mother doesn't exist (chap 8)
+  * "Cohen writes, 'Periods of playing and laughing should alternate naturally with periods of peace and
+    quiet. You don't have to talk, sing, or entertain constantly.'"
+  * French parents hosting a play date don't expect the other parents to stay.
+    * "By the time a child is three, French birthday parties are dropoffs."
+  * "Most kids just choose one activity per school term."
+  * "The let-them-be principle comes straight from Francois Dolto, the patron saint of French parenting. Dolto
+  very clearly argued for leaving a child alone, safely, to muddle about and figure things out for herself."
+* Caca boudin (chap 9)
+  * (French public preschool is off on Wednesdays. That's nice.)
+  * French parents, about delaying reading until 6 or 7:
+    * "She and her husband say that at this stage it's much more important for children to learn social
+      skills, how to organize their thoughts, and how to speak well."
+  * Training children to say hello, to show respect, and acknowledgment of others:
+    * "It turns out that in French there are four magic words: sil vous plait (please), merci (thank you,
+      bonjour (hello), and au revoir (good-bye). Please and thank you are necessary, but not nearly
+      sufficient. Bonjour and au revoir -- and bonjour in particular -- are crucial."
+    * "Bonjour madame/monsieur" in particular.
+    * This helps the child learn to project confidence in their interactions with adults.
+    * "Adults are supposed to say bonjour to each other, too, of course. I think tourists are often treated
+      gruffly in Parisian cafes and shops partly because they don't begin interactions with bonjour, even if
+      they switch to English afterward."
+    * "Saying bonjour acknowledges the other person's humanity. It signals that you view her as a person, not
+      just as someone who's supposed to serve you. I'm amazed that people seem visibly put at ease after I say
+      a nice solid bonjour. It signals that -- although I have a strange accent -- we're goign to have a
+      civilized encounter."
+  * Bonjour teaches the avoidance of selfishness. Or put positively, it teaches selflessness.
+    * "Kids who ignore people, and don't say bonjour or au revoir, they just stay in their bubble. Since
+      parents are dedicated to them already, when will they get the sense that they are htere to give, not
+      just to receive?"
+* Double entendre (chap 10)
+  * "I still feel much as I did at the moment of the boys' birth: that my attention is hopelessly divided. I
+    ask my friend Helene -- who also has twins and a singleton -- whether she's considering having more. 'I
+    don't think so; I'm at the limit of my competence,' she says."
+* I adore this baguette (chap 11)
+  * French culture and healthcare urges mothers to "get back into shape for sex," to restore intimacy in the
+    marriage.
+  * "'Adult time' or 'parent time.' It's when the kids go to sleep. Anticipation of 'adult time' helps explain
+    why -- once the fairy tales are read and the songs are sung -- French parents are strict about enforcing
+    bedtime. They treat 'adult time' not as an occasional, hard-won privilege, but as a basic human need."
+    * Argues ethat children should be told about adult time, so they know that they are not the center of the
+      universe. It's important for their development.
+  * The kids should have their own special program too, during parental holidays.
+    * The parents taking a yearly 10-day holiday by themselves: "She says that kids also occasionally need
+      space from their parents. When they all reunite after the trip, it's very sweet."
+  * French women don't seem to rage against their husbands for doing less at home, or being less competent at
+    parenting than the mother.
+    * "This is because Frenchwomen don't expect men to be their equals. They view men as a separate species,
+      which by nature isn't good at booking babysitters, buying tablecloths, or remembering to schedule
+      checkups with the pediatrician."
+* You just have to taste it (chap 12)
+  * In Paris, snacks are not used to distract and soothe kids. They're not given kids menus, they don't snack
+    between meals.
+  * "Parents take for granted that, while kids will prefer certain tastes over others, the flavor of each
+    vegetable is inherently rich and interesting. Parents see it as their job to bring th echild around to
+    appreciating this. They believe that just as they must teach the child how to sleep, how to wait, and how
+    to say bonjour, they must teach her how to eat."
+  * Suggests talking about the expected sound sand textures of new food, to engage the child and get them to
+    focus on it.
+    * "All the French baby books I read urge parents to stay calm and cheerful at mealtimes, and above all to
+      stay the course, even if their child doesn't take a single bite. 'Don't force him, but don't give up on
+      proposing it to him,' the government handbook explains. 'Little by little, he'll get more familiar with
+      it, he'll taste it... and without a doubt, he'll end up appreciating it.'"
+  * "The ordinary, middle-class French parents I meet are evangelical about the idea that there is a rich
+    world of flavors out there, which their children must be educated to appreciate."
+  * "She views each night's dinner as part of Lucie's culinary education. She doesn't worry too much about how
+    much Lucie eats. But she insists that Lucie has at least a bite of every dish on her plate."
+  * "In France, everyone eats the same dinner. There are no choices or substitutions."
+  * "Part of keeping the mood light is keeping the meal brief. Fanny says that once Lucie has tasted
+    everything, she's allowed to leave the table."
