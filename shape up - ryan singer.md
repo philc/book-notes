@@ -259,8 +259,8 @@
   * Six-week time box: "without a deadline, they could easily delay the project for changes that don't
     actually deserve the extra time."
   * Scope grows like grass; it's natural, and it's no one's fault.
-  * Scope hammgering: "Chiseling scope down as the deadline approaches"
-    * "People often talk abotu 'cutting' scope. We use an even stronger word -- hammering -- to reflect the
+  * Scope hammering: "Chiseling scope down as the deadline approaches"
+    * "People often talk about 'cutting' scope. We use an even stronger word -- hammering -- to reflect the
       power and force it takes to repeatedly bang the scope so it fits in the time box."
     * The act of marking unfinished tasks as nice-to-have is scope hammering. These tasks wait until the end
       of the cycle to get done, and only if there's time.
@@ -268,7 +268,7 @@
     * Basecamp has millions of users, and a 12 person product team behind it. There's 1 QA person. The QA
       person's job is only to check edge cases. Developers take responsibility for the main cases.
     * "QA generates discovered tasks that are all nice-to-haves by default. The designer-programmer team
-      triages them and, depending on severity and available time, eleveates some of them to must-haves."
+      triages them and, depending on severity and available time, elevates some of them to must-haves."
 * Move on (chap 15)
   * Feedback needs to be shaped
     * Don't immediately act on feedback from customers about a newly-launched feature.
