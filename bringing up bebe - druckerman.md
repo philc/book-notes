@@ -97,11 +97,11 @@
       they switch to English afterward."
     * "Saying bonjour acknowledges the other person's humanity. It signals that you view her as a person, not
       just as someone who's supposed to serve you. I'm amazed that people seem visibly put at ease after I say
-      a nice solid bonjour. It signals that -- although I have a strange accent -- we're goign to have a
+      a nice solid bonjour. It signals that -- although I have a strange accent -- we're going to have a
       civilized encounter."
   * Bonjour teaches the avoidance of selfishness. Or put positively, it teaches selflessness.
     * "Kids who ignore people, and don't say bonjour or au revoir, they just stay in their bubble. Since
-      parents are dedicated to them already, when will they get the sense that they are htere to give, not
+      parents are dedicated to them already, when will they get the sense that they are there to give, not
       just to receive?"
 * Double entendre (chap 10)
   * "I still feel much as I did at the moment of the boys' birth: that my attention is hopelessly divided. I
@@ -113,7 +113,7 @@
   * "'Adult time' or 'parent time.' It's when the kids go to sleep. Anticipation of 'adult time' helps explain
     why -- once the fairy tales are read and the songs are sung -- French parents are strict about enforcing
     bedtime. They treat 'adult time' not as an occasional, hard-won privilege, but as a basic human need."
-    * Argues ethat children should be told about adult time, so they know that they are not the center of the
+    * Argues that children should be told about adult time, so they know that they are not the center of the
       universe. It's important for their development.
   * The kids should have their own special program too, during parental holidays.
     * The parents taking a yearly 10-day holiday by themselves: "She says that kids also occasionally need
@@ -143,3 +143,27 @@
   * "In France, everyone eats the same dinner. There are no choices or substitutions."
   * "Part of keeping the mood light is keeping the meal brief. Fanny says that once Lucie has tasted
     everything, she's allowed to leave the table."
+* It's me who decides (chap 13)
+  * French parents do not believe in sharing power with the child. "It is me who decides."
+  * "When I ask French parents what they most want for their children, they say things like 'to feel
+    comfortable in their own skin' and 'to find their path in the world.' They want their kids to develop
+    their own tastes and opinions. In fact, French parents worry if their kids are too docile. They want them
+    to have character. But they believe that children can achieve these goals only if they respect boundaries
+    and have self-control. So alongside character, there has to be cadre."
+  * "This idea that you're teaching, not policing, makes the tone a lot gentler in France." (versus
+    disciplining).
+  * "Authoritative, but not authoritarian": "the parents' response should almost always be yes."
+  * "Children should watch a bit of television, so they have a shared culture with other kids."
+  * "Instead of spanking, they recommend that parents become adept at saying no. Like Marcelli, they say that
+    'no' should be used sparingly. But once uttered, it must be definitive."
+* Let him live his life (chap 14)
+  * "The trap of the relationship between parents and children is not recognizing the true needs of the child,
+    of which freedom is one... the child has the need to feel 'loved in what he is becoming,' sure of himself
+    in a space, day by day more freely left to his own exploration, to his personal experience, and in his
+    relations with those of his own age." - Dolto
+  * To have a child feel good about themselves, they should feel good about their work for their own reasons,
+    so French adults do not "praise everything a child does," as is common in American parenting.
+* The future in french (conclusion)
+  * "I still declare, 'It's me who decides' in moments of crisis, to remind everyone that I'm in charge. I see
+    it as my job to stop my kids from being consumed by their own desires. But I also try to say yes as often
+    as I can."
