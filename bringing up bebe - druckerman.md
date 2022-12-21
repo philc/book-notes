@@ -1,10 +1,28 @@
 * Gems
+  * "The Pause": a common French parenting motion; pausing before attending to a baby's wants, to let them
+    learn to self-soothe and deal with frustrations.
   * Making children eat at fixed meal times (and the same times as the adults eat) teaches them to wait, and
     wait without frustration, and generally become comfortable delaying gratification.
   * "When I tell Bean to be sage, I'm also telling her to behave appropriately. But I'm asking her to use good
     judgment and to be aware and respectful of other people. I'm implying that she has a certain wisdom about
     the situation and that she's in command of herself. And I'm suggesting that I trust her."
     * (I don't do this enough. Often, I lecture my daughter in public, to her shame, which she then resents.)
+  * "French experts view learning to cope with 'no' as a crucial step in a child's evolution. It forces them
+    to understand that there are other people in the world, with needs as powerful as their own."
+  * "Cohen writes, 'Periods of playing and laughing should alternate naturally with periods of peace and
+    quiet. You don't have to talk, sing, or entertain constantly.'"
+  * "It turns out that in French there are four magic words: sil vous plait (please), merci (thank you),
+    bonjour (hello), and au revoir (good-bye). Please and thank you are necessary, but not nearly
+    sufficient. Bonjour and au revoir -- and bonjour in particular -- are crucial."
+    * "Saying bonjour acknowledges the other person's humanity. It signals that you view her as a person, not
+      just as someone who's supposed to serve you."
+  * "It's me who decides": "When I ask French parents what they most want for their children, they say things
+    like 'to feel comfortable in their own skin' and 'to find their path in the world.' They want their kids
+    to develop their own tastes and opinions. In fact, French parents worry if their kids are too docile. They
+    want them to have character. But they believe that children can achieve these goals only if they respect
+    boundaries and have self-control. So alongside character, there has to be cadre."
+  * "This idea that you're teaching, not policing, makes the tone a lot gentler in France." (versus
+    disciplining).
 * Intro
   * The American parenting problem: "One writer defines the problem as 'simply paying more attention to the
     upbringing of children than can possibly be good for them.'"
@@ -20,8 +38,8 @@
   * Argues French parents have their kids sleeping through the night within a reasonable number of nights. Not
     using any fancy or branded sleep method. Basically, self-efficacy and being encourage to trust their
     bodies.
-  * "The Pause": a common French parenting motion; pausing before attending to a baby's wants, to let them learn
-    to self-soothe and deal with frustrations.
+  * "The Pause": a common French parenting motion; pausing before attending to a baby's wants, to let them
+    learn to self-soothe and deal with frustrations.
     * "The Pause works in part because parents believe that tiny babies aren't helpless blobs. They can learn
       things. This learning, done gently and at a baby's own pace, isn't damaging. To the contrary, parents
       believe it gives the babies confidence and serenity, and makes them aware of other people. And it sets
@@ -54,7 +72,7 @@
     parent is not listening to the child's rhythms.
   * "French experts view learning to cope with 'no' as a crucial step in a child's evolution. It forces them
     to understand that there are other people in the world, with needs as powerful as their own."
-  * "Making kids face up to limitations and eal with frustration turns them into happier, more resilient
+  * "Making kids face up to limitations and deal with frustration turns them into happier, more resilient
     people."
 * Tiny little humans (chap 5)
   * On parents who try to have their kids hit developmental milestones (like learn the alphabet; subtraction)
@@ -80,14 +98,14 @@
     * "By the time a child is three, French birthday parties are dropoffs."
   * "Most kids just choose one activity per school term."
   * "The let-them-be principle comes straight from Francois Dolto, the patron saint of French parenting. Dolto
-  very clearly argued for leaving a child alone, safely, to muddle about and figure things out for herself."
+    very clearly argued for leaving a child alone, safely, to muddle about and figure things out for herself."
 * Caca boudin (chap 9)
   * (French public preschool is off on Wednesdays. That's nice.)
   * French parents, about delaying reading until 6 or 7:
     * "She and her husband say that at this stage it's much more important for children to learn social
       skills, how to organize their thoughts, and how to speak well."
   * Training children to say hello, to show respect, and acknowledgment of others:
-    * "It turns out that in French there are four magic words: sil vous plait (please), merci (thank you,
+    * "It turns out that in French there are four magic words: sil vous plait (please), merci (thank you),
       bonjour (hello), and au revoir (good-bye). Please and thank you are necessary, but not nearly
       sufficient. Bonjour and au revoir -- and bonjour in particular -- are crucial."
     * "Bonjour madame/monsieur" in particular.
@@ -127,7 +145,7 @@
   * In Paris, snacks are not used to distract and soothe kids. They're not given kids menus, they don't snack
     between meals.
   * "Parents take for granted that, while kids will prefer certain tastes over others, the flavor of each
-    vegetable is inherently rich and interesting. Parents see it as their job to bring th echild around to
+    vegetable is inherently rich and interesting. Parents see it as their job to bring the child around to
     appreciating this. They believe that just as they must teach the child how to sleep, how to wait, and how
     to say bonjour, they must teach her how to eat."
   * Suggests talking about the expected sound sand textures of new food, to engage the child and get them to
