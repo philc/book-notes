@@ -143,3 +143,105 @@
   * Despite the increasing effectiveness of social media nd the attention economy, ultimately we are choosing
     to be distracted and allowing it to happen. If we were really enamored with our most prioritized
     activities, and weren't fatigued, then we couldn't be pulled away from them.
+* The intimate interrupter (chap 6)
+  * "You're obliged to deal with how your experience is unfolding in this moment, to resign yourself to the
+    reality that *this is it*."
+    * Taking care of a two year old for an afternoon makes you confront the limited control you have over your
+      time.
+  * The appeal of online distractions: "it doesn't need to feel fun. In order to dull the pain of finitude, it
+    just needs to make you feel unconstrained."
+  * "Listening takes effort and patience and a spirit of surrender", which is hard, and so we seek distraction
+    to avoid listening to people around us.
+  * "The most effective way to sap distraction of its power is just to stop expecting things to be otherwise
+    -- to accept that this unpleasantness is simply what it feels like for finite humans to commit ourselves
+    to the kinds of demanding and valuable tasks that force us to confront our limited control over how our
+    lives unfold."
+    * E.g. enduring painful experiences like unavoidably being outside in the blistering cold.
+* We never really have time (chap 7)
+  * "Despite our total lack of control over any of these occurrences, each of us made it through to this point
+    in our lives -- so it might at least be worth entertaining the possibility that when the uncontrollable
+    future arrives, we'll have what it takes to weather that as well."
+    * Comforting. Let go of anxiety about the future; have confidence in our self-efficacy.
+    * "A life spent 'not minding what happens' is one lived without the inner demand to know that the future
+      will conform to your desires for it."
+* You are here (chap 8)
+  * Future chasing mindset -- "When I finally xyz, then I can relax/become satisfied" -- is a limiting mindset
+    which converts the present moment into mere stepping stones to the future, sapping it of enjoyment.
+  * "[People are] like donkeys running after carrots that are hanging in front of their faces from sticks
+    attached to their own collars. They are never here. They never get there. They are never alive." - Alan
+    Watts
+  * Concerning his child's developmental milestones, "I came to realize that I didn't want to squander these
+    days of his *actual* existence by focusing solely on how best to use them for the sake of his future one."
+    * Young kids are "sheer presence" existing only in the current moment.
+  * Causal catastrophe: "the belief that 'the proof of the rightness or wrongness of some way of brining up
+    children is the kind of adults it produces.'". "Its effect is to sap childhood of any intrinsic value, by
+    treating it as nothing but a training ground for adulthood."
+  * "Because children grow up, we think a child's purpose is to grow up. But a child's purpose is to be a
+    child. Nature doesn't disdain what only lives for a day. It pours the whole of itself into each moment...
+    Life's bounty is in its flow. Later is too late." - Alexander Herzen
+  * "As long as you believe that the real meaning of life lies somewhere off in the future -- that one day all
+    your efforts will pay off in a golden era of happiness, free of all problems -- you get to avoid facing
+    the unpalatable reality that your life isn't leading toward some moment of truth that hasn't yet arrived.
+    Our obsession with extracting the greatest future value out of our time blinds us to the reality that, in
+    fact, the moment of truth is always now."
+    * Don't forsake enjoyment of the present in pursuit of the future.
+  * "By trying too hard to make the most of his time, he misses his life."
+* Rediscovering rest (chap 9)
+  * "Aristotle argued that true leisure -- by which he meant self-reflection and philosphical contemplation --
+    was among the very highest of virtues because it was worth choosing for its own sake, whereas other
+    virtues, like courage in war, or noble behavior in governemtn, were virtuous only because they led to
+    something else."
+  * "It becomes difficult to enjoy a moment of rest for itself alone, without regard for any potential future
+    benefits, because rest that has no instrumental value feels wasteful."
+    * That we should use our leisure time for self-improvement has become an entrenched idea.
+  * "In order to most fully inhabit the only life you ever get, you have to refrain from using everyr spare
+    hour for personal growth."
+    * An old man drinking a glass of wine is truly at leisure, producing nothing for the future, and
+      experiencing satisfaction from that moment.
+  * Your kids will grow up, or might not survive, or you may not survive. So harvest the present!
+  * Enjoy the sabbath, the day of rest. Use it to develop gratitude.
+  * Hiking in solitude: "there's a splendor to this terrain that's most powerful when you're alone, and in no
+    danger of being distracted from the barren drama of it all by pleasant conversation."
+  * The word hobby has come to have a connotation of embarrassment.
+    * "In order to be a source of true fulfillment, a good hobby probably *should* feel a little embarrassing;
+      that's a sign you're doing it for its own sake, rather than for some socially sanctioned outcome."
+* Staying on the bus (chap 11)
+  * Patience is often felt to be disturbingly passive. But as society accelerates, patience often become sa
+    form of power, because few are able to wield htis virtue and achieve the long-run outcomes it enables.
+  * "In a world geared for hurry, the capacity to resist the urge to hurry -- to allow things to take the time
+    they take -- is a way to gain purchase on the world, to do the work that counts, and to derive
+    satisfaction from the doing itself."
+  * (Nice section on slowing down to the pace of the problem so you can observe and study the situation and be
+    present enough to see when a solution presents itself).
+  * "Life just *is* a process of engaging with problem after problem, giving each one the time it requires --
+    that the presence of problems in your life, in other words, isn't an impediment to a meaningful existence
+    but the very substance of one."
+* The loneliness of the digital nomad (chap 12)
+  * "The digital nomad's lifestyle lacks the shared rhythms required for deep relationships to take root. For
+    the rest of us, likewise, more freedom to choose when and where you work makes it harder to forge
+    connections through your job, as well as less likely you'll be free to socialize when your friends are."
+  * The flip side to to temporal freedom is fewer opportunities to socialize and collaborate with others.
+  * Working in the same office; choir; praying in a monastery.
+    * "There is an even more visceral sense, as well, in which time just feels *realer* -- more intense, more
+      vivid, more filled with meaning -- when you're synchronized well with others."
+  * What kind of freedom do we want to prioritize as we aspire to achieve sovereignty over our time? The
+    freedom to never see your friends?
+* Cosmic insignificance therapy (chap 13)
+  * A VP of a medical instruments company asks "is this what I want to be doing with my four thousand weeks?"
+    * "A malaise that had been growing in her for years had crystallized in the understanding that she was
+      spending her days in a way that no longer felt as if it had any meaning."
+  * "A chair just isn't the kind of thing that out to have the capacity to boil water, so it isn't a problem
+    that it doesn't. And it is likewise 'implausible, for almost all people to demand of themselves that they
+    be a Michelangelo, a Mozart, or an Einstein... there have only been a few dozen such people in the entire
+    history of humanity.'"
+    * So release yourself from the standard of using your life to "put a dent in the universe"
+* The human disease (chap 14)
+  * "We chase the ultimate fantasy of time mastery -- the desire, by the time we die, to have truly mattered
+    in the cosmic scheme of things, as opposed to being instantly trampled underfoot by the advancing eons."
+  * Life's unending queue of problems is only an issue if one believe there's a cure.
+    * "I was peeling a red apple from the garden when I suddenly understood that life would only ever give me
+      a series of wonderfully insoluble problems. With that thought an ocean of profound peace entered my
+      heart." - Christian Bobin.
+  * "Choose uncomfortable enlargement over comfortable diminishment whenever you can", where enlargement means
+    growth as a person, and diminishment means "having your soul shrivel with every passing week."
+  * Do hhe next most necessary thing; ("do the next right thing" - Frozen)
