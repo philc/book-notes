@@ -1,6 +1,41 @@
 * Gems
   * "The world is bursting with wonder," and we should spend more of our lives trying to experience that
     wonder.
+  * On the wrongness of how we spend time as children:
+    * "Life, I knew, was supposed to be more joyful than this, more real, more meaningful, and the world was
+      supposed to be more beautiful. We were not supposed to hate Mondays and live for the weekends and
+      holidays. We were not supposed to have to raise our hands to be allowed to pee. We were not supposed to
+      be kept indoors on a beautiful day, day after day."
+  * "Freedom, sometimes, is to be found not in achieving greater sovereignty over your own schedule but in
+    allowing yourself to be constrained by the rhythms of community -- participating in forms of social life
+    where you *don't* get to decide exactly what you do or when you do it."
+  * Parkinson's law applies to the whole sum of of what we deem important.
+    * "The other exasperating issue is that if you succeed in fitting more in, you'll find the goalposts start
+      to shift: more things will begin to seem important, meaningful, or obligatory."
+  * "As I make hundreds of smaller choices throughout the day, I'm building a life -- but at one and the same
+    time, I'm closing off the possibility of countless others, forever."
+    * "Any finite life -- even the best one you could possibly imagine -- is therefore a matter of ceaselessly
+      waving goodbye to possibility."
+  * We should not regret having to make the choice to pick only one of many valued activities; we should be
+    thankful we get to pick one of them at all.
+  * "When people finally *do* choose, in a relatively irreversible way, they're usually much happier as a
+    result. We'll do almost anything to avoid burning our bridges, to keep alive the fantasy of a future
+    unconstrained by limitation, yet having burned them, we're generally please that we did so."
+  * "The 'joy of missing out': the recognition that the renunciation of alternatives is what makes their
+    choice a meaningful one in the first place."
+  * "Attention, on the other hand, just *is* life: your experience of being alive consists of nothing other
+    than the sum of everything to which you pay attention. At the end of your life, looking back, whatever
+    compelled your attention from moment to moment is simply what your life will have been."
+    * So be wary of getting distracted, or giving attention to junk content.
+  * "In order to most fully inhabit the only life you ever get, you have to refrain from using every spare
+    hour for personal growth."
+    * An old man drinking a glass of wine is truly at leisure, producing nothing for the future, and
+      experiencing satisfaction from that moment.
+  * Patience is often felt to be disturbingly passive. But as society accelerates, patience often becomes a
+    form of power, because few are able to wield this virtue and achieve the long-run outcomes it enables.
+  * "In a world geared for hurry, the capacity to resist the urge to hurry -- to allow things to take the time
+    they take -- is a way to gain purchase on the world, to do the work that counts, and to derive
+    satisfaction from the doing itself."
 * In the long run, we're all dead (intro)
   * Philosophers "have taken the brevity of life to be the defining problem of human existence: we've been
     granted the mental capacities to make almost infinitely ambitious plans, yet practically no time at all
@@ -24,7 +59,7 @@
     * (Maybe I should put less pressure on my kids to count and understand time. Make it more about executive
       function and the sequence of activities, and less about budgeting).
   * He mentions the shift of labor during the industrial age from being compensated per task to per hour.
-  * "Instead of simply living our lives as they unfold in time --instead of just being time, you might say --
+  * "Instead of simply living our lives as they unfold in time -- instead of just being time, you might say --
     it becomes difficult not to value each moment primarily according to its usefulness for some future goal,
     or for some future oasis of relaxation you hope to reach once your tasks are finally 'out of the way.'"
   * "Eternity ceases gradually to serve as the measure and focus of human actions." - Mumford
@@ -33,16 +68,16 @@
     vulnerabilities, its extreme brevity, and our limited influence over how it unfolds, is the only one we'll
     get a shot at."
   * We mentally fight so that we don't have to feel constrained by reality. It's a form of neurosis and
-    escapsism.
+    escapism.
   * He argues that for most, increasing one's productivity is just a form of avoidance, to maintain hope that
     we can do all that we desire and won't face painful constraints of reality.
     * (I wonder if maintaining hope of achieving all the things, while unrealistic, is actually a useful
-      mindset for bieng ambitious and for "striving well." I.e. aim for perfection so that you can achieve and
+      mindset for being ambitious and for "striving well." I.e. aim for perfection so that you can achieve and
       be happy with "pretty good.")
-  * "Most of us seek a specifically individualistic kind of mastery over time --our culture's ideal is that
+  * "Most of us seek a specifically individualistic kind of mastery over time -- our culture's ideal is that
     you alone should control your schedule, doing whatever you prefer, whenever you want -- because it's scary
     to confront the truth that almost everything worth doing, from marriage and parenting to business or
-    politics, depends on cooperating with others,a nd therefore on exposing yourself to the emotional
+    politics, depends on cooperating with others, and therefore on exposing yourself to the emotional
     uncertainties of relationships."
   * (Related from 37 signals: FOMO vs. JOMO - joy of missing out)
   * "Freedom, sometimes, is to be found not in achieving greater sovereignty over your own schedule but in
@@ -77,7 +112,7 @@
     * The better you are at doing things, ironically, the more things you end up having to do.
 * Facing finitude (chap 3)
   * (Beautiful chapter)
-  * "As I make hundreds of smaller choices throughout the day, I'm building a life --but at one and the same
+  * "As I make hundreds of smaller choices throughout the day, I'm building a life -- but at one and the same
     time, I'm closing off the possibility of countless others, forever."
   * "Any finite life -- even the best one you could possibly imagine -- is therefore a matter of ceaselessly
     waving goodbye to possibility."
@@ -140,7 +175,7 @@
     new scandal overwrites the last one in public awareness -- and anyone who responds or retweets, even if
     their intention is to condemn the hatemongering, finds themselves rewarding it with attention, thereby
     helping it spread." A pit of futility.
-  * Despite the increasing effectiveness of social media nd the attention economy, ultimately we are choosing
+  * Despite the increasing effectiveness of social media and the attention economy, ultimately we are choosing
     to be distracted and allowing it to happen. If we were really enamored with our most prioritized
     activities, and weren't fatigued, then we couldn't be pulled away from them.
 * The intimate interrupter (chap 6)
@@ -166,14 +201,15 @@
       will conform to your desires for it."
 * You are here (chap 8)
   * Future chasing mindset -- "When I finally xyz, then I can relax/become satisfied" -- is a limiting mindset
-    which converts the present moment into mere stepping stones to the future, sapping it of enjoyment.
+    which converts the present moment into mere stepping stones to the future, sapping the present of
+    enjoyment.
   * "[People are] like donkeys running after carrots that are hanging in front of their faces from sticks
     attached to their own collars. They are never here. They never get there. They are never alive." - Alan
     Watts
   * Concerning his child's developmental milestones, "I came to realize that I didn't want to squander these
     days of his *actual* existence by focusing solely on how best to use them for the sake of his future one."
     * Young kids are "sheer presence" existing only in the current moment.
-  * Causal catastrophe: "the belief that 'the proof of the rightness or wrongness of some way of brining up
+  * Causal catastrophe: "the belief that 'the proof of the rightness or wrongness of some way of bringing up
     children is the kind of adults it produces.'". "Its effect is to sap childhood of any intrinsic value, by
     treating it as nothing but a training ground for adulthood."
   * "Because children grow up, we think a child's purpose is to grow up. But a child's purpose is to be a
@@ -187,14 +223,14 @@
     * Don't forsake enjoyment of the present in pursuit of the future.
   * "By trying too hard to make the most of his time, he misses his life."
 * Rediscovering rest (chap 9)
-  * "Aristotle argued that true leisure -- by which he meant self-reflection and philosphical contemplation --
-    was among the very highest of virtues because it was worth choosing for its own sake, whereas other
-    virtues, like courage in war, or noble behavior in governemtn, were virtuous only because they led to
+  * "Aristotle argued that true leisure -- by which he meant self-reflection and philosophical contemplation
+    -- was among the very highest of virtues because it was worth choosing for its own sake, whereas other
+    virtues, like courage in war, or noble behavior in government, were virtuous only because they led to
     something else."
   * "It becomes difficult to enjoy a moment of rest for itself alone, without regard for any potential future
     benefits, because rest that has no instrumental value feels wasteful."
     * That we should use our leisure time for self-improvement has become an entrenched idea.
-  * "In order to most fully inhabit the only life you ever get, you have to refrain from using everyr spare
+  * "In order to most fully inhabit the only life you ever get, you have to refrain from using every spare
     hour for personal growth."
     * An old man drinking a glass of wine is truly at leisure, producing nothing for the future, and
       experiencing satisfaction from that moment.
@@ -206,8 +242,8 @@
     * "In order to be a source of true fulfillment, a good hobby probably *should* feel a little embarrassing;
       that's a sign you're doing it for its own sake, rather than for some socially sanctioned outcome."
 * Staying on the bus (chap 11)
-  * Patience is often felt to be disturbingly passive. But as society accelerates, patience often become sa
-    form of power, because few are able to wield htis virtue and achieve the long-run outcomes it enables.
+  * Patience is often felt to be disturbingly passive. But as society accelerates, patience often becomes a
+    form of power, because few are able to wield this virtue and achieve the long-run outcomes it enables.
   * "In a world geared for hurry, the capacity to resist the urge to hurry -- to allow things to take the time
     they take -- is a way to gain purchase on the world, to do the work that counts, and to derive
     satisfaction from the doing itself."
@@ -244,4 +280,4 @@
       heart." - Christian Bobin.
   * "Choose uncomfortable enlargement over comfortable diminishment whenever you can", where enlargement means
     growth as a person, and diminishment means "having your soul shrivel with every passing week."
-  * Do hhe next most necessary thing; ("do the next right thing" - Frozen)
+  * Do the next most necessary thing; ("do the next right thing" - Frozen)

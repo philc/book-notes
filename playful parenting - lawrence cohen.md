@@ -394,7 +394,7 @@
     to come into it with a full cup.
   * Cure: have someone listen to you. A therapist, or just a friend (and take turns swapping listening duty).
   * Good listening:
-    * take turns, be confidential, don't judge anything they say. Don't interrupt and say "me too" and launch
+    * Take turns, be confidential, don't judge anything they say. Don't interrupt and say "me too" and launch
       into your own story.
     * Let the emotions flow. Don't try to make the other person shove them back inside. "Don't worry, there's
       nothing to be upset about!"
