@@ -2,15 +2,16 @@
   * A strategy framework "prepares the mind" so that you can correctly make the crux decisions. It should be
     simple but not simplistic.
   * Statics: "being there." What makes Intel's microprocessor business so durably valuable?
-  * Dynamics: "getting there." What developments yielded this attractive state of affairs in the first place?
+  * Dynamics: "getting there." What developments yielded this attractive state of affairs at Intel in the
+    first place?
   * Power: the set of conditions creating the potential for persistent differential returns
     * "We can only assume microprocessors possessed some sort of rare characteristics which materially
       improved cash flow, while simultaneously inhibiting competitive arbitrage."
   * strategy: A route to continuing Power in significant markets.
   * Potential value = market scale * Power
-  * Being a clever business person is not sufficient to achieve long-term differentiated value creation.
+  * Being a clever business person is not sufficient to achieve differential long-term value creation.
   * Power delivers to the firm both a Benefit and a Barrier
-    * For the differentiated returns to be durable, there must be some barrier preventing the competition from
+    * For the differential returns to be durable, there must be some barrier preventing the competition from
       performing arbitrage.
   * "In Intel's case, the heart of its microprocessors strategy can be best understood not by sorting through
     the multiplicity of Intel's value improvements, but by deducing why decades of capable and committed
@@ -26,7 +27,7 @@
     would favor their prepared minds."
   * Netflix was able to afford original content because the cost to produce it was amortized across their
     large subscriber base. Less scaled competitors couldn't justify the investment on original content.
-    * "In the Netflix eshxample we see a feature of Scale Economies that recurs in many technology firms: a
+    * "In the Netflix example we see a feature of Scale Economies that recurs in many technology firms: a
       single fixed cost which declines per unit as it is prorated over higher and higher volumes."
     * (Couldn't this be argued to be the case for all complex software, since it has zero marginal cost to
       service new users?)
@@ -76,9 +77,9 @@
     and obtain power in the new landscape. This is not a case of Counter-Positioning.
     * Example: Kodak and digital cameras. They were a film company had no competency in digital.
   * Why don't incumbents suffer the collateral damage?
-    * In retrospect, it may have made sense for the incumbent to suffer the collateral damage and adopt the new
-      approach, but new strategies are often high uncertainty, and so it's not reasonable for the incumbent to
-      act -- action has a lower expected value than inaction.
+    * In retrospect, it may have made sense for the incumbent to suffer the collateral damage and adopt the
+      new approach, but new strategies are often high uncertainty, and so it's not reasonable for the
+      incumbent to act -- action has a lower expected value than inaction.
     * There's also an agency problem: it's hard to align a CEO's compensation to allow for pivots.
       * "Addressing the threat of a Counter-Positioned competitor frequently requires upending the incumbent's
         business in multiple ways, and such turmoil is rarely symmetric in its impact on enterprise value and
@@ -165,9 +166,9 @@
     Opacity meaning the process is not fully codified and thus not easily portable -- it's difficult to tease
     out what parts and dependencies are making it so successful.
   * This power is rare.
-    * The type of Benefit it cites -- evolutionary bottom-up improvement -- stands at the heart of operational
-      excellence; as such, it is quite common. The rarity of Process Power results from the infrequency of the
-      Barrier: an unyielding, long-time constant for the improvements in question."
+    * "The type of Benefit it cites -- evolutionary bottom-up improvement -- stands at the heart of
+      operational excellence; as such, it is quite common. The rarity of Process Power results from the
+      infrequency of the Barrier: an unyielding, long-time constant for the improvements in question."
     * Operational excellence is not a strategy. It doesn't confer sustainable differentiation over competent
       competitors.
   * Argues the quality / cost reduction gains over time -- "traveling along the experience curve" -- are
@@ -179,7 +180,7 @@
     cash-generator, despite the best efforts of competitors. If you possess none of these, your business is at
     risk."
   * "Competitors can easily mimic the improvements yielded by operational excellence, eventually arbitraging
-    out the valeu to the business."
+    out the value to the business."
   * Netflix had counter-positioning power against Blockbuster when it was in the DVD business. But it had no
     power in the streaming business, despite being a first mover, and competent. "Operational excellence is
     not a strategy."
