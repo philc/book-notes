@@ -280,4 +280,4 @@
       heart." - Christian Bobin.
   * "Choose uncomfortable enlargement over comfortable diminishment whenever you can", where enlargement means
     growth as a person, and diminishment means "having your soul shrivel with every passing week."
-  * Do the next most necessary thing; ("do the next right thing" - Frozen)
+  * Do the next most necessary thing. ("Do the next right thing" - Frozen)
