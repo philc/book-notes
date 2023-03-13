@@ -9,7 +9,7 @@
   * "Freedom, sometimes, is to be found not in achieving greater sovereignty over your own schedule but in
     allowing yourself to be constrained by the rhythms of community -- participating in forms of social life
     where you *don't* get to decide exactly what you do or when you do it."
-  * Parkinson's law applies to the whole sum of of what we deem important.
+  * Parkinson's law applies to the whole sum of what we deem important.
     * "The other exasperating issue is that if you succeed in fitting more in, you'll find the goalposts start
       to shift: more things will begin to seem important, meaningful, or obligatory."
   * "As I make hundreds of smaller choices throughout the day, I'm building a life -- but at one and the same
@@ -98,7 +98,7 @@
   * He argues that acknowledging that you will never have the time needed for your important desires is the
     only helpful strategy. It's freeing. All else is denial, avoidance. All time management advice is
     predicated on the false notion that you can fit everything in, with the right strategy.
-  * Parkinson's law applies to the whole sum of of what we deem important.
+  * Parkinson's law applies to the whole sum of what we deem important.
   * "This whole painful irony is especially striking in the case of email, that ingenious twentieth-century
     invention whereby any random person on the planet can pester you, at any time they like, and at almost no
     cost to themselves, by means of a digital window that sits inches from your nose, or in your pocket,

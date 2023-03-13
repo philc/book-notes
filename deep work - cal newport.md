@@ -1,4 +1,4 @@
-* Favorite parts
+* Gems
   * "Roosevelt dashes": "Like Roosevelt at Harvard, attack the task with every free neuron until it gives way
     under your unwavering barrage of concentration." Time challenge yourself on a task, so that you must work
     with great intensity.
