@@ -1,6 +1,15 @@
 * Gems
   * "As I looked ahead to the college years and imagined the degree of self-reliance I would hope they'd have
     by then, I began focusing on how to provide more opportunities for independence during childhood."
+  * "Research shows that family dinners help kids feel they matter to the parent, and as a result they have a
+    positive impact on kids' mental health and lead to greater self-esteem and greater academic achievement.
+    In addition to talking to our kids about their day or their lives, talking to them about current events
+    scales the level of critical thinking up a level -- to a level of theoretical challenge, to a degree of
+    interest in the world around them, and to a degree of humility about what they don't yet know. It makes
+    them hungry to know more."
+  * "College is a match to be made, not a prize to be won."
+  * "Your kid is not your passion. If you treat them as if they are, you're placing them in the very untenable
+    and unhealthy role of trying to bring fulfillment to *your* life."
 * Intro
   * "When a parent (usually a mom" would throw the door open on weekday afternoons and tell us, 'Go out and
     play and be home for dinner.' Our parents had no idea where we were or exactly what we were doing. There
@@ -163,3 +172,143 @@
     to us, which can lead to meaningful work and hobbies."
   * "Having a TV in a kid's bedroom is one of the worst things because then they end up taking the easy way
     and when they're bored they turn on the TV."
+* Teach life skills (chap 14)
+  * "The mountain climber takes pride in planting his flag at the top because it took a lot to get there. If
+    he took a helicopter it wouldn't feel the same. In facilitating success parents are paradoxically
+    guaranteeing that a kid can't achieve it on his own." - David McCullough Jr
+  * "I see that my husband and I did way too much for our kids instead of welcoming them to the joy of dong
+    more and more things on their own." (Nice framing)
+* Teach them how to think (chap 15)
+  * "If we want our kids to be able to think for themselves, we have to be willing to open up a dialogue with
+    them and resist the natural temptation to give the answer, say what we know about a situation, solve the
+    problem, and in other ways shut the dialogue -- and think thinking -- down."
+    * Keep asking "why" -- go through the full dialog with them, as Socrates did with his students.
+    * "The kid learned that the parent doesn't feel responsible for the problem and that he is going to have
+      to figure it out for himself."
+  * "Research shows that family dinners help kids feel they matter to the parent, and as a result they have a
+    positive impact on kids' mental health and lead to greater self-esteem and greater academic achievement.
+    In addition to talking to our kids about their day or their lives, talking to them about current events
+    scales the level of critical thinking up a level -- to a level of theoretical challenge, to a degree of
+    interest in the world around them, and to a degree of humility about what they don't yet know. It makes
+    them hungry to know more."
+  * Play devil's advocate to whatever your kid says, so they can't get by with just aligning with your view
+    point.
+* Prepare them for hard work (chap 16)
+  * The role of chores: developing the willingness to pitch in.
+  * "All a kid has to do is say 'I have a test' and we parents wait on them hand and foot as if they are
+    'fascist dictators' or 'handicapped royalty.'"
+  * "Chores build the kind of work ethic that is highly sought after in our communities and in the workplace."
+    * Even if their "sweat equity" isn't needed, make children participate in chores.
+  * "Don't expect perfection. It's no fun for them if you ask them to do something and then micromanage every
+    step. They won't do it as well or as efficiently as you -- accept that."
+  * Say "I need your help."
+  * Teach them to appreciate the act of "doing what needs to be done."
+  * Teach work ethic by example. Work alongside them.
+  * Don't apologize or overexplain
+    * "Overexplaining makes you look like you feel the need to justify your request. And if you apologize in
+      the asking, along the way, or after the fact, you'll undercut your own authority as a parent who has the
+      right and responsibility to ask your kid to help out."
+* Let them chart their own path (chap 17)
+  * 'I stopped focusing on what particular *thing* my kids would become."
+  * "Study what you love, and the rest will follow" -- you will more easily obtain mastery because you're
+    intrinsically motivated.
+  * "Embrace the kid you've got": When plotting the arc of their profession, we tend to see who they aren't,
+    and their gaps, rather than who they are.
+  * Notice who your kid actually is: "which subjects do they pursue with vigor, discuss excitedly, and persist
+    at when there's a challenge?"
+    * And how they like to approach problems and situations -- their style.
+  * "Fan the flames" -- at family dinners, dig into the most enjoyable part of your kid's day to identify the
+    nugget that made it enjoyable for them.
+  * Help your children find mentors outside the home
+    * "Almost any adult is happy to respond to the simple, thoughtful question 'You seem to love what you do.
+      When and how did you figure out that's what you wanted to do?' This question is an icebreaker any kid
+      can ask any adult."
+  * Have your own purpose
+    * "Too often, our kids hear us complaining about things; let them hear what pulls you toward work instead
+      of what pushes you away from it."(
+* Normalize struggle (chap 18)
+  * Argues that college students lack the ability to cope with adversity. They're "failure deprived." Kids
+    need to learn that struggle and failure happens to everyone, and not to be ashamed.
+  * Show your love. "When your kid gets home from school or activities, or you get home from work, set aside
+    what you're doing, step away from your computer, put down your phone, and let them see the joy their
+    presence brings you."
+  * (I should implement more protected "reunion time" where we can show each other joy and appreciation when
+    the kids arrive home from school.)
+  * Notice them being good: "I saw you", not "you're amazing."
+  * Setbacks are essential "growth producing events." They're being pruned out of childhoods by over-active
+    parents.
+  * An explanation for why affluent kids and children of immigrants have trouble finding their way is that
+    they're deprived of opportunities for perseverance, grit, hardship, tough tradeoffs, and realistic
+    feedback relative to poor kids.
+* Have a wider mind-set about colleges (chap 19)
+  * "Today we have a large number of students at great places who feel they really ought to be someplace else.
+    If you walk around with that mind-set, it's going to wreck your college experience. Aall of these places
+    are *gifts*, but they aren't treated as gifts, because students spend all their time thinking they should
+    have gotten in to a different school."
+  * (It's true: schools are ranked high mostly because of selectivity, not quality. Can we let go of the
+    notion that we need to beat the punishing odds, and just enjoy the process and appreciate the school that
+    we got into?)
+  * "Many kids would choose a different kind of race, and perhaps a chance to enjoy the ride of childhood
+    instead of racing right through it."
+  * The 10 most selective schools have only an admissions rate of 5-10%. But the next 30 are 10-20%. The next
+    60 are 20-33%. There's 2600 U.S. colleges.
+  * Kids admitted to top colleges but who attend elsewhere end up with the same average income.
+  * "Kids at less prestigious schools are apt to be more interesting, more curious, more open, more
+    appreciative of what they're getting, and far less entitled and competitive. They tend to act like peers
+    instead of rivals."
+  * "The world only cares about -- and pays off on -- what you can do with what you know (and it doesn't care
+    how you learned it.)" (Laszlo's Bock's book)
+  * LinkedIn's school data shows which schools high-ranking jobs originate from.
+  * E.g. Tufts university: elite, but uses a holistic view fro admissions, and stresses kindness.
+    * Tufts' dean: "I don't want an undergraduate community of cutthroat robots."
+  * When considering a school, ask alums, current students, and parents what they would change about their
+    university experience, rather than "would you recommend it?"
+  * "That they're engaged in learning is what counts. That they're curious. That they want to grow, and serve,
+    and one day do something of purpose and meaning in the world. That they're en route to figuring out what
+    that is."
+  * "College is a match to be made, not a prize to be won."
+* Listen to them (chap 20)
+  * Home should feel like an oasis. (Interesting vision)
+  * (Includes an essay by a well-adjusted, self-motivated, independent-minded kid about his experience of
+    college admissions. Awesome to read)
+* Reclaim your self (chap 21)
+  * "They're going to get to be twenty-five and think, 'I never saw grown-ups living a life. I only saw them
+    doing stuff for me, driving around, standing somewhere on a Saturday morning.'"
+  * "Do we show up in their lives as a person who walks through the world feeling good about ourselves, doing
+    work that plays to our strengths and resonates with our values, and who makes time for meaningful human
+    connection with them and with others."
+    * Serving as their most important role models... or are we hurried, demotivated by our job, and chasing
+      them for homework?
+  * "Your kid is not your passion. If you treat them as if they are, you're placing them in the very untenable
+    and unhealthy role of trying to bring fulfillment to *your* life."
+  * How to be who you want to be? Seek to do what you're proud to be doing; where you can find flow, pursue
+    curiosity, and have purpose.
+  * For obligations handed out by the parenting herd, consider saying "no" to the petty ones, and for the
+    rest, aim only to do a "good enough" job.
+  * Let your happiness be independent of theirs.
+    * Perhaps a better parental desire is for our children to be in control of their destiny, making their
+      choices how they want to, and demonstrating good values along the way.
+* Be the parent you want to be (chap 22)
+  * "If your kid wants you to be overly involved in homework by solving it, figuring it out, or writing it for
+    them, try saying, 'I've been a fourth/sixth/eighth grader before. Now it's your turn.'"
+    * (I want them to learn how to do high quality work without me.)
+  * When you hear a parent say that a kid "has to" do a certain activity to get into school X, consider
+    replying with a smile "we've stopped trying to predict what some small set of colleges may want, and we've
+    started just living our life, which turns out to feel much better."
+    * And "A great college education is to be had at many, many places. We're not going to stress about it."
+      * "Your kid really needs to hear this come out of your mouth, so say this in front of them as often as
+        you can."
+  * Recommends going and finding a handful of lesser-known schools that are high quality, and get excited
+    about them and name-drop them periodically, so that our kids, and our peer parents, don't get anchored to
+    the short list of most-selective schools.
+  * Find like-minded parents.
+  * Soccer is an enriching activity for your kid, but not for you on the sideline.
+    * "Ask them to pick a few games to which they'd really like you to show up and commit to being there."
+  * Diffusing your own jealousy or FOMO when your neighbor's kids are attending an exclusive college: "What
+    matters is not where kids are but that they are blossoming where they are."
+  * Competitive travel sports leagues take a huge toll on the family's rhythm.
+    * "She wants a lot of downtime at home. She wants to do art, and play, and it doesn't work with this kid
+      when she's pushed to do too many activities." (Carmen, a mother)
+  * "Those of us who are unable to consider anything other than the currently popular overparenting model of
+    child rearing may not be living lives of choice; we may have let the herd choose for us -- and for our
+    children."
