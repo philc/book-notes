@@ -49,7 +49,7 @@
     using physical objects, which we like to touch and smell as well as read."
 * Fundamental - concrete (chap 3)
   * Breaking down the chemical bonds in rocks to unlock the silicate for making concrete requires heating the
-    rock sto 1450C!
+    rocks to 1450C!
   * "Cement is used to bond together bricks to make houses and stones to make monuments, but in both these
     cases it is wedged between the cracks as the minority component, an urban glue. When it is made into
     concrete by mixing it with small stones, which play the role of tiny bricks, it fulfills its potential to
@@ -77,3 +77,44 @@
     Opera House.
   * "Concrete is literally the foundation of our whole society: it is the basis of our cities, our roads, our
     bridges, our power stations -- it is 50 percent of everything we make."
+* Delicious - chocolate (chap 4)
+  * The triglycerides in cocoa butter can be stacked in different arrangements. Type V is the densest and
+    gives th chocolate a snap, firmness, and shiny exterior.
+  * "The mechanical property of the snap is important to chocolatiers because it adds surprise and drama to
+    our experience of the chocolate. For example, it allows them to create hard outer shells with which to
+    encase soft centers, providing a textural contrast."
+    * Imagine a flaccid chocolate bar without that characteristic snap.
+  * Cocoa butter melts at body temperature.
+    * "The genius of creating hot chocolate in the mouth is that the cocoa butter encapsulates the flavor
+      molecules until the moment you eat it, and only then does it release its cocktail of more than six
+      hundred exotic molecules into your mouth and up your nose."
+    * Much of the taste comes from the smell. Like fresh brewed coffee, those molecules quickly dissipate by
+      evaporating into the air.
+  * "Producing quality chocolate requires a huge amount of care and attention, which is why good dark
+    chocolate is expensive."
+    * Like the selection of the type of cocoa bean; controlling the environmental conditions as it decomposes
+      and ferments.
+  * "If solid chocolate is exposed to temperatures above 20C, as a result perhaps of being left in the sun or
+    in a hot car, it undergoes fundamental changes of structure. The changes can be spotted immediately
+    because they result in a "bloom": fat and sugars migrate to the surface of the chocolate and form a
+    whitish crystalline powder, often with a river mark pattern."
+    * E.g. if melted during transport. Maybe this is why Mayans only produced chocolate drinks, and not bars.
+  * "The food of the gods"
+    * "Through sheer ingenuity, we have found a way to turn an unpromising tropical rainforest nut that tastes
+      revolting into a cold, dark, brittle solid designed for one purpose only: to melt in your mouth, flood
+      your senses with warm, fragrant, bittersweet flavors, and ignite the pleasure centers of the brain."
+* Marvelous - foam (chap 5)
+  * In 1931 a farmer invented/discovered aerogels. This is where a jelly has its liquid contents replaced with
+    a gas, leaving the skeleton intact.
+  * Silica aerogels are the lightest solid in the world with 99.8% air. They're the best insulation because
+    the air pockets act as heat gaps, like double pane windows.
+  * "Although aerogels are the best insulators we have, they are very expensive and it is not clear that even
+    now we care about energy conservation enough to value aerogels economically. There are several companies
+    selling aerogel for such thermal insulation applications, but at the moment the main ones are for exxtreme
+    environments such as drilling operations."
+  * Aerogels are routinely used by NASA as insulators for space equipment.
+  * "Most people will never hold a piece of aerogel in their hand, but those who do never forget it. It is a
+    unique experience. There is no weight to it that you can perceive, and its edges fade away so
+    imperceptibly that it is impossible to see where the material stops and the air begins. Add to this its
+    ghostly blue color and it really is like holding a piece of sky in your hand."
+  * (This whole chapter was a fun love letter to aerogel).
