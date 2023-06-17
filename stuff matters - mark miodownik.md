@@ -3,19 +3,27 @@
     are and who we want to be. We are physical beings so it perhaps makes sense for us to identify
     and express our values using physical objects, which we like to touch and smell as well as
     read."
+  * Steel is an iron + carbon alloy. Carbon came from the charcoal in the fire, during smelting.
+  * Unlike bricks, concrete is liquid and can be poured into any shape. Buildings are "poured into
+    existence."
+  * "Visible light does not have enough energy to allow the electrons to upgrade their seats and has
+    no choice but to pass straight through the atoms. This is why glass is transparent.
+    Higher-energy light, on the other hand, such as UV light, can upgrade the electrons in glass to
+    the better seats, and so glass is opaque to UV light. This is why you can't get a suntan through
+    glass."
 * Intro
   * We categorize our history by the materials available to us -- stone age, copper, bronze, iron,
     silicon. Our mastery of materials shapes our society.
 * Indomitable - steel (chap 1)
   * As you bend a paper clip, you are causing approximately 100,000,000,000,000 [crystal]
     dislocations to move at a speed of thousands of hundreds of meters per second."
-    * Amazing -- the interaction of the micro scale with the human scale
-  * Heating any metal soften sit.
-    * "the melting point of a metal is an indicator of how tightly the metal atoms are stuck
+    * Amazing -- the interaction of the micro scale with the human scale.
+  * Heating any metal will soften sit.
+    * "The melting point of a metal is an indicator of how tightly the metal atoms are stuck
       together and so also affects how easily the dislocations move."
   * Rock can only practically be carved with metal tools, so the discovery of smelting unlocked
     stone masonry and construction.
-  * On alloys
+  * On alloys TODO
     * "Alloys tend to be stronger than pure metals for one very simple reason: the alloy atoms have
       a different size and chemistry from the host metal's atoms, so when they sit inside the host
       crystal they cause all sorts of mechanical and electrical disturbances that add up to one
@@ -28,18 +36,17 @@
     * "Of course, when Bessemer tries to interest the world in this new process, the other
       steelmakers ignored him, assuming that it was yet another swindle. They insisted that it was
       impossible to create steel from liquid iron, and that Bessemer was a con artist. In the end he
-      saw no option but to setu p his own steel works and just start making the stuff himself. After
+      saw no option but to set up his own steel works and just start making the stuff himself. After
       a few years the firm of Henry Bessemer & Co. was manufacturing steel so much more cheaply and
       in such larger quantities than his rival firms that they were eventually forced to license his
       process, in the end making him extremely rich and ushering in the machine age." (Awesome)
   * Gillette introducing disposable face shaving razors was the hypergrowth startup of its day.
-    Amazing.
 * Trusted - paper (chap 2)
   * "Despite talk of a paperless office, this has never transpired, nor does it look likely to, such
     is our trust in this material as a store of information."
-  * ("The cellulose fibers of which it is made can be partially snapped in the area of maximum bend,
-    allowing a permanent crease to form, while sufficient fibers remain intact for the material not
-    to crack and fall apart."
+  * On folding paper: "The cellulose fibers of which it is made can be partially snapped in the area
+    of maximum bend, allowing a permanent crease to form, while sufficient fibers remain intact for
+    the material not to crack and fall apart."
   * "It is perhaps the very fragility of paper bags that makes them appealing for their task.
     Expensive clothes tend to be light and fragile, and maybe the fact that paper is all that is
     needed for their journey home reinforces this."
@@ -71,7 +78,7 @@
   * "As luck would have it, steel and concrete have almost identical coefficients of expansion. In
     other words, they expand contract at almost the same rate."
     * So daily temperature cycles do not result in steel cracking the surrounding concrete.
-  * "The big structures of old, such as the stone cathedrals of Europe or the Great )wall of China,
+  * "The big structures of old, such as the stone cathedrals of Europe or the Great Wall of China,
     took decades to build. The central core of the Shard, one of the tallest building sin Europe,
     took less than six months. The material enables you to think big, to dream."
     * It is much easier to work with during construction.
@@ -86,7 +93,7 @@
     roads, our bridges, our power stations -- it is 50 percent of everything we make."
 * Delicious - chocolate (chap 4)
   * The triglycerides in cocoa butter can be stacked in different arrangements. Type V is the
-    densest and gives th chocolate a snap, firmness, and shiny exterior.
+    densest and gives the chocolate a snap, firmness, and shiny exterior.
   * "The mechanical property of the snap is important to chocolatiers because it adds surprise and
     drama to our experience of the chocolate. For example, it allows them to create hard outer
     shells with which to encase soft centers, providing a textural contrast."
@@ -133,7 +140,7 @@
 * Invisible - glass (chap 7)
   * Many grains in sand are quartz, which is a crystal form of silicon dioxide. Much of the earth's
     crust is silicon and oxygen.
-  * Unlike h2o, when SiO2 is melted and cooled, the solid crystals do not reform. The resulting
+  * Unlike H2O, when SiO2 is melted and cooled, the solid crystals do not reform. The resulting
     material is glass.
   * When lightning strikes sand, it's hot enough to melt the quartz and create a glass shard.
   * Glass production was advanced greatly by the Romans. They figured out how to add a flux material
@@ -146,8 +153,8 @@
   * Glass transformed chemistry, serving as its work horse. Glass containers are inert and
     transparent, perfect for chemical reactions.
 * Unbreakable - graphite (chap 8)
-  * In diamonds, 4 of the 6 electrons in carbon atoms are shared by other carbon atoms. This
-    creates a strong chemical bond and a rigid structure.
+  * In diamonds, 4 of the 6 electrons in carbon atoms are shared by other carbon atoms. This creates
+    a strong chemical bond and a rigid structure.
   * Graphite is the stable form of carbon atoms, so diamonds very slowly decay to graphite.
   * The atoms share electrons within a layer (hexagonal sheets), but not across layers, so the
     material is soft.
@@ -156,8 +163,8 @@
     identical to a synthetic one, was forged in the depths of the Earth a billion years ago."
   * Graphite can be transformed into diamond via pressure and heat. The accelerated process
     introduces flaws, so large synthetic diamonds are not colorless.
-  * Carbon fiber is an engineered material that is stronger than diamond. And it's much lighter
-    than aluminum. It transformed airplane construction and sports equipment.
+  * Carbon fiber is an engineered material that is stronger than diamond. And it's much lighter than
+    aluminum. It transformed airplane construction and sports equipment.
   * Graphene is the thinnest, strongest, and stiffest material in the world; it conducts
     electricity, faster and with less resistance, than any other material."
   * Graphene is a single layer of graphite, one atom thick. You can make it by shaving off layers
