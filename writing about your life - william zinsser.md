@@ -9,23 +9,40 @@
     your goal."
   * "What I took away from the Book-of-the-Month Club was a belief that the best books -- the most
     enduring books and the most useful books -- are written out of some inner core of conviction."
+  * "I choose to write about people whose values I respect and who do life-affirming work; my
+    pleasure is to bear witness to their lives. Much of my writing has taken the form of a
+    pilgrimage: to sacred places that represent the best of America, to musicians and other
+    artists who represent the best of their art."
   * "Most people are on some kind of pilgrimage, whether or not they recognize it as such. If you
     put your writing in the form of a quest you will make a connection with your readers that will
     surprise you with its power."
-  * "That's also all you can do as a writer. When you write about your life, stop worrying about
-    editors and publishers and agents and about all the readers you hope to reach. It's a privilege
-    to write for one other person. Do it with gratitude and with pleasure." (Great ending)
+  * "There are two ways to think about separation: as a loss, or as a beginning. To separate is to
+    start fresh. For you, I hope today will be the first of many separations that will mean
+    putting behind you something you've done well and beginning something you'll do just as well,
+    or better."
+  * "Bad writing is tired and predictable; nobody wants a cautious writer. When you write, call on
+    the best of your character. And make sure you're living the life you want to live."
+  * "'If you feel a certain emotion while you're playing the piano', he kept assuring me, 'your
+    listeners will feel it, too.'" -- "I give the same advice to writers."
+  * "When I sometimes feel a twinge of disappointment if the crowd at one of my gigs is smaller than
+    I expected, I hear Mitchell saying, 'It's a privilege to play for one other person.' That credo
+    has helped me through many thin situations, both as a public pianist and as a public speaker.
+    I've stopped worrying about conditions that I can't control or change. I just do what I came to
+    do, as well as I can."
+    * "That's also all you can do as a writer. When you write about your life, stop worrying about
+      editors and publishers and agents and about all the readers you hope to reach. It's a privilege
+      to write for one other person. Do it with gratitude and with pleasure." (Great ending)
 
 * Messages on my machine (chap 1)
-  * "i didn't set out to write about any of those themes... but as I started to write, all those
-    other themes came tugging at my sleeve."
   * "The act of writing told me what my piece was 'about'"
+    * "I didn't set out to write about any of those themes... but as I started to write, all those
+      other themes came tugging at my sleeve."
   * "Writers are the custodians of memory, and memories have a way of dying with their owner. One of
     the saddest sentences I know is 'I wish I had asked my mother about that.'"
   * "Beware of deciding in advance how your memoir or your family history will be organized and what
     it will say."
   * "Think small"
-    * "write about small, self-contained incidents that are still vivid in your memory. If you
+    * "Write about small, self-contained incidents that are still vivid in your memory. If you
       remember them it's because they contain a larger truth that your readers will recognize in
       their own lives. Think small and you'll wind up finding the big themes in your family saga."
   * "To write well about your life you only have to be true to yourself. If you make an honest
@@ -34,12 +51,12 @@
 * Writing about school (chap 2)
   * "Specific detail is the foundation of nonfiction writing, and nowhere is it more important than
     in a memoir. You must enable us to picture the place where you grew up and the people who
-    crossed your life. But mere recollection isn't good enough (our house was on Spruce Street').
+    crossed your life. But mere recollection isn't good enough ('our house was on Spruce Street').
     The facts must make a point."
     * And the act of writing will produce facts you had long forgotten about.
-    * "in a lifetime of travels no city has called me back as often as Rome."
+    * "In a lifetime of travels no city has called me back as often as Rome."
   * "Notice that my piece is not finally about a school; it's about people. In much of your memoir
-    writing you will want to recall an institution that as important to you: a school, a church, a
+    writing you will want to recall an institution that was important to you: a school, a church, a
     business, a volunteer organization. But institutions and places have no life of their own. You
     must bring them to life with men and women and children."
     * With rare exception, like when writing about some natural wonder.
@@ -48,7 +65,7 @@
   * "Get your unities straight before you start"
     * "My memoir has unity of point of view. It's told from the perspective of the boy
       I was at Deerfield, not the grown-up I was when I wrote it."
-  * Zooming out of the story to acknowledge the impact that the event had on you later.
+  * Zoom out of the story to acknowledge the impact that the event had on you later.
     * "But don't stay out in the future too long. The best memoirs are frozen in a particular time
       and place and social or historical condition."
 * The larger world (chap 3)
@@ -56,7 +73,7 @@
     stories."
   * "Look for small anecdotes in the larger canvas of life. They will help you to reduce to human
     scale the big events you've been caught up in."
-  * "The invasion of Normand was a mammoth event, involving vast numbers of people. My story reduces
+  * "The invasion of Normandy was a mammoth event, involving vast numbers of people. My story reduces
     it to one 21-year-old soldier in Algiers."
     * Waiting for deployment, watching the allied forces cover the map of France.
   * "The only stories I ever wrote about the war are the two I've briefly retold here: one about a
@@ -117,7 +134,7 @@
   * On a company losing its soul to MBAs
     * "By 1987 the Book-of-the-Month Club had run out of interesting things for me to do. It had
       increasingly become the creature of its corporate owners; sober M.B.A.'s from Time, Inc., buzzed
-      through the halls with 30-day plans and 90-day plans five-year plans and exhortations to 'grow'
+      through the halls with 30-day plans and 90-day plans and five-year plans and exhortations to 'grow'
       the company. I don't remember hearing them talk about books."
   * "What I took away from the Book-of-the-Month Club was a belief that the best books -- the most
     enduring books and the most useful books -- are written out of some inner core of conviction."
@@ -129,18 +146,18 @@
   * "You must, in short, practice a craft. You can never forget the storyteller's ancient rules of
     maintaining tension and momentum -- rules you've known in your bones since you were a child
     listening to bedtime stories."
-  * Suggests preparing a memoir by writing up a memorable event from your life once a day. Not in
-    chronological order -- what's most prominent. During off time, your subconscious will work to
-    further flesh out the memory and its meaning.
+  * He suggests preparing a memoir by writing up a memorable event from your life once a day. Not in
+    chronological order, but instead, by what's most prominent. During your off time, your
+    subconscious will work to further flesh out the memory and its meaning.
     * "All of us who write need a certain amount of time, often quite a lot of time, to relax and
-      fin dour natural voice. Therefore you'll notice that the entries you wrote in the second month
+      find our natural voice. Therefore you'll notice that the entries you wrote in the second month
       are warmer than the ones you wrote in the first month, which are a little wooden, a little
       impersonal, a little pretentious."
   * "All writing is talking to someone else on paper. Talk like yourself."
 * Writing as a ministry (chap 11)
   * Writing as a ministry, rather than writing to condemn, deplore.
-    * "I always write to affirm -- or, if I start negatively, deploring some situation or tend that
-      strikes me as injurious, my goal si to arrive at a constructive point."
+    * "I always write to affirm -- or, if I start negatively, deploring some situation or trend that
+      strikes me as injurious, my goal is to arrive at a constructive point."
     * "I choose to write about people whose values I respect and who do life-affirming work; my
       pleasure is to bear witness to their lives. Much of my writing has taken the form of a
       pilgrimage: to sacred places that represent the best of America, to musicians and other
