@@ -12,6 +12,7 @@
   * "If you aren't experiencing failure, then you are making a far worse mistake: you are being
     driven by the desire to avoid it."
     * The absence of mistakes is an indicator of poor progress.
+  * "Only from struggle does clarity emerge."
 * Intro
   * "What they miss is that the unifying idea for [Pixar's campus] isn't luxury but community. Steve
     wanted the building to support our work by enhancing our ability to collaborate."
@@ -150,3 +151,68 @@
       of a movie, where the costs off iteration and exploration are relatively low. (At this point,
       we're paying the director's and story artists' salaries but not putting anything into
       production, which is where costs explode.)
+* The hungry beast and the ugly baby (chap 7)
+  * A metaphor for meeting production and revenue goals vs. incubating new ideas.
+    * The hungry beast: shipping, market expansion, revenue production
+    * Ugly baby: nascent ideas which are immature, vulnerable, hard to prioritize
+  * New ideas re unproven and have no friends. They need protection or you'll never get any of them
+    off the ground, and you will plateau.
+  * Both new ideas, and hitting existing production goals, are valuable endeavors. You want an
+    explicit balance.
+  * "Part of our job is to protect the new from people who don't understand that in order for
+    greatness to emerge, there must be phases of not-so-greatness."
+    * "Protect the new" to make sure unusual immature ideas have their chance to mature and prove
+      themselves.
+  * "In a healthy culture, all constituencies recognize the importance of balancing competing
+    desires -- they want to be heard, but they don't have to win. (Their interaction with one
+    another -- the push and pull that occurs naturally when talented people are given clear goals --
+    yields the balance we seek. But that only happens if they understand that achieving balance is a
+    central goal of the company."
+    * (Interesting. Marketing vs. sales; product vs. eng.)
+  * Balancing group size: larger teams means more/ better work, but less intimate meetings and
+    smaller ownership. Refactoring into smaller teams can help with that.
+  * "I often say that managers of creative enterprises must hold lightly to goals and firmly to
+    intentions."
+    * Intentions or values survive much better and are more helpful compasses than goals.
+  * "Negative feedback may be fun, but it is far less brave than endorsing something unproven and
+    providing room for it to grow."
+  * Creativity in isolation doesn't work
+    * "I know some people who like to keep their gem completely to themselves while they polish it.
+      But allowing this kind of behavivor isn't protection. In fact, it can be the opposite: a
+      failure to protect your employees from themselves. Because if history is any guide, some are
+      diligently trying to polish a brick."
+  * The Beast is a productive force, eliciting progress and engagement with the real world.
+* Change and randomness (chap 8)
+  * No plan survives. Your org is designed to handle the change and produce a better strategy.
+  * Change is hard. Success comes from doing the hard work.
+  * "One trick I've learned is to force myself to make a list of what's actually wrong. Usually,
+    soon into making the list, I find I can group most of hte issues into two or three larger
+    all-encompassing problems. So it's really not all that bad. Having a finite list of problems is
+    much better than having an illogical feeling that *everything* is wrong."
+  * "I believe life should not be easy. We're meant to push ourselves and try new things -- which
+    will definitely make us feel uncomfortable. Living through a few big catastrophes helps. After
+    people survived A Bug's Life and Toy Story 2, they realized the pressure led to some pretty cool
+    ideas."
+    * He's skeptical of film pitches which have the pieces hanging together from the outset.
+    * Similar to an angel investment pitch. It's all going to change. You have to be able to do the
+      hard iterations.
+    * "Only from struggle does clarity emerge."
+  * (Looking backward to a good leader or a golden era will not take you forward to greatness.
+    * "He never wanted people to ask, 'What would Steve do?' No one -- not Walt, not Steve, not the
+      pepole of Pixar -- ever achieved creative success by simply clinging to what used to work."
+* The Hidden (chap 9)
+  * "It behooves us to ask ourselves constantly: how much are we able to see? And how much is
+    obscured from view?"
+  * Every good company will make poor decision sand fail in some way. They will suffer from a
+    problem they can't see. The goal is to see as many of those as possible; see the hidden.
+* Broadening our view (chap 10)
+  * Their techniques for avoiding rigidity in their viewpoints: dailies, postmortems, research
+    trips, adhering to various constraints.
+  * "As more people are added to any group, there is an inexorable drift toward inflexibility."
+  * Dailes: the daily critique of the animation frames that the team is working on.
+  * Research trips: To understand the details of the problem, find the unexpected, and become
+    authentic, not derivative.
+  * Constraints
+    * Budgets and prioritization to avoid pouring time into details which don't advance the project
+      much.
+      * But don't do this too early, in the discovery phase, because that can limit creativity and exploration.
