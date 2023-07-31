@@ -13,13 +13,21 @@
     driven by the desire to avoid it."
     * The absence of mistakes is an indicator of poor progress.
   * "Only from struggle does clarity emerge."
+  * In postmortems, "I like data because it is neutral -- there are no value judgments, only facts.
+    That allows people to discuss the issues raised by data less emotionally than they might an
+    anecdotal experience."
+  * Notes day: An epic, all day session where everyone in the company discusses their ideas for how
+    to make the company better, with a focused them (e.g. "3 movies in 2 years") for the breakout
+    sessions. Cathartic. Encourages candor, ownership, and a long-term view of and participation in
+    the company.
+
 * Intro
   * "What they miss is that the unifying idea for [Pixar's campus] isn't luxury but community. Steve
     wanted the building to support our work by enhancing our ability to collaborate."
   * "Self-expression, palpable energy; air of possibility."
   * What makes Pixar special: "We will always have problems, many of them hidden from our view; that
     we work hard to uncover these problem,s even if doing so means making ourselves uncomfortable;
-    and that, when we come across a problem,, we marhsall all of our energies to solve it."
+    and that, when we come across a problem, we marshall all of our energies to solve it."
   * His lifelong dream was to animate a feature film. It took Ed 20 years to do that. Once Toy Story
     shipped, his internal compass of purpose was adrift.
   * "As I turned my attention from solving technical problems to engaging with the philosophy of
@@ -178,7 +186,7 @@
     providing room for it to grow."
   * Creativity in isolation doesn't work
     * "I know some people who like to keep their gem completely to themselves while they polish it.
-      But allowing this kind of behavivor isn't protection. In fact, it can be the opposite: a
+      But allowing this kind of behavior isn't protection. In fact, it can be the opposite: a
       failure to protect your employees from themselves. Because if history is any guide, some are
       diligently trying to polish a brick."
   * The Beast is a productive force, eliciting progress and engagement with the real world.
@@ -186,7 +194,7 @@
   * No plan survives. Your org is designed to handle the change and produce a better strategy.
   * Change is hard. Success comes from doing the hard work.
   * "One trick I've learned is to force myself to make a list of what's actually wrong. Usually,
-    soon into making the list, I find I can group most of hte issues into two or three larger
+    soon into making the list, I find I can group most of the issues into two or three larger
     all-encompassing problems. So it's really not all that bad. Having a finite list of problems is
     much better than having an illogical feeling that *everything* is wrong."
   * "I believe life should not be easy. We're meant to push ourselves and try new things -- which
@@ -199,7 +207,7 @@
     * "Only from struggle does clarity emerge."
   * (Looking backward to a good leader or a golden era will not take you forward to greatness.
     * "He never wanted people to ask, 'What would Steve do?' No one -- not Walt, not Steve, not the
-      pepole of Pixar -- ever achieved creative success by simply clinging to what used to work."
+      people of Pixar -- ever achieved creative success by simply clinging to what used to work."
 * The Hidden (chap 9)
   * "It behooves us to ask ourselves constantly: how much are we able to see? And how much is
     obscured from view?"
@@ -209,10 +217,69 @@
   * Their techniques for avoiding rigidity in their viewpoints: dailies, postmortems, research
     trips, adhering to various constraints.
   * "As more people are added to any group, there is an inexorable drift toward inflexibility."
-  * Dailes: the daily critique of the animation frames that the team is working on.
+  * Daylies: the daily critique of the animation frames that the team is working on.
   * Research trips: To understand the details of the problem, find the unexpected, and become
     authentic, not derivative.
   * Constraints
     * Budgets and prioritization to avoid pouring time into details which don't advance the project
       much.
-      * But don't do this too early, in the discovery phase, because that can limit creativity and exploration.
+      * But don't do this too early, in the discovery phase, because that can limit creativity and
+        exploration.
+  * Postmortems
+    * Held right after shipping every major movie.
+    * Organize the lessons learned, for the rest of the company and for producing better films.
+    * Also gives team members a release valve to productively vent frustrations.
+    * Data they collect to fuel their postmortems:
+      * "We keep track of the rates at which things happen, how often something has to be reworked,
+        how long something actually took versus how long we estimated it would take, whether a piece
+        of work was completely finished or not when it was sent to another department, and so on."
+      * "I like data because it is neutral -- there are no value judgments, only facts. That allows
+        people to discuss the issues raised by data less emotionally than they might an anecdotal
+        experience."
+  * Pixar University is mainly about the cultural signal that people should always be learning and
+    exploring.
+* The unmade future (chap 11)
+  * Mental models for thinking about how to get people to an unknown destination.
+  * Creativity through "protracted struggle."
+  * A tour of the mental models or "coping mechanisms" used by people at Pixar to drive into the
+    creative unknown and endure the uncertainty.
+  * Directing is like skiing. You go fast, you don't have full control, and you have limited time to
+    decide. You stay up if you plow forward and don't over-think it. You must be relaxed, zen-like.
+  * Pretending you have as much time as you need, even when you don't, so you don't thrash, and you
+    actually progress on problems.
+  * Action bias, "zipping through" complex problems.
+    * (But if it's hard, will you ever get the answer this way?)
+    * "For [Andrew Stanton], moving quickly is a plus because it prevents him from getting stuck
+      worrying about whether his chosen course of action is the wrong one. Instead, he favors being
+      decisive, then forgiving yourself if your initial decision proves misguided."
+  * The creative process is a long dark tunnel. In the middle is dark and uncertain, but assuming
+    there's a solution, you will emerge from the darkness if you press forward. Your compass will
+    allow you to endure the uncertainty.
+    * "Our fear stems from the need to make the nonexistent come into being. As we've discussed,
+      people often try to overcome this fear by simply repeating what has worked in the past. That
+      leads nowhere -- or, or more accurately, it leads in the opposite direction of originality.
+      The trick is to use our skills and knowledge not to duplicate but to invent."
+  * "I've now described several models, and the thing I believe the have in common is the search
+    for an unseen destination -- for land across the ocean (Andrew), for light at the end of the
+    tunnel (Pete), for a way out of the maze (Rich), for the mountain itself (Michael)."
+* A new challenge (chap 12)
+  * Pre-acquisition, to assuage employee fears they drafted a 7-page list of comp and cultural items
+    that wouldn't change for five years.
+    * "We were different, and since we believe being different helps us maintain our identity, we
+      wanted to remain that way."
+  * They wanted to keep both studios (Pixar, Disney Animation) entirely separate.
+    * (He didn't elaborate on why)
+  * The feedback system at Disney had mandatory changes which came from non-filmmakers. They
+    abolished mandatory changes, which restored ownership to the directors.
+  * Ed and John spent a lot of time fixing Disney Animation, and used it as an opportunity to
+    empower other leaders to steer Pixar.
+    * They pushed "research trips" onto the folks at Disney ANimation, so that everything they threw
+      on screen -- sets, characters -- would be genuine.
+  * About Tangled: "The movie went on to earn more than $590 million worldwide, becoming the
+    second-highest-grossing film from Disney Animation ever, after The Lion King. The studio had its
+    first number one hit in sixteen years, and the reverberations with the building were palpable."
+* Notes day (chap 13)
+  * An epic, all day session where everyone in the company discusses their ideas for how to make the
+    company better, with a focused them (e.g. "3 movies in 2 years") for the breakout sessions.
+  * Cathartic. Encourages candor, ownership, and a long-term view of and participation in the
+    company.
