@@ -12,21 +12,21 @@
   * "If you aren't experiencing failure, then you are making a far worse mistake: you are being
     driven by the desire to avoid it."
     * The absence of mistakes is an indicator of poor progress.
+    * Failure is an occasional consequence of decisiveness.
   * "Only from struggle does clarity emerge."
   * In postmortems, "I like data because it is neutral -- there are no value judgments, only facts.
     That allows people to discuss the issues raised by data less emotionally than they might an
     anecdotal experience."
   * Notes day: An epic, all day session where everyone in the company discusses their ideas for how
-    to make the company better, with a focused them (e.g. "3 movies in 2 years") for the breakout
+    to make the company better, with a focused theme (e.g. "3 movies in 2 years") for the breakout
     sessions. Cathartic. Encourages candor, ownership, and a long-term view of and participation in
     the company.
-
 * Intro
   * "What they miss is that the unifying idea for [Pixar's campus] isn't luxury but community. Steve
     wanted the building to support our work by enhancing our ability to collaborate."
   * "Self-expression, palpable energy; air of possibility."
   * What makes Pixar special: "We will always have problems, many of them hidden from our view; that
-    we work hard to uncover these problem,s even if doing so means making ourselves uncomfortable;
+    we work hard to uncover these problems, even if doing so means making ourselves uncomfortable;
     and that, when we come across a problem, we marshall all of our energies to solve it."
   * His lifelong dream was to animate a feature film. It took Ed 20 years to do that. Once Toy Story
     shipped, his internal compass of purpose was adrift.
@@ -52,9 +52,9 @@
   * His first job was to assemble an elite graphics team for an eccentric millionaire.
   * The movie studios weren't interested at all in computers to help with film making. That would
     change once Star Wars debuted.
-  * "In the intervening years, George has said that he hired me because of my honest, my 'clarity of
-    vision,' and my steadfast belief in what computers could do."
-  * A great way to tell the story of a company. Like ISrael seeking the land of Canon:
+  * "In the intervening years, George has said that he hired me because of my honesty, my 'clarity
+    of vision,' and my steadfast belief in what computers could do."
+  * A great way to tell the story of a company. Like Israel seeking the land of Canon:
     * "Building a company was like being on a wagon train headed west. On the long journey to the
       land of plenty, the pioneers would be full of purpose and united by the goal of reaching their
       destination. Once they arrived, he'd say, people would come and go, and that was as it should
@@ -79,8 +79,8 @@
     * Simple answers like the 'start high' pricing advice -- so seductive in its rationality -- had
       distracted me and kept me from asking more fundamental questions.
   * (Deming's Japanese lean manufacturing techniques had a profound impact on Ed. "Everyone should
-    be wmpoered to take responsibility for the quality of the product."
-  * Pixar could not make hardware sales work, and so they pivoted one last tiem to entirely
+    be empowered to take responsibility for the quality of the product."
+  * Pixar could not make hardware sales work, and so they pivoted one last time to entirely
     animation.
   * 1991: laid off 1/3 of employees.
   * Steve tried to sell them three times. The offers weren't bad -- $40M from Microsoft. Steve was
@@ -97,19 +97,19 @@
     role Pixar played in it, but for now, I will simply assert that failure made him better, wiser,
     and kinder."
   * As they felt good about Toy Story's imminent release, Steve scrambled to IPO them so they could
-    renegotiate their contract with Disney. Great foresight and hustle! (They IPO'd in 1995)
+    renegotiate their contract with Disney. (Great foresight and hustle! They went public in 1995).
   * How to understand a problem once spotted? Attention, and lots of conversations.
     * (It's not hard, but I feel like I try to jump straight to a solution, because I'm impatient or
-      short on bandwidth)
+      feel short on bandwidth)
   * Finding a culture problem and trying to solve it was invigorating for everyone.
   * Trying to sense future ways the company could be harmed or undone:
     * "What would happen to our egos if we continued to succeed? Would they grow so large they could
       hurt us, and if so, what could we do to address that overconfidence?"
 * Establishing Pixar's identity (chap 4)
   * Two mantras developed:
-    * Story is King. Made priorities clear, pu tech and merchandising in its place.
+    * Story is King. It made priorities clear, and it put tech and merchandising in their place.
     * Trust the Process
-      * Focus on building the process.
+      * Focus on building the process
       * Pride in the Pixar way
   * The initial junior team working on Toy Story 2 failed. Lasseter stepped in and took over. Ed
     asked himself: how did that happen?
@@ -123,8 +123,8 @@
       idea to a brilliant team, they will either fix it or throw it away and come up with something
       better."
   * A good team is not about individual talents. It's about how they work together: the chemistry.
-  * Good people are more important than "good ideas." Ideas don't go anywhere without good people who
-    develop them and bring them to life with a thousand supporting ideas.
+  * Good people are more important than "good ideas." Ideas don't go anywhere without good people
+    who develop them and bring them to life with a thousand supporting ideas.
 * Honesty and candor (chap 5)
   * Every leader of a deep creative project gets so immersed that they lose touch. Expect this.
     Provide strong feedback mechanisms, like Pixar's 3-month Braintrust reviews.
@@ -140,22 +140,22 @@
     group in ways I believe are essential."
     * More like "peer review." The solutions will be tough, and so the director has to be the one to
       search for them.
-  * "It's as if they've gathered a panel of consulting experts to help find an accurate diangosis
-    for an extremely confounding case. But ultimately, it's the filmmakers, and no one else, who will
-    make the final decisions about the wisest course of treatment."
+  * "It's as if they've gathered a panel of consulting experts to help find an accurate diagnosis
+    for an extremely confounding case. But ultimately, it's the filmmakers, and no one else, who
+    will make the final decisions about the wisest course of treatment."
 * Fear and failure (chap 6)
-  * Management's job is not to prevent risk, but build the ability to recover."
+  * "Management's job is not to prevent risk, but build the ability to recover."
   * Repeated failure is necessary for creative work. Careful master plans don't work.
   * Fear of failure is very hard to remove. Fear must be identified, diagnosed, and removed with
     explicit mechanisms of trust.
   * "If you aren't experiencing failure, then you are making a far worse mistake: you are being
     driven by the desire to avoid it."
     * The absence of mistakes is an indicator of poor progress.
-  * Failure is on occasional consequence of decisiveness.
+  * Failure is an occasional consequence of decisiveness.
   * Creative endeavors are like science: trying something and failing yields faster information and
-    thus better success than careful design and planning. And you get less attached to an approach.
+    thus more success than careful design and planning. And you get less attached to an approach.
   * Product research versus development and scaling phase:
-    * "We've set up a sy stem in which directors are allowed to spend years in the development phase
+    * "We've set up a system in which directors are allowed to spend years in the development phase
       of a movie, where the costs off iteration and exploration are relatively low. (At this point,
       we're paying the director's and story artists' salaries but not putting anything into
       production, which is where costs explode.)
@@ -163,7 +163,7 @@
   * A metaphor for meeting production and revenue goals vs. incubating new ideas.
     * The hungry beast: shipping, market expansion, revenue production
     * Ugly baby: nascent ideas which are immature, vulnerable, hard to prioritize
-  * New ideas re unproven and have no friends. They need protection or you'll never get any of them
+  * New ideas are unproven and have no friends. They need protection or you'll never get any of them
     off the ground, and you will plateau.
   * Both new ideas, and hitting existing production goals, are valuable endeavors. You want an
     explicit balance.
@@ -172,9 +172,9 @@
     * "Protect the new" to make sure unusual immature ideas have their chance to mature and prove
       themselves.
   * "In a healthy culture, all constituencies recognize the importance of balancing competing
-    desires -- they want to be heard, but they don't have to win. (Their interaction with one
-    another -- the push and pull that occurs naturally when talented people are given clear goals --
-    yields the balance we seek. But that only happens if they understand that achieving balance is a
+    desires -- they want to be heard, but they don't have to win. Their interaction with one another
+    -- the push and pull that occurs naturally when talented people are given clear goals -- yields
+    the balance we seek. But that only happens if they understand that achieving balance is a
     central goal of the company."
     * (Interesting. Marketing vs. sales; product vs. eng.)
   * Balancing group size: larger teams means more/ better work, but less intimate meetings and
@@ -186,7 +186,7 @@
     providing room for it to grow."
   * Creativity in isolation doesn't work
     * "I know some people who like to keep their gem completely to themselves while they polish it.
-      But allowing this kind of behavior isn't protection. In fact, it can be the opposite: a
+      But allowing this kind of behavior isn't productive. In fact, it can be the opposite: a
       failure to protect your employees from themselves. Because if history is any guide, some are
       diligently trying to polish a brick."
   * The Beast is a productive force, eliciting progress and engagement with the real world.
@@ -205,20 +205,20 @@
     * Similar to an angel investment pitch. It's all going to change. You have to be able to do the
       hard iterations.
     * "Only from struggle does clarity emerge."
-  * (Looking backward to a good leader or a golden era will not take you forward to greatness.
+  * Looking backward to a good leader or a golden era will not take you forward to greatness.
     * "He never wanted people to ask, 'What would Steve do?' No one -- not Walt, not Steve, not the
       people of Pixar -- ever achieved creative success by simply clinging to what used to work."
 * The Hidden (chap 9)
   * "It behooves us to ask ourselves constantly: how much are we able to see? And how much is
     obscured from view?"
-  * Every good company will make poor decision sand fail in some way. They will suffer from a
+  * Every good company will make poor decisions and fail in some way. They will suffer from a
     problem they can't see. The goal is to see as many of those as possible; see the hidden.
 * Broadening our view (chap 10)
-  * Their techniques for avoiding rigidity in their viewpoints: dailies, postmortems, research
-    trips, adhering to various constraints.
+  * (Outline of Pixar's techniques for avoiding rigidity in their viewpoints: dailies, postmortems,
+    research trips, adhering to various constraints.)
   * "As more people are added to any group, there is an inexorable drift toward inflexibility."
-  * Daylies: the daily critique of the animation frames that the team is working on.
-  * Research trips: To understand the details of the problem, find the unexpected, and become
+  * Dailies: the daily critique of the animation frames that the team is working on.
+  * Research trips: to understand the details of the problem, find the unexpected, and become
     authentic, not derivative.
   * Constraints
     * Budgets and prioritization to avoid pouring time into details which don't advance the project
@@ -239,16 +239,16 @@
   * Pixar University is mainly about the cultural signal that people should always be learning and
     exploring.
 * The unmade future (chap 11)
-  * Mental models for thinking about how to get people to an unknown destination.
-  * Creativity through "protracted struggle."
   * A tour of the mental models or "coping mechanisms" used by people at Pixar to drive into the
     creative unknown and endure the uncertainty.
+    * Mental models for thinking about how to get people to an unknown destination.
+  * Creativity through "protracted struggle."
   * Directing is like skiing. You go fast, you don't have full control, and you have limited time to
     decide. You stay up if you plow forward and don't over-think it. You must be relaxed, zen-like.
   * Pretending you have as much time as you need, even when you don't, so you don't thrash, and you
     actually progress on problems.
   * Action bias, "zipping through" complex problems.
-    * (But if it's hard, will you ever get the answer this way?)
+    * (But if the problem is hard, will you ever get the answer this way?)
     * "For [Andrew Stanton], moving quickly is a plus because it prevents him from getting stuck
       worrying about whether his chosen course of action is the wrong one. Instead, he favors being
       decisive, then forgiving yourself if your initial decision proves misguided."
@@ -259,9 +259,9 @@
       people often try to overcome this fear by simply repeating what has worked in the past. That
       leads nowhere -- or, or more accurately, it leads in the opposite direction of originality.
       The trick is to use our skills and knowledge not to duplicate but to invent."
-  * "I've now described several models, and the thing I believe the have in common is the search
-    for an unseen destination -- for land across the ocean (Andrew), for light at the end of the
-    tunnel (Pete), for a way out of the maze (Rich), for the mountain itself (Michael)."
+  * "I've now described several models, and the thing I believe the have in common is the search for
+    an unseen destination -- for land across the ocean (Andrew), for light at the end of the tunnel
+    (Pete), for a way out of the maze (Rich), for the mountain itself (Michael)."
 * A new challenge (chap 12)
   * Pre-acquisition, to assuage employee fears they drafted a 7-page list of comp and cultural items
     that wouldn't change for five years.
@@ -280,6 +280,6 @@
     first number one hit in sixteen years, and the reverberations with the building were palpable."
 * Notes day (chap 13)
   * An epic, all day session where everyone in the company discusses their ideas for how to make the
-    company better, with a focused them (e.g. "3 movies in 2 years") for the breakout sessions.
+    company better, with a focused theme (e.g. "3 movies in 2 years") for the breakout sessions.
   * Cathartic. Encourages candor, ownership, and a long-term view of and participation in the
     company.
