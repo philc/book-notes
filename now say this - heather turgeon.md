@@ -6,13 +6,18 @@
   * "If kids are controlled by fear and judgement, they aren't challenged to develop their own moral
     compass. They don't build an internal sense of good that carries them through the moments when
     no one is watching."
+  * "If you can hear and understand your child in her most vulnerable, challenging states, this
+    unconditional love builds a sense of trust and safety that she will carry with her forever."
+  * "It feels like an assault to us, a failure on our part, or even a manipulation. But the very
+    moment when your child is being as unappealing and unhinged as she can possibly be is the moment
+    when she's signaling that she needs you the most."
 * Intro
   * "[Parents] often feel like drill sergeants, issuing no's, yelling, and time-outing."
   * "Your child is capable and built for good"
-    * On raising unruly, entitled kids: "Whichever camp they're in, though, most parents tell ust hat
-      something is missing. When they're very strict, they end up feeling guilty and worry they're
-      missing a deeper connection to their kids. When they try to empathize and be flexible, they
-      often feel ineffective and resentful."
+    * On raising unruly, entitled kids: "Whichever camp they're in, though, most parents tell us
+      that something is missing. When they're very strict, they end up feeling guilty and worry
+      they're missing a deeper connection to their kids. When they try to empathize and be flexible,
+      they often feel ineffective and resentful."
 * Three steps for communicating in difficult moments (chap 1)
   * "win-win": being able to parent with these qualities which are at odds with each other
     * Warmth vs. high-expectations
@@ -28,9 +33,9 @@
     set limits, and guide."
   * Unhelpful view: "kids need tough love. That's what makes a good parent." More helpful and
     accurate: "how we treat our children affects how they treat everyone else."
-  * Kids might be disobeying at bedtime, but because they've missed mom and want to connect with
-    her, and don't know how to show it. This response meets their needs better than a threat of "no
-    story time!"
+  * Kids might be disobeying at bedtime, but it may be because they've missed mom and want to
+    connect with her, and don't know how to show it. Attuning to this need will meet their needs
+    better than a threat of "no story time!"
     * "I see silly people running all over the place here. Hey, everyone, urgent cuddle 911! I've
       missed you guys so much today. I'm excited to see what happens in the next chapter of that
       book we started last night. So teeth and then meet me on the couch!"
@@ -42,7 +47,8 @@
       the bottom up. Now you're connected, and your words are more effective."
   * The adult's responsibility is to ask "what is underneath this annoying behavior?" Difficult
     behavior is an opportunity to attune.
-  * Emotions sometimes come in intense spells -- storms -- this is to be expected, and they always pass.
+  * Emotions sometimes come in intense spells -- storms -- this is to be expected, and they always
+    pass.
   * Let it be OK when your kid has emotions, rather than feeling as if you have to fix difficult
     emotions. Be a safe bedrock.
     * "Emotions are okay. They come and go, they aren't forever or scary. I'm here with you no
@@ -50,8 +56,9 @@
   * "If kids are controlled by fear and judgement, they aren't challenged to develop their own moral
     compass. They don't build an internal sense of good that carries them through the moments when
     no one is watching."
-  * Rewards lower intrinsic motivation and teach that the behavior being rewarded is distasteful, so
-    the behavior will not persist in the long run when the reward is absent.
+  * Rewards will lower intrinsic motivation and teach that the behavior being rewarded is
+    distasteful on its own. So, the behavior will not persist in the long run when the reward is
+    absent.
   * Shaming, bribing, threats: "If children are capable and built for good, none of these tactics
     are necessary. They all imply that a child needs to be tricked or forced to do the right thing."
   * "At the end of the day, we all yearn for connection. We want our trusted people to see and
@@ -69,19 +76,20 @@
     * Pause: attune by pausing before you react. "Harder than it sounds."
       * Respond with "Hmm, let's think about this."
     * Use your body language
-      * Make them feel safe and open. Standing over your child is an offensive move. At eye level is
-        a collaborative move.
+      * Make them feel safe and open. Standing over your child is an offensive move. Being at eye
+        level is a collaborative move.
     * Say what you see: the sportscaster
       * Use an observant, and curious tone, not blaming. Helps them remain open while seeing cause
         and effect.
-    * Paraphrase what you're hearing; be a "good waiter"
+    * Paraphrase what you've just heard from them; be a "good waiter".
+      * This validates their experience.
   * "Try not to insert or project your own feelings, but see his behavior as understandable, given
     his development level."
     * They don't yet know what's trivial vs. important.
   * When placing limits, they should be paired with explanation. This helps the child extrapolate to
     future scenarios.
     * Attune: "You want those cookies from this grocery store huh? I know they look good."
-    * Limit set: "we're not buying that today because w're just getting what we need for our meals."
+    * Limit set: "we're not buying that today because we're just getting what we need for our meals."
   * "As kids get older, if you have consistently held reasonable limits without caving or
     flip-flopping, they will internalize these lessons and their testing of them will naturally
     decrease."
@@ -89,9 +97,10 @@
     * "The gist of the problem-solving step is 'here's what you *can* do!'"
     * "When things don't go their way, optimists feel a sense of agency to overcome, rather than the
       pessimist's tendency to blame outside forces for their problems."
-    * The "head-scratching, bumbling parent": create space for them to come alongside and propose the
-      obvious solution.
-    * The "follow-through" choice: an escape hatch where the parent can take control of the situation
+    * The "head-scratching, bumbling parent": create space for them to come alongside and propose
+      the obvious solution.
+    * The "follow-through" choice: an escape hatch where the parent can take control of the
+      situation
       * "Can you lead us out of the store? (Pause) It seems like it's hard to leave. You can walk
         yourself or I will carry you."
     * Calm down instead of time-out
@@ -111,9 +120,161 @@
       become disconnected, they come back together again."
       * This also applies to parental fights in front of kids.
     * "kids notice and register our words and reactions all the time. If they feel a rupture, they
-      log it and it stays with them. If they can't make sense out of why ti happened, the memory can
+      log it and it stays with them. If they can't make sense out of why it happened, the memory can
       be stored in a way that compromises their future relationships. It's like a piece of the
       puzzle is missing."
     * Model humility by repairing. Messing up is an opportunity for good.
   * "Parenting is made up of thousands of small moments that together tell a story that can be
     beautiful and meaningful."
+* Proactive tools (chap 2)
+  * Attitude as a parent, facing the emotional turbulence of young children: "We don't know what
+    today will be like, but let's see. We're in it together!"
+  * Family meetings
+    * "the tone of family meetings is positive, can-do-together, rather than scolding or negative."
+    * (I'm realizing that I make my family meetings rushed, like the meeting isn't capable of
+      holding my kids' attention span, and this naturally undermines their value and makes them feel
+      of less consequence.)
+    * Mix fun updates, like vacations, with more exhausting topics, like problems and rules.
+    * Converting complaining into productive requests
+      * "As you know, in family meetings we say what we do want, not what we don't want. Make a
+        clear statement to your sister about what your idea or request is."
+    * Recommended cadence is once a week or once a month.
+    * Present new information to your kids together. "Of course, I have to check in with Mom. We're
+      a team."
+  * Working as a parenting team
+    * Criticizing the other parent's parenting offline is more respectful than doing it online, and
+      it allows the other parent to cool down and be ready to receive it.
+    * "Parents miss and long for those simple shows of affection they remember from their early days
+      as a couple."
+    * Working through conflict in a mature way in front of the kids provides a positive model for
+      them.
+    * Debriefing a parental argument to the kids: "We had big feels and I know our voices must have
+      been loud. Each of us had really different ideas and we got upset. Finally we did figure out
+      how to hear each other, though."
+  * The preparation step: proactively reviewing the family's rules of conduct, in context. E.g. the
+    rules of eating at restaurants while on the way to a restaurant.
+    * "I've got the bath running. Everyone lay out your clothes and pack your backpacks for tomorrow
+      before hopping in."
+  * Moving kids along
+    * "We're heading out in five minutes -- everyone do your last thing!" (This sounds better, and
+      more positive, than "Five minute warning -- there's not much time left!")
+    * "We're almost at school -- does everyone know what to do when I park?"
+  * Filling the tank
+    * Sleep deprivation triggers bad behavior. Kids don't appear tired, but rather hyper-active.
+    * "Toddlers need eleven to twelve hours of nighttime sleep, plus a nap. School-age children
+      still need ten to twelve hours of nighttime sleep."
+    * Snacks should be the same healthy composition as meals. "Mini-meal."
+    * "If it's been about three hours or more since the last meal or snack, hunger may be the cause
+      of difficult behavior. Avoid offering food as a way to soothe, distract, or as a bribe, as
+      this can lead to emotional eating."
+    * Movement: creativity increases after a walk; take a walk yourself as you problem solve a
+      parenting situation.
+  * Overscheduling
+    * Parent-directed life: kids "end up being led around by a grown-up all day: to school, child
+      care, sports, errands, music, ballet, homework, chores, dinner, and bedtime. They don't feel
+      in control of their lives. It doesn't leave breathing room to let moments unfold
+      spontaneously."
+    * Kids can't easily identify or express that they're over-scheduled.
+    * "We're taking a break from soccer this round, so we can keep open afternoons for just seeing
+      what happens."
+  * Parties: "leave while you're still having fun."
+    * Kids get over-stimulated at parties and events.
+    * "Decide ahead of time when it would make sense to leave an event, and do your best to stick to
+      it. There will be times when you're sacrificing an hour of fun, but if everyone feels
+      balanced, you can look forward to your next outing instead of dreading the aftermath."
+  * Teach your kids that meals are a communal family experience. Don't introduce electronics.
+  * Child-led play
+    * Their natural interests are very important for their development. Your role is to tune in and
+      follow.
+    * "Be aware of not talking constantly. Nonverbal communication and silence lets your child be
+      the one to take the lead."
+    * It's a good "space to be in", where you consciously let go of all those adult worries that
+      don't actually matter as much as connecting with your kid.
+      * Being present with your kids during child-led play requires the same discipline as
+        meditation. The mind naturally wanders. Playing with a child without distraction is like
+        meditative exercise.
+    * Don't overhelp. Give kids the thrill of overcoming challenges.
+    * Ask the child to tell you "all about" something she's interested in or currently working on.
+      Let hear be the teacher. This is empowering and connecting.
+  * Self-care for the parent
+    * Self-talk
+      * You're flooded; how to relieve your emotions, so you can talk to your kids with kindness and
+        grace?
+      * Self-talk: "it's my job to stay calm and be the bigger person."
+      * "I'm not a bad parent. I'm having normal feelings."
+      * I need to take space for a few minutes. Let's talk about this after that. I need to sort
+        this out in my mind.
+    * "Sleep changes everything" and is the fountain of patience.
+      * Try sleeping 30 minutes more per night, so your tank is slightly overflowing rather than
+        slightly under-filled.
+  * "If you can hear and understand your child in her most vulnerable, challenging states, this
+    unconditional love builds a sense of trust and safety that she will carry with her forever."
+    * (This breaks my heart. In many such moments I've expressed consequences and judgments, rather
+      than unconditional love.)
+  * Mindfulness exercises
+    * "The more present we are, the more our children trust usa nd the more securely attached they
+      become -- this helps them grow naturally more independent over time."
+    * Pick some mindfulness thing you can actually do -- not another commitment that you will feel
+      bad about if you miss it each day.
+    * Try observing your child: stop what you're doing, listen, and take in your baby or child.
+      * (I do this often, and liken it to watching goldfish in a tank. It's relaxing and
+        gratitude-inducing.)
+  * "Sometimes they just need to know you see them, even without words, or with a simple *I saw
+    that!*"
+* Difficult feeling and tantrums (chap 3)
+  * Parents "continue to try and cut off feelings quickly, correct right away, or coax their kids
+    into being happy again", rather than saying that their feelings are OK and safe to have.
+  * Treat negative feelings and tantrums as rare opportunities to show that you care and you "get"
+    what they're feeling. This helps them feel attached and to become resilient.
+  * "It feels like an assault to us, a failure on our part, or even a manipulation. But the very
+    moment when your child is being as unappealing and unhinged as she can possibly be is the moment
+    when she's signaling that she needs you the most."
+  * A more accurate and helpful word for tantrum is "emotional flood."
+  * Instead of saying "it's OK" (which is dismissive of the child's feelings), try "that looked like
+    it hurt. Let me see that arm" or "I'm here with you."
+  * Home vs. school behavior
+    * "School is a place to hold it together -- home is a place to work things out."
+    * Home is safe, where they can fully express themselves.
+  * Let feelings be feelings: "you are not in control of everything your child does, nor do we want
+    our kids to feel pressured to always be happy."
+  * "Don't confuse attuning with overtalking, indulging, letting unacceptable behaviors go, or
+    changing your limit. You can hold a limit and problem solve, all the while validating your
+    child's experience."
+  * Attunement tools
+    * Tool: pause
+      * "Pause and let the crying or yelling be okay for a second. Imagine the waves moving your
+        boat and let that be fine."
+    * Tool: I'm going to kindly move you
+      * "It's a caring and kind practice to follow as a parent, to move your child to a private spot
+        (the car, another room, the sidewalk, etc.) when she's having a hard time. This avoids shame
+        and embarrassment while giving you a chance to talk somewhere private."
+        * Rather than public reprimand.
+      * Letting feelings run their course: "I see how upset you are. I'm here when you're ready to
+        talk or make a choice."
+    * Why not ignore a tantrum or punish with a time-out?
+      * "When kids are having a hard time (even when it seems totally irrational), they're telling
+        us they need us. Ignoring them, punishing them, or giving a time-out is the opposite of
+        this. It makes them feel isolated, cut off, and shamed."
+      * Rather than a time-out, consider a "calm down huddle."
+      * "Some kids are soothed by physical touch -- hugging will help them regroup and calm down. If
+        your child is one of these, you might even put your arms out and ask, 'I see. Can I give you
+        a hug?'"
+      * Isn't this rewarding misbehavior? "She needs connection, teaching, or calm time. Punishing
+        doesn't accomplish any of that. As long as you're holding the limit, you're not being 'too
+        soft' and your child will learn that you're on her side."
+      * "The key with... all tantrums is to be resolute in holding the limit. THat way, you don't
+        ever have to get mad or reactive; you simply stay strong and accept the big feelings. A
+        kids' job is to test limits. Your kids will learn that when you set a limit, you hold it.
+        Over time, you'll see how valuable this is."
+    * Tool: tell me more
+      * "I'm scared of my room." -> "What's scaring you about it?" rather than shutting them down.
+      * "Tell me more" allows the child to open up.
+    * About meltdowns: "Your child slams the door furiously and won't speak -- this is not the time
+      to talk about the rules, teach, or explain. Information is not going to be received or
+      integrated. In this mode, your child's emotional brain has overwhelmed him and the logical
+      thinking brain is not in charge."
+      * (Well said)
+  * Limit set
+    * Reacting to disrespectful or hateful words
+      * Rather than getting upset, say "it's hard for me to hear your words when you're using that
+        voice. It's distracting me from what you're trying to tell me."
