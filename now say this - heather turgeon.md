@@ -11,6 +11,14 @@
   * "It feels like an assault to us, a failure on our part, or even a manipulation. But the very
     moment when your child is being as unappealing and unhinged as she can possibly be is the moment
     when she's signaling that she needs you the most."
+  * Natural consequences
+    * Arbitrary punishments like "no screen time" do little to teach.
+    * "The world will deliver its own natural consequences -- don't be afraid to let these happen.
+      When consequences are logical and make sense for the situation, they're helpful learning tools
+      and we should not shield our kids from experiencing them."
+    * Kids develop this with natural consequences: "the sense of optimism that comes from knowing
+      you can affect your environment and that you have control over your life. This feeling of
+      control is highly linked to greater well-being."
 * Intro
   * "[Parents] often feel like drill sergeants, issuing no's, yelling, and time-outing."
   * "Your child is capable and built for good"
@@ -278,3 +286,127 @@
     * Reacting to disrespectful or hateful words
       * Rather than getting upset, say "it's hard for me to hear your words when you're using that
         voice. It's distracting me from what you're trying to tell me."
+    * It's OK to change a limit, but be explicit about why.
+      * "you know what, I hear what you're saying and I've changed my mind.
+      * "This is not snack time. We're leaving some no-food time before dinner, so bellies get
+        hungry and we can enjoy our meal."
+  * The bumbling parent: "try to adopt a tone of voice that says 'Hmm, let's see. We're in this
+    together and we have to figure it out.'"
+  * Telling your own story: "you know, something like this happened to me."
+* Hitting, pushing, biting, and other physical behaviors (chap 4)
+  * Helpful, non-judgmental list of reasons why children may be physically acting out.
+    * Sleep deprived
+    * Overstimulated
+    * Understimulated (bored, lonely)
+    * Hungry
+    * Trying to connect
+    * Frustrated: unable to get needs met
+  * The case against spanking
+    * "Spanking models the exact behavior you want them to stop."
+    * "Spanking creates fear, anger, and shame. This makes kids shut down, so it's impossible for
+      them to take in all the nuances and details of life you are trying to teach."
+    * "Spanking erodes trust and the sense that you are here to help and guide your kids."
+  * The case against time-out
+    * They do not spend their time reflecting on their behavior. Instead, they feel isolated,
+      shamed, embarrassed, and resentful.
+    * It shuns the child who needs understanding from a parent.
+    * Alternative: a "calm down" where the parent stays with the child.
+  * Attune
+    * "If your child hurts someone, he's telling you he needs your help. Use your iceberg analogy
+      and think, What's under this behavior? What is he trying to accomplish or figure out?"
+  * Checking in
+    * "If your child won't say anything or check in with the other person, don't focus too heavily
+      on it. You check in for him."
+    * "Checking in is not a punishment. If you need to model it for your child dozens of times
+      before he picks up on it and starts to do it himself, that's okay."
+* Listening, following directions, and engaging cooperation (chap 5)
+  * Kids arguing, mom frustrated, demands they stop, "or else":
+    * "With their building tension, they were telling her they could use understanding and help. In
+      yelling at them, she missed this opening, and the conflict escalated. This is an *offensive*,
+      versus *attuned*, move. Offensive moves escalate or intimidate."
+  * If you're trying to intimidate or scare your child, their defenses go up.
+    * "If you approach with a sense that you are trying to understand and be helpful (not just rush
+      and order her around), her defenses are lowered. Now you can work together."
+  * Attuned moves: sportscast; disarm them; referee their dispute. "Dont' enter the ring yourself.
+    That's offensive." "You can still be effective and avoid being a pushover."
+  * When when threaten, "it sends the message that you don't believe your child is willing and able
+    to do the right thing without fearing a consequence or needing a reward. That's not the path you
+    want to go down."
+    * E.g. "Okay, you're not putting your shoes on? Then Im leaving without you."
+    * (I feel convicted)
+  * Avoid overtalk and overexplaining
+  * Examples of engaging cooperation
+    * At the dinner table: "should we pretend we're waiters and it's time to
+      clear the table for dessert?"
+    * "I know you guys are having fun! We're going to leave soon, so do your last thing."
+  * Getting them dressed for school
+    * "Simply walking over and getting on her level, and maybe touching your child on the shoulder,
+      even without words, makes her feel like she's not being shuttled and commanded. When you do
+      this, you lower your child's defense. Now she's more receptive to what you have to say."
+    * "How would you want your loved one to call you for dinner if you were curled up on the couch
+      reading a cliff-hanger or halfway through writing a time-sensitive email?"
+  * Bribing
+    * A slight reframing is "if this, then that."
+    * E.g. "when you've picked out your clothes for tomorrow, let's snuggle up and start reading
+      books."
+    * This teaches them "goodness naturally follows good behavior."
+    * "Resist saying 'If you don't brush your teeth, we won't have time for books,' and try the
+      subtly different, 'When your teeth are all brushed, we'll be ready for stories.'"
+  * Whining
+    * This is softer than a hard shutdown of "stop whining!"
+    * "I can tell you're having a hard time. When you say that in a normal or regular voice, I'll be
+      ready to listen."
+  * Natural consequences
+    * Arbitrary punishments like "no screen time" do little to teach.
+    * "The world will deliver its own natural consequences -- don't be afraid to let these happen.
+      When consequences are logical and make sense for the situation, they're helpful learning tools
+      and we should not shield our kids from experiencing them."
+    * Kids develop this with natural consequences: "the sense of optimism that comes from knowing
+      you can affect your environment and that you have control over your life. This feeling of
+      control is highly linked to greater well-being."
+  * "As your child gets older and more capable, you help lesa nd less, while he takes over more
+    decisions -- even when it means not getting a good grade. This will make him more likely to
+    become internally motivated in the future."
+  * Follow-through choice
+    * "One of your choices in the problem-solving step can be a follow-through choice. This choices
+      involves you physically stepping in to enforce the limit. Over time kids learn that they can't
+      stall forever and the family will keep moving one way or another. Try to be lighthearted and
+      matter-of-fact about it. It's not a punishment, it's just a reality. It's important that you
+      are always very gentle and calm."
+  * Examples of genuine descriptive praise
+    * "You folded your laundry and put away toys. It's such a pleasure to walk into your room. How
+      does it feel to you?"
+    * "Let's see how sparkly those teeth are!"
+    * "I saw you working hard on that. How does it feel to be done?"
+* Sibling relationships (chap 6)
+  * "We hear moms and dads express not only frustration and helplessness but also profound sadness
+    that their kids don't get along. They had envisioned a different kind of family from the one
+    emerging in their homes."
+  * Some level of conflict between siblings is expected, and healthy -- it allows them to develop
+    conflict resolution skills.
+  * Positive beliefs about the nature of sibling relationships, meant to serve as an anchor for
+    interpreting their conflict:
+    * "Siblings know each other their whole lives. There is a depth to that history."
+    * "Siblings share a family culture and memories and, of course, a future."
+    * "Siblings support and teach each other."
+    * "Conflict is always an opportunity to learn something helpful."
+  * Argues that if a parent is completely absent during the conflict between siblings, it's a missed
+    opportunity. The parent doesn't need to control the conflict, but they can lay down scaffolding,
+    naming what they see, prompting each person to express themselves, offering frameworks which
+    should be helpful. (Sounds like a therapist).
+  * Instead of "I don't want to hear anymore fighting" say "Do you guys need some help figuring
+    things out?"
+  * "Ask questions that point them toward empathy for the other."
+    * "Why do you think he did that?"
+    * "He looks sad -- I wonder why. Do you know?"
+    * "Tell her how that made you feel."
+  * Help them limit set with each other
+    * "Name-calling hurts my feelings."
+    * "I want to play my own game for a while, then we can play together."
+    * "We can't control what other people do. But we can control what we decide to do."
+  * "When the other child is not open to resolving the conflict, her choices will include walking
+    away, taking a break, and staying calm, even while holding her ground. This nonreactive behavior
+    can really defuse these conflicts and kids end up feeling capable and in charge, instead of like
+    a victim."
+  * Diffusing claims of "not fair" when siblings get different treatment: "You are two different
+    people. Different ideas, wants, and needs."
