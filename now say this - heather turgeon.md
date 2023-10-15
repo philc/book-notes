@@ -410,3 +410,75 @@
     a victim."
   * Diffusing claims of "not fair" when siblings get different treatment: "You are two different
     people. Different ideas, wants, and needs."
+* Screen time (chap 7)
+  * Parents should avoid using their phones around kids, because it's distracting and breaks the
+    parent's attention towards the child.
+  * On games before sleep:
+    * "An interactive game or another screen-based activity requires kids to be engaged, make
+      decisions, receive rewards or not, advance to the next level or not -- all of which keeps the
+      brain awake, releases stress hormones, and makes it harder to disengage and fall asleep."
+  * The downsides of playing an engaging video game
+    * "When it's over, other activities can seem less interesting and enjoyable. Stress hormones
+      that raged during the epic dragon battle still course through the body. Sometimes video games
+      can leave kids feeling mentally depleted and emotionally dysregulated. This can appear as a
+      child being withdrawn, bored, or tantrum-prone."
+    * (This reminds me of eating chocolate chip cookies: afterwards, regular fruit no longer tastes
+      interesting).
+  * Attune: when they protest as they withdraw from screen time, attuning will help them feel
+    understood.
+  * Ask, watch, and play: participate with the content so you can relate to your child and their
+    interest.
+  * "Research suggests that quick edits and disconnected or fast story lines can overload the
+    brain's executive function and make it harder for kids to focus and self-regulate. If you find a
+    certain program or app loud, annoying, or busy, it's probably not good for little minds."
+  * Don't offer a device to soothe
+    * "Babies and little kids need connection, eye contact, and physical touch -- this is how they
+      develop self-regulation and a secure attachment."
+  * "Turning off and putting away electronics and media before you eat supports mindful eating and
+    allows the family to talk and connect."
+  * Limit background television
+    * Research "suggests that kids have a hard time focusing and playing well when television is on
+      (even if they're not watching the television)."
+  * "Having a space to park devices out of direct eyesight helps symbolically turn them off and
+    shift attention to other activities. It makes the boundary between screen time and
+    not-screen-time clearer."
+    * Phones on the shelf at night, not in bedrooms.
+  * Model the behavior you want to see. Phones are powerful for research, TODOs, but pulling one out
+    comes with a cost.
+  * Consider narrating what you're doing on your device
+    * Unlike a book or notepad, a phone doesn't have a clear, narrow focus to the outside observer.
+  * Consider setting the rules around screen time together, so that there's more buy-in.
+    * Example rule: "We have a list of shows and video games that are okay to watch and play. If we
+      want to add something to the list, Mom or Dad has to watch it and see if it's okay to add."
+  * Explain your thinking behind why you've banned a piece of content:
+    * "This isn't a show we watch, because it doesn't have any information in it."
+    * "This isn't a show we watch, because it's too fast and overwhelming to our minds."
+    * "We only watch one hour of TV each day so we can leave room in the day and in our minds for
+      everything else: running, building, talking, playing -- we have to keep space for those
+      things."
+  * Ask your child critical questions:
+    * "Is this show too intense? It feels really intense to me!"
+    * "Can you see how that game is tricking your mind to think you have to keep playing? Games are
+      very good at keeping us playing!"
+* Bedtime and sleep (chap 8)
+  * "many moms and dads dread this time of the day. Parents tell us all the time how frustrated they
+    feel as the evening rolls in and their kids wind up."
+  * Sleep should be positioned as a gift, a luxury, a necessity, rather than a punishment or dead
+    end of the day.
+  * "With sleep on your side, everyone is more creative and patient."
+  * Goal: promote a warm, positive climate around bedtime. Messages to send:
+    * Connected: know we're nearby (we acknowledge their needs).
+    * Capable: we encourage rather than threaten
+    * Cozy: the environment is relaxing
+  * Creating connection and peace of mind during the day
+    * "Get down on eye level to say good-bye, give a hug, and tell your child to keep that hug "in
+      your pocket" for during the day when they're thinking of each other."
+    * "Snuggle on the couch together, even for ten minutes before bed, and share your highs and lows
+      of the day."
+  * "Kids need unstructured time playing in the physical world. When they don't have it, they feel
+    less regulated and peaceful."
+    * Screen time displaces the time they have for this.
+  * Wind down time before bed
+    * "Put away your phone and computer if you can. This allows you to connect with your kids, which
+      in turn makes them more open to moving through the steps of the routine. They've filled up on
+      you, so they can now disconnect and fall asleep."
