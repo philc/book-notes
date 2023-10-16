@@ -8,6 +8,8 @@
     no one is watching."
   * "If you can hear and understand your child in her most vulnerable, challenging states, this
     unconditional love builds a sense of trust and safety that she will carry with her forever."
+  * Parents "continue to try and cut off feelings quickly, correct right away, or coax their kids
+    into being happy again", rather than saying that their feelings are OK and safe to have.
   * "It feels like an assault to us, a failure on our part, or even a manipulation. But the very
     moment when your child is being as unappealing and unhinged as she can possibly be is the moment
     when she's signaling that she needs you the most."
@@ -19,6 +21,35 @@
     * Kids develop this with natural consequences: "the sense of optimism that comes from knowing
       you can affect your environment and that you have control over your life. This feeling of
       control is highly linked to greater well-being."
+  * Calm down instead of time-out
+    * Time out implements isolation and shaming. The kid ends up resenting the parent and the
+      sibling they were hurting.
+    * "Calm down": separation, but with you present as a team. After it's done, "please check in
+      with your sister."
+  * Argues that if a parent is completely absent during the conflict between siblings, it's a missed
+    opportunity. The parent doesn't need to control the conflict, but they can lay down scaffolding,
+    naming what they see, prompting each person to express themselves, offering frameworks which
+    should be helpful. (Sounds like a therapist).
+  * Instead of "I don't want to hear anymore fighting" say "Do you guys need some help figuring
+    things out?"
+  * On games before sleep:
+    * "An interactive game or another screen-based activity requires kids to be engaged, make
+      decisions, receive rewards or not, advance to the next level or not -- all of which keeps the
+      brain awake, releases stress hormones, and makes it harder to disengage and fall asleep."
+  * The downsides of playing an engaging video game
+    * "When it's over, other activities can seem less interesting and enjoyable. Stress hormones
+      that raged during the epic dragon battle still course through the body. Sometimes video games
+      can leave kids feeling mentally depleted and emotionally dysregulated. This can appear as a
+      child being withdrawn, bored, or tantrum-prone."
+  * Explain your thinking behind why you've banned a piece of content:
+    * "This isn't a show we watch, because it doesn't have any information in it."
+    * "This isn't a show we watch, because it's too fast and overwhelming to our minds."
+    * "We only watch one hour of TV each day so we can leave room in the day and in our minds for
+      everything else: running, building, talking, playing -- we have to keep space for those
+      things."
+  * "Kids need unstructured time playing in the physical world. When they don't have it, they feel
+    less regulated and peaceful."
+    * Screen time displaces the time they have for this.
 * Intro
   * "[Parents] often feel like drill sergeants, issuing no's, yelling, and time-outing."
   * "Your child is capable and built for good"
@@ -27,13 +58,13 @@
       they're missing a deeper connection to their kids. When they try to empathize and be flexible,
       they often feel ineffective and resentful."
 * Three steps for communicating in difficult moments (chap 1)
-  * "win-win": being able to parent with these qualities which are at odds with each other
+  * "Win-win": being able to parent with these qualities which are at odds with each other
     * Warmth vs. high-expectations
     * Empathy vs. clear limits
     * Kind vs. consistent
   * Parental breakdown: "A mom with endless warmth who cannot hold limits and feels walked all over
     by her kids."
-  * ALP method: Attune -> limit set -> problem solve
+  * ALP method: Attune -> Limit set -> Problem solve
   * Your child is "built for good" -- naturally wired to be empathetic and learn from experience.
   * "The premise that your child is good will inform how you interpret tough behaviors and stuck
     moments. Rather than responding with threats or punishments, you can see your child as a small
@@ -87,7 +118,7 @@
       * Make them feel safe and open. Standing over your child is an offensive move. Being at eye
         level is a collaborative move.
     * Say what you see: the sportscaster
-      * Use an observant, and curious tone, not blaming. Helps them remain open while seeing cause
+      * Use an observant and curious tone, not blaming. Helps them remain open while seeing cause
         and effect.
     * Paraphrase what you've just heard from them; be a "good waiter".
       * This validates their experience.
@@ -127,7 +158,7 @@
       is part of how babies and children build trust -- they see that even when people disagree and
       become disconnected, they come back together again."
       * This also applies to parental fights in front of kids.
-    * "kids notice and register our words and reactions all the time. If they feel a rupture, they
+    * "Kids notice and register our words and reactions all the time. If they feel a rupture, they
       log it and it stays with them. If they can't make sense out of why it happened, the memory can
       be stored in a way that compromises their future relationships. It's like a piece of the
       puzzle is missing."
@@ -138,15 +169,15 @@
   * Attitude as a parent, facing the emotional turbulence of young children: "We don't know what
     today will be like, but let's see. We're in it together!"
   * Family meetings
-    * "the tone of family meetings is positive, can-do-together, rather than scolding or negative."
-    * (I'm realizing that I make my family meetings rushed, like the meeting isn't capable of
-      holding my kids' attention span, and this naturally undermines their value and makes them feel
-      of less consequence.)
+    * "The tone of family meetings is positive, can-do-together, rather than scolding or negative."
+      * (I'm realizing that I make my family meetings rushed, like the meeting isn't capable of
+        holding my kids' attention span, and this naturally undermines their value and makes them
+        feel of less consequence.)
     * Mix fun updates, like vacations, with more exhausting topics, like problems and rules.
-    * Converting complaining into productive requests
+    * Convert complaining into productive requests
       * "As you know, in family meetings we say what we do want, not what we don't want. Make a
         clear statement to your sister about what your idea or request is."
-    * Recommended cadence is once a week or once a month.
+    * Recommended cadence: once a week or once a month.
     * Present new information to your kids together. "Of course, I have to check in with Mom. We're
       a team."
   * Working as a parenting team
@@ -164,8 +195,9 @@
     * "I've got the bath running. Everyone lay out your clothes and pack your backpacks for tomorrow
       before hopping in."
   * Moving kids along
-    * "We're heading out in five minutes -- everyone do your last thing!" (This sounds better, and
-      more positive, than "Five minute warning -- there's not much time left!")
+    * "We're heading out in five minutes -- everyone do your last thing!"
+      * (This sounds better, and more positive, than "Five minute warning -- there's not much time
+        left!")
     * "We're almost at school -- does everyone know what to do when I park?"
   * Filling the tank
     * Sleep deprivation triggers bad behavior. Kids don't appear tired, but rather hyper-active.
@@ -220,7 +252,7 @@
     * (This breaks my heart. In many such moments I've expressed consequences and judgments, rather
       than unconditional love.)
   * Mindfulness exercises
-    * "The more present we are, the more our children trust usa nd the more securely attached they
+    * "The more present we are, the more our children trust us and the more securely attached they
       become -- this helps them grow naturally more independent over time."
     * Pick some mindfulness thing you can actually do -- not another commitment that you will feel
       bad about if you miss it each day.
@@ -259,7 +291,7 @@
         * Rather than public reprimand.
       * Letting feelings run their course: "I see how upset you are. I'm here when you're ready to
         talk or make a choice."
-    * Why not ignore a tantrum or punish with a time-out?
+    * Why not ignore a tantrum, or punish with a time-out?
       * "When kids are having a hard time (even when it seems totally irrational), they're telling
         us they need us. Ignoring them, punishing them, or giving a time-out is the opposite of
         this. It makes them feel isolated, cut off, and shamed."
@@ -286,8 +318,9 @@
     * Reacting to disrespectful or hateful words
       * Rather than getting upset, say "it's hard for me to hear your words when you're using that
         voice. It's distracting me from what you're trying to tell me."
+      * (If only I could be that stoic)
     * It's OK to change a limit, but be explicit about why.
-      * "you know what, I hear what you're saying and I've changed my mind.
+      * "You know what, I hear what you're saying and I've changed my mind.
       * "This is not snack time. We're leaving some no-food time before dinner, so bellies get
         hungry and we can enjoy our meal."
   * The bumbling parent: "try to adopt a tone of voice that says 'Hmm, let's see. We're in this
@@ -327,17 +360,17 @@
   * If you're trying to intimidate or scare your child, their defenses go up.
     * "If you approach with a sense that you are trying to understand and be helpful (not just rush
       and order her around), her defenses are lowered. Now you can work together."
-  * Attuned moves: sportscast; disarm them; referee their dispute. "Dont' enter the ring yourself.
+  * Attuned moves: sportscast; disarm them; referee their dispute. "Don't enter the ring yourself.
     That's offensive." "You can still be effective and avoid being a pushover."
-  * When when threaten, "it sends the message that you don't believe your child is willing and able
-    to do the right thing without fearing a consequence or needing a reward. That's not the path you
+  * When we threaten, "it sends the message that you don't believe your child is willing and able to
+    do the right thing without fearing a consequence or needing a reward. That's not the path you
     want to go down."
-    * E.g. "Okay, you're not putting your shoes on? Then Im leaving without you."
+    * E.g. "Okay, you're not putting your shoes on? Then I'm leaving without you."
     * (I feel convicted)
   * Avoid overtalk and overexplaining
   * Examples of engaging cooperation
-    * At the dinner table: "should we pretend we're waiters and it's time to
-      clear the table for dessert?"
+    * At the dinner table: "should we pretend we're waiters and it's time to clear the table for
+      dessert?"
     * "I know you guys are having fun! We're going to leave soon, so do your last thing."
   * Getting them dressed for school
     * "Simply walking over and getting on her level, and maybe touching your child on the shoulder,
@@ -461,7 +494,7 @@
     * "Can you see how that game is tricking your mind to think you have to keep playing? Games are
       very good at keeping us playing!"
 * Bedtime and sleep (chap 8)
-  * "many moms and dads dread this time of the day. Parents tell us all the time how frustrated they
+  * "Many moms and dads dread this time of the day. Parents tell us all the time how frustrated they
     feel as the evening rolls in and their kids wind up."
   * Sleep should be positioned as a gift, a luxury, a necessity, rather than a punishment or dead
     end of the day.
