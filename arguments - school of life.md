@@ -3,6 +3,19 @@
     which we meet, in disguised form, the most important themes of psychology -- the tension between
     the longing for freedom and the fear of entrapment, the horror of constraint and the desire for
     protection, the risks of rigidity and the anxiety of chaos."
+  * "By contrast, it is sometimes our exposure to grim realities -- to bleak stories of war, to
+    tragedies and misfortune or to places where nature is hostile (a barren desert; a cold, craggy,
+    storm-swept island) -- that make our inner distress feel less important or pressing. We're more
+    inclined to overlook our partner's annoying details in situations where having anyone at all
+    feels like a privilege."
+  * Spouses "are generally no worse than any charming stranger, but as they are familiar, their
+    every failing has had a chance to be minutely charted."
+  * "We need to mine the secret reality of other people and so learn that, beneath their charms,
+    they will almost invariably be essentially 'normal' in nature -- that is, no worse yet no better
+    than the candidates that we already have in our lives."
+  * "People concede points not when they're aggressively told they're wrong but when they feel
+    loved. We get stubborn and withhold the truth when we're scared and suspect that the person
+    challenging us hates us, means us harm."
 * A catalog of different types of arguments, what they mean, and their causes.
 * Intro
   * "Beneath the surface of almost every argument lies a forlorn attempt by two people to get the
@@ -75,3 +88,39 @@
   * "It could be that the application of excessive logic isn't an accident or form of stupidity. It
     might be an act of revenge. Perhaps the partner is giving brief logical answers to our worries
     because their efforts to be sympathetic towards us in the past have gone nowhere."
+* The attention seeking argument
+  * "We may find ourselves carrying out one of the strangest maneuvers witnessed in relationships:
+    We may seek to get their attention accompanied by their anger, as an alternative to securing
+    their attention accompanied by their love."
+  * "We wait until they are tired and fed up and launch a volley of accusations."
+* The argument in paradise
+  * "Because everything outward is particularly nice, the unhappy parts of our minds become more
+    conspicuous."
+    * The author argues that this is why arguments can even break out in idyllic locations, when
+      we're on a trip to enjoy each other's company.
+  * "By contrast, it is sometimes our exposure to grim realities -- to bleak stories of war, to
+    tragedies and misfortune or to places where nature is hostile (a barren desert; a cold, craggy,
+    storm-swept island) -- that make our inner distress feel less important or pressing. We're more
+    inclined to overlook our partner's annoying details in situations where having anyone at all
+    feels like a privilege."
+* The crush argument
+  * Comparing a crush to a spouse: "who seems to us not merely interesting, but more powerfully, the
+    solution to our lives."
+  * Spouses "are generally no worse than any charming stranger, but as they are familiar, their
+    every failing has had a chance to be minutely charted."
+  * "We need to mine the secret reality of other people and so learn that, beneath their charms,
+    they will almost invariably be essentially 'normal' in nature -- that is, no worse yet no better
+    than the candidates that we already have in our lives."
+  * "We should accept, with good grace and a touch of dark humor, that life simply gives us few
+    opportunities to be totally content."
+    * (This school always concludes this way about relationships and happiness. It's depressing,
+      almost defeatist. Maybe the truth is that there are ample opportunities, but we make ourselves
+      discontented because of selfishness and sin.)
+* Towards less bitter arguments
+  * "The enemy of mature arguments is self-righteousness: the sense that we might be beyond fault
+    and that our partner must be... wicked."
+  * "People concede points not when they're aggressively told they're wrong but when they feel
+    loved. We get stubborn and withhold the truth when we're scared and suspect that the person
+    challenging us hates us, means us harm."
+  * "The specifics of why we're in an irritating dispute may be local, but that we are in one is a
+    universal destiny. We should laugh darkly at the human tragedy."
