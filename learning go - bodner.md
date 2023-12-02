@@ -49,6 +49,8 @@
 
         len(x)
         cap(x) // Capacity - number of contiguous memory slots allocated for this slice
+        copy(dest, src) // Returns num elems copied.
+        copy(x[:3], x[1:])
 
         x[1:4] // Slice expression: [start, end-exclusive]
         x[1:], x[:1]
@@ -62,6 +64,87 @@
       practice is not to use append after sub-slicing, or use a three-part slice expression ("a full
       slice expression").
     * Create a slice from an array by using a slice expression.
+  * Strings
+
+        s[1:2] // Returns bytes; doesn't respect UTF-8 char boundaries.
+        len(s) // Bytes, not characters.
+    * Stored as byte arrays.
+    * Rather than use the slice and index expressions with strings, extract sub-strings usign the
+      strings and unicode/utf8 package.
+    * for-range loop iterates over the string's runes, not bytes.
+  * Maps
+
+
+        // nil behavior: you can read from, but not write to, this map.
+        var nilMap map[string]int
+
+        m := map[string]{} // Non-empty map.
+        v, ok := m["hello"] // If missing, v will be the value type's zero value.
+        delete(m, "hello")
+
+    * Keys must be comparable types -- so, not arrays or slices.
+    * The comma ok idiom is used in Go when we want to differentiate between reading a value and
+      getting back the zero value.
+    * There is no built-in Set type. Use a map of <type> => bool.
+  * Structs
+
+        type person struct {
+          name string
+          age int
+        }
+
+        bob := person{ "Bob", 40 } // CSV struct literal. All fields required.
+        bob := person{ name: "Bob", age: 40 } // KV struct literal. No fields are required.
+
+        // Anonymous struct assignment. Useful when unmarshalingn JSON, and during tests.
+        pet := struct {
+          name string
+        } {
+          name: "Bob"
+        }
+    * Structs that are entirely composed of comparable types are comparable; those with slice or map
+      fields are not.
+    * You can convert between structs if the vars have the same names, order, and types.
+* Control structures (chap 4)
+
+        if  n:= rand.Intn(10); n < 5 {
+          ...
+        } else if n < 9 {
+          ...
+        } else {
+          ...
+        }
+
+        // While loops
+        for n < 5 {
+        }
+        for { ... }
+
+        for i, v := range vals {
+          ...
+        }
+
+        // Switch
+        switch size := len(slice); size {
+          case 1, 2, 3:
+           ...
+         default:
+           ...
+        }
+        // Omit the variable being tested to use any boolean expression in the arms.
+        switch size := len(slice); {
+          wordLen < 5:
+            ...
+        }
+
+  * Go contains a universe block (the prelude) which contains the predeclared identifiers, like
+    true, false, nil.
+  * You can only use a for-range loop to iterate over the built-in compound types and user-defined
+    types that are based on them.
+  * "Favor black switch statements over if/else chains when you have multiple related cases. Using a
+    switch makes the comparisons more visible and reinforces that they are a related st of concerns.
+
+
 
 * Style
   * "Enforcing a standard format makes it a great deal easier to write tools that manipulate source
