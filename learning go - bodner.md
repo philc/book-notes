@@ -25,7 +25,7 @@
   * When initializing a variable to its zero value, use `var x int`, to make it clear that the zero
     value was intended.
   * const declarations can only be used with values known at compile time (i.e. literals).
-  * As a general rule, only declare variables in the pacckage block that are effectively immutable.
+  * As a general rule, only declare variables in the package block that are effectively immutable.
 
 * Composite types
   * Arrays -- "too rigid to use directly"
@@ -86,6 +86,8 @@
     * The comma ok idiom is used in Go when we want to differentiate between reading a value and
       getting back the zero value.
     * There is no built-in Set type. Use a map of <type> => bool.
+    * Using them in function signatures is discouraged, because they're mutable (even when passed by
+      value) and less structured than a struct. Use a struct instead.
   * Structs
 
         type person struct {
@@ -144,6 +146,79 @@
   * "Favor black switch statements over if/else chains when you have multiple related cases. Using a
     switch makes the comparisons more visible and reinforces that they are a related st of concerns.
 
+* Functions
+
+        // Variadic arguments
+        func add(arr []int, ...int) []int // "vals" will be a slice of the given type.
+        // Exploding/splatting a slice into variadic arguments.
+        add(arr, aSlice...)
+
+        // Multi-return value syntax
+        func a() (int, int, error) {
+
+        // Declaring a type that's a function signature.
+        type aFuncType func(int, int) int
+
+        // Defer statement is like a finally aorund the enclosing fn.
+        defer file.Close()
+        // Any values passed into the deferred closure aren't evaluated until the closure runs.
+        defer func() { }(someArgument)
+
+  * Named and optional params
+
+        // Simulate named and optional params using a standard arguments struct.
+        type MyFuncOpts struct {
+          FirstName string
+          Age int
+        }
+        MyFunc(MyFuncOpts {
+          Age: 10
+        })
+
+    * "A function shouldn't have more than a few params, and named and optional params are
+      mostly useful when a function has many inputs. If you find yourself in that situation,
+      your function is probably too complicated."
+  * When returning an error, convention is that it should be returned last.
+  * Named return values
+    * "When you supply names to your return values, what you are doing is pre-declaring variables
+      that you use within the function to hold the return values."
+      * Not that useful; mildly discouraged.
+  * Resource cleanup
+    * "A common pattern in Go is fo ra function that allocates a resource to also return a closure
+      that cleans up the resource." Then the caller can run this closure in a defer statement.
+  * "The downside of try/catch resource cleanup blocks is that they create another level of
+    indentation in your function, and that makes the code harder to read." Defer doesn't.
+  * Pass by value
+    * All params are passed by value, except for Maps and Slices: the container is passed by value,
+      but the underlying data structure is passed by reference. So you can mutate the data in either
+      object, but you can't grow them via append -- such changes aren't persisted.
+      * See page 120 for a diagram of a slice's memory layout.
+    * Maps and slices are implemented as pointers to a struct, which is why the underlying data is
+      mutable even when they are passed by value.
+
+* Pointers
+
+        var x int = 10
+        pointerX := &x
+
+        // Pass by value
+        func a(px *int) {
+          x2 := 20
+          px = &x2 // This changes the local copy of the pointer, not the caller's pointer.
+          *px = 20 // This dereferencing assignment changes the caller's pointer.
+        }
+
+  * Dereferencing a nil pointer will panic.
+  * "The lack of immutable declarations in Go might seem problematic, but the ability to choose
+    between value and pointer parameter types addresses the issue." "Rather than declare that some
+    variables and parameters are immutable, Go developers use pointers to indicate that a parameter
+    is mutable."
+  * Performance: advice is to consider using a pointer to pass data between functions when the
+    struct is > 1MB.
+  * Zero value versus no value: "If this distinction matters in your program, use a nil pointer to
+    represent an unassigned variable or struct field." E.g. when encoding JSON.
+  * "Rather than return a pointer set to nil from a function, use the comma ok idiom that we saw
+    for maps and return a value type and a boolean."
 
 
 * Style
@@ -159,3 +234,9 @@
     * "The smaller the scope for a variable, the shorter the name that's used for it."
     * Short names "serve as a check on how complicated your code is. If you find it hard to keep
       track of your short-named variables, it's likely that your block of code is doing too much."
+* Performance
+  * GC pressure
+    * Try to have data allocated on the stack so no garbage is produced. I.e. avoid pointers.
+    * The Go compiler will allocate slices on the stack if their sizes can be determined at runtime.
+    * Arrays are allocated on the stack.
+    * Go's GC follows a low-latency design vs a high-throughput design.
