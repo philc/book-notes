@@ -220,6 +220,72 @@
   * "Rather than return a pointer set to nil from a function, use the comma ok idiom that we saw
     for maps and return a value type and a boolean."
 
+* Writing tests (chap 13)
+
+        import "testing"
+
+        // Mild convention to use underscore in the test name when testing an unexported fn.
+        func Test_addNumbers(t *testing.T) {
+          a := 1
+          if a != 2 {
+            t.Error("incorrect result. expected 1, got", a)
+          }
+        }
+
+        t.Errorf("Expected: %d, got %d", a, b)
+
+        // When present, is called once, prior to running the tests.
+        var sharedVar int
+        func TestMain(m *Testing.M) {
+          sharedVar = 123
+          exitVal := m.Run()
+          os.Exit(exitVa)
+        }
+
+        // Consider using go-cmp package to compare structs, rather than reflect.DeepEquals.
+        // go get -u github.com/google/go-cmp/cmp
+        import "github.com/google/go-cmp/cmp"
+        if diff := cmp.Diff(expected, result); diff != "" {
+          t.Error(diff)
+        }
+
+  * t.Error will continue running the test fn. t.Fatal will exit the fn.
+  * TODO: what is the point of t.Cleanup when you can use defer?
+  * Go caches test results if the files and testdata have not changed.
+  * If you don't want to access package private members in a test, so that you're only exercising
+    the public API, the convention is to declare the package as part of a separate package *_test
+    ("mypkg_test") but in the same directory as the sourcec.
+  * Grouping tests; build tags
+    * Build tags: specified on the first line of a file with a magic comment that start with `//
+      +build.`
+    * Tests in files with a build tag are only run when teh supporting resources are available.
+    * Use this to group tests, e.g. integration tests.
+    * go test -tags integration
+  * Race checking
+    * "A binary with -race enabled runs approximately ten times slower than a normal binary."
+
+* Benchmarks
+
+        func BenchmarkFileLen(b *testing.B) {
+          ...
+          if err != nil {
+            b.Fatal(err)
+          }
+        }
+
+        // Creating several benchmarks, one for each param value
+        func BenchmarkVariousParams(b *testing.B) {
+          for _, v := range []int{1, 10, 100} {
+            b.Run(fmt.Sprintf("FileLen-%d", v), func(b *testing.B) {
+              ...
+            })
+          }
+        }
+
+  * In Go, benchmarks are functions in your test files that start with the word Benchmark and take
+    in a single parametere of type *testing.B. This type includes all of the functionaliyt of a
+    *testing.T as well as additional support for benchmarking."
+
 
 * Style
   * "Enforcing a standard format makes it a great deal easier to write tools that manipulate source
@@ -234,6 +300,7 @@
     * "The smaller the scope for a variable, the shorter the name that's used for it."
     * Short names "serve as a check on how complicated your code is. If you find it hard to keep
       track of your short-named variables, it's likely that your block of code is doing too much."
+
 * Performance
   * GC pressure
     * Try to have data allocated on the stack so no garbage is produced. I.e. avoid pointers.
