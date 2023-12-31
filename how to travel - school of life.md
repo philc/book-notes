@@ -8,6 +8,9 @@
     away against the backdrop of the Southern Alps or the Singapore Strait. We want to be patient
     and warm around them. We see the broader outlines of their lives. We'd like to tell them in
     franker, more direct terms how fond we are of them."
+  * "The family holiday has little to do with the destination or the thrills of the itinerary: it
+    lies in the capacity of a trip to cement the bonds of affection between family members; in the
+    power of a trip to make a family."
 * How to choose a destination (chap 1)
   * "Every destination has a character: that is, it emphasizes and promotes a particular aspect of
     human nature."
@@ -62,7 +65,7 @@
     actions and concerns of our own lives don't really count for much. We're beautifully reminded of
     our own thorough unimportance."
   * "Across history, people have imagined their gods living on lofty mountaintops or in the sky,
-    looking down beningly on human life. It's not a random association: from this height we can
+    looking down benignly on human life. It's not a random association: from this height we can
     smile gently at humanity and perhaps love it a little, too."
   * "The view helps us to have more kindly thoughts about those left back at home. Their faults drop
     away against the backdrop of the Southern Alps or the Singapore Strait. We want to be patient
@@ -70,3 +73,55 @@
     franker, more direct terms how fond we are of them."
   * "As we start the descent, helped by the complex maneuvers of the plane through the lower
     atmosphere, we dream of becoming the people we long to be."
+* Pretty cities (chap 11)
+  * "We crave architectural and civic beauty, because we intuitively appreciate how much we are at
+    the mercy of our architectural environments."
+  * "In the best cities, the streets whisper of hope, dignity, community and friendship."
+  * "In utopia, architecture would more fairly be interpreted as a branch of mental health."
+* The importance of family holidays (chap 15)
+  * "The family holiday has little to do with the destination or the thrills of the itinerary: it
+    lies in the capacity of a trip to cement the bonds of affection between family members; in the
+    power of a trip to make a family."
+  * "There are associated benefits in experiencing danger together: in being caught out in a
+    rainstorm after the museum, in getting lost in the bazaar, in needing to sort out a sotlen
+    wallet, in having to find somewhere to sleep at 11pm. At the time, these discomforts feel like
+    an interruption of the real point of the trip. Only later do we realize that they are what
+    helped us to get to know one another properly and overcome the egocentricity and reserve of
+    home."
+* The pleasure of the romantic minibreak (chap 16)
+  * "the new surroundings have no such memories. They allow us to start afresh and rediscover
+    wellsprings of affection and generosity."
+* Holiday fling (chap 22)
+  * "Romance becomes valid and important as an aspect of tourism because of the way it rapidly
+    deepens a relationship to another person and thereby a place."
+  * "We're not just looking for random company: we want to meet an individual who properly
+    represents the virtues of their locality."
+* Traveling for perspective (chap 23)
+  * On traveling to places other than our own homes and country: "travels to places where the true
+    hardships of existence are grimly evident can provide a needed education in gratitude."
+* Travel and pilgrimages (chap 24)
+  * "There are places that, by virtue of their remoteness, vastness, climate, chaotic energy,
+    haunting melancholy or sheer difference from our homelands exert a capacity to salve the wounded
+    parts of us."
+  * "One of the most effective ways of achieving a feeling of distance from follies, vanity and
+    sinfulness is to introduce something very large --like the experience of a month-long journey
+    across a desert or a mountain range -- between our past and our desired future."
+  * "We need to relearn how to use travel as a way of being existentially healed, rather than merely
+    entertained or tanned."
+  * For pilgrimages, the eight-month walk across Europe to complete the pilgrimage was part of the
+    point. The walk was penance and made the act big.
+* How to come home (chap 26)
+  * At an airport, travelers starting their journey that place, vs. those who are returning home to it:
+    * "Once they have crossed customs, they will have before them the same monuments, museums,
+      landscapes and foods."
+  * "Why do we accord such privileges to foreign places, and such ready disdain to our own lands?
+    Would it not be one of the greatest skills, the most helpful kind of practical wisdom, to know
+    how to sample a little of the excitement about our own countries that travelers are able to
+    locate there?"
+  * "Consider how much you might notice if you walked out of the front door, and imagined you had
+    never seen any of it before."
+  * "'Boring home' is always someone else's deeply exciting 'abroad'."
+* Cherishing memories (chap 28)
+  * "Part of hwy we feel the need for so many new experiences may simply be that we are so bad at
+    absorbing the ones we had."
+    * We have some awesome experience, but then we shove it to the back of our minds forever.
