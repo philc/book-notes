@@ -1,3 +1,21 @@
+* Gems
+  * Changing elements -- e.g. the players on the team -- usually has the least effect on the
+    systems' behavior. Changing interconnections, and function, usually have much larger effects.
+  * The delay in changing stocks is why it takes so long for a business to gain traction. The stocks
+    of employees, customers, and word of mouth accumulate slowly.
+  * "Especially complex and sophisticated are the mental models we develop from direct, intimate
+    experience of nature, people, and organizations immediately around us." These are superior to
+    conjectured models.
+  * "When a systems thinker encounters a problem, the first thing he or she does is look for data,
+    time graphs, the history of the system. That's because long-term behavior provides clues to the
+    underlying system structure. And structure is the key to understanding not just *what* is
+    happening, but *why*."
+  * "Starting with history discourages the common and distracting tendency we all have to define a
+    problem not by the systems' actual behavior, but by the lack of our favorite solution."
+  * "Expose your mental models to the light of day"
+    * By writing them down and discussing them. This helps improve the model to be more consistent
+      and rigorous. Mental models alone are slippery.
+
 * Introduction
   * Argues these problems are the symptoms of "messes". Messes result from the inherent structure of
     complex systems:
@@ -22,13 +40,13 @@
     systems' behavior. Changing interconnections, and function, usually have much larger effects.
   * Stocks: foundation of a system. These are elements that are a store, a measurable quantity. The
     quantities need not be physical; "accumulated goodwill" is a stock.
-  * Flows: "Stocks change over time through the action of a flow. Flows are filling and raining,
+  * Flows: "Stocks change over time through the action of a flow. Flows are filling and draining,
     births and deaths, purchases and sales, growth and decay, deposits and withdrawals."
   * If the sum of inflows is equal to the sum of outflows of a stock, the stock's level remains
     constant.
   * For a labor force, you can increase its rate of growth by increasing hiring (inflow), or by
     reducing churn (outflow).
-  * "A stock takes time to change, because flows take time to flow. That' sa vital point, a key to
+  * "A stock takes time to change, because flows take time to flow. That's a vital point, a key to
     understanding why systems behave as they do."
   * "Stocks generally change slowly, even when the flows into or out of them change suddenly.
     Therefore, stocks act as delays or buffers or shock absorbers in systems."
@@ -61,7 +79,7 @@
     furnace heat and heat loss to the outside, and as the furnace heats the room, it increases the
     rate of heat loss to the outside.
   * "A stock with one reinforcing loop and one balancing loop: population and industrial economy"
-    * One loop in the system may be stronger / "dominant." Which loop is stronger may change with
+    * One loop in the system may be stronger / dominant. Which loop is stronger may change with
       time ("shifting dominance"), as fertility and mortality rates do in population.
     * In a population system, the population stock stabilizes when fertility equals mortality, and
       the system reaches an equilibrium.
@@ -77,7 +95,7 @@
       * This is the cause of business cycles. The economy is a more complex version of the car
         dealership trying to maintain its inventory in relation to sales and manufacturing delays.
   * "A renewable stock constrained by a nonrenewable stock -- an oil economy"
-    * In such systems, there is a reinforcing loop (e.g. exponential production adoption) and
+    * In such systems, there is a reinforcing loop (e.g. exponential product adoption) and
       constraining loop (market saturation).
     * "In physical, exponentially growing systems, there must be at least one reinforcing loop
       driving the growth and at least one balancing loop constraining the growth, because no
@@ -117,16 +135,16 @@
     experience of nature, people, and organizations immediately around us." These are superior to
     conjectured models.
   * "When a systems thinker encounters a problem, the first thing he or she does is look for data,
-    time graphs, the history of the sy stem. That's because long-term behavior provides clues to the
-    underlying system structure. ANd structure is the key to understanding not just *what* is
+    time graphs, the history of the system. That's because long-term behavior provides clues to the
+    underlying system structure. And structure is the key to understanding not just *what* is
     happening, but *why*."
     * "Systems thinking goes back and forth constantly between structure (diagrams of stocks, flows,
       and feedback) and behavior (time graphs)."
-  * Cool case study of budworm outbreaks, which consume fir trees. Outbreaks happen periodically
-    because the system slowly oscillates between less fir trees and more, based on how long since
-    last outbreak. Once fir trees hit a critical mass, there's a non-linearity: worm larvae multiply
-    faster than natural predators can grow to consume them, and their population explodes, until
-    they eat and reduce the fir tree population.
+  * Interesting case study of budworm outbreaks, which consume fir trees. Outbreaks happen
+    periodically because the system slowly oscillates between less fir trees and more, based on how
+    long since last outbreak. Once fir trees hit a critical mass, there's a non-linearity: worm
+    larvae multiply faster than natural predators can grow to consume them, and their population
+    explodes, until they eat and reduce the fir tree population.
     * This is a "system with unintuitive nonlinearities."
   * A system may be constrained by any number of input factors.
     * "Rich countries transfer capital or technology to poor ones and wonder why the economies of
@@ -145,7 +163,7 @@
   * "The world is nonlinear. Trying to make it linear for our mathematical or administrative
     convenience is not usually a good idea even when feasible."
   * Some systems are perverse: their structure produces truly problematic behavior.
-    * "The destruction hey cause is often blamed on particular actors or events, although it is
+    * "The destruction they cause is often blamed on particular actors or events, although it is
       actually a consequence of system structure."
   * Policy resistance: the balancing loop in the system maintains its behavior despite changing
     outside forces.
@@ -156,8 +174,8 @@
     * Each action in a system pulls it toward that actor's goals. If one actor manages to move the
       value of a stock towards their goals, the others will pull harder, until it's back to
       equilibrium.
-    * If you calm down, those who are pulling against you will calm down too. This is what happened
-      in 193 when Prohibition ended in the United States; the alcohol-driven chaos also largely
+    * "If you calm down, those who are pulling against you will calm down too. This is what happened
+      in 1933 when Prohibition ended in the United States; the alcohol-driven chaos also largely
       ended."
     * "The most effective way of dealing with policy resistance is to find a way of aligning the
       various goals of the subsystems, usually by providing an overarching goal that allows all
@@ -201,7 +219,7 @@
       reward, the means to compete even more effectively in the future. That's a reinforcing
       feedback loop, which rapidly divides a system into winners who go on winning, and losers who
       go on losing."
-    * Mature matures do not seem to support large numbers of firms. Whichever firm gets an edge
+    * Mature markets do not seem to support large numbers of firms. Whichever firm gets an edge
       reinvests that to grow the edge.
     * "In every market economy, we see long-term trends of declining numbers of farms, while the
       size of farms increases."
@@ -215,7 +233,7 @@
       game stays fair and interesting."
       * E.g. inheritance taxes, so that winners get reset each generation.
     * Diversification: pick or invent a new market where you're not competing against someone who
-      already has a growing edge over you. Losers can "get out of the gamae and start a new one."
+      already has a growing edge over you. Losers can "get out of the game and start a new one."
   * Shifting the burden to the intervenor -- addiction
     * I.e. a system/actor has a "dependence" on some policy or resource.
     * Burden-shifting systems: "Modern medicine in general has shifted the responsibility for health
@@ -235,8 +253,8 @@
       * How can obstacles to their success be removed?
       * How can these mechanisms be made more effective?"
   * Rule beating
-    * Distorting behavior sot hat rules appear to be followed, but not in spirit.
-    * E.g. killing endangered species on your own land, so that the land can e developed.
+    * Distorting behavior so that rules appear to be followed, but not in spirit.
+    * E.g. killing endangered species on your own land, so that the land can be developed.
     * Laws must be designed to keep in mind the system's self-organizing evasive behaviors in mind.
     * "If the desired system state is national security, and that is defined as the amount of money
       spent on the military, the system will produce military spending."
@@ -247,7 +265,7 @@
       throughput."
       * (By throughput, I think the author means the lowest GNP)
 * Leverage points - places to intervene in a system (chap 6)
-  * "Places ina  system where a small change could lead to a large shift in behavior."
+  * "Places in a system where a small change could lead to a large shift in behavior."
   * Argues systems are complex, and even when we can identify the leverage points, we use them in the
     wrong direction.
   * "Numbers, the sizes of flows, are dead last on my list of powerful interventions."
@@ -275,7 +293,7 @@
       * "It's usually easier to slow down the change rate, so that inevitable feedback delays won't
         cause so much trouble. That's why growth rates are higher up on the leverage point list than
         delay times."
-    * Balancing feedback loops - the strength of the feedbacks relative to the impacts they are
+    * Balancing feedback loops - the strength of the feedback relative to the impacts they are
       trying to correct
       * E.g. the quickness and power of the response in a thermostat system.
     * Reinforcing feedback loops: the strength of the gain of driving loops
@@ -292,9 +310,9 @@
       * "Missing information flows is one of the most common causes of system malfunction. Adding or
         restoring information can be a powerful intervention, usually much easier and cheaper than
         rebuilding physical infrastructure."
-      * Adding information flow adds a new loop to the system.
+      * Adding an information flow adds a new loop to the system.
     * Rules - incentives, punishments, constraints
-      * "If you want to understand the deepest malfunctions of systems, pay attention tot he rules
+      * "If you want to understand the deepest malfunctions of systems, pay attention to the rules
         and to who has power over them."
     * Self-organization -- the power to add, change, or evolve system structure
       * "One aspect of almost every culture is the belief in the utter superiority of that culture.
@@ -305,14 +323,14 @@
         can have the power to change the system's goal."
       * Changing the goal of a system is a powerful lever; all stocks and flows will contort to
         align with it.
-    * Paradigms -- the mind-set out of which the system -- its goals, structure, rules, delays,
+    * Paradigms -- the mindset out of which the system -- its goals, structure, rules, delays,
       parameters -- arises
-      * "Show do you change paradigms? Thomas Kuhn, who wrote the seminal book about the great
+      * "So how do you change paradigms? Thomas Kuhn, who wrote the seminal book about the great
         paradigm shifts of science, has a lot to say about that. You keep pointing at the anomalies
         and failures in the old paradigm. You keep speaking and acting, loudly and with assurance,
         from the new one. You insert people with the new paradigm in places of public visibility and
         power. You don't waste time with reactionaries; rather, you work with active change agents
-        and with teh vast middle ground of people who are open-minded."
+        and with the vast middle ground of people who are open-minded."
     * Transcending paradigms
       * Meaning "to keep oneself unattached in the area of paradigms, to stay flexible, to realize
         that *no* paradigm is 'true,' that every one, including the one that sweetly shapes your own
@@ -320,3 +338,42 @@
         is far beyond human comprehension."
       * "The higher the leverage point, the more the system will resist changing it -- that's why
         societies often rub out truly enlightened beings."
+* Living in a world of systems (chap 7)
+  * "It's one thing to understand how to fix a system and quite another to wade in and fix it."
+    * Even once you understand addiction loops, you cannot quit coffee.
+  * "Social systems are the external manifestations of cultural thinking patterns and of profound
+    human needs, emotions, strengths, and weaknesses. Changing them is not as simple as saying 'now
+    all change,' or of trusting that he who knows the good shall do the good."
+  * Says all all serious systems thinkers learn that they can't fully understand large nonlinear
+    systems: variance in behavior is high, there's irreducible complexity. You can only learn from
+    systems, and try redesigning them.
+  * "Get the beat of the system." Review the time series data it has generated, and watch it live.
+    * Watch how it behaves: "this guideline is deceptively simple. Until you make it a practice, you
+      won't believe how many wrong turns it helps you avoid. Starting with the behavior of the
+      system forces you to focus on facts, not theories."
+  * "Starting with history discourages the common and distracting tendency we all have to define a
+    problem not by the systems' actual behavior, but by the lack of our favorite solution."
+    * (Yes; this an easy error to make when looking how to apply technology.)
+  * "Expose your mental models to the light of day"
+    * By writing them down and discussing them. This helps improve the model to be more consistent
+      and rigorous. Mental models alone are slippery.
+    * "You can do it with words or lists or pictures or arrows showing what you think is connected
+      to what. The more you do that, in any form, the clearer your thinking will become, the faster
+      you will admit your uncertainties and correct your mistakes, and the more flexible you will
+      learn to be."
+  * "You can make a system work better with surprising ease if you can give it more timely, more
+    accurate, more complete information."
+  * "Language pollution" (fun term)
+    * That which doesn't convey clear, precise, forceful meaning.
+    * "Use language with care and enrich it with systems concepts."
+  * Don't over-index on quality metrics when inspecting and evaluating systems.
+    * "Human beings have been endowed not only with the ability to count, but also with the ability
+      to assess quality. Be a quality detector."
+  * Local responsibility in the system
+    * "'Intrinsic responsibility' means that the system is designed to send feedback about the
+      consequences of decision making directly and quickly and compellingly to the decision makers.
+      Because the pilot of a plane rides in the front of the plane, that pilot is intrinsically
+      responsible. He or she will experience directly the consequences of his or her decisions."
+    * Having smoking companies pay for smoking-related healthcare costs.
+  * "Nature designs in fractals, with intriguing detail on every scale from the microscopic to the
+    macroscopic."
