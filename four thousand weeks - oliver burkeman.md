@@ -52,7 +52,7 @@
 * "The world is bursting with wonder," and we should spend more of our lives trying to experience
   that wonder.
 * Time hacks do work, in a sense -- you will probably produce a greater quantity of shallow work --
-and yet they leave you feeling more empty, because you're spending your life on busyness.
+  and yet they leave you feeling more empty, because you're spending your life on busyness.
 * On the wrongness of how we spend time as children:
   * "Life, I knew, was supposed to be more joyful than this, more real, more meaningful, and the
     world was supposed to be more beautiful. We were not supposed to hate Mondays and live for the
@@ -157,8 +157,8 @@ and yet they leave you feeling more empty, because you're spending your life on 
 * We should not regret having to make the choice to pick only one of many valued activities; we
   should be thankful we get to pick one of them at all.
 * "It's precisely the fact that getting married forecloses the possibility of meeting someone else
--- someone who might genuinely have been a better marriage partner; who could ever say? -- that
-makes marriage meaningful."
+  -- someone who might genuinely have been a better marriage partner; who could ever say? -- that
+  makes marriage meaningful."
 
 ## Becoming a better procrastinator (chap 4)
 
@@ -216,9 +216,9 @@ makes marriage meaningful."
 * "Listening takes effort and patience and a spirit of surrender", which is hard, and so we seek
   distraction to avoid listening to people around us.
 * "The most effective way to sap distraction of its power is just to stop expecting things to be
-otherwise -- to accept that this unpleasantness is simply what it feels like for finite humans to
-commit ourselves to the kinds of demanding and valuable tasks that force us to confront our limited
-control over how our lives unfold."
+   otherwise -- to accept that this unpleasantness is simply what it feels like for finite humans to
+   commit ourselves to the kinds of demanding and valuable tasks that force us to confront our
+   limited control over how our lives unfold."
   * E.g. enduring painful experiences like unavoidably being outside in the blistering cold.
 
 ## We never really have time (chap 7)
@@ -259,9 +259,9 @@ control over how our lives unfold."
 ## Rediscovering rest (chap 9)
 
 * "Aristotle argued that true leisure -- by which he meant self-reflection and philosophical
-contemplation -- was among the very highest of virtues because it was worth choosing for its own
-sake, whereas other virtues, like courage in war, or noble behavior in government, were virtuous
-only because they led to something else."
+  contemplation -- was among the very highest of virtues because it was worth choosing for its own
+  sake, whereas other virtues, like courage in war, or noble behavior in government, were virtuous
+  only because they led to something else."
 * "It becomes difficult to enjoy a moment of rest for itself alone, without regard for any potential
   future benefits, because rest that has no instrumental value feels wasteful."
   * That we should use our leisure time for self-improvement has become an entrenched idea.
