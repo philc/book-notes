@@ -25,8 +25,8 @@
   * "Words and sentences must, by necessity, come only one at a time in linear, logical order.
     Systems happen all at once. They are connected not just in one direction, but in many directions
     simultaneously."
-    * (so pictures and graphs must be used. This book has many systems diagrams, which look like
-      UML diagrams).
+    * (so pictures and graphs must be used. This book has many systems diagrams, which look like UML
+      diagrams).
   * Systems theory is a complementary lens to the observant human eye, and the detail-revealing
     microscope. It's not a superior lens. "The more ways of seeing, the better."
 * The basics (chap 1)
@@ -67,8 +67,8 @@
         that is already there). A reinforcing feedback loop enhances whatever direction of change is
         imposed on it."
       * Self-reinforcing: stocks with exponential growth properties. They can increase a constant
-        percentage of their own value, so absolute change in value keeps growing with time. Population growth,
-        for example.
+        percentage of their own value, so absolute change in value keeps growing with time.
+        Population growth, for example.
   * Doubling time: the time it takes for an exponentially growing stock to double in size is 70 /
     growth rate.
   * "You'll stop looking for who's to blame; instead you'll start asking, 'What's the system?' The
@@ -79,8 +79,8 @@
     furnace heat and heat loss to the outside, and as the furnace heats the room, it increases the
     rate of heat loss to the outside.
   * "A stock with one reinforcing loop and one balancing loop: population and industrial economy"
-    * One loop in the system may be stronger / dominant. Which loop is stronger may change with
-      time ("shifting dominance"), as fertility and mortality rates do in population.
+    * One loop in the system may be stronger / dominant. Which loop is stronger may change with time
+      ("shifting dominance"), as fertility and mortality rates do in population.
     * In a population system, the population stock stabilizes when fertility equals mortality, and
       the system reaches an equilibrium.
     * The investment -> capital stock -> depreciation system has similar structure as a population
@@ -110,9 +110,9 @@
     other aspect quickly."
   * "Resilience is a measure of a system's ability to survive and persist within a variable
     environment. The opposite of resilience is brittleness or rigidity."
-  * Feedback loops provide resilience in that they restore a system or set of stocks to their desired
-    state after a large perturbation. Feedback loops which can create new feedback loops provide
-    meta-resilience.
+  * Feedback loops provide resilience in that they restore a system or set of stocks to their
+    desired state after a large perturbation. Feedback loops which can create new feedback loops
+    provide meta-resilience.
   * "Because resilience may not be obvious without a whole-system view, people often sacrifice
     resilience for stability, or for productivity, or for some other more immediately recognizable
     system property."
@@ -211,9 +211,9 @@
     * Positive cases: sports, computer revolution.
     * Solutions
       * "Refuse to compete", interrupting the reinforcing loop that's creating escalation.
-      * "One can negotiate a new system with balancing loops to control the escalation." An unpleasing
-        process for the parties involved, but if achieved, creates a better system and long-term
-        outcomes.
+      * "One can negotiate a new system with balancing loops to control the escalation." An
+        unpleasing process for the parties involved, but if achieved, creates a better system and
+        long-term outcomes.
   * Success to the successful: competitive exclusion
     * "This system trap is found whenever the winners of a competition receive, as part of the
       reward, the means to compete even more effectively in the future. That's a reinforcing
@@ -266,8 +266,8 @@
       * (By throughput, I think the author means the lowest GNP)
 * Leverage points - places to intervene in a system (chap 6)
   * "Places in a system where a small change could lead to a large shift in behavior."
-  * Argues systems are complex, and even when we can identify the leverage points, we use them in the
-    wrong direction.
+  * Argues systems are complex, and even when we can identify the leverage points, we use them in
+    the wrong direction.
   * "Numbers, the sizes of flows, are dead last on my list of powerful interventions."
   * "Probably 90 -- no 95, no 99 percent -- of our attention goes to parameters, but there's not a
     lot of leverage in them."
@@ -276,8 +276,8 @@
   * Impactful levers, in ascending order of leverage
     * Buffers
       * They are powerful stabilizing forces. E.g. lake vs. river for handling increased water flow
-        due to rainfall. Increasing the buffer sizes adds stability, at the expense of responsiveness
-        and efficiency.
+        due to rainfall. Increasing the buffer sizes adds stability, at the expense of
+        responsiveness and efficiency.
       * E.g. retailers carrying large inventories.
     * Stock and flow structures: the plumbing between stocks. Obviously impactful, if it can
       actually be changed.
