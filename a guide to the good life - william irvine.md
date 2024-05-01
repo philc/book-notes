@@ -228,21 +228,22 @@
 * Be selective of our friends; corrupted values and vices are contagious. Avoid those who are
   whiners and complainers; they destroy tranquility.
 * When annoyed by people: empathize -- no doubt we annoy others at times. And being annoyed makes
-  the whole experience worse for us -- it only hurts us. (Is this true? If we successfully correct
-  the person who's being annoying, that helps everyone, and it's an act of kindness towards them).
+  the whole experience worse for us -- it only hurts us.
+  * (It seems to me the most productive thing to do is to help the person correct their annoying
+    behavior -- that helps everyone, and is an act of kindness to the annoying person).
 * It's wasted -- and negative -- energy to speculate about what an annoying person is thinking.
   * "We can also, Marcus suggests, lessen the negative impact other people have on our life by
     controlling our thoughts about them."
 * "People, Marcus reminds us, do not choose to have the faults they do. Consequently, there is a
   sense in which the people who annoy us cannot help doing so."
-  * (No, this is too generous. Many faults could be diminished if not for malice and pride, or
-    selfishness, each of which shouldn't be simply looked over as innate, immutable qualities, to be
-    forgiven and forgotten.)
+  * (In my opinion, this is too generous. Many faults could be diminished if not for malice and
+    pride, or selfishness, each of which shouldn't be simply looked over as innate, immutable
+    qualities, to be forgiven and forgotten.)
 * "Social fatalism" -- Marcus is resigned to accept people as they come.
   * "Even though it is possible to change others, we can take some of the agony out of dealing with
     them by telling ourselves that they are fated to behave as they do."
-* "He adds that if we detect anger and hatred within us and wish to seek revenge, one of the best
-  forms of revenge on another person is to refuse to be like him." (fun)
+* "If we detect anger and hatred within us and wish to seek revenge, one of the best forms of
+  revenge on another person is to refuse to be like him." (fun)
 * "It is easy these days to find people who will agree that their life would have gone better if
   they had shown more sexual reserve; it is hard to find people who think their life would have gone
   better if they had shown less."
@@ -312,8 +313,8 @@
     praise our contemporaries, even though we meet them routinely. Instead of thinking about future
     fame, Marcus says, we would do well to concern ourselves with our present situation; we should
     'make the best of today.'"
-* Sometimes even your friend won't root for you to succeed, because if you do, it will make them
-  uncomfortable.
+* Sometimes even your friend won't root for you to succeed, because if you do succeed, it will make
+  them uncomfortable.
 
 ## Personal values - on luxurious living (chap 15)
 
@@ -347,10 +348,10 @@
   going to worsen with the passing years. Although she may have believed she was immortal when she
   was twenty, her own mortality is now painfully obvious to her. Faced with death, she might finally
   be willing to settle for 'mere tranquility', and she might, as a result, be ripe for stoicism."
-  * 80/20 inverse. What a difference 60 years makes...
+  * 80/20 inverse. What a difference 60 years makes.
 * Seneca: old age is full of delights and should be cherished. We graduate out of many vices and
   appetites; we live with the full benefit of our years of wisdom.
-  * (What a great framing)
+  * (This is a great framing.)
 * Using our knowledge of our proximity to death to our advantage:
   * "In our youth, because we assumed that we would live forever, we took our days for granted and
     as a result wasted many of them. In our old age, however, waking up each morning can be a cause

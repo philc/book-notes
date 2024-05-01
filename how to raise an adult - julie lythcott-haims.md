@@ -17,15 +17,14 @@
 
 ## Intro
 
-* "When a parent (usually a mom" would throw the door open on weekday afternoons and tell us, 'Go
+* "When a parent (usually a mom) would throw the door open on weekday afternoons and tell us, 'Go
   out and play and be home for dinner.' Our parents had no idea where we were or exactly what we
   were doing. There were no cell phones for keeping in touch or GPS devices for tracking. Off we
   went into the wilderness of our block our neighborhood, our town, our vacant lots, our parks, our
   woods, our malls. Or sometimes, we just snuck a book and sat on the back steps. Childhood doesn't
   look that way today and many young parents don't relate to childhood ever having been that way."
-  * Yes, so true -- this is what my childhood felt like.
 * Why did we stop letting our kids free play in the neighborhood? Argues it was outsized fear in the
-  1980s over child abductions (milk carton missing kids, America's most Wanted) and fear that
+  1980s over child abductions (milk carton missing kids, America's Most Wanted) and fear that
   American students are falling behind China and Japan ("no child left behind" policy).
   * Also, scheduled "play dates" became required as mothers increased their participation in the
     workforce.
@@ -38,15 +37,15 @@
 * We over-protect our kids and over-direct their time, shielding them from experiences that may
   toughen and weather them.
   * "Our neighborhoods are photo-worthy, our food and wine are carefully paired, but with childhood
-    feeling more and more like an achievement arms race, can we call what twe and our children are
+    feeling more and more like an achievement arms race, can we call what we and our children are
     living a 'good life'?"
 
 ## Keeping them safe and sound (chap 1)
 
 * Argues that fears have escalated with global media coverage of abductions, but the stats don't
   substantiate these fears. Most missing children (by far) end up being runaways, not abductees.
-* ANd the fear of stranger danger causes parents to escort their kids everywhere, and shortchange
-  their chance to develop independence.
+* The fear of stranger danger causes parents to escort their kids everywhere, and shortchange their
+  chance to develop independence.
 * "Basically, the 24/7/365 worldwide news cycle is a recent development in human existence and we
   haven't evolved to cope with it yet. There *is* such a thing as too much information."
 * "The *unexamined* harm these days is that our kids grow up *believing* that an evil stranger, a
@@ -77,8 +76,8 @@
 
 ## Providing opportunity (chap 2)
 
-* Parents have come "on top of it all," managing a full schedule of enrichment activities for their
-  kids.
+* Parents have come to be "on top of it all," managing a full schedule of enrichment activities for
+  their kids.
 * Parents encourage kids to specialize in a sport early.
 * Parents used to attend only the big games; now they attend everything.
 * We're manufacturing kids so they have all the properties to make it through college admissions.
@@ -100,7 +99,7 @@
 
 * Increasing numbers of parents want their kids to fill slots at a limited number of schools. It's
   an arms race to push kids through a checklisted childhood.
-* (Fun anecdote) "The professor learned over to me and told me that one night it was well past
+* (Fun anecdote) "The professor leaned over to me and told me that one night it was well past
   bedtime and each of his three kids -- all Palo Alto public schoolers -- had a mountain of homework
   still to be done. His solution? He told his elementary schooler to go to bed, told his middle
   schooler to do the elementary kid's homework, told his high schooler to do the homework for his
@@ -110,8 +109,8 @@
   their homework, it's the same thing. It fosters a sense of dependence and helplessness in kids;
   they come to feel they just can't do it on their own."
 * Parents do their kids' homework, monitor the scores daily, and even impersonate their kids over
-  email. The parents are the ones going to school In comparison to the homework, the work produce in
-  class by the student is vacuous.
+  email. The parents are the ones going to school. In comparison to the homework, the work produced
+  in class by the student is vacuous.
 
 ## To what end? (chap 5)
 
@@ -121,11 +120,11 @@
 * The author is wishing for the freedoms that kids had in the 80s and 90s -- producing more robust
   people. An environment that's like a free run, rather than a treadmill.
 * "There is a side of contemporary American culture -- fearful, litigious, controlling -- that we do
-  not brag about but that we reveal in our child rearing."
+  not brag about but that we revel in our child rearing."
 * "There are two things children should get from their parents: roots and wings" - Johann Wolfgang
   von Goethe.
 * "There's no freedom. No play. Hell-bent on removing all risks of life and on catapulting them into
-  the college with the right brand nae, we've robbed our kids of the chance to construct and know
+  the college with the right brand name, we've robbed our kids of the chance to construct and know
   their own *selves*."
 
 ## Our kids lack basic life skills (chap 6)
@@ -155,7 +154,7 @@
   greenhouse.
 * Forest play-group for four-year-olds: "a weekly four-hour excursion into the forest, rain or
   shine, where the children saw and file wood, and roast hot dogs over an open fire for lunch."
-  (sounds awesome!)
+  (sounds great)
 
 ## Overparenting stresses us out, too (chap 10)
 
@@ -172,7 +171,7 @@
   childhood. Maybe one day we won't be stuck with paralyzing stress, just the stress that pushes us
   forward in positive ways."
 * SAT: "it measures not aptitude but one's ability to study for the test, which boils down to
-  wealth. Here's how: SAT scores improve as a student studies for and retakes the tests. (The more
+  wealth. Here's how: SAT scores improve as a student studies for and retakes the tests. The more
   test prep and testing a student can afford, the higher their scores. This means that SAT scores
   correlate highly with socioeconomic status rather than cognitive ability."
 
@@ -208,7 +207,7 @@
 * "Good old-fashioned natural free play provides an environment in which kids can experience flow."
   * Conversely, highly structured schedules may afford them little flow.
 * "Noticing when we're in flow means noticing what we love doing. When we can look back on an
-  experience and realize we were inf low, we've gotten a great clue from ourselves that we're doing
+  experience and realize we were in flow, we've gotten a great clue from ourselves that we're doing
   something that matters to us, which can lead to meaningful work and hobbies."
 * "Having a TV in a kid's bedroom is one of the worst things because then they end up taking the
   easy way and when they're bored they turn on the TV."
@@ -219,13 +218,13 @@
   there. If he took a helicopter it wouldn't feel the same. In facilitating success parents are
   paradoxically guaranteeing that a kid can't achieve it on his own." - David McCullough Jr
 * "I see that my husband and I did way too much for our kids instead of welcoming them to the joy of
-  dong more and more things on their own." (Nice framing)
+  doing more and more things on their own." (Nice framing)
 
 ## Teach them how to think (chap 15)
 
 * "If we want our kids to be able to think for themselves, we have to be willing to open up a
   dialogue with them and resist the natural temptation to give the answer, say what we know about a
-  situation, solve the problem, and in other ways shut the dialogue -- and think thinking -- down."
+  situation, solve the problem, and in other ways shut the dialogue -- and the thinking -- down."
   * Keep asking "why" -- go through the full dialog with them, as Socrates did with his students.
   * "The kid learned that the parent doesn't feel responsible for the problem and that he is going
     to have to figure it out for himself."
@@ -274,7 +273,7 @@
     icebreaker any kid can ask any adult."
 * Have your own purpose
   * "Too often, our kids hear us complaining about things; let them hear what pulls you toward work
-    instead of what pushes you away from it."(
+    instead of what pushes you away from it."
 
 ## Normalize struggle (chap 18)
 
@@ -283,28 +282,26 @@
 * Show your love. "When your kid gets home from school or activities, or you get home from work, set
   aside what you're doing, step away from your computer, put down your phone, and let them see the
   joy their presence brings you."
-* (I should implement more protected "reunion time" where we can show each other joy and
-  appreciation when the kids arrive home from school.)
 * Notice them being good: "I saw you", not "you're amazing."
-* Setbacks are essential "growth producing events." They're being pruned out of childhoods by
+* Setbacks are "essential growth producing events." They're being pruned out of childhoods by
   over-active parents.
-* An explanation for why affluent kids and children of immigrants have trouble finding their way is
-  that they're deprived of opportunities for perseverance, grit, hardship, tough tradeoffs, and
-  realistic feedback relative to poor kids.
+* An explanation for why affluent kids and children of immigrants have trouble finding their way:
+  they're deprived of opportunities for perseverance, grit, hardship, tough tradeoffs, and realistic
+  feedback relative to poor kids.
 
 ## Have a wider mind-set about colleges (chap 19)
 
 * "Today we have a large number of students at great places who feel they really ought to be
   someplace else. If you walk around with that mind-set, it's going to wreck your college
-  experience. Aall of these places are *gifts*, but they aren't treated as gifts, because students
+  experience. All of these places are *gifts*, but they aren't treated as gifts, because students
   spend all their time thinking they should have gotten in to a different school."
-* (It's true: schools are ranked high mostly because of selectivity, not quality. Can we let go of
-  the notion that we need to beat the punishing odds, and just enjoy the process and appreciate the
-  school that we got into?)
+* (It's true: schools are ranked high mostly because of selectivity. Can we let go of the notion
+  that we need to beat the punishing odds, and just enjoy the process and appreciate the school that
+  we end up attending?)
 * "Many kids would choose a different kind of race, and perhaps a chance to enjoy the ride of
   childhood instead of racing right through it."
 * The 10 most selective schools have only an admissions rate of 5-10%. But the next 30 are 10-20%.
-  The next 60 are 20-33%. There's 2600 U.S. colleges.
+  The next 60 are 20-33%. There's 2,600 U.S. colleges.
 * Kids admitted to top colleges but who attend elsewhere end up with the same average income.
 * "Kids at less prestigious schools are apt to be more interesting, more curious, more open, more
   appreciative of what they're getting, and far less entitled and competitive. They tend to act like
@@ -312,7 +309,7 @@
 * "The world only cares about -- and pays off on -- what you can do with what you know (and it
   doesn't care how you learned it.)" (Laszlo's Bock's book)
 * LinkedIn's school data shows which schools high-ranking jobs originate from.
-* E.g. Tufts university: elite, but uses a holistic view fro admissions, and stresses kindness.
+* E.g. Tufts university: elite, but uses a holistic view for admissions, and stresses kindness.
   * Tufts' dean: "I don't want an undergraduate community of cutthroat robots."
 * When considering a school, ask alums, current students, and parents what they would change about
   their university experience, rather than "would you recommend it?"
