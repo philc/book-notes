@@ -23,7 +23,7 @@
   should be thankful we get to pick one of them at all.
 * "When people finally *do* choose, in a relatively irreversible way, they're usually much happier
   as a result. We'll do almost anything to avoid burning our bridges, to keep alive the fantasy of a
-  future unconstrained by limitation, yet having burned them, we're generally please that we did
+  future unconstrained by limitation, yet having burned them, we're generally pleased that we did
   so."
 * "The 'joy of missing out': the recognition that the renunciation of alternatives is what makes
   their choice a meaningful one in the first place."
@@ -67,7 +67,8 @@
 * Experiencing "deep time" vs. "clock time": being fully present and fully alive to the experiences
   of the world, without conscious organization of time. Like children.
   * (Maybe I should put less pressure on my kids to count and understand time. Make it more about
-    executive function and the sequence of activities, and less about budgeting).
+    executive function and the sequence of activities, and less about time allocation and
+    budgeting).
 * He mentions the shift of labor during the industrial age from being compensated per task to per
   hour.
 * "Instead of simply living our lives as they unfold in time -- instead of just being time, you
@@ -92,11 +93,11 @@
   because it's scary to confront the truth that almost everything worth doing, from marriage and
   parenting to business or politics, depends on cooperating with others, and therefore on exposing
   yourself to the emotional uncertainties of relationships."
-* (Related from 37 signals: FOMO vs. JOMO - joy of missing out)
+* (Related, from 37signals: FOMO vs. JOMO - joy of missing out)
 * "Freedom, sometimes, is to be found not in achieving greater sovereignty over your own schedule
   but in allowing yourself to be constrained by the rhythms of community -- participating in forms
   of social life where you *don't* get to decide exactly what you do or when you do it."
-  * Letting go of control to participate in a community.
+  * Letting go of control, to participate in a community.
 * "So long as you continue to respond to impossible demands on your time by trying to persuade
   yourself that you might one day find some way to do the impossible, you're implicitly
   collaborating with those demands. Whereas once you deeply grasp that they *are* impossible, you'll
@@ -121,7 +122,7 @@
   your nose, or in your pocket, throughout your working day, and often on weekends, too."
 * A belief in the afterlife lessens the pressure to "see it all" before you die.
 * Digital tools like Facebook, email, and dating sites help us more efficiently sort through choices
-  but also expose us to unreal amounts of new choices.
+  but also expose us to unrealistic amounts of new choices.
 * Ticking things off of a bucket list suffers the same dynamic of any TODO list: it's infinite, and
   so making one's happiness tied to completion or progress will be unsatisfying.
 * "The more efficient you get, the more you become 'a limitless reservoir for other people's
@@ -136,7 +137,7 @@
 * "Any finite life -- even the best one you could possibly imagine -- is therefore a matter of
   ceaselessly waving goodbye to possibility."
 * "For Heidegger, this is the central challenge of human existence: since finitude defines our
-  lives, he argues that living a truly authentic life -- becoming fully human --means facing up to
+  lives, he argues that living a truly authentic life -- becoming fully human -- means facing up to
   that fact."
   * Instead, we earnestly try to spend most of our days busy and distract ourselves from this fact.
 * "We try to avoid the intimidating responsibility of having to decide what to do with our finite
@@ -169,7 +170,7 @@
     work, as a real-life relationship necessarily would."
 * "When people finally *do* choose, in a relatively irreversible way, they're usually much happier
   as a result. We'll do almost anything to avoid burning our bridges, to keep alive the fantasy of a
-  future unconstrained by limitation, yet having burned them, we're generally please that we did
+  future unconstrained by limitation, yet having burned them, we're generally pleased that we did
   so."
   * Whether it be selecting a spouse, a career path, a job, a startup idea... it's simplifying to
     prune the space of possibility. It's exhausting to keep open so many possible branches.
@@ -190,7 +191,7 @@
   beach or on BuzzFeed. It's that the distracted person isn't really choosing at all. Their
   attention has been commandeered by forces that don't have their highest interests at heart."
   * So we must develop the ability to exert some top-down control over our attention in the face of
-    pre-empting forces.
+    preempting forces.
 * The digital attention economy appropriates our attention with things that make us angry or
   horrified, because these things are hardest to ignore, and then it monetizes that attention via
   advertising. It's a leech.
@@ -312,18 +313,18 @@
   weeks?"
   * "A malaise that had been growing in her for years had crystallized in the understanding that she
     was spending her days in a way that no longer felt as if it had any meaning."
-* "A chair just isn't the kind of thing that out to have the capacity to boil water, so it isn't a
+* "A chair just isn't the kind of thing that ought to have the capacity to boil water, so it isn't a
   problem that it doesn't. And it is likewise 'implausible, for almost all people to demand of
   themselves that they be a Michelangelo, a Mozart, or an Einstein... there have only been a few
   dozen such people in the entire history of humanity.'"
-  * So release yourself from the standard of using your life to "put a dent in the universe"
+  * So release yourself from the standard of using your life to "put a dent in the universe."
 
 ## The human disease (chap 14)
 
 * "We chase the ultimate fantasy of time mastery -- the desire, by the time we die, to have truly
   mattered in the cosmic scheme of things, as opposed to being instantly trampled underfoot by the
   advancing eons."
-* Life's unending queue of problems is only an issue if one believe there's a cure.
+* Life's unending queue of problems is only an issue if one believes there's a cure.
   * "I was peeling a red apple from the garden when I suddenly understood that life would only ever
     give me a series of wonderfully insoluble problems. With that thought an ocean of profound peace
     entered my heart." - Christian Bobin.
