@@ -1,14 +1,20 @@
+/* The colors are sepia; some drawn from here: https://www.color-hex.com/color-palette/92457 */
 html, body {
   margin: 0;
+}
+
+:root {
+  --padding: 20px;
+  --width: 650px;
+  --link-color: #1E6ADE;
+  background-color: white;
+  color: black;
 }
 
 body {
   font-size: 16px;
   /* Palatino is available on MacOS, iOS, and Windows. */
   font-family: "Palatino", "Palatino Linotype", "Georgia", "Serif";
-  background-color: white;
-  --padding: 20px;
-  --width: 650px;
   padding: 20px 0;
 }
 
@@ -20,18 +26,8 @@ body {
   max-width: var(--width);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    color-scheme: dark;
-    background-color: #202124;
-    color: #F2F2F2;
-  }
-  /* Probably a good link color for dark mode. */
-  /* color: #6FA7FC; */
-}
-
 a, nav a:visited {
-  color: #1E6ADE;
+  color: var(--link-color);
 }
 
 a:visited {
@@ -51,7 +47,7 @@ nav {
 h1 {
 }
 
-li {
+li, p {
   text-align: justify;
   line-height: 1.5;
   margin: 1em 0;
@@ -74,9 +70,31 @@ hr {
   border-color: #B98F0D;
   border-top-width: 1px;
   border-style: dashed;
-  margin: 20px auto;
+  margin: 24px auto;
 }
 
 footer {
   font-style: italic;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    background-color: #242220;
+    --link-color: #fbab7e;
+    color: #DEC2AF;
+  }
+  li, p {
+    /* Slightly more space between lines. */
+    line-height: 1.6;
+    margin: 1.1em 0;
+  }
+  #title {
+    color: #eadbcb;
+    background-color: #1B1B1B;
+    border-bottom: 0;
+  }
+  h2 {
+    color: #ffd586;
+  }
 }
