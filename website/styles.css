@@ -12,7 +12,7 @@ html, body {
 }
 
 body {
-  font-size: 16px;
+  font-size: 18px;
   /* Palatino is available on MacOS, iOS, and Windows. */
   font-family: "Palatino", "Palatino Linotype", "Georgia", "Serif";
   padding: 20px 0;
