@@ -1,0 +1,82 @@
+html, body {
+  margin: 0;
+}
+
+body {
+  font-size: 16px;
+  /* Palatino is available on MacOS, iOS, and Windows. */
+  font-family: "Palatino", "Palatino Linotype", "Georgia", "Serif";
+  background-color: white;
+  --padding: 20px;
+  --width: 650px;
+  padding: 20px 0;
+}
+
+/* Center each of the main sections on the page. */
+#content, h1, nav, footer {
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 0 var(--padding);
+  max-width: var(--width);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    background-color: #202124;
+    color: #F2F2F2;
+  }
+  /* Probably a good link color for dark mode. */
+  /* color: #6FA7FC; */
+}
+
+a, nav a:visited {
+  color: #1E6ADE;
+}
+
+a:visited {
+  color: #551A8B; /* The browser's default. */
+}
+
+nav {
+  margin-bottom: 20px;
+}
+
+#title {
+  background-color: #F8F5F0;
+  padding: 20px 0;
+  border-bottom: 1px solid #ECE6DA;
+}
+
+h1 {
+}
+
+li {
+  text-align: justify;
+  line-height: 1.5;
+  margin: 1em 0;
+  list-style-type: none;
+}
+
+ul {
+  margin: 0;
+  padding-left: 3em;
+}
+
+#content > ul {
+  padding-left: 0;
+}
+
+hr {
+  height: 1px;
+  width: 80%;
+  border: 0;
+  border-color: #B98F0D;
+  border-top-width: 1px;
+  border-style: dashed;
+  margin: 20px auto;
+}
+
+footer {
+  font-style: italic;
+}
