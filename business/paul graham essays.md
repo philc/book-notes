@@ -70,9 +70,10 @@
       isn't to get good grades so they can get into a good college, but to learn and do."
   * "From what we've seen, being good seems to help startups in three ways: it improves their
     morale, it makes other people want to help them, and above all, it helps them be decisive."
-
   * "When founders seem unfocused, I sometimes suggest they try to get customers to pay them for
     something, in the hopes that this constraint will prod them into action."
+  * "Having to hit a growth number every week forces founders to act, and acting veruss not acting
+    is the high bit of succeeding."
 * Succinctness is power (May 2002)
   * Which language is the best to think in? "Ultimately, I think you have to go with your gut. What
     does i feel like to program in the language? I think the way to find (or design) the best
@@ -984,6 +985,7 @@
     * "You're not spending the money; you're just moving it from one asset to another. Which is why
       people trying to sell you expensive things say 'it's an investment.'"
 * The top idea in your mind (Jul 2010)
+  * http://www.paulgraham.com/top.html
   * Great. In short: protect against what you let consume your mind, so that your background
     processing bandwidth isn't squandered.
   * "It's hard to do a really good job on anything you don't think about in the shower."
@@ -1018,53 +1020,123 @@
   * "In the software business, you can't afford not to have a hacker-centric culture."
     * Yahoo wanted to be a media company, not a tech company run by programmers, because they
       latched on to a business model of scaling brand ads.
-* ---
 
-* The top idea in your mind (2010)
-  * http://www.paulgraham.com/top.html
-  * What your brain thinks about in the shower is the top idea in your mind.
-  * It's hard to do a good job on anything if it's not your top idea.
-    * Thus, it's a disaster to let the wrong idea become your top idea. It starves the others of resources.
-  * Fundraising commonly grinds startups to a halt. It's because fundraising unavoidably becomes the top idea,
-    because to do it successfully requires it.
-  * Some types of thoughts unavoidably displace your other top ideas: fundraising, talking to acquirers, and
-    conflict.
-    * "These are engaging in the wrong way: they have the same velcro-like shape as genuinely interesting
-      ideas, but without the substance. So avoid disputes if you want to get real work done"
-    * (Example of Newton hating the wasted brainpower he used to defend his ideas against critics)
-    * "I've found I can to some extent avoid thinking about nasty things people have done to me by telling
-      myself: this doesn't deserve space in my head."
-  * You can avoid these thoughts by controlling the situations you get into. "Be careful what you let become
-    critical to you."
-  * Argues it's efficient to acquire startups. The team has been "forged" together by the fires of the
-    startup journey, and the product has been proven to work.
-  * "I predict that in the future the executives installed by VCs will increasingly be COOs rather
-    than CEOs. THe founders will run engineering directly, and the rest of the company through the
-    COO."
-  * "Riskier career moves pay better on average, because there is less demand for them. Extreme
-    choices like starting a startup are so frightening that most people won't even try. So you don't
-    end up having as much competition as you might expect."
-  * "The end of school sit he fulcrum of your life, the point where you go from net consumer to net
-    producer."
-  * "I don't think it takes years to learn how to make things people want. My hypothesis is that all
-    you have to do is smack hackers on the side of the head and tell them: Wake up. Don't sit here
-    making up a priori theories about what users need. Go find some users and see what they need."
-    * Argues it's much easier to teach a developer how to make things users want, than it is to teach
-      someone to be a developer.
-
-* Schlep blindness (2012)
+* Schlep blindness (Jan 2012)
   * http://www.paulgraham.com/schlep.html
   * Schlep: tedious, unpleasant task.
-  * "Schleps are not merely inevitable, but pretty much what business consists of. A company is defined by the
-    schleps it will undertake. And schleps should be dealt with the same way you'd deal with a cold swimming
-    pool: just jump in."
-  * Schlep blindness: "Your unconscious won't even let you see ideas that involve painful schleps."
+  * "A company is defined by the schleps it will undertake."
+  * "The most dangerous thing about our dislike of schleps is that much of it is unconscious. Your
+    unconscious won't even let you see ideas that involve painful schleps. That's schlep blindness."
   * On ideas which require high levels of challenge, schlep: "that scariness makes ambitious ideas doubly
     valuable. In addition to their intrinsic value, they're like undervalued stocks in the sense that there's
     less demand for them among founders. If you pick an ambitious idea, you'll have less competition, because
     everyone else will have been frightened off by the challenges involved."
   * Example: why did so many startups try to build recipe sites or local event aggregators, instead of fixing
-    payments like Stripe?
+    payments, like Stripe did?
+
+* Frighteningly ambitious startup ideas (Mar 2012)
+  * "I think the way to use these bi ideas is not to try to identify a precise point in the future
+    and then ask yourself how to get from here to there, like the popular image of a visionary."
+  * "Don't try to construct the future like a building, because your current blueprint is almost
+    certainly mistaken. Start with something you know works, and when you expand, expand westward."
+  * "The popular image of the visionary is someone with a clear view of the future, but empirically
+    it may be better to have a blurry one."
+
+* Writing and speaking (Mar 2012)
+  * "I don't wish I were a better speaker like I wish I were a better writer. What I really want is
+    to have good ideas, and that's a much bigger part of being a good writer than being a good
+    speaker."
+  * Thinking about the sentences and ideas makes the ideas better, and improves your mastery of
+    them. But rehearsing the material for a smooth delivery doesn't make your ideas better.
+    * "All the time you spend practicing a talk, you could instead spend making it better."
+  * "Any given person is dumber as a member of an audience than as a reader. Just as s speaker ad
+    libbing can only spend as long thinking about each sentence as it takes to say it, a person
+    hearing a talk can only spend as long thinking about sentence as it takes to hear it."
+  * Talks are inferior to writing for sources of ideas. But they do give us a live impression o the
+    speaker, and thus can be good tools for becoming energized and motivated.
+
+* Startup = growth (Sep 2012)
+  * Definition of a startup: "the only essential thing is growth. Everything else we associate with
+    startups follows from growth."
+  * "You have to know that growth is what you're after. The good news is, if you get growth,
+    everything else tends to fall into place. Which means you can use growth like a compass to make
+    almost every decision you face."
+  * Why doesn't every new company aim to be a startup?
+    * "The constraints that limit ordinary companies also protect them. That's the tradeoff. If you
+      start a barbershop, you only have to compete with other local barbers. If you start a search
+      engine you have to compete with the whole world."
+  * "The most important thing that the constraints on a normal business protect it from is not
+    competition, however, but the difficulty of coming up with new ideas."
+  * "That geographic constraint also helps define your company. Bar + neighborhood is a sufficient
+    idea for a small business."
+  * "The space of ideas has been so thoroughly picked over that a startup generally has to work on
+    something everyone else has overlooked."
+  * "We usually advise startups to pick a growth rate that they think they can hit, and then just
+    try to hit it every week."
+    * (Casting this as an optimization problem must be clarifying and focusing for the YC batches).
+    * "Focusing on hitting a growth rate reduces the otherwise bewildering multifarious problem of
+      starting a startup to a single problem."
+    * "They could end up on a local maximum. But in practice that never happens. Having to hit a
+      growth number every week forces founders to act, and acting versus not acting is the high bit
+      of succeeding."
+    * "Plus the maxima in the space of startup ideas are not spiky and isolated. Most fairly good
+      ideas are adjacent to even better ones."
+  * "You'll generally do best to follow that constraint wherever it leads rather than being
+    influenced by some initial vision, just as a scientist is better off following the truth
+    wherever it leads."
+* How to get startup ideas (Nov 2012)
+  * (Motivating; in short: it can be done; start building and embrace schleps.)
+  * To start, optimize for something a few people want really badly.
+    * "When you have an idea for a startup, ask yourself: who wants this right now? Who wants this
+      so much that they'll use it even when it's a crappy version one made by a two-person startup
+      they've never heard of? If you can't answer that, the idea is probably bad."
+  * No one can really tell if an idea will remain niche, or has a "fast path" to other versions of
+    itself that will become mass market.
+    * E.g. Facebook: Harvard -> all colleges -> all people.
+  * "Live in the future, then build what's missing."
+    * Aim to be an expert, or at least an expert user, in a field, ideally one that's rapidly
+      changing.
+    * Alternate: "Live in the future and build what seems interesting."
+  * Organic ideas
+    * "The verb you want to be using with respect to startup ideas it not "think up" but "notice."
+      At YC we call ideas that grow naturally out of the founders' own experiences 'organic' startup
+      ideas. The most successful startups almost all being this way."
+  * "What you should be spending your time on in college is ratcheting yourself into the future.
+    College is an incomparable opportunity to do that."
+    * Rather than studying "entrepreneurship", which is the easier part of forming a startup, and
+      best learned by doing.
+  * Beware of research
+    * Because it's so narrow. It's almost constrained from being generally useful for solving real
+      problems.
+    * "For some reason, the more a project has to count as research, the less likely it is to be
+      something that could be turned into a startup."
+  * Err on the side of doing things where you'll face competitors. Inexperienced founders usually
+    give competitors more credit than they deserve."
+  * Developers have a preference to not interact with the messy world.
+    * "But this preference is so widespread that the space of convenient startup ideas has been
+      stripped pretty clean. If you let your mind wander a few blocks down the street to the messy,
+      tedious ideas, you'll find valuable ones just sitting there waiting to be implemented."
+  * Inorganic method / "recipes"
+    * Produces ideas on demand, but requires much more discipline, because most of these ideas are
+      bad and need to be filtered out.
+    * "Try asking yourself whether there's something unusual about you that makes your needs
+      different from most other people's. You're probably not the only one. It's especially good if
+      you're different ina  way people will increasingly be."
+    * "One way to ensure you do a good job solving other people's problems is to make them your own.
+      When Rajat Suri of E la Carte decided to write software for restaurants, he got a job as a
+      waiter to learn how restaurants worked."
+    * "When one company or industry replaces another, it usually comes in from the side. So don't
+      look for a replacement for x; look for something that people will later say turned out to be a
+      replacement for x. And be imaginative about the axis along which the replacement occurs."
+  * "It doesn't work well simply to try to think of startup ideas. If you do that, you get bad ones
+    that sound dangerously plausible. The best approach is more indirect: if you have the right sort
+    of background, good startup ideas will seem obvious to you."
+  * Paul Buchheit, how how selling something bad can help you disqualify the idea, while discovering
+    a new one that's actually valuable:
+    * "The best technique I've found for dealing with YC companies that have bad ideas is to tell
+      them to go sell the product ASAP (before wasitng time building it). Not only do they learn
+      that nobody wants what they are building, they very often come back with a real idea that they
+      discovered in the process of trying to sell the bad idea."
 
 * How to do great work (Jul 2023)
   * "There's a kind of excited curiosity that's both the engine and the rudder of great work. It
