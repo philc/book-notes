@@ -26,17 +26,18 @@ async function wrapInLayout(html, title) {
 }
 
 function slug(filename) {
-  return filename
+  return path.basename(filename)
     .replaceAll(" - ", "-") // Collapse into one dash
     .replaceAll(" ", "-")
     .replace(".md", ".html");
 }
 
-async function processPages() {
+const files = ["lifestyle/what is culture for - school of life.md"];
+
+async function processPages(files) {
   if (!(await fs.exists(buildDir))) {
     await Deno.mkdir(buildDir, { recursive: true });
   }
-  const files = ["lifestyle/what is culture for - school of life.md"];
   for (const file of files) {
     let html = await generatePage(file);
     const match = html.match(/<h1>(.+)<\/h1>/);
@@ -47,14 +48,62 @@ async function processPages() {
     // Remove the title from the HTML so we can treat it separately.
     html = html.replace(match[0], "");
     html = await wrapInLayout(html, title);
-    const dest = path.join(buildDir, path.basename(slug(file)));
+    const dest = path.join(buildDir, slug(file));
     await Deno.writeTextFile(dest, html);
   }
 
-  const resources = ["styles.css", "github.svg"];
+  const resources = ["github.svg"];
   for (const file of resources) {
     await Deno.copyFile(path.join("website", file), path.join(buildDir, file));
   }
 }
 
-await processPages();
+function capitalize(str) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
+async function getTitleFromFile(filename) {
+  // Pull out the value of the <h1> tag, which will have the proper title capitalization.
+  const text = await Deno.readTextFile(path.join(buildDir, filename));
+  const match = text.match(/<h1>(.+)<\/h1>/s);
+  if (!match || match.length < 2) {
+    throw new Error("h1 title not found in " + filename);
+  }
+  return match[1];
+}
+
+async function createIndex(files) {
+  if (!(await fs.exists(buildDir))) {
+    await Deno.mkdir(buildDir, { recursive: true });
+  }
+
+  const filesByCategory = {};
+  for (const file of files) {
+    const category = file.split("/")[0];
+    const list = filesByCategory[category] ?? [];
+    list.push(file);
+    filesByCategory[category] = list;
+  }
+  const html = [];
+  for (const [category, list] of Object.entries(filesByCategory)) {
+    html.push(`<h2>${capitalize(category)}</h2>`);
+    html.push("<ul>");
+    for (const file of list) {
+      const path = slug(file);
+      const title = await getTitleFromFile(path);
+      html.push(`<li><a href="${path}">${title}</a></li>`);
+    }
+    html.push("</ul>");
+  }
+  let htmlStr = html.join("\n");
+  htmlStr = await wrapInLayout(htmlStr, "Book Notes");
+  // Label this as the index page, so we can style it differently in CSS.
+  if (!htmlStr.includes("<body>")) {
+    throw new Error("Error styling <body> when bulding the index page.");
+  }
+  htmlStr = htmlStr.replace("<body>", '<body id="index-page">');
+  await Deno.writeTextFile(path.join(buildDir, "index.html"), htmlStr);
+}
+
+// await processPages(files);
+await createIndex(files);

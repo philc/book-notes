@@ -87,6 +87,11 @@ footer {
   font-style: italic;
 }
 
+/* Styles specificalaly for the index page. */
+#index-page a#home, #index-page footer {
+  display: none;
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
