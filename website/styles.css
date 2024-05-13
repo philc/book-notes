@@ -7,8 +7,9 @@ html, body {
   --padding: 20px;
   --width: 650px;
   --link-color: #1E6ADE;
+  --text-color: black;
   background-color: white;
-  color: black;
+  color: var(--text-color);
 }
 
 body {
@@ -36,15 +37,24 @@ a:visited {
 
 nav {
   margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+a#github {
+  width: 40px;
+  border: 0;
+  /* Artifically reduce the layout height of this github icon. Otherwise it will make the nav
+     taller than it needs to be, consuming too much vertical space. */
+  margin-top: -8px;
+  margin-bottom: -8px;
 }
 
 #title {
   background-color: #F8F5F0;
   padding: 20px 0;
   border-bottom: 1px solid #ECE6DA;
-}
-
-h1 {
 }
 
 li, p {
@@ -82,7 +92,26 @@ footer {
     color-scheme: dark;
     background-color: #242220;
     --link-color: #fbab7e;
-    color: #DEC2AF;
+    --text-color: #DEC2AF;
+    color: var(--text-color);
+  }
+  a#github img {
+    /* The icon is black; invert it to white. */
+    filter: invert(100%);
+    /* Tone down the opacity so it's not so bright. */
+    opacity: 0.66;
+  }
+  a:hover, nav a:hover {
+    color: var(--text-color);
+    background-color: rgba(0, 0, 0, 0.4);
+    outline: 5px solid rgba(0, 0, 0, 0.4);
+  }
+  a#github:hover {
+    background-color: inherit;
+    outline: inherit;
+  }
+  a#github:hover img {
+    opacity: 1.0;
   }
   li, p {
     /* Slightly more space between lines. */
