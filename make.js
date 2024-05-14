@@ -1,4 +1,4 @@
-#!/usr/bin/env deno run --allow-read --allow-write
+#!/usr/bin/env deno run --allow-read --allow-write --allow-env
 // This generates the website which displays all of the notes.
 
 import { micromark } from "npm:micromark";
@@ -6,6 +6,7 @@ import { gfm, gfmHtml } from "npm:micromark-extension-gfm";
 import * as path from "@std/path";
 import * as fs from "@std/fs";
 import * as mustache from "https://deno.land/x/mustache@v0.3.0/mod.ts";
+import { abort, desc, run, task } from "https://deno.land/x/drake@v1.5.1/mod.ts";
 
 const buildDir = "dist";
 
@@ -31,8 +32,6 @@ function slug(filename) {
     .replaceAll(" ", "-")
     .replace(".md", ".html");
 }
-
-const files = ["lifestyle/what is culture for - school of life.md"];
 
 async function processPages(files) {
   if (!(await fs.exists(buildDir))) {
@@ -105,5 +104,13 @@ async function createIndex(files) {
   await Deno.writeTextFile(path.join(buildDir, "index.html"), htmlStr);
 }
 
-// await processPages(files);
-await createIndex(files);
+desc("Create the website");
+task("website", [], async () => {
+  // TODO(philc): For now, these are hard-coded. Once I've reviewed all of the notes, just list all
+  // files in each category.
+  const files = ["lifestyle/what is culture for - school of life.md"];
+  await processPages(files);
+  await createIndex(files);
+});
+
+run();
