@@ -2,7 +2,7 @@
 
 ## Gems
 
-* Changing elements -- e.g. the players on the team -- usually has the least effect on the systems'
+* Changing elements -- e.g. the players on the team -- usually has the least effect on the system's
   behavior. Changing interconnections, and function, usually have much larger effects.
 * The delay in changing stocks is why it takes so long for a business to gain traction. The stocks
   of employees, customers, and word of mouth accumulate slowly.
@@ -14,14 +14,14 @@
   underlying system structure. And structure is the key to understanding not just *what* is
   happening, but *why*."
 * "Starting with history discourages the common and distracting tendency we all have to define a
-  problem not by the systems' actual behavior, but by the lack of our favorite solution."
+  problem not by the system's actual behavior, but by the lack of our favorite solution."
 * "Expose your mental models to the light of day"
   * By writing them down and discussing them. This helps improve the model to be more consistent and
     rigorous. Mental models alone are slippery.
 
 ## Introduction
 
-* Argues these problems are the symptoms of "messes". Messes result from the inherent structure of
+* Argues these problems are the symptoms of "messes." Messes result from the inherent structure of
   complex systems:
   * "Hunger, poverty, environmental degradation, economic instability, unemployment... no one
     deliberately creates those problems, no one wants them to persist, but they persist
@@ -29,8 +29,8 @@
 * "Words and sentences must, by necessity, come only one at a time in linear, logical order. Systems
   happen all at once. They are connected not just in one direction, but in many directions
   simultaneously."
-  * (so pictures and graphs must be used. This book has many systems diagrams, which look like UML
-    diagrams).
+  * So pictures and graphs must be used. (This book has many systems diagrams, which look like UML
+    diagrams.)
 * Systems theory is a complementary lens to the observant human eye, and the detail-revealing
   microscope. It's not a superior lens. "The more ways of seeing, the better."
 
@@ -42,7 +42,7 @@
 * Idiom: "function" is used for nonhuman systems, "purpose" for human systems.
 * "Systems can be nested within systems. Therefore, there can be purposes within purposes."
   * E.g. "the university", which is composed of each population / stakeholder group within it.
-* Changing elements -- e.g. the players on the team -- usually has the least effect on the systems'
+* Changing elements -- e.g. the players on the team -- usually has the least effect on the system's
   behavior. Changing interconnections, and function, usually have much larger effects.
 * Stocks: foundation of a system. These are elements that are a store, a measurable quantity. The
   quantities need not be physical; "accumulated goodwill" is a stock.
@@ -72,7 +72,7 @@
     * "It generates more input to a stock the more that is already there (and less input the less
       that is already there). A reinforcing feedback loop enhances whatever direction of change is
       imposed on it."
-    * Self-reinforcing: stocks with exponential growth properties. They can increase a constant
+    * Self-reinforcing: stocks with exponential growth properties. They can increase at a constant
       percentage of their own value, so absolute change in value keeps growing with time. Population
       growth, for example.
 * Doubling time: the time it takes for an exponentially growing stock to double in size is 70 /
@@ -88,7 +88,7 @@
   loss to the outside.
 * "A stock with one reinforcing loop and one balancing loop: population and industrial economy"
   * One loop in the system may be stronger / dominant. Which loop is stronger may change with time
-    ("shifting dominance"), as fertility and mortality rates do in population.
+    ("shifting dominance"), as fertility and mortality rates do in population systems.
   * In a population system, the population stock stabilizes when fertility equals mortality, and the
     system reaches an equilibrium.
   * The investment -> capital stock -> depreciation system has similar structure as a population
@@ -154,9 +154,9 @@
     and feedback) and behavior (time graphs)."
 * Interesting case study of budworm outbreaks, which consume fir trees. Outbreaks happen
   periodically because the system slowly oscillates between less fir trees and more, based on how
-  long since last outbreak. Once fir trees hit a critical mass, there's a non-linearity: worm larvae
-  multiply faster than natural predators can grow to consume them, and their population explodes,
-  until they eat and reduce the fir tree population.
+  long since the last outbreak. Once fir trees hit a critical mass, there's a non-linearity: worm
+  larvae multiply faster than natural predators can grow to consume them, and their population
+  explodes, until they eat and reduce the fir tree population.
   * This is a "system with unintuitive nonlinearities."
 * A system may be constrained by any number of input factors.
   * "Rich countries transfer capital or technology to poor ones and wonder why the economies of the
@@ -233,7 +233,7 @@
     the means to compete even more effectively in the future. That's a reinforcing feedback loop,
     which rapidly divides a system into winners who go on winning, and losers who go on losing."
   * Mature markets do not seem to support large numbers of firms. Whichever firm gets an edge
-    reinvests that to grow the edge.
+    reinvests that to grow their edge.
   * "In every market economy, we see long-term trends of declining numbers of farms, while the size
     of farms increases."
   * Self-perpetuating wealth gap: children of poor parents get worse education and fewer
@@ -299,7 +299,7 @@
     * "Physical structure is crucial in a system, but is rarely a leverage point, because changing
       it is rarely quick or simple. The leverage point is in proper design in the first place. After
       the structure is built, the leverage is in understanding its limitations and bottlenecks."
-  * Delays - the lengths of time relative to the rates of system changes
+  * Delays: the lengths of time relative to the rates of system changes
     * Delays can be in the observable state of a stock, or our response to it. Delays cause
       oscillations around the goal.
     * This is a low-leverage lever because delays are not usually changeable. "Things take as long
@@ -307,7 +307,7 @@
     * "It's usually easier to slow down the change rate, so that inevitable feedback delays won't
       cause so much trouble. That's why growth rates are higher up on the leverage point list than
       delay times."
-  * Balancing feedback loops - the strength of the feedback relative to the impacts they are trying
+  * Balancing feedback loops: the strength of the feedback relative to the impacts they are trying
     to correct
     * E.g. the quickness and power of the response in a thermostat system.
   * Reinforcing feedback loops: the strength of the gain of driving loops
@@ -319,24 +319,24 @@
     * "Look for leverage points around birth rates, interest rates, erosion rates, 'success to the
       successful' loops, any place where the more you have of something, the more you have the
       possibility of having more."
-  * Information flows - the structure of who does and does not have access to information
+  * Information flows: the structure of who does and does not have access to information
     * "Missing information flows is one of the most common causes of system malfunction. Adding or
       restoring information can be a powerful intervention, usually much easier and cheaper than
       rebuilding physical infrastructure."
     * Adding an information flow adds a new loop to the system.
-  * Rules - incentives, punishments, constraints
+  * Rules: incentives, punishments, constraints
     * "If you want to understand the deepest malfunctions of systems, pay attention to the rules and
       to who has power over them."
-  * Self-organization -- the power to add, change, or evolve system structure
+  * Self-organization: the power to add, change, or evolve system structure
     * "One aspect of almost every culture is the belief in the utter superiority of that culture.
       Insistence on a single culture shuts down learning and cuts back resilience."
-  * Goals -- the purpose or function of the system
+  * Goals: the purpose or function of the system
     * "Changing the players in the system is a low-level intervention, as long as the players fit
       into the same old system. The exception to that rule is at the top, where a single player can
       have the power to change the system's goal."
     * Changing the goal of a system is a powerful lever; all stocks and flows will contort to align
       with it.
-  * Paradigms -- the mindset out of which the system -- its goals, structure, rules, delays,
+  * Paradigms: the mindset out of which the system -- its goals, structure, rules, delays,
     parameters -- arises
     * "So how do you change paradigms? Thomas Kuhn, who wrote the seminal book about the great
       paradigm shifts of science, has a lot to say about that. You keep pointing at the anomalies
@@ -359,16 +359,16 @@
 * "Social systems are the external manifestations of cultural thinking patterns and of profound
   human needs, emotions, strengths, and weaknesses. Changing them is not as simple as saying 'now
   all change,' or of trusting that he who knows the good shall do the good."
-* Says all all serious systems thinkers learn that they can't fully understand large nonlinear
-  systems: variance in behavior is high, there's irreducible complexity. You can only learn from
-  systems, and try redesigning them.
+* All serious systems thinkers learn that they can't fully understand large nonlinear systems:
+  variance in behavior is high, there's irreducible complexity. You can only learn from systems, and
+  try redesigning them.
 * "Get the beat of the system." Review the time series data it has generated, and watch it live.
   * Watch how it behaves: "this guideline is deceptively simple. Until you make it a practice, you
     won't believe how many wrong turns it helps you avoid. Starting with the behavior of the system
     forces you to focus on facts, not theories."
 * "Starting with history discourages the common and distracting tendency we all have to define a
   problem not by the systems' actual behavior, but by the lack of our favorite solution."
-  * (Yes; this an easy error to make when looking how to apply technology.)
+  * (Yes; this an easy error to make when looking how to apply technology to a domain.)
 * "Expose your mental models to the light of day"
   * By writing them down and discussing them. This helps improve the model to be more consistent and
     rigorous. Mental models alone are slippery.
