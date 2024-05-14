@@ -1,4 +1,4 @@
-#!/usr/bin/env deno run --allow-read --allow-write --allow-env
+#!/usr/bin/env deno run --allow-read --allow-write --allow-env --allow-run
 // This generates the website which displays all of the notes.
 
 import { micromark } from "npm:micromark";
@@ -6,7 +6,7 @@ import { gfm, gfmHtml } from "npm:micromark-extension-gfm";
 import * as path from "@std/path";
 import * as fs from "@std/fs";
 import * as mustache from "https://deno.land/x/mustache@v0.3.0/mod.ts";
-import { abort, desc, run, task } from "https://deno.land/x/drake@v1.5.1/mod.ts";
+import { abort, desc, run, shCapture, task } from "https://deno.land/x/drake@v1.7.0/mod.ts";
 
 const buildDir = "dist";
 
@@ -114,6 +114,28 @@ task("website", [], async () => {
   ];
   await processPages(files);
   await createIndex(files);
+});
+
+desc("Publish to GitHub Pages");
+task("gh-pages", ["website"], async () => {
+  let result = await shCapture("git status --porcelain");
+  if (result.output.trim().length > 0) {
+    throw new Error("There are unstaged changes or untracked files in the repo.");
+  }
+  result = await shCapture("git checkout gh-pages");
+  if (result.code != 0) throw new Error("Command failed.");
+  result = await shCapture("rm -f docs/*");
+  if (result.code != 0) throw new Error("Command failed.");
+  result = await shCapture("cp dist/* docs/");
+  if (result.code != 0) throw new Error("Command failed.");
+  result = await shCapture("git add docs");
+  if (result.code != 0) throw new Error("Command failed.");
+  result = await shCapture("git commit -a -m 'Update website'");
+  if (result.code != 0) throw new Error("Command failed.");
+  result = await shCapture("git push");
+  if (result.code != 0) throw new Error("Command failed.");
+  result = await shCapture("git checkout master");
+  if (result.code != 0) throw new Error("Command failed.");
 });
 
 run();
