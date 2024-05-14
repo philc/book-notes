@@ -51,7 +51,7 @@ async function processPages(files) {
     await Deno.writeTextFile(dest, html);
   }
 
-  const resources = ["github.svg"];
+  const resources = ["styles.css", "github.svg"];
   for (const file of resources) {
     await Deno.copyFile(path.join("website", file), path.join(buildDir, file));
   }
@@ -108,7 +108,10 @@ desc("Create the website");
 task("website", [], async () => {
   // TODO(philc): For now, these are hard-coded. Once I've reviewed all of the notes, just list all
   // files in each category.
-  const files = ["lifestyle/what is culture for - school of life.md"];
+  const files = [
+    "engineering/shape up - ryan singer.md",
+    "lifestyle/what is culture for - school of life.md",
+  ];
   await processPages(files);
   await createIndex(files);
 });

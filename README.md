@@ -15,6 +15,10 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 * Sentences in parentheses are my personal comments.
 * Some books have a "gems" section at the top which contains the parts that I most want to remember.
 
+## Engineering
+
+[Shape Up - Ryan Singer](http://notes.philcrosby.com/shape-up-ryan-singer.html)
+
 ## Lifestyle
 
-[What is Culture For - School of Life ](http://notes.philcrosby.com/what-is-culture-for-school-of-life.html)
+[What is Culture For - School of Life](http://notes.philcrosby.com/what-is-culture-for-school-of-life.html)
