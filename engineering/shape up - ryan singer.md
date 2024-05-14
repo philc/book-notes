@@ -2,7 +2,7 @@
 
 ## Gems
 
-* When shaping, flesh out the risks and the likely implementation rabbit holes
+* When shaping, flesh out the risks and the likely implementation rabbit holes.
   * "Once we think we have a solution, we take a hard look at it to find holes or unanswered
     questions that could trip up the team. We amend the solution, cut things out of it, or specify
     details at certain tricky spots to prevent the team from getting stuck or wasting time."
@@ -45,7 +45,7 @@
   success? Which customers are affected? What is the cost of doing this instead of something else?"
 * Shaping is a closed-door, creative process.
 * There are two tracks here: one for shaping, one for building.
-* When shaping, flesh out the risks and the likely implementation rabbit holes
+* When shaping, flesh out the risks and the likely implementation rabbit holes.
   * "Once we think we have a solution, we take a hard look at it to find holes or unanswered
     questions that could trip up the team. We amend the solution, cut things out of it, or specify
     details at certain tricky spots to prevent the team from getting stuck or wasting time."
@@ -55,16 +55,17 @@
 * The appetite: the time budget for this idea.
 * There's two appetite sizes:
   * Small batch: a project that can be built in 1-2 weeks by a team of one designer and 1-2
-    programmers. We batch a few of these together into a six week cycle.
+    programmers. A few of these are batched together into a six week cycle.
   * Big batch: the project can be built in six weeks by the same size team.
 * Fixed time, variable scope
   * "An appetite is completely different from an estimate. Estimates start with a design and end
     with a number. Appetites start with a number and end with a design."
   * Set a time box and maximize what you can do within it.
-  * (Isn't the use of "appetite" backwards for some types of work? If the descoped solution doesn't
-    hit the business objectives, then its value may be zero, and thus so will be its appetite).
   * Also cap the shaping/research investment: "if it's not critical now and we can't get our hands
     around the problem, we'll walk away from it and work on something else."
+  * (Isn't the idea of an "appetite" backwards for some types of work? If the descoped solution
+    doesn't hit the business objectives, then its value may be zero, and thus so will be its
+    appetite).
 
 ## Find the elements (chap 3)
 
@@ -92,10 +93,9 @@
 * "Instead of asking 'is it possible to do X?' ask 'is it possible to do x in 6 weeks?' That's a
   very different question."
 * Tactically, keep the clay wet by discussing at a whiteboard, not over a fleshed out doc or deck.
-* The pitch
-  * "The pitch will be a document that we use to lobby for resources, collect wider feedback if
-    necessary, or simply capture the idea for when the time is more ripe in the future."
-  * The pitch then gets presented to the betting table.
+* The Pitch is "a document that we use to lobby for resources, collect wider feedback if necessary,
+  or simply capture the idea for when the time is more ripe in the future." It then gets presented
+  to the betting table.
 
 ## Write the pitch (chap 5)
 
@@ -104,14 +104,14 @@
   * Appetite: how much time we want to spend and how that constrains the solution
   * Solution
   * Rabbit holes: details to avoid
-  * No-gos: anything specifically excluded from the concept.
+  * No-gos: anything specifically excluded from the concept
 * A pitch needs a solution. "A problem without a solution is unshaped work. Giving it to a team
   means pushing research and exploration down to the wrong level, where the skillsets, time limit,
   and risk profile (thin vs. heavy tailed) are all misaligned."
 * Help the team see it: you need to provide enough visual detail to help sell the concept to the
   betting team.
-* Presenting a pitch
-  * Review and comment on the pitch doc asynchronously. Then debate it live at the betting table.
+* Presenting a pitch: review and comment on the pitch doc asynchronously; then debate it live at the
+  betting table.
 
 ## Bets, not backlogs (chap 6)
 
@@ -123,7 +123,8 @@
   * "Backlogs are time wasters. The time spent constantly reviewing, grooming and organizing old
     ideas prevents everyone from moving forward on the timely projects that really matter right
     now."
-* At six week boundaries, host a "betting table". Dispassionate review of where to place your chips.
+* At six week boundaries, host a "betting table". It's a dispassionate review of where to place your
+  chips.
   * "At the betting table, they look at pitches from the last six weeks -- or any pitches that
     somebody purposefully revived and lobbied for again. Nothing else is on the table."
     * Each option on the betting table is well-shaped and risk-reduced.
@@ -143,7 +144,7 @@
 ## The betting table (chap 7)
 
 * Six week cycles
-  * Working in cycles simplifies the resources availability constraints. Everyone frees up at once.
+  * Working in cycles simplifies the resource availability constraints. Everyone frees up at once.
   * "A cycle gives us a standard project size both for shaping and scheduling."
   * Says two week sprints are too little for shipping big things and there's too much planning
     overhead.
@@ -154,9 +155,9 @@
       Bugs, POCs, mocks.
     * "After working hard to ship their six week projects, they enjoy having time that's under their
       control."
-  * (I wonder if the cooldown period becomes the quality work overflow, where engineers go back and
-    fix the corners that were cut? Is that a bad thing? It seems refreshing to have specific time to
-    do this type of work earmarked. Maintains less debt, as a rule.)
+  * (I wonder if the cool down period becomes the overflow for "quality work", where engineers go
+    back and fix the corners that were cut? Is that a bad thing? It seems refreshing to have
+    specific time to do this type of work earmarked.)
 * Standardized team sizes
   * Each team is 1 designer and 1-2 engineers.
   * "Big batch" teams spend 6 weeks on a project.
@@ -235,8 +236,8 @@
     will) an are mostly handled by other teams. We'll often take care of those updates and publish
     an announcement about the new feature during cool-down after a cycle."
 * Getting oriented: the first few days of a cycle are reviewing the current system and finding the
-  best entry point. (Why don't they do this technical design before the cycle starts, to further
-  derisk the cycle?)
+  best entry point.
+  * (Why don't they do this technical design before the cycle starts, to further derisk the cycle?)
 * Argues that you can't do sufficiently good task breakdowns until you start implementing. Then you
   discover all kinds of work.
 
@@ -264,8 +265,8 @@
   * "Scope mapping isn't planning. You need to walk the territory before you can draw the map."
   * "The scopes need to be discovered by doing the real work and seeing how things connect and don't
     connect."
-    * You can't see the interdependencies during the planning phase. You see them after week one or
-      two.
+  * You can't see the interdependencies during the planning phase. You see them after week one or
+    two.
 * A poorly defined scope is one which has a name that is not unique to the project. E.g. "front-end
   work", "bugs". They're grab bags.
 
@@ -278,8 +279,8 @@
   * "The uphill phase is full of uncertainty, unknowns, and problem solving. The downhill phase is
     marked by certainty, confidence, seeing everything, and knowing what to do."
 * At Basecamp they project status by plotting each scope on a "hill diagram", to convey which part
--- eliminating uncertainty, or execution -- a scope is in. This is easy for the cycle team to do,
-and doesn't rely on fleshed out TODO lists or estimates.
+  -- eliminating uncertainty, or execution -- a scope is in. This is easy for the cycle team to do,
+  and doesn't rely on fleshed out TODO lists or estimates.
 * Comparing hill charts over time to see which scopes the team is focusing on, and what's gotten
   stuck, is a powerful view.
 * Management should step in and troubleshoot or rework the project when a scope is getting stuck in
@@ -315,5 +316,5 @@ and doesn't rely on fleshed out TODO lists or estimates.
 
 ## Move on (chap 15)
 
-* Feedback needs to be shaped
-  * Don't immediately act on feedback from customers about a newly-launched feature.
+* Feedback needs to be shaped: don't immediately act on feedback from customers about a
+  newly-launched feature.
