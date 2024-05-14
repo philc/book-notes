@@ -46,9 +46,7 @@
   * Distribution network density
   * Learning economies: if learning leads to a product benefit, and it's positively correlated with
     production levels, then a scale advantage accrues to the leader.
-    * (Liftoff had this data advantage against smaller DSPs, although the data advantage has
-      diminishing returns with scale.)
-    * Google Search has this.
+    * (Google Search has this.)
   * Purchasing economies: when a large buyer can command lower prices, e.g. Wal-Mart.
 
 ## Network Economies (chap 2)
@@ -169,10 +167,6 @@
   secret or non-replicable R&D process.
 * Pixar had celebrity talent: the only team that could produce animated films at that quality. They
   didn't defect, because they were making history.
-  * (The use the Pixar brain trust as an example of an exclusive, cornered resource. This sounds
-    like what we had with the early Liftoff team. The team was potent and non-replicable, and
-    differentiated talent within the ad tech space, given ad tech had a dearth of strong talent
-    outside of Big Tech).
 * Benefit: the resource produces an uncommonly appealing product.
 * Barrier: fiat -- the resource is cornered via decree, either general or personal ("personal"
   meaning that the celebrity talent has chosen to exclusively work with the firm for some reason).

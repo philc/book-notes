@@ -1172,7 +1172,7 @@
     shape."
     * (I feel this way about some of my projects.)
   * "You're much more likely to have original ideas when you're working on something. Original ideas
-    don't come from trying to have original ideas. They coem from trying to build or understand
+    don't come from trying to have original ideas. They come from trying to build or understand
     something slightly too difficult."
   * "Ideas that are the right kind of crazy tend to be exciting; they're rich in implications;
     whereas ideas that are merely bad tend to be depressing." (fun)
@@ -1181,7 +1181,7 @@
     * "So if you're interested in a field that others think is tapped out, don't let their skepticism
       deter you. People are often wrong about this."
     * (This was the case when I started Liftoff in 2012. Every investor we spoke to said mobile
-      performance marketing was "figured out" and we were too late."
+      performance marketing was "figured out" and we were too late.)
   * PG recommends to indulge yourself on what might seem to be interested, but unimportant,
     problems. People tend to be too conservative in their assessment of what might be important.
   * "People think big ideas are answers, but often the real insight was in the question."
@@ -1194,7 +1194,7 @@
     * On overcoming the passivity that's inherent in the design of modern schools
       * "If you're still in school, try thinking of your education as your project, and your teachers as
         working for you rather than vice versa."
-      * "They'd prefer it if you pushed ahead, using them as as ource of advice, rather than being
+      * "They'd prefer it if you pushed ahead, using them as a source of advice, rather than being
         pulled by them through the material."
     * Getting ahead in school by hacking the test does not help with your progress outside of
       school.

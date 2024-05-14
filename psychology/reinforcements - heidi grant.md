@@ -79,7 +79,6 @@
       about yourself.
   * As a help-giver, frame the inbound request such that you can give an "enthusiastic yes!". You will feel
     better about the whole situation.
-    * (I did this once with Alon while at Liftoff and I felt better about it).
   * Help-givers need to feel autonomy. It gives you energy.
     * Like they chose to help, rather than they had to.
     * Tasks for which you are intrinsically motivated replenish your energy rather than deplete it. It's
