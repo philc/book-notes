@@ -118,24 +118,26 @@ task("website", [], async () => {
 
 desc("Publish to GitHub Pages");
 task("gh-pages", ["website"], async () => {
-  let result = await shCapture("git status --porcelain");
+  const ensure = async (command) => {
+    const result = await shCapture(command);
+    if (result.code != 0) {
+      throw new Error("Command failed: " + command);
+    }
+    return result;
+  };
+
+  let result = await ensure("git status --porcelain");
   if (result.output.trim().length > 0) {
     throw new Error("There are unstaged changes or untracked files in the repo.");
   }
-  result = await shCapture("git checkout gh-pages");
-  if (result.code != 0) throw new Error("Command failed.");
-  result = await shCapture("rm -f docs/*");
-  if (result.code != 0) throw new Error("Command failed.");
-  result = await shCapture("cp dist/* docs/");
-  if (result.code != 0) throw new Error("Command failed.");
-  result = await shCapture("git add docs");
-  if (result.code != 0) throw new Error("Command failed.");
-  result = await shCapture("git commit -a -m 'Update website'");
-  if (result.code != 0) throw new Error("Command failed.");
-  result = await shCapture("git push");
-  if (result.code != 0) throw new Error("Command failed.");
-  result = await shCapture("git checkout master");
-  if (result.code != 0) throw new Error("Command failed.");
+
+  await ensure("git checkout gh-pages");
+  await ensure("rm -f docs/*");
+  await ensure("cp dist/* docs/");
+  await ensure("git add docs");
+  await ensure("git commit -a -m 'Update website'");
+  await ensure("git push");
+  await ensure("git checkout master");
 });
 
 run();
