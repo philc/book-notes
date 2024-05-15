@@ -15,9 +15,14 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 * Sentences in parentheses are my personal comments.
 * Some books have a "gems" section at the top which contains the parts that I most want to remember.
 
+## Business
+
+[Powerful - Patty McCord](http://notes.philcrosby.com/powerful-patty-mccord.html)<br>
+[Radical Candor - Kim Scott](http://notes.philcrosby.com/radical-candor-kim-scott.html)<br>
+
 ## Engineering
 
-[Shape Up - Ryan Singer](http://notes.philcrosby.com/shape-up-ryan-singer.html)<br/>
+[Shape Up - Ryan Singer](http://notes.philcrosby.com/shape-up-ryan-singer.html)<br>
 [Thinking in Systems - Donella Meadows](http://notes.philcrosby.com/thinking-in-systems-donella-meadows.html)
 
 ## Lifestyle
