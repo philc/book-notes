@@ -1,4 +1,4 @@
-# Slack - Tom Demarco
+# Slack - Tom DeMarco
 
 ## Gems
 
@@ -26,14 +26,14 @@
 ## Prelude
 
 * The efficiency-flexibility quandary: the more efficient you get, the harder it is to change.
-* Resources availability implies some inefficiency.
+* Resource availability implies some inefficiency.
 * You increase efficiency by eliminating slack in the system. But slack is required for change.
 
 ## Madmen in the halls (chap 1)
 
 * The social convention for the effectiveness of someone is busyness -- "utilization". Think of
   Hollywood's standard depiction of a successful company: every employee is running around and "on
-  it".
+  it."
 * Flattening the hierarchy and removing middle management for efficiency wins are rewarded in the
   short-term by the stock market.
 * In cutting middle management, we cut the capacity to change.
@@ -73,8 +73,8 @@
 * So, restructuring which increases fragmentation of work for each worker carries a large
   productivity penalty.
 * Author estimates ("in his experience") that no less than 15% loss in productivity (6hrs/week)
-  having a person do two jobs versus one (i.e. cover two bases, or work with two teams). The penalty
-  increases with many jobs.
+  occurs from having a person do two jobs versus one (i.e. cover two bases, or work with two teams).
+  The penalty increases with many jobs.
 
 ## Managing Eve (chap 5)
 
@@ -266,12 +266,12 @@
 * It's a tool for incremental changes along the current direction.
 * "MBO is always based on stasis, the organization's present steady state. MBO sends the message 'Do
   everything the same as last year, only this year do more of X.'"
-  * I.e. it assumes the current direction is correct, and that we should travel faster.
+  * I.e. it assumes the current direction is correct, and that we should just travel faster.
 * "Stasis plus just a bit of tinkering with the particulars is hardly a recipe for success in the
   new economy."
 * Rather than a company being a vehicle of "production", which implies an ongoing steady-state, "the
   new central organizing principal is the project. A company in this kind of flux can be viewed as a
-  portfolio of projects. Each project seeks to effect some change", and there is no longer a
+  portfolio of projects. Each project seeks to effect some change, and there is no longer a
   long-running status quo.
 
 ## Vision (chap 19)
@@ -301,7 +301,7 @@
 
 ## Trust and trustworthiness (chap 23)
 
-* Effective leaders quickly acquire trust is by giving it
+* Effective leaders quickly acquire trust by giving it
   * "The giving of trust is an enormously powerful gesture. The recipient gives back loyalty as an
     almost autonomous response."
   * Good leaders "give responsibility well before it's been completely earned. They know when to
@@ -319,8 +319,8 @@
 
 ## What middle management is there for (chap 25)
 
-* Argues middle managers are the change agents -- the implementers of reinvention. If they get
-  trimmed for the sake of efficiency, they org will find it much harder to execute change.
+* Middle managers are the change agents -- the implementers of reinvention. If they get trimmed for
+  the sake of efficiency, the org will find it much harder to execute change.
 * Companies "have hurt themselves by encouraging their middle managers to stay extremely busy. In
   order to enable change, companies have to learn that keeping managers busy is a blunder."
   * They need slack for non-routine or unplanned work; reinvention.
