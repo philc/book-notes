@@ -136,8 +136,11 @@ task("gh-pages", ["website"], async () => {
   }
 
   await ensure("git checkout gh-pages");
+  // Preserve the CNAME file that allows this page to be hosted on a custom subdomain.
+  await ensure("mv docs/CNAME ./")
   await ensure("rm -f docs/*");
   await ensure("cp dist/* docs/");
+  await ensure("mv CNAME docs/")
   await ensure("git add docs");
   await ensure("git commit -a -m 'Update website'");
   await ensure("git push");
