@@ -109,6 +109,7 @@ task("website", [], async () => {
   // TODO(philc): For now, these are hard-coded. Once I've reviewed all of the notes, just list all
   // files in each category.
   const files = [
+    "business/powerful - patty mccord.md",
     "engineering/shape up - ryan singer.md",
     "engineering/thinking in systems - donella meadows.md",
     "lifestyle/what is culture for - school of life.md",

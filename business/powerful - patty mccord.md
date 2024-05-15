@@ -1,43 +1,47 @@
+# Powerful - Patty McCord
+
 ## General notes
 
+* (I took these loose notes from the audio book, so some of the material may not be under the
+  correct chapter heading).
 * The feeling Netflix wanted was for people to come to work not despite the challenges due to
-  change, but because of them. They wanted to feel like work was exhilarating. And they try to
-  thread the needle between challenging versus hair-raising.
+  change, but because of them. They wanted work to feel like it was exhilarating. Netflix management
+  tried to thread the needle between challenging versus hair-raising.
 * People are motivated when they perceive they're part of a "dream team" and are facing intense
   challenges. Those are the ultimate motivators.
 * "If you want to build a ship, don't drum up the people to gather wood, divide the work, and give
-  orders. Instead, teach them to yearn for the vast and endless sea." The Little Prince.
+  orders. Instead, teach them to yearn for the vast and endless sea." - The Little Prince.
 
-## Treat people like adults (Chapter 1)
+## Treat people like adults (chap 1)
 
 * Great teams are forged when the problem is hard and they have to dig deep. The best teams are made
   when the startup is running out of venture funding and it must pivot to a new great idea or die.
-* Do you want people to think "God, this is hard; I'm so excited to be doing this. Because it's
-  making a difference in the world."
-* She learned in her experience prior to Netflix that bigger teams and more structure to support
+* You want people to think "God, this is hard; I'm so excited to be doing this. Because it's making
+  a difference in the world."
+* Patty learned in her experience prior to Netflix that bigger teams and more structure to support
   those teams doesn't get you a better outcome. The smaller, well-coordinated team has the great
   advantages of speed and flexibility. It's hard to turn a big ship. A big team can't grow and
   change in response to changing market dynamics.
 * "It's a misconception that more people make better stuff." Instead, focus on discipline and lean
   process.
-* After firing 40% of their staff:
+* After having to fire 40% of their staff:
   * Everyone was working harder but having more fun. It was because only top performers were left.
   * Also, they now had smaller, more nimble teams.
 * It's hard work to manage large numbers of people.
 * So, with this in mind, they just started cutting things out of their process and their teams to
-  see if they could keep getting productivity and happiness by doing so.
+  see if they could keep getting improved productivity and happiness by doing so.
 * Abolishing yearly planning
-  * For instance: they realized that their yearly plan was always off. It was false precision to
-    think that they could make yearly headcount plans. So, they stopped doing them. They switched to
-    only doing quarterly plans at that time, because that's the level of planning that was useful.
-    Everything else was just wasted effort.
-  * We didn't do any more yearly roadmap planning or yearly revenue projections because we were
-    wrong all the time. We were making it up. So we switched to quarterly.
-  * Experimented with everything I could think of to get rid of unnecessary rules and constraints on
-    teams. Once I got rid of all expense tracking and budgets and said "just use your judgment;
-    spend the company's money wisely." And it was fine.
+  * They realized that their yearly plan was always off. It was false precision to think that they
+    could make yearly headcount plans. So, they stopped doing them. They switched to only doing
+    quarterly plans at that time, because that's the level of planning that was useful. Everything
+    else was just wasted effort.
+  * They didn't do any more yearly roadmap planning or yearly revenue projections because they were
+    wrong all the time. They were making it up. So they switched to quarterly.
+  * She experimented with everything she could think of to get rid of unnecessary rules and
+    constraints on teams. Once she got rid of all expense tracking and budgets and said "just use
+    your judgment; spend the company's money wisely." And it was fine.
 
-## Communicate the challenge; the job to be done (Chapter 2)
+## Communicate the challenge; the job to be done (chap 2)
 
 * When everyone is intimately up to speed on the business, controls and management are less
   necessary.
@@ -47,9 +51,9 @@
   departments, and the challenges they expect.
 * Show a business overview deck to every new employee who joins. They found that the business
   changed and the questions changed pretty quickly, so they had to update the deck every single
-  quarter. You have to be on top of this changing the message and evolving it all the time.
+  quarter. They had to be on top of changing the message and evolving it all the time.
 
-## Practice radical honesty (Chapter 3)
+## Practice radical honesty (chap 3)
 
 * What adults need from you most is honesty. They need to be able to feel like they are getting your
   true opinion.
@@ -69,17 +73,18 @@
 * Most people value getting a better view of themselves from the eyes of others if the feedback is
   not delivered in a hostile way.
 
-## Debate vigorously (Chapter 4)
+## Debate vigorously (chap 4)
 
 * She likes using the phrase "data informed", rather than "data driven". No key decision is made
   entirely in response to a data set. Every product decision they made which moved the needle
   required a huge amount of judgment applied.
-* They had a consumer science meeting. This sounds like a product review meeting or an experiment
-  review meeting. People would present the results and the data and the conclusions from all of the
-  consumer testing they had done that month. Heads of product and founders would attend. These
-  meetings required a lot of prep for the people presenting the data, but it helped ensure that
-  their level of rigor was high.
-* One important benefit of this meeting was that it helped us all realize that no one person could
+* Consumer science meeting
+  * (This sounds like a product review meeting or an experiment review meeting.)
+  * People would present the results and the data and the conclusions from all of the consumer
+    testing they had done that month. Heads of product and founders would attend. These meetings
+    required a lot of prep for the people presenting the data, but it helped ensure that the level
+    of rigor was high.
+* One important benefit of this meeting was that it helped them realize that no one person could
   intuit what customers wanted or needed based on their own judgment. The data always run counter to
   somebody's expectations.
 * When hosting debates about product issues, they favored small groups. Small group allows the
@@ -87,21 +92,22 @@
   it's a good way to mix together people from different functions so that everybody can learn about
   different viewpoints on the problem.
 
-## Focus on the future: hiring, promoting, managing teams (Chapter 5)
+## Focus on the future: hiring, promoting, managing teams (chap 5)
 
-* "A company is like a sports team, not a family".
+* "A company is like a sports team, not a family."
 * Their cultural model is that of a sports team. They want the very best team composition. As the
   business changes, the team composition must also change. And so they made it explicit that the
   goal of management was to put together the best team and that would mean sometimes, they must
   bring in people from outside, or let existing people people go, or have people change roles. Just
-  like a sports team; they're always scouting for new talent and shaping the best team given the
+  like a sports team: they're always scouting for new talent and shaping the best team given the
   talent they have.
-* Contrarian view: she thinks it's an outdated notion that managers have to also be career planners.
-  The only thing they do for their employees is make the best possible product, and the best
-  possible team to build that product. That's what gets everybody motivated and that's what's good
-  for the company and that will ensure that their careers are successful. Over-optimizing for career
-  planning leads to specially-crafted roles which don't make sense, or promoting people into
-  positions they're not qualified for.
+* Career planning
+  * Patty thinks it's an outdated notion that managers have to also be career planners. The only
+    thing they do for their employees is make the best possible product, and the best possible team
+    to build that product. That's what gets everybody motivated and that's what's good for the
+    company and that will ensure that their careers are successful. Over-optimizing for career
+    planning leads to specially-crafted roles which don't make sense, or promoting people into
+    positions they're not qualified for.
 * They would regularly encourage the employees to interview elsewhere just to get a survey of the
   opportunities and make sure that they thought that their current role of Netflix was the very best
   for them. If it wasn't, they wanted them to go elsewhere.
@@ -109,7 +115,7 @@
   roadmap for it, just like you would a product.
 * Good managers are constantly scouting for new talent and culling their current talent.
 * Don't be afraid to ask questions like: would you be better off by getting a more expensive person
-  on the team and reducing its size to account for that?
+  on the team and reducing the team's size to account for that?
 * If you're not good at hiring great people, you'll never feel comfortable letting good people go.
 * Good managers can let even good people go if their contributions are no longer the right fit for
   the team.
@@ -117,7 +123,7 @@
   that is to have malleable talent -- constantly bringing in the best talent and changing teams to
   maximize skill to task.
 
-## What motivates people? (Chapter 6?)
+## What motivates people? (chap 6)
 
 * She doesn't think it's related to perks at all. Nobody stays or quit the company because of perks.
   What makes for lasting engagement is a feeling of success that the company is doing something
@@ -135,12 +141,9 @@
 * They didn't feel like they were constrained by being able to make a good offer. They didn't have
   strict salary bands, or a strict bell curve distribution, where people get 6% raises each year.
   They're able to do what they needed to get a talent.
-* She didn't believe in bonus programs. The people are going to do something I'm gonna do it. And I
-  could be motivated by a bonus program. At least HAL at least given the types of people they were
-  hiring at Netflix, who are there for challenges.
-* Intense challenge is what generates motivation.
+* She didn't believe in bonus programs. Intense challenge is what generates motivation.
 
-## Performance reviews (Chapter 7?)
+## Performance reviews (chap 7, 8)
 
 * You must decouple the performance review process from compensation. The performance review process
   is not a good input into what somebody should be paid. It's ridiculously expensive and imprecise.
