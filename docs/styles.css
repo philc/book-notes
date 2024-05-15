@@ -91,6 +91,21 @@ footer {
 #index-page a#home, #index-page footer {
   display: none;
 }
+/* We move the github icon down to be next to the page title. This CSS is a bit fragile
+ * if the height of the h1 changes due to other style changegs. */
+#index-page nav {
+  position: absolute;
+  width: var(--width);
+  height: 80px; /* The empirical height of the h1 */
+  margin: 0 auto;
+  inset: 0; /* Center this absolutely positioned element. */
+  pointer-events: none; /* Disable pointer events because this now sits on top of the h1 */
+  top: var(--padding);
+}
+
+#index-page nav a#github {
+  pointer-events: auto;
+}
 
 @media (prefers-color-scheme: dark) {
   :root {
