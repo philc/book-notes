@@ -2,16 +2,28 @@
 
 ## Gems
 
-* "Roosevelt dashes": "Like Roosevelt at Harvard, attack the task with every free neuron until it
-  gives way under your unwavering barrage of concentration." Time challenge yourself on a task, so
-  that you must work with great intensity.
-* Be invincible to the temptation to context switch.
-  * When your mind wanders, return it. This is not only productive: it builds muscles of focus.
 * Deliberate practice: "Let your mind become a lens, thanks to the converging rays of attention; let
   your soul be all intent on whatever it is that is established in your mind as a dominant, wholly
   absorbing idea."
-* Cal, on being present for his kids after work: the lack of distraction in my life tones down that
-  background hum of nervous mental energy that seems to increasingly pervade people's daily lives.
+* Attention residue: "that quick email check introduces a new target for your attention. Even worse,
+  seeing messages that you cannot deal with at the moment, you'll be forced to turn back to the
+  primary task with a secondary task left unfinished."
+* Cal on being present for his kids after work: "the lack of distraction in my life tones down that
+  background hum of nervous mental energy that seems to increasingly pervade people's daily lives."
+* Human begins are at their best when immersed deeply in something challenging.
+  * "A wooden wheel is not noble, but its shaping can be. The same applies to knowledge work. You
+    don't need a rarified job; you need instead a rarified approach to your work." He argues that
+    most knowledge work can be cast as craftsmanship, in that you're applying high levels of skill.
+* "Email is a wonderful thing for people whose role in life is to be on top of things. But not for
+  me; my role is to be on the bottom of things." - Donald Knuth
+* In office spaces, "you should try to optimize each effort (depth and serendipity) separately, as
+  opposed to mixing them together into a sludge that impedes both goals."
+* Focus on an ambitious, specific goal and use that to motivate you to find deep work time.
+  * "If you want to win the war for attention, don't try to say 'no' to the trivial distractions you
+    find on the information smorgasbord; try to say 'yes' to the subject that arouses a terrifying
+    longing, and let the terrifying longing crowd out everything else."
+* All goals and all of life requires shallow work to maintain and operate. The goal should not be to
+  eliminate shallow work, but to tame it.
 
 ## Intro
 
@@ -30,8 +42,8 @@
 * Deep work is valuable today because 1) the information economy changes quickly, and evolving
   requires learning deep things; 2) broad distribution of products via the internet means it's easy
   for people to ignore mediocrity, and so you must differentiate your work.
-* Cal, on being present for his kids after work: the lack of distraction in my life tones down that
-  background hum of nervous mental energy that seems to increasingly pervade people's daily lives.
+* Cal on being present for his kids after work: "the lack of distraction in my life tones down that
+  background hum of nervous mental energy that seems to increasingly pervade people's daily lives."
 
 ## Deep work is valuable (chap 1)
 
@@ -46,7 +58,7 @@
 * Attention residue: "that quick email check introduces a new target for your attention. Even worse,
   seeing messages that you cannot deal with at the moment, you'll be forced to turn back to the
   primary task with a secondary task left unfinished."
-* Why is Jack Dorsey successful? His work cannot be deep.
+* Why is Jack Dorsey successful? As the CEO of two companies, his work cannot be deep.
   * "A good chief executive is essentially a hard-to-automate decision engine. They have built up a
     hard-won repository of experience and have honed and proved an instinct for their market.
     They're then presented inputs throughout the day in the form of emails and meetings that they
@@ -59,8 +71,8 @@
 * Open offices might create more opportunities for collaboration, but they do so at the cost of
   "massive distraction".
 * He argues that few companies seem to prioritize deep work. Communication and coordination is more
-  valued, at the expense of deep work. Maybe at a certain scale, that's the right tradeoff.
-  Eliminating duplicate work is more valuable than deep work.
+  valued, at the expense of deep work. Maybe at a certain scale, that's the right tradeoff:
+  eliminating duplicate work is more valuable than deep work.
 * The "metric black hole"
   * Some behaviors are very hard to measure in terms of impact and cost to the company. If it were
     easy, they would be quantified and eliminated. Email, meetings, impromptu distractions, open
@@ -112,27 +124,27 @@
 * It costs willpower to switch to and then maintain focus on hard work, so use habits and rituals
   like a "deep work by default" time and environment, so it's more automatic to engage in deep work,
   and so you're less vulnerable to willpower fatigue and shiny distractions.
-* Knuth's "monastic philosophy" to deep work
+* Donald Knuth's "monastic philosophy" to deep work
   * "I have been a happy man ever since January 1, 1990, when I no longer had an email address. I'd
     used email since about 1975, and it seems to me that 15 years of email is plenty for one
     lifetime. Email is a wonderful thing for people whose role in life is to be on top of things.
     But not for me; my role is to be on the bottom of things. What I do takes long hours of studying
-    and uninterruptible concentration.
+    and uninterruptible concentration."
   * His approach is a radical reduction of all non-core, shallow work. This only really applies if
     you are an individualized creator with a clear, narrow contribution, like an author or inventor.
 * Bimodal strategy of deep work scheduling: reserve deep work days, or monthly retreats, or entire
   seasons (like academics do in the summer). The rest of time is filled with operational work.
 * Rhythmic strategy of deep work scheduling: some time every day, like before you go to work. More
   habitual and compatible with most environments, but less deep, since you'll get 2 hour chunks at
-  most...
+  most.
   * Chappell, a doctoral candidate with a full time job and child: "he made a rule that he would
     wake up and start working by 530am every morning. He would then work until 730am, make
     breakfast, and go to work already done with his dissertation obligations for the day. Pleased by
     early progress, he soon pushed his wake-up time to 445am to squeeze out even more morning depth.
 * "Great creative minds think like artists but work like accountants." - David Brooks.
 * How to ritualize deep work:
-  * Predetermine where you'll work and for how long, so you can precommit. Like your office with a
-    clean desk; or a spot reserved only for deep work, like the library.
+  * Predetermine where you'll work and for how long, so you can precommit. Like in your office, with
+    a clean desk; or a spot reserved only for deep work, like the library.
   * Determine how you'll use your time
     * Have a pre-programmed agenda, or a metric you're trying to hit, like words per hour. And rules
       of conduct: no email; phone in do-not-disturb mode.
@@ -141,18 +153,17 @@
       sufficiently hard. These are unnecessary drains on your willpower reserves."
 * How you'll support your work: e.g. walking, coffee, clear desk, music
 * Making grand gestures
-  * A grand gesture is a big change in environment (like going to a new office; going on a work
-    vacation) or habit that makes it feel more special, and thus easier, to dedicate time to deep
-    work, and sustain the effort.
+  * A grand gesture is a big change in environment, like going to a new office or on a work
+    vacation, or a habit that makes it feel more special, and thus easier, to dedicate time to deep
+    work and sustain the effort.
     * JK Rowling finishing Deathly Hallows at a hotel in Edinburgh:
       * "Writing a chapter of a Harry Potter novel, for example, is hard work and will require a lot
         of mental energy -- regardless of where you do it. But when paying more than $1,000 a day to
         write the chapter in a suite of an old hotel down the street from a Hogwarts-style castle,
         mustering the energy to begin and sustain this work is easier than if you were instead in a
         distracting home office."
-    * Bill Gates' think weeks.
-    * Stripe's "hack from Sao Paulo"
-    * Lex moving to SF to do a boot camp, and putting himself on death ground.
+    * (Other examples: Bill Gates' think weeks; Stripe's founding "hack from Sao Paulo"; my friend
+      Lex moving to a new city to attend a coding boot camp.)
     * Building and using an external writing cabin on one's own property.
 * Office layout: should provide inspiration and serendipity, but also focus and privacy when
   working. The Hub and Spoke model achieves this. The spokes can be offices of small teams or pairs
@@ -162,7 +173,7 @@
     encounter and isolated deep thinking are supported. It's a setup that straddles a spectrum where
     on one extreme we find solo thinker, isolated from inspiration but free from distraction, and on
     the other extreme, we find the fully collaborative thinker in an open office, flush with
-    inspiration but struggling to support the deep thinking needed to build on it.
+    inspiration but struggling to support the deep thinking needed to build on it."
   * In office spaces, "you should try to optimize each effort (depth and serendipity) separately, as
     opposed to mixing them together into a sludge that impedes both goals."
 * Accountability: the presence of the other party waiting for your next insight -- be it someone
@@ -180,10 +191,7 @@
 * "I used to focus on lag measures of deep work, such as papers published per year. These measures,
   however, lacked influence on my day-to-day behavior because there was nothing I could do in the
   short term that could immediately generate a noticeable change to this long-term metric."
-  * Now he focuses on time spent in a state of deep work dedicated toward your wildly important
-    goal.
-  * Maybe at work, I should list my founder projects, and track how many hours I spend per day on
-    them. Could I achieve a target of 5h a day with my meeting and management load?
+  * Now he focuses on time spent in a state of deep work dedicated toward his wildly important goal.
 * "For teams, consider a scoreboard of a leading metric for the wildly important goal. It will drive
   them towards that goal and give them the focus, even when other demands vie for their attention."
 * Downtime helps recharge the energy (willpower) needed to work deeply
@@ -274,7 +282,7 @@
 * All goals and all of life requires shallow work to maintain and operate. The goal should not be to
   eliminate shallow work, but to tame it.
 * 4 day-a-week work policy during the summer (37Signals)
-  * Active May - Oct. "People should enjoy the weather in the summer."
+  * This is active May - Oct. "People should enjoy the weather in the summer."
   * People do their personal business on their day off.
   * "Fewer official working hours helps squeeze the fat out of the typical workweek. Once everyone
     has less time to get their stuff done, they respect that time even more. People become stingy
