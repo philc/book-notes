@@ -23,6 +23,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 
 ## Engineering
 
+[An Elegant Puzzle - Will Larson](http://notes.philcrosby.com/an-elegant-puzzle-will-larson.html)<br>
 [Shape Up - Ryan Singer](http://notes.philcrosby.com/shape-up-ryan-singer.html)<br>
 [Thinking in Systems - Donella Meadows](http://notes.philcrosby.com/thinking-in-systems-donella-meadows.html)
 
