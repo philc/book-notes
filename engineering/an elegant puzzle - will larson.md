@@ -2,25 +2,31 @@
 
 ## Gems
 
-* Each technical team is in one of four states, and there is a durable "system-fix" to implemented
-  for progressing to the next, more positive state. Identifying and implementing is the manager's
+* Each technical team is in one of four states, and there is a durable "system-fix" to progress to
+  the next, more positive state. Identifying and implementing the appropriate fix is the manager's
   job.
 * Growth plates vs. stable parts: different parts of the product or business can be in different
-  phases -- growing or stable. Execution is most valued in the growing parts -- just capture the
-  obvious growth. In contrast, new innovations and the ability to validate them are most valued in
-  the stable parts, because growth is harder.
+  phases: growing or stable. In the growing parts, execution is most valued; just capture the
+  obvious growth. In the stable parts, new innovations and the ability to validate them are most
+  valued, because growth there is harder.
+* Consider an "ownership registry" so questions can immediately go to the right person. Similar to
+  the solution of documenting "who's oncall?"
+* Work the policy, not the exceptions
+  * If everyone has to escalate to management to get optimal treatment, they will. Everything will
+    become an exception. This is very inefficient.
 
 ## Intro
 
 * "As I've become more experienced, my appreciation for management, and engineering management in
   particular, has grown, and I've come to view the field as a series of elegant, rewarding, and
-  important puzzles. This book is a collection of those puzzles." (Nice framing for this work).
+  important puzzles. This book is a collection of those puzzles."
+  * (Lovely framing for this work).
 
 ## Organizations (chap 2)
 
 * Sizing teams is the fundamental challenge of org design.
-* "Managers should support 6 to 8 engineers."
-* "Managers of managers should support four to six managers."
+* Managers should support 6 to 8 engineers.
+* Managers of managers should support 4 to 6 managers.
 * TLMs: typically manage 4 engineers. It has limited career growth, because to progress, they must
   either dedicate more time to management and become full time managers, or dedicate more time to IC
   work and lose or freeze their management load.
@@ -32,9 +38,10 @@
   * Rotations can be shared across teams, although most find being oncall for components they're
     unfamiliar with to be disproportionately stressful.
 * "Small teams (fewer than four) are not teams"
-  * He's regretted forming these teams. Lumpy delivery, fragile in the face of churn.
+  * Will has regretted forming these teams. Lumpy delivery, and fragile in the face of churn.
 * "Keep innovation and maintenance together"
-  * Avoids a two-class system. Difficult to execute.
+  * Avoids a two-class system.
+  * It's difficult to execute.
   * To create a new team, grow an existing team to 8-10, and then split into two teams of 4-5.
 * Four states of a team
   * Also described in this [short article](https://lethain.com/durably-excellent-teams/).
@@ -70,10 +77,10 @@
       easier to have rapid growth periods for any given team, followed by consolidation/gelling
       periods during which the team gels. The organization will never stop growing, but each team
       will."
-    * (Interesting; I've always thought counter: make the growth smooth, so the team has the
-      bandwidth to mentor, prepare enough scoped work for the new engineers, given them enough
-      mentoring attention, without severely disrupting the team's delivery, or the existing culture.
-      Maybe batch-onboarding works on larger teams (7+), whereas at Liftoff we've always had smaller
+    * (Interesting; I've always thought counter: make the growth smooth, so the team has enough
+      bandwidth to mentor, prepare scoped work for the new engineers, give them enough mentoring
+      attention, without severely disrupting the team's delivery or the team's existing culture.
+      Perhaps batch-onboarding works on larger teams (7+), whereas at Liftoff we've always had smaller
       teams of 3-4).
 * Should we disassemble a high-performing team to work on more pressing problems?
   * "Sustained productivity comes from high-performing teams, and disassembling a high-performing
@@ -110,14 +117,14 @@
       it sounds like he hasn't seen it actually work at scale.
 * Managing "organizational risk"
   * It's organization debt that most likely becomes abruptly due.
-  * He minimizes this risk by stabilizing team-by-team, and org by org, before moving on, which may
-    spread himself thin.
+  * Will minimizes this risk by stabilizing team-by-team, and org by org, before moving on, but this
+    may spread him thin.
 * Succession planning
   * After three years in a role, you're likely to switch. To do so successfully, document all of the
     gaps that would exist if you left, and fill them in. That will make the transition much easier.
-    * "This isn't a one-time tool, but rather a great exercise to run once a year to identify things
-      you could be delegating. This helps nurture an enduring organization, and also frees up time
-      for you to continue growing into a larger role."
+  * "This isn't a one-time tool, but rather a great exercise to run once a year to identify things
+    you could be delegating. This helps nurture an enduring organization, and also frees up time for
+    you to continue growing into a larger role."
 
 ## Tools (chap 3)
 
@@ -126,7 +133,7 @@
   * Stocks: quantities. The accumulation of events over time.
   * Flows: changes to stocks. They are rates. Inflows and outflows.
 * Skepticism of guiding engineers through the standard career ladder
-  * "Chasing the next promotion is at best a market on a mass-produced treasure map."
+  * "Chasing the next promotion is at best a mark on a mass-produced treasure map."
   * Instead, try to go somewhere that's disproportionately valuable to you. What skills does this
     person want? Identify their gaps and work on those skills.
 * His general outline for presenting to senior leadership
@@ -177,9 +184,9 @@
   * Growth plates: "Long bones have growth plates at their ends, which is where the growth happens;
     the middle of the bone doesn't grow."
   * Growth plates vs. stable parts: different parts of the product or business can be in different
-    phases -- growing or stable. Execution is most valued in the growing parts -- just capture the
-    obvious growth. In contrast, new innovations and the ability to validate them are most valued in
-    the stable parts, because growth is harder.
+    phases: growing or stable. In the growing parts, execution is most valued; just capture the
+    obvious growth. In the stable parts, new innovations and the ability to validate them are most
+    valued, because growth there is harder.
   * "The most confusing places to start are midsize, rapidly growing companies. That's because parts
     of the company are growing quickly, with an emphasis on execution, and other parts have largely
     stabilized, with ideas becoming the more valued currency." This might be a useful mental model
@@ -244,8 +251,8 @@
 * Give interviewers a sabbatical so they don't burn out on interviewing. E.g. 1 month of
   interviewing, then 1 month off. Batching.
 * Recruiting
-  * Recommends eng managers do 1hr a week of cold sourcing, to build empathy with the process and to
-    encourage hands on changes to the recruiting process.
+  * Recommends eng managers do one hour a week of cold sourcing, to build empathy with the process
+    and to encourage hands on changes to the recruiting process.
 * Career ladders
   * Advises being tolerant of career ladder proliferation. But only spend time refining a ladder
     with > 10 people on it.
