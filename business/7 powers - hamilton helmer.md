@@ -4,13 +4,13 @@
 
 * A strategy framework "prepares the mind" so that you can correctly make the crux decisions. It
   should be simple but not simplistic.
-* Statics: "being there." What makes Intel's microprocessor business so durably valuable?
-* Dynamics: "getting there." What developments yielded this attractive state of affairs at Intel in
-  the first place?
+* Statics: "being there." E.g. What makes Intel's microprocessor business so durably valuable?
+* Dynamics: "getting there." E.g. What developments yielded this attractive state of affairs at
+  Intel in the first place?
 * Power: the set of conditions creating the potential for persistent differential returns
   * "We can only assume microprocessors possessed some sort of rare characteristics which materially
     improved cash flow, while simultaneously inhibiting competitive arbitrage."
-* strategy: A route to continuing Power in significant markets.
+* Strategy: a route to continuing Power in significant markets.
 * Potential value = market scale * Power
 * Being a clever business person is not sufficient to achieve differential long-term value creation.
 * Power delivers to the firm both a Benefit and a Barrier
@@ -28,7 +28,7 @@
     high-testosterone bet-the-company antics."
 * "But deploying smart tactics, though complex and demanding, is not itself a strategy, and indeed
   any potential for Power remained opaque in those early days. For the time, Netflix could only stay
-  alert and hope that Pasteur's dictum (["Chance Favors the Prepared Mind"]) would eventually bear
+  alert and hope that Pasteur's dictum [("Chance Favors the Prepared Mind")] would eventually bear
   fruit and chance would favor their prepared minds."
 * Netflix was able to afford original content because the cost to produce it was amortized across
   their large subscriber base. Less scaled competitors couldn't justify the investment on original
@@ -46,15 +46,15 @@
   * Distribution network density
   * Learning economies: if learning leads to a product benefit, and it's positively correlated with
     production levels, then a scale advantage accrues to the leader.
-    * (Google Search has this.)
-  * Purchasing economies: when a large buyer can command lower prices, e.g. Wal-Mart.
+    * (Google Search R&D arguably has this.)
+  * Purchasing economies: when a large buyer can command lower prices, e.g. Walmart, Costco.
 
 ## Network Economies (chap 2)
 
 * Examples: MS Windows, Facebook, LinkedIn
 * "Network Economies occur when the value of a product to a customer is increased by the use of the
   product by others."
-* Benefit: product is more valuable with each incremental user
+* Benefit: product is more valuable with each incremental user.
 * Cost: value deficit of a follower can be prohibitive.
 * Common characteristics of Network Economies:
   * Winner takes all
@@ -64,7 +64,7 @@
     interactions. The boundaries of the network effects determine the boundaries of the business."
 * Indirect network effects (AKA demand side network effects)
   * "If a business has important complements and these complements are somehow exclusive to each
-    offering, then a leader will attract more and/or better complements.
+    offering, then a leader will attract more and/or better complements."
   * Examples: a mobile OS having a good app ecosystem, which a new entrant cannot replicate.
 
 ## Counter positioning (chap 3)
@@ -79,12 +79,12 @@
     They observe the upstart's new model and ask, 'Am I better off staying the course, or adopting
     the new model?' Counter-Positioning applies to the subset of cases in which the expected damage
     to the existing business elicits a 'no' answer from the incumbent. The Barrier, simply put, is
-    collateral damage. In the Vanguard case, Fidelity looked at their highly attractive active
+    collateral damage. In the Vanguard case, Fidelity looked at their highly attractive asset
     management franchise and concluded that the new passive funds' more modest returns would likely
     fail to offset the damage done by a migration from their flagship products."
 * Note that some tech revolutions just change the landscape, and the incumbent has no ability to
   compete and obtain power in the new landscape. This is not a case of Counter-Positioning.
-  * Example: Kodak and digital cameras. They were a film company had no competency in digital.
+  * Example: Kodak and digital cameras. They were a film company and had no competency in digital.
 * Why don't incumbents suffer the collateral damage?
   * In retrospect, it may have made sense for the incumbent to suffer the collateral damage and
     adopt the new approach, but new strategies are often high uncertainty, and so it's not
@@ -95,10 +95,10 @@
       enterprise value and compensation, even with best practice Long-Term Incentive Plans in
       place."
 * Counter-Positioning creates power against a larger incumbent, but creates no power against
-  competitors similar to the entrant. E.g. in-and-out vs. Five Guys. Both of them are
-  counter-positioned against McDonald's, but they need different power to compete with each other.
-* Five Stages of Counter-Positioning (how new incumbents react to counter-positioning): denial,
-  ridicule, fear, anger, capitulation.
+  competitors similar to the entrant. E.g. In-N-Out vs. Five Guys. Both of them are
+  counter-positioned against McDonald's, but they are not counter-positioned against each other.
+* Five Stages of Counter-Positioning (how new incumbents react to counter-positioning):
+  * Denial; ridicule; fear; anger; capitulation.
   * Capitulation happens often too late, via "dabbling," because there's dual pressures to adopt the
     new model but also preserve the existing business.
 * "The only bet worthwhile for a challenger is one in which *even if the incumbent plays its best
@@ -117,9 +117,11 @@
   * Or, if the customer had to customize the deployment of the solution.
 * Benefit: firm can charge higher prices.
 * Barrier: to offer an equivalent product, competitors must compensate customers for Switching
-  Costs. This makes share grains for the entrant expensive and thus less attractive.
+  Costs. This makes share grains for the entrant expensive, and thus less attractive.
 * Note that Switching Costs do not offer power over new, potential customers. Entrants can compete
   for those new customers without suffering from the barrier.
+  * (E.g. Google Docs targeted new businesses, not existing businesses who were already using MS
+    Office.)
 * Types of switching costs
   * Financial: customer has to restart their investment and perform a migration.
   * Procedural: retraining, unfamiliarity with the new solution, new headcount, risk resulting from
@@ -127,7 +129,8 @@
   * Relational: it's hard to abandon a community that the user likes and identifies with.
 * The firm can increase related sales to existing, captured customers, by introducing new product
   lines, potentially by M&A.
-* The more product lines that get adopted increases customer entanglement and thus switching costs.
+* When more product lines are adopted, they increases customer entanglement and thus switching
+  costs.
 * Switching Costs power can lead to Branding power
   * "If the product preference of users already tethered by Switching Costs spills over to a wider
     pool of potential customers, you could find yourself enjoying the effects of Branding."
@@ -142,7 +145,7 @@
   * Affective valence: built-up associations with the brand which elicit good feelings which are
     distinct from the actual underlying value of the good.
   * Uncertainty reduction: the customer expects less risk in their usage experience, because of the
-    product's brand.
+    brand's reputation.
 * Barrier: "a strong brand can only be created over a lengthy period of reinforcing actions
   (hysteresis), which itself serves as the key Barrier. Again, Tiffany has cultivated its brand name
   for more than a century. What's more, copycats face daunting uncertainty in initiating Branding: a
@@ -209,8 +212,8 @@
   their recommendations increases. True, but not linear: these advantages paid only diminishing
   returns, meaning a smaller competitor of an attainable scale could realize most of the same
   benefit."
-  * Sounds like a criticism that could be made against any personalization company claiming their
-    data sets provide durable Power.
+  * (This sounds like a valid criticism that could be made against any personalization company
+    claiming their data sets provide durable Power.)
 * Netflix spent most of their time on operational excellence, and rightfully so -- it was necessary,
   but not sufficient, to guarantee ongoing differentiation.
 * Transitioning into originals unlocked Economies of Scale power, because the content became a fixed
@@ -249,7 +252,7 @@
   * Start from:
   * 1) Your capabilities: customer need is unknown; takes awhile. E.g. Pixar.
   * 2) Customer needs: well-known customer problem. Risk is technical: can you solve the problem?
-  * 3) Competitor-led: With a new technique or chaning environment, can you offer 10x better
+  * 3) Competitor-led: With a new technique or changing environment, can you offer 10x better
     solution and then stay ahead?
 
 ## The power progression (chap 9)
@@ -279,8 +282,8 @@
   slows; fundamentals will assert themselves, and the favorable early returns will prove fleeting."
   * The company will transition to being a low-margin player running hard on a treadmill of
     competition.
-  * (Thiel: competition is for losers)
-* "The [Benefit of power] are common, and they often bear little positive impact on company value,
+  * (See also Thiel: competition is for losers)
+* "The [Benefits of power] are common, and they often bear little positive impact on company value,
   as they are generally subject to full arbitrage. The true potential for value lies in those rare
   instances in which you can *prevent* such arbitrage, and it is the Barrier which accomplishes
   this. Thus, the decisive attainment of Power often syncs up with the establishment of the
@@ -292,7 +295,7 @@
   * Stability: Branding, Process Power
 * "The Counter-Positioning and Cornered Resource are most likely to be established in the
   origination stage. These are wonderful, durable types of Power specifically because your 'route to
-  Power' is locked in early, so lon gas you execute well."
+  Power' is locked in early, so long as you execute well."
 * Process Power is developed in the stability phase. "Only when a company has scaled sufficiently
   and operated long enough can it have evolved processes which are sufficiently complex or opaque to
   defy speedy emulation."
@@ -300,11 +303,11 @@
   stability phase, then you can qualify for this power, which is unavailable to new entrants.
 * "In the high flux shortened time frame of the takeoff Stage, sufficiently timely imitation becomes
   less likely, and excellent execution can be highly strategic."
-* (Warren Buffet) "Good managers can rarely reverse the course of a bad business, i.e. one without
-  Power."
+* (Warren Buffet) "Good managers can rarely reverse the course of a bad business," i.e. one without
+  Power.
 * A business must have a route to Power over each one of its competitors for it to have sustainable
   differentiation. The Power used may be different per competitor.
 * The prospect of monopoly profits is the incentive -- the fuel -- for invention.
-  * "From a static viewpoint, the search for POwer may seem like a zero sum game of preventing gains
+  * "From a static viewpoint, the search for Power may seem like a zero sum game of preventing gains
     flowing to consumers. But from a Dynamics viewpoint, it is the possibility of Power that is a
     critical motivator of invention."
