@@ -109,6 +109,7 @@ task("website", [], async () => {
   // TODO(philc): For now, these are hard-coded. Once I've reviewed all of the notes, just list all
   // files in each category.
   const files = [
+    "business/7 powers - hamilton helmer.md",
     "business/powerful - patty mccord.md",
     "business/radical candor - kim scott.md",
     "business/slack - tom demarco.md",

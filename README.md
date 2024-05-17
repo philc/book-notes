@@ -17,6 +17,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 
 ## Business
 
+[7 Powers - Hamilton Helmer](http://notes.philcrosby.com/7-powers-hamilton-helmer.html)<br>
 [Powerful - Patty McCord](http://notes.philcrosby.com/powerful-patty-mccord.html)<br>
 [Radical Candor - Kim Scott](http://notes.philcrosby.com/radical-candor-kim-scott.html)<br>
 [Slack - Tom DeMarco](http://notes.philcrosby.com/slack-tom-demarco.html)<br>
