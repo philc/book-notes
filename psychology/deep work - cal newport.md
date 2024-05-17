@@ -10,7 +10,7 @@
   primary task with a secondary task left unfinished."
 * Cal on being present for his kids after work: "the lack of distraction in my life tones down that
   background hum of nervous mental energy that seems to increasingly pervade people's daily lives."
-* Human begins are at their best when immersed deeply in something challenging.
+* Human beings are at their best when immersed deeply in something challenging.
   * "A wooden wheel is not noble, but its shaping can be. The same applies to knowledge work. You
     don't need a rarified job; you need instead a rarified approach to your work." He argues that
     most knowledge work can be cast as craftsmanship, in that you're applying high levels of skill.
@@ -29,7 +29,7 @@
 
 * Carl Jung's stone "Tower" (his private home office): "There was no electricity at the Tower, so as
   day gave way to night, light came from oil lamps and heat from the fireplace. Jung would retire to
-  bed by ten p.m.. 'The feeling of repose and renewal that I had in this tower was intense from the
+  bed by ten p.m. 'The feeling of repose and renewal that I had in this tower was intense from the
   start.'"
 * Deep work definition: professional activities performed in a state of distraction-free
   concentration that push your cognitive capabilities to their limit. These efforts create new
@@ -111,7 +111,7 @@
   goals, feedback, rules, and challenges, all of which encourage one to become involved in one's
   work, to concentrate and lose oneself in it. Free time, on the other hand, is unstructured, and
   requires much greater effort to be shaped into something that can be enjoyed."
-* Human begins are at their best when immersed deeply in something challenging.
+* Human beings are at their best when immersed deeply in something challenging.
 * Craftsmanship as a philosophical construct for getting meaning from our existence:
   * "The wheelwright doesn't decide arbitrarily which virtues of the wood he works are valuable and
     which are not: this value is inherent in the wood and the task it's meant to perform"
