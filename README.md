@@ -1,7 +1,8 @@
 # Book notes
 
-These are notes about books I've read. The notes are not meant to be comprehensive; I've recorded
-only the parts which were most impactful to me at the time of reading.
+These are notes about impactful books that I've read. The notes are not meant to be comprehensive;
+I've recorded the parts which were most impactful to me at the time of reading, so that I can better
+retain the material.
 
 I hope these notes give a sense of what a given book is about, and encourage people to purchase the
 book if it looks relevant to them. All content in this repository is copyright the book's author(s).
