@@ -1,8 +1,11 @@
+# Mythical Man Month - Fred Brooks
+
 ## Gems
 
-* Completing a programming project: there's "quadratic rather than linear convergence to the end."
+* When completing a programming project: there's "quadratic rather than linear convergence to the
+  end."
 * "Men and months are interchangeable commodities only when a task can be partitioned among many
-  works *with no communication among them*. This is true of reaping wheat or picking cotton; it is
+  workers *with no communication among them*. This is true of reaping wheat or picking cotton; it is
   not even approximately true of systems programming."
 * Brook's Law: Adding manpower to a late software project makes it later.
 * The number of minds coordinating to build a system determines the system debugging cost, because
@@ -13,52 +16,52 @@
     organized like a surgical team rather than a hog-butchering team. That is, instead of each
     member cutting away on the problem, one does the cutting and the others give him every support
     that will enhance his effectiveness and productivity."
-* Differences in judgement among a team of equal stakes time to talk through. There are far fewer
+* Differences in judgement among a team of equals takes time to talk through. There are far fewer
   such differences on the surgical team.
 
 ## The tar pit (chap 1)
 
-* Tar pit: most teams building large systems become ensnared in a prehistoric tar pit -- getting
-  more stuck and slower as the project progresses.
-* "The accumulation of simultaneous and interacting factors brings slower and slower motion."
+* Most teams building large systems become ensnared in a prehistoric tar pit -- getting more stuck
+  and going slower as the project progresses.
 * Growing cost when producing the final product:
   * Going from a program -> a programming product incurs a 3x growth in complexity.
     * A programming product requires generalization of the feature set, testing, documentation, and
       ongoing maintenance.
-    * This is the transition a program that was written for personal use undergoes before it's
+    * This is the transition that a program that was written for personal use undergoes before it's
       usable by the public, or open-sourced.
-      * (I've seen this first hand -- it's a surprising amount of extra work to make my personal
-        programs usable for other people)
-  * Going from a program to a programming system incurs a 3x growth in complexity
+      * (Yes -- it's always requires a surprising amount of extra work to make my personal software
+        usable by other people.)
+  * Going from a program -> a programming system incurs a 3x growth in complexity.
     * A programming system is a collection of interfacing programs for large tasks. E.g. a
       distributed system, or a programming language toolchain.
     * The interfaces between each program must be rigorously defined.
-  * So when going from a single program to a released programming system is about 9x as expensive as
-    the first cut at the problem.
+  * So when going from a single program -> released programming system, it's about 9x as expensive
+    as the first cut at the problem (the simple program).
 * The joys of the craft
   * (Nice mini-essay on the joys of programming)
-  * Sheer joy of making things
-  * Pleasure of making things that are useful to other people
-  * Fascination of fashioning a complex machine
+  * The sheer joy of making things
+  * The pleasure of making things that are useful to other people
+  * A fascination of fashioning a complex machine
   * Joy from learning
   * Delight of working in such a tractable (malleable) medium
   * "Programming is fun because it gratifies creative longings built deep within us and delights
     sensibilities we have in common with all men."
 * Woes of the craft
   * "Human beings are not accustomed to being perfect, and few areas of human activity demand it."
-  * Completing a programming project: there's "quadratic rather than linear convergence to the end."
+  * When completing a programming project: there's "quadratic rather than linear convergence to the
+    end."
   * With software, there's a short time to obsolescence.
 
 ## The mythical man-month (chap 2)
 
 * Estimates embed the unvoiced assumption that "all will go well."
 * The gaps and inconsistencies of the idea only become visible in the implementation stage, rather
-  in the design stage.
+  than in the design stage.
 * In other creative disciplines, difficulty expressing the idea -- the implementation phase -- is
   blamed on the medium, because it's intractable. Wood splits, paints smear. In programming, one
   cannot make this excuse.
 * "Men and months are interchangeable commodities only when a task can be partitioned among many
-  works *with no communication among them*. This is true of reaping wheat or picking cotton; it is
+  workers *with no communication among them*. This is true of reaping wheat or picking cotton; it is
   not even approximately true of systems programming."
 * Sequential constraints in the project prevent parallelism.
 * Time required is sub-linear with men because the cost of communication and training (for each
@@ -69,7 +72,7 @@
   the delay comes at the end of the schedule, no one is aware of schedule trouble until almost the
   delivery date."
 * Brook's Law: Adding manpower to a late software project makes it later.
-* The number of month hs a project will take depends on the number of sequential constraints.
+* The number of months a project will take depends on the number of sequential constraints.
 * The number of men a project can use depends on the number of independent subtasks.
 
 ## The surgical team (chap 3)
@@ -91,16 +94,17 @@
     member cutting away on the problem, one does the cutting and the others give him every support
     that will enhance his effectiveness and productivity."
 * Possible support roles:
-  * Clerk: this was useful back at the time of writing: someone who maintains files. Like fixtures
-    and logs? Repro cases from customers?
+  * Clerk: someone who maintains files.
+    * (This was useful back at the time of the book's writing.)
+    * (But what does files mean? Fixtures and logs? Repro cases from customers?)
   * Toolsmith: maintainer of the tools, which are inevitably highly specialized.
-  * Language lawyer: the consultant who can provide advice on idioms to use. A code reviewer?
+  * Language lawyer: the consultant who can provide advice on idioms to use. (A code reviewer?)
   * Copilot / chief of staff: someone who the surgeon communicates with, who can then fan out the
     communication to the rest of the team members. This greatly reduces the number of communication
     edges connected to the surgeon.
 * How it works: one, or at most two, minds are at work on the problem, ensuring the conceptual
   integrity of the work. The rest of the team supports those people.
-* Differences in judgement among a team of equal stakes time to talk through. There are far fewer
+* Differences in judgement among a team of equals takes time to talk through. There are far fewer
   such differences on the surgical team.
 * Brooks argues that this model works, but can only handle small-scoped projects. How can it be
   scaled further?
@@ -110,12 +114,12 @@
 * On cathedrals as art: "It is the zenith of a style, the work of artists who had understood and
   assimilated all their predecessors' successes, in complete possession of the techniques of their
   times, but using them without indiscreet display nor gratuitous feats of skill."
-* The design of the church of Reims: "this integrity was achieved by th self-abnegation of eight
+* The design of the church of Reims: "this integrity was achieved by the self-abnegation of eight
   generations of builders, each of whom sacrificed some of his ideas so that the whole might be of
   pure design. The result proclaims not only the glory of God, but also His power to salvage fallen
   men from their pride."
-* Argues that conceptual integrity is the most important property in system design. More than the
-  feature set. "Many authors" results in "many uncoordinated ideas."
+* Fred argues that conceptual integrity is the most important property in system design. More than
+  the feature set. "Many authors" results in "many uncoordinated ideas."
 * Classic tradeoff of whether to adopt another programming language on top of the one you know:
   * "Ease of use is enhanced only if the time gained in functional specification exceeds the time
     lost in learning, remembering, and searching manuals."
@@ -129,13 +133,13 @@
 * "Setting of external specifications is not more creative work than designing of implementation."
   * The implementer can set key qualities like the cost-performance ratio.
 * He describes the architect as the one who carefully designs the "what", to be handed off to an
-  implementer who figures the "how". Like a PM + dev lead.
+  implementer who figures the "how". (Like a PM + dev lead.)
 * "I observe that the external provision of an architecture enhances, not cramps, the creative style
   of an implementing group. They focus at once on the part of the problem no one has addressed, and
   inventions begin to flow."
-* Argues that we should not compromise the system architecture by delegating some of its design to
-  the implementers, nor should we care if those people have to sit idle while the architecture
-  completes. Similar to designing a building.`"
+* Fred argues that we should not compromise the system architecture by delegating some of its design
+  to the implementers, nor should we care if those people have to sit idle while the architecture
+  completes. Similar to designing a building.
 * "A widespread horizontal division of labor has been sharply reduced by a vertical division of
   labor."
 * So: design as much as you can with a single mind, support them, and repeat this for each module
@@ -182,14 +186,14 @@
   building. And a program is capable of a tremendous number of states.
 * "Many of the classical problems of developing software products derive from this essential
   complexity and its nonlinear increases with size."
+* Software often has to conform to arbitrary external interfaces because it's the most recent on the
+  scene, and because it's the most malleable medium.
 * Complexity in physics vs. complexity in software development:
   * "No such faith comforts the software engineer. Much of the complexity he must master is
     arbitrary complexity, forced without rhyme or reason by the many human institutions and systems
     to which his interfaces must conform. These differ from interface to interface, and from time to
     time, not because of necessity but only because they were designed by different people, rather
     than by God."
-* Software often has to conform to arbitrary external interfaces because it's the most recent on the
-  scene, and because it's the most malleable medium.
 * He argues that past productivity breakthroughs solved accidental difficulties, not essential ones.
 * There are diminishing productivity gains from each new high-level language.
 * "The development of a market": making it easier to use or buy existing software does reduce effort
@@ -203,13 +207,13 @@
 * Jones's Point -- productivity follows quality
   * Focus on quality, and productivity will follow. Avoiding lumbering systems and design bugs also
     avoids schedule disasters late in development.
-  * (From chap 17, "No Silver Bullet Refired")
+  * (This is from chap 17, "No Silver Bullet Refired")
 
 ## The Mythical Man Month after 20 years (chap 19)
 
 * "There are many examples of elegant software products designed by a single mind, or by a pair.
   Most purely intellectual works such as books or musical compositions are so produced."
-* Argues that it's hard for software to afford their "straightforward approach" to conceptual
+* Fred argues that it's hard for software to afford the "straightforward approach" to conceptual
   integrity that other creative disciplines use, because software projects grow to become huge, and
   there's intense competition that creates urgency.
 * "Managing large programming projects is qualitatively different from managing small ones, just
