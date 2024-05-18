@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" media="screen" href="./styles.css" />
+  <title>Mythical Man Month - Fred Brooks - Book Notes</title>
+</head>
+
+<body>
+
+  <nav>
+    <a href="./" id="home">Book Notes</a>
+    <div></div>
+    <a href="https://github.com/philc/book-notes" id="github"><img src="./github.svg" /></a>
+  </nav>
+  <div id="title">
+    <h1>Mythical Man Month - Fred Brooks</h1>
+  </div>
+
+  <div id="content">
+  
+<h2>Gems</h2>
+<ul>
+<li>When completing a programming project: there's &quot;quadratic rather than linear convergence to the
+end.&quot;</li>
+<li>&quot;Men and months are interchangeable commodities only when a task can be partitioned among many
+workers <em>with no communication among them</em>. This is true of reaping wheat or picking cotton; it is
+not even approximately true of systems programming.&quot;</li>
+<li>Brook's Law: Adding manpower to a late software project makes it later.</li>
+<li>The number of minds coordinating to build a system determines the system debugging cost, because
+that phase is largely determined by miscommunication between many minds. So you want a system
+built by as few minds as possible.</li>
+<li>Surgical team
+<ul>
+<li>Colorful analogy: &quot;Each segment of a large job be tackled by a team, but that the team be
+organized like a surgical team rather than a hog-butchering team. That is, instead of each
+member cutting away on the problem, one does the cutting and the others give him every support
+that will enhance his effectiveness and productivity.&quot;</li>
+</ul>
+</li>
+<li>Differences in judgement among a team of equals takes time to talk through. There are far fewer
+such differences on the surgical team.</li>
+</ul>
+<h2>The tar pit (chap 1)</h2>
+<ul>
+<li>Most teams building large systems become ensnared in a prehistoric tar pit — getting more stuck
+and going slower as the project progresses.</li>
+<li>Growing cost when producing the final product:
+<ul>
+<li>Going from a program -&gt; a programming product incurs a 3x growth in complexity.
+<ul>
+<li>A programming product requires generalization of the feature set, testing, documentation, and
+ongoing maintenance.</li>
+<li>This is the transition that a program that was written for personal use undergoes before it's
+usable by the public, or open-sourced.
+<ul>
+<li>(Yes — it's always requires a surprising amount of extra work to make my personal software
+usable by other people.)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Going from a program -&gt; a programming system incurs a 3x growth in complexity.
+<ul>
+<li>A programming system is a collection of interfacing programs for large tasks. E.g. a
+distributed system, or a programming language toolchain.</li>
+<li>The interfaces between each program must be rigorously defined.</li>
+</ul>
+</li>
+<li>So when going from a single program -&gt; released programming system, it's about 9x as expensive
+as the first cut at the problem (the simple program).</li>
+</ul>
+</li>
+<li>The joys of the craft
+<ul>
+<li>(Nice mini-essay on the joys of programming)</li>
+<li>The sheer joy of making things</li>
+<li>The pleasure of making things that are useful to other people</li>
+<li>A fascination of fashioning a complex machine</li>
+<li>Joy from learning</li>
+<li>Delight of working in such a tractable (malleable) medium</li>
+<li>&quot;Programming is fun because it gratifies creative longings built deep within us and delights
+sensibilities we have in common with all men.&quot;</li>
+</ul>
+</li>
+<li>Woes of the craft
+<ul>
+<li>&quot;Human beings are not accustomed to being perfect, and few areas of human activity demand it.&quot;</li>
+<li>When completing a programming project: there's &quot;quadratic rather than linear convergence to the
+end.&quot;</li>
+<li>With software, there's a short time to obsolescence.</li>
+</ul>
+</li>
+</ul>
+<h2>The mythical man-month (chap 2)</h2>
+<ul>
+<li>Estimates embed the unvoiced assumption that &quot;all will go well.&quot;</li>
+<li>The gaps and inconsistencies of the idea only become visible in the implementation stage, rather
+than in the design stage.</li>
+<li>In other creative disciplines, difficulty expressing the idea — the implementation phase — is
+blamed on the medium, because it's intractable. Wood splits, paints smear. In programming, one
+cannot make this excuse.</li>
+<li>&quot;Men and months are interchangeable commodities only when a task can be partitioned among many
+workers <em>with no communication among them</em>. This is true of reaping wheat or picking cotton; it is
+not even approximately true of systems programming.&quot;</li>
+<li>Sequential constraints in the project prevent parallelism.</li>
+<li>Time required is sub-linear with men because the cost of communication and training (for each
+person) must be added to the cost of the project.</li>
+<li>If each person in each partition needs to join shared group meetings, the communication cost can
+explode.</li>
+<li>&quot;Failure to allow enough time for a system test, in particular, is peculiarly disastrous. Since
+the delay comes at the end of the schedule, no one is aware of schedule trouble until almost the
+delivery date.&quot;</li>
+<li>Brook's Law: Adding manpower to a late software project makes it later.</li>
+<li>The number of months a project will take depends on the number of sequential constraints.</li>
+<li>The number of men a project can use depends on the number of independent subtasks.</li>
+</ul>
+<h2>The surgical team (chap 3)</h2>
+<ul>
+<li>The phenomenon of 10x engineers has been &quot;widely observed.&quot;</li>
+<li>The number of minds coordinating to build a system determines the system debugging cost, because
+that phase is largely determined by miscommunication between many minds. So you want a system
+built by as few minds as possible.</li>
+<li>&quot;This then is the problem with the small, sharp team concept: it is too slow for really big
+systems.&quot;</li>
+<li>(It seems to me you can achieve &quot;conceptual integrity&quot; by creating a handful of small, sharp
+10-person teams and aggressively controlling for and minimizing the coordination cost. E.g.
+defining a rigid shared interface that allows for almost complete decoupling.)</li>
+<li>Mill's proposal: organize each team within a group like a surgical team
+<ul>
+<li>A 10 person team where each role is highly specialized and the software is only really designed
+and built by one mind.</li>
+<li>Colorful analogy: &quot;Each segment of a large job be tackled by a team, but that the team be
+organized like a surgical team rather than a hog-butchering team. That is, instead of each
+member cutting away on the problem, one does the cutting and the others give him every support
+that will enhance his effectiveness and productivity.&quot;</li>
+</ul>
+</li>
+<li>Possible support roles:
+<ul>
+<li>Clerk: someone who maintains files.
+<ul>
+<li>(This was useful back at the time of the book's writing.)</li>
+<li>(But what does files mean? Fixtures and logs? Repro cases from customers?)</li>
+</ul>
+</li>
+<li>Toolsmith: maintainer of the tools, which are inevitably highly specialized.</li>
+<li>Language lawyer: the consultant who can provide advice on idioms to use. (A code reviewer?)</li>
+<li>Copilot / chief of staff: someone who the surgeon communicates with, who can then fan out the
+communication to the rest of the team members. This greatly reduces the number of communication
+edges connected to the surgeon.</li>
+</ul>
+</li>
+<li>How it works: one, or at most two, minds are at work on the problem, ensuring the conceptual
+integrity of the work. The rest of the team supports those people.</li>
+<li>Differences in judgement among a team of equals takes time to talk through. There are far fewer
+such differences on the surgical team.</li>
+<li>Brooks argues that this model works, but can only handle small-scoped projects. How can it be
+scaled further?</li>
+</ul>
+<h2>Aristocracy, democracy, and system design (chap 4)</h2>
+<ul>
+<li>On cathedrals as art: &quot;It is the zenith of a style, the work of artists who had understood and
+assimilated all their predecessors' successes, in complete possession of the techniques of their
+times, but using them without indiscreet display nor gratuitous feats of skill.&quot;</li>
+<li>The design of the church of Reims: &quot;this integrity was achieved by the self-abnegation of eight
+generations of builders, each of whom sacrificed some of his ideas so that the whole might be of
+pure design. The result proclaims not only the glory of God, but also His power to salvage fallen
+men from their pride.&quot;</li>
+<li>Fred argues that conceptual integrity is the most important property in system design. More than
+the feature set. &quot;Many authors&quot; results in &quot;many uncoordinated ideas.&quot;</li>
+<li>Classic tradeoff of whether to adopt another programming language on top of the one you know:
+<ul>
+<li>&quot;Ease of use is enhanced only if the time gained in functional specification exceeds the time
+lost in learning, remembering, and searching manuals.&quot;</li>
+</ul>
+</li>
+<li>&quot;The architect of a system, like the architect of a building, is the user's agent.&quot;</li>
+<li>&quot;Good features and ideas that do not integrate with a system's basic concepts are best left out.
+If there appear many such important but incompatible ideas, one scraps the whole system and starts
+again on an integrated system with different basic concepts.&quot;</li>
+<li>Do the architects form a design aristocracy?
+<ul>
+<li>&quot;If a system is to have conceptual integrity, someone must control the concepts. That is an
+aristocracy that needs no apology.&quot;</li>
+</ul>
+</li>
+<li>&quot;Setting of external specifications is not more creative work than designing of implementation.&quot;
+<ul>
+<li>The implementer can set key qualities like the cost-performance ratio.</li>
+</ul>
+</li>
+<li>He describes the architect as the one who carefully designs the &quot;what&quot;, to be handed off to an
+implementer who figures the &quot;how&quot;. (Like a PM + dev lead.)</li>
+<li>&quot;I observe that the external provision of an architecture enhances, not cramps, the creative style
+of an implementing group. They focus at once on the part of the problem no one has addressed, and
+inventions begin to flow.&quot;</li>
+<li>Fred argues that we should not compromise the system architecture by delegating some of its design
+to the implementers, nor should we care if those people have to sit idle while the architecture
+completes. Similar to designing a building.</li>
+<li>&quot;A widespread horizontal division of labor has been sharply reduced by a vertical division of
+labor.&quot;</li>
+<li>So: design as much as you can with a single mind, support them, and repeat this for each module
+and hope that the coupling is loose.</li>
+</ul>
+<h2>The second-system effect (chap 5)</h2>
+<ul>
+<li>&quot;An architect's first work is apt to be spare and clean. He knows he doesn't know what he's doing,
+so he does it carefully and with great restraint.&quot;</li>
+<li>&quot;The second is the most dangerous system a man ever designs.&quot;</li>
+</ul>
+<h2>Plan to throw one away (chap 11)</h2>
+<ul>
+<li>Chemical engineers build a pilot plant to debug issues arising during the transition from lab to
+factory.</li>
+<li>He argues that building a large system the first time will produce a subpar production which
+should be rewritten given the lessons of the first attempt.</li>
+<li>Job ladders
+<ul>
+<li>Dual ladders allow ICs to remain ICs</li>
+<li>Regarding managers getting more prestige: &quot;to overcome this problem, some laboratories, such as
+Bell Labs, abolish all job titles. Each professional employee is a 'member of the technical
+staff.'&quot;</li>
+<li>Announce transitions from one ladder to the other as a reassignment, not a promotion, to avoid
+imbalanced prestige.`</li>
+</ul>
+</li>
+<li>The surgical team format explicitly allows the senior IC to remain incredibly impactful
+<ul>
+<li>&quot;The whole notion of organizing surgical-type programming teams is a radical attack on this
+problem. It has the effect of making a senior man feel that he does not demean himself when he
+builds programs, and it attempts to remove the social obstacles that deprive him of that
+creative joy.&quot;</li>
+<li>&quot;That structure is designed to minimize the number of interfaces. As such, it makes the system
+maximally easy to change, and it becomes relatively easy to reassign a whole surgical team to a
+different programming task when organizational changes are necessary. It is really the long-run
+answer to the problem of flexible organization.&quot;</li>
+</ul>
+</li>
+</ul>
+<h2>No silver bullet — essence and accident in software engineering (chap 16)</h2>
+<ul>
+<li>Thesis: &quot;There is no single development, in either technology or management technique, which by
+itself promises even one order-of-magnitude improvement within a decade in productivity, in
+reliability, in simplicity.&quot;</li>
+<li>Essential tasks vs. accidental tasks: accidental tasks include mapping the solution and abstract
+concepts to code, and dealing with machine constraints.</li>
+<li>Each solution has an &quot;irreducible essence.&quot;</li>
+<li>In software, complexity arises because every part is different from every other part, unlike a
+building. And a program is capable of a tremendous number of states.</li>
+<li>&quot;Many of the classical problems of developing software products derive from this essential
+complexity and its nonlinear increases with size.&quot;</li>
+<li>Software often has to conform to arbitrary external interfaces because it's the most recent on the
+scene, and because it's the most malleable medium.</li>
+<li>Complexity in physics vs. complexity in software development:
+<ul>
+<li>&quot;No such faith comforts the software engineer. Much of the complexity he must master is
+arbitrary complexity, forced without rhyme or reason by the many human institutions and systems
+to which his interfaces must conform. These differ from interface to interface, and from time to
+time, not because of necessity but only because they were designed by different people, rather
+than by God.&quot;</li>
+</ul>
+</li>
+<li>He argues that past productivity breakthroughs solved accidental difficulties, not essential ones.</li>
+<li>There are diminishing productivity gains from each new high-level language.</li>
+<li>&quot;The development of a market&quot;: making it easier to use or buy existing software does reduce effort
+on the essential problems.</li>
+<li>&quot;The hardest single part of building a software system is deciding precisely what to build.&quot;
+<ul>
+<li>Get a high quality definition through &quot;iterative extraction&quot;: first discovering the right
+questions to ask, then the right answers, then the right solution.</li>
+</ul>
+</li>
+<li>&quot;It is really impossible for clients, even those working with software engineers, to specify
+completely, precisely, and correctly the exact requirements of a modern software product before
+having built and tried some versions of the product they are specifying.&quot;</li>
+<li>Jones's Point — productivity follows quality
+<ul>
+<li>Focus on quality, and productivity will follow. Avoiding lumbering systems and design bugs also
+avoids schedule disasters late in development.</li>
+<li>(This is from chap 17, &quot;No Silver Bullet Refired&quot;)</li>
+</ul>
+</li>
+</ul>
+<h2>The Mythical Man Month after 20 years (chap 19)</h2>
+<ul>
+<li>&quot;There are many examples of elegant software products designed by a single mind, or by a pair.
+Most purely intellectual works such as books or musical compositions are so produced.&quot;</li>
+<li>Fred argues that it's hard for software to afford the &quot;straightforward approach&quot; to conceptual
+integrity that other creative disciplines use, because software projects grow to become huge, and
+there's intense competition that creates urgency.</li>
+<li>&quot;Managing large programming projects is qualitatively different from managing small ones, just
+because of the number of minds involved.&quot;</li>
+<li>&quot;Recursion of architects&quot;
+<ul>
+<li>&quot;For quite large products, one mind cannot do all of the architecture, even after all
+implementation concerns have been split off. So it is necessary for the system master architect
+to partition the system into subsystems.&quot;</li>
+</ul>
+</li>
+<li>&quot;Today I am more convinced than ever. Conceptual integrity is central to produce quality.&quot;</li>
+<li>(By architect it sounds like he means product manager: one mind that's responsible for the public
+mental model of the product, and serves as the user agent.)</li>
+</ul>
+
+  </div>
+
+  <footer>
+    <hr></hr>
+    All content on this page, including text excerpts, is copyrighted by the author of the book.
+  </footer>
+
+</body>
+
+</html>
