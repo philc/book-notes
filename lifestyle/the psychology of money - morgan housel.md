@@ -6,7 +6,7 @@
   important to you for something that is unimportant to you, it just does not make sense." (Buffet)
 * Unbreakable: "more than I want big returns, I want to be financially unbreakable. And if I'm
   unbreakable I actually think I'll get the biggest returns, because I'll be able to stick around
-  long enough for compounding to work wonders.""
+  long enough for compounding to work wonders."
 * Controlling your time is the highest dividend money pays.
   * "The highest form of wealth is the ability to wake up every morning and say, 'I can do whatever
     I want today.'"
@@ -61,8 +61,7 @@ success, -- both your own and others -- it's never as good or as bad as it seems
   positive expected value in a probabilistic scenario.
 * So we should neither blindly admire and replicate the actions of others, nor avoid the actions of
   others because we assume their failures were due to poor decisions.
-* "Bill Gates once said, 'Success is a lousy teacher. It seduces smart people into thinking they
-  can't lose.'"
+* "Success is a lousy teacher. It seduces smart people into thinking they can't lose." - Bill Gates
 
 ## Never enough (chap 3)
 
@@ -86,11 +85,11 @@ success, -- both your own and others -- it's never as good or as bad as it seems
   himself to one strategy, one world view, or one passing trend."
 * Unbreakable: "more than I want big returns, I want to be financially unbreakable. And if I'm
   unbreakable I actually think I'll get the biggest returns, because I'll be able to stick around
-  long enough for compounding to work wonders.""
+  long enough for compounding to work wonders."
 * A good plan acknowledges and embraces that there will be many black swans in our lifetime, and
   allows room for error in the planning.
 * Flexibility: "it comes in many forms: A frugal budget, flexible thinking, and a loose timeline --
-anything that lets you live happily with a range of outcomes."
+  anything that lets you live happily with a range of outcomes."
 * "Economies, markets, and careers often follow a similar path -- growth amid loss."
 * "Stocks lost a third of their value at least 12 times." (yeesh)
 
@@ -112,10 +111,10 @@ guaranteed to participate in the growth from tail events.
 * On quitting his job, "the hardest thing about this was that I loved the work. And I wanted to work
   hard. But doing something you love on a schedule you can't control can feel the same as doing
   something you hate."
-* On why Americans aren't happier over time, despite increasing wealth: "Part of what's happened
-  here is that we've used our greater wealth to buy bigger and better stuff. But we've
-  simultaneously given up more control over our time. At best, these things cancel each other out."
-* After interviewing 1000 elderly people on what's important in life:
+* Why Americans aren't happier over time, despite increasing wealth: "Part of what's happened here
+  is that we've used our greater wealth to buy bigger and better stuff. But we've simultaneously
+  given up more control over our time. At best, these things cancel each other out."
+* After interviewing 1,000 elderly people on what's important in life:
   * "What they did value were things like quality friendships, being part of something bigger than
     themselves, and spending quality, unstructured time with their children. 'Your kids don't want
     your money (or what your money buys) anywhere near as much as they want you. Specifically, they
@@ -132,7 +131,7 @@ guaranteed to participate in the growth from tail events.
 ## Save money (chap 10)
 
 * One's rate of saving is entirely in one's control. How a particular investing strategy pans out is
-  now.
+  not.
 * "Spending beyond a pretty low level of materialism is mostly a reflection of ego approaching
   income, a way to spend money to show people that you have (or had) money."
 
@@ -153,11 +152,9 @@ guaranteed to participate in the growth from tail events.
   last century, and they were impossible to predict.
 * "The correct lesson to learn from surprises is that the world is surprising", and not simply that
   "I'll never make that mistake again."
-* "An interesting quirk of investing history is that the further back you look, the more likely you
-  are to be examining a world that no longer applies to today. Many investors and economists take
-  comfort in knowing their forecasts are backed up by decades, even centuries, of data. But since
-  economies evolve, recent history is often the best guide to the future, because it's more likely
-  to include important conditions that are relevant to the future."
+* Even though we have decades and centuries of economic data which we can use to predict the future,
+  economies evolve over time, and so the recent history is the most valuable because "it's more
+  likely to include the important conditions that are relevant to the future?"
 
 ## Room for error (chap 13)
 
@@ -172,11 +169,11 @@ guaranteed to participate in the growth from tail events.
 
 ## You'll change (chap 14)
 
-* Preferences and goals change: "An underpinning of psychology is that people are poor forecasters
+* Preferences and goals change. "An underpinning of psychology is that people are poor forecasters
   of their future selves."
 * "Young people pay good money to get tattoos removed that teenagers paid good money to get.
-  Middle-aged people rushed to divorce people who young adults rushed to marry. Older adults work
-  hard to lose what middle-aged adults worked hard to gain."
+  Middle-aged people rush to divorce people who young adults rushed to marry. Older adults work hard
+  to lose what middle-aged adults worked hard to gain."
 * If your financial plan can remain uninterrupted throughout your life because it accommodates
   changing preferences, then compounding can work uninterrupted.
 * "Regrets are especially painful when you abandon a previous plan and feel like you have to run in
@@ -256,9 +253,9 @@ guaranteed to participate in the growth from tail events.
 * "Manage money in a way that helps you sleep at night."
 * "Use money to gain control over your time, because not having control of your time is such a
   powerful and universal drag on happiness. The ability to do what you want, when you want, with who
-  you want, for as long as you wan to, pays the highest dividend that exists in finance."
+  you want, for as long as you want to, pays the highest dividend that exists in finance."
 * Uncertainty, doubt, regret about your investments: you have to view these as fees you have to pay
-  to get a return, not fines (i.e. a penalty which you should avoid).
+  to get a return, not fines.
 * "You should like risk because it pays off over time. But you should be paranoid of ruinous risk
   because it prevents you from taking future risks that will pay off over time."
 
