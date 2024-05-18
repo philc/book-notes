@@ -117,6 +117,7 @@ task("website", [], async () => {
     "engineering/shape up - ryan singer.md",
     "engineering/thinking in systems - donella meadows.md",
     "lifestyle/what is culture for - school of life.md",
+    "lifestyle/the psychology of money - morgan housel.md",
     "psychology/deep work - cal newport.md",
   ];
   await processPages(files);
