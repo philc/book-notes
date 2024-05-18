@@ -14,7 +14,7 @@ async function generatePage(path) {
   const bytes = await Deno.readFile(path);
   let str = (new TextDecoder("UTF-8")).decode(bytes);
   // Handle mdashes.
-  str = str.replaceAll(" -- ", " &mdash; ");
+  str = str.replaceAll(" --", " &mdash;");
   const html = micromark(str, {
     extensions: [gfm()],
     htmlExtensions: [gfmHtml()],
