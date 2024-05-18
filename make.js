@@ -114,6 +114,7 @@ task("website", [], async () => {
     "business/radical candor - kim scott.md",
     "business/slack - tom demarco.md",
     "engineering/an elegant puzzle - will larson.md",
+    "engineering/mythical man month - fred brooks.md",
     "engineering/shape up - ryan singer.md",
     "engineering/thinking in systems - donella meadows.md",
     "lifestyle/what is culture for - school of life.md",
