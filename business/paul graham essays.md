@@ -74,6 +74,9 @@
     something, in the hopes that this constraint will prod them into action."
   * "Having to hit a growth number every week forces founders to act, and acting veruss not acting
     is the high bit of succeeding."
+  * Thinking about startups as vectors, rather than scalars (i.e. just the idea)
+    * "We should try thinking of them as pairs of what you're going to build, plus the unscalable
+      thing(s) you're going to do initially to get the company going."
 * Succinctness is power (May 2002)
   * Which language is the best to think in? "Ultimately, I think you have to go with your gut. What
     does i feel like to program in the language? I think the way to find (or design) the best
@@ -1137,6 +1140,89 @@
       them to go sell the product ASAP (before wasitng time building it). Not only do they learn
       that nobody wants what they are building, they very often come back with a real idea that they
       discovered in the process of trying to sell the bad idea."
+* Do things that don't scale (Jul 2013)
+  * "Startups take off because the founders make them take off."
+  * "Founders don't focus enough on individual customers [because] they worry it won't scale." But
+    they have nothing to lose, and if they make their product so good that they can no longer scale
+    their model, that's a great situation to be in.
+  * "Tim cook doesn't send you a hand-written note after you buy a laptop. He can't. But you can.
+    That's one avantage of being small: you can provide a level of service no big company can."
+  * "Once you realize that existing conventions are not the upper bound on user experience, it's
+    interesting in a very pleasant way to think about how far you could go to delight your users."
+    * Aim for insanely great.
+  * The "contained fire" strategy
+    * "Sometimes the right unscalable trick is to focus on a deliberately narrow market. It's like
+      keeping a fire contained at first to get it really hot before adding more logs."
+    * This is what Facebook at Harvard did.
+  * Thinking about startups as vectors, rather than scalars (i.e. just the idea)
+    * "We should try thinking of them as pairs of what you're going to build, plus the unscalable
+      thing(s) you're going to do initially to get the company going."
+    * "The main benefit of treating startups as vectors will be to remind founders they need to work
+      hard in two dimensions."
+  * "The unscalable things you have to do to get started are not merely a necessary evil, but change
+    the company permanently for the better."
+    * The scrappy, aggressive approach and attitude will persist as the company grows.
+* How to convince investors (Aug 2013)
+  * Founders "try to convince with their pitch. Most would be better off if they let their startup
+    do the work -- if they started by understanding why their startup is worth investing in, then
+    simply explained this well to investors."
+    * Convincing with their pitch is like "lifting with the back, instead of the legs."
+  * "A formidable person is one who seems like they'll get what they want, regardless of whatever
+    obstacles are in the way." They're justifiably confident.
+  * "Convince yourself that your startup is worth investing in, and then when you explain this to
+    investors they'll believe you." (Convince yourself with a true, rigorous evaluation.)
+  * "When you convince them, use the same matter-of-fact language you used to convince yourself. You
+    wouldn't use vague, grandiose marketing-speak among yourselves. Don't use it with investors
+    either."
+  * "Alfred Lin points out that it's doubly important for the explanation of a startup to be clear
+    and concise, because ti has to convince at one remove: it has to work not just on the partner
+    you talk to, but when that partner re-tells it to colleagues."
+* How to raise money (Sep 2013)
+  * "It's hard like lifting a weight because it's intrinsically hard to convince people to part with
+    large sums of money. That problem is irreducible; it should be hard."
+  * Every investor would prefer to wait a few months to see the company's growth pan out.
+    * "What tends to happen is that they all wait as long as they can, then when some act the rest
+      have to."
+  * "Be in fundraising mode or not."
+    * (I wonder if this is a way to forcefully time-box engagements with investors.)
+    * "Investors will try to lure you into fundraising when you're not. It's great for them if they
+      can, because they can thereby get a shot at you before everyone else."
+  * Intro quality: 1) from investors who have invested in you already and are well-known; 2)
+    founders in their portfolio.
+  * "Hear no till you hear yes." In the form of an actual term sheet, with no contingencies.
+    * "I mentioned earlier that investors prefer to wait if they can. What's particularly dangerous
+      for founders is the way they wait. Essentially, they lead you on. They seem like they're about
+      to invest right up till the moment they say no."
+  * "Do bread-first search weighed by expected value."
+  * "Never leave a meeting with an investor without asking what happens next."
+  * Why do investors ask "do you have a lead yet?" "All they really mean is that their interest in
+    you is a function of other investors' interest in you."
+  * How much to raise?
+    * "A good rule of thumb is to multiply the number of people you want to hire times $15K times 18
+      months."
+  * Ramen profitability is a position of strength and completely changes how pleasant fundraising
+    is.
+  * "Being proud of how well you did at fundraising is like being proud of your college grades."
+    Revenue is what matters.
+  * "Take offers greedily." Take what's in front of you rather than reasoning about a potential
+    future.
+    * "Your first priority in fundraising should be to get it finished and get back to work."
+  * Exploding offers from investors: "A deadline of three working days is acceptable."
+  * The best investors "reject nearly everyone they talk to, which means in the average case it's a
+    bad trade to exchange a definite offer from an acceptable investor for a potential offer from a
+    better one."
+  * Beware developing a taste for fundraising. Once you raise, if you think you are already
+    successful, you will lose your taste for doing schleps.  "Fundraising is not what will make your
+    company successful. Listening to users complain about bugs in your software is what will make
+    you successful."
+  * "Spending a lot makes it harder to become profitable, and perhaps even worse, it makes you more
+    rigid, because the main way to spend money is people, and the more people you have, the harader
+    it is to change directions."
+  * "Don't ask investors who say no for introductions to other investors. That will in many cases be
+    an anti-recommendation."
+  * "One YC founder told me that if he were a first-time founder again he'd 'leave ideas that are
+    up-front capital intensive to founders with established reputations'" so that there's less
+    pressure in the fundraising stage.
 
 * How to do great work (Jul 2023)
   * "There's a kind of excited curiosity that's both the engine and the rudder of great work. It
