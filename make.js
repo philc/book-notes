@@ -110,6 +110,7 @@ task("website", [], async () => {
   // files in each category.
   const files = [
     "business/7 powers - hamilton helmer.md",
+    "business/it doesnt have to be crazy at work - jason fried.md",
     "business/powerful - patty mccord.md",
     "business/radical candor - kim scott.md",
     "business/slack - tom demarco.md",
