@@ -7,9 +7,11 @@
 * Comfy's cool: rather than always embracing discomfort, "if you listen to your discomfort and back
   off from what's causing it, you're more likely to find the right path. We've been in that place
   many times over the years at Basecamp."
-* On financial controls, bureaucracy, and heavyweight process
-  * They guard against so many things, but all too often they fail to protect what's both most
-    vulnerable and most precious: their employees' time and attention.
+* "Most people don't actually have 8 hours a day to work, they have a couple of hours. The rest of
+  the day is stolen from them by meetings, conference calls, and other distractions."
+* Financial controls, bureaucracy, and heavyweight process guard against so many things, but all too
+  often they fail to protect what's both most vulnerable and most precious: their employees' time
+  and attention.
 * Don't let others schedule your time: If you don't own the vast majority of your time, it's
   impossible to be calm. You'll always be stressed out, feeling robbed of the ability to actually do
   your job.
@@ -18,6 +20,8 @@
 * "The best companies aren't families. They're supporters of families."
 * At Basecamp, "we don't have imperial ambitions." It's about growing the pie and customer
   happiness, not taking market share from the competition.
+* "Following group chat at work is like being in an all-day meeting with random participants and no
+  agenda. It's completely exhausting."
 * On roadmaps: there is no one year plan. It's bullshit. Using a 6 week horizon lets you change your
   mind often; "it's a huge relief."
 * Setting company goals, OKRs: "It's hard enough to build a long-lasting sustainable business with
@@ -38,9 +42,9 @@
 
 ## It's crazy at work
 
-* 1) The workday is being sliced into tiny, fleeting work moments by an onslaught of distractions.
-* 2) An unhealthy obsession with growth at any cost sets towering, unrealistic expectations that
-  stress people out.
+* The workday is being sliced into tiny, fleeting work moments by an onslaught of distractions.
+* An unhealthy obsession with growth at any cost sets towering, unrealistic expectations that stress
+  people out.
 * "People can't get work done at work anymore" because of distractions, so work inevitably bleeds
   into home life.
 * "The answer isn't more hours, it's less bullshit. Less waste, not more production. And far fewer
@@ -48,11 +52,10 @@
 * "It's time to give people the uninterrupted time that great work demands."
 * Relieve people from the conveyor belts of information and give them the focus that their best work
   requires.
-* "Calm company"
-  * This is their goal for Basecamp. There's no ego-driven goals.
+* "Calm company": this is their goal for Basecamp. There's no ego-driven goals.
 * "The modern workplace is sick. Chaos should not be the natural state at work. Anxiety isn't a
   prerequisite for progress. Sitting in meetings all day isn't required for success. These are all
-  perversions of work --side effects of broken models."
+  perversions of work -- side effects of broken models."
 * "Calm is more independence, less interdependence."
 
 ## Your company is a product
@@ -120,7 +123,7 @@
   more likely to find the right path. We've been in that place many times over the years at
   Basecamp."
 * "That's how we ended up throwing out individual negotiations and differences in pay, and going
-  with a simpler system." (I wonder what this simple comp system is."
+  with a simpler system."
 * "Being comfortable in your zone is essential to being calm."
 
 ## 8's enough, 40's plenty
@@ -132,9 +135,9 @@
 
 ## Protectionism
 
-* On financial controls, bureaucracy, and heavyweight process
-  * They guard so many things, but all too often they fail to protect what's both most vulnerable
-    and most precious: their employees' time and attention.
+* Financial controls, bureaucracy, and heavyweight process guard against so many things, but all too
+  often they fail to protect what's both most vulnerable and most precious: their employees' time
+  and attention.
 * Time and attention are best spent in large bills, if you will, not spare coins and small change.
   * A high quality hour is "1x60", not "2x30", "4x15".
 
@@ -167,7 +170,7 @@
 * At Basecamp, all calendars are private, which makes it much higher friction to get on someone's
   calendar.
 * "If you make it easy for someone to invite five other people to a meeting -- because software can
-  find the open slot that works for everyone --then meetings with six people will proliferate."
+  find the open slot that works for everyone -- then meetings with six people will proliferate."
 * Taking someone's time should be a pain in the ass. Taking many people's time should be so
   cumbersome that most people won't even bother to try it unless it's really important. Meetings
   should be a last resort, especially big ones.
@@ -183,12 +186,12 @@
 ## I'll get back to you whenever
 
 * Basecamp has a culture of eventual response. Don't check and reply to email for long stretches of
-  time, to favor your primary job over communication.
+  time, so that you always favor your primary job over communication.
 
 ## FOMO? JOMO!
 
-* "Fuck that. People should be missing out! Most people should miss out on most things most of the
-  time. That's we try to encourage at Basecamp JOMO -- the joy of missing out."
+* "People should be missing out! Most people should miss out on most things most of the time. That's
+  we try to encourage at Basecamp JOMO -- the joy of missing out."
 * "It's JOMO that lets you turn off the firehose of information and chatter and interruptions to
   actually get the right shit done."
 * It's a fool's errand to think you can know everything that's going on at the company.
@@ -207,7 +210,7 @@
 
 ## Low-hanging fruit can still be out of reach
 
-* Beware thinking an unfamiliar task or fist-of hire will obviously produce easy, low-hanging fruit
+* Beware thinking an unfamiliar task or first-of hire will obviously produce easy, low-hanging fruit
   without a ton of investment.
 * The next time you ask an employee to go pick some low-hanging fruit, stop yourself. Respect the
   work you've never done before.
@@ -222,7 +225,7 @@
 
 * "We do better work, broader work, and more considered work when the team reflects the diversity of
   our customer base. 'Not exactly what we already have' is a quality in itself."
-* Method: put a project in front of the candidate, pay them $1500, and have them work on it for a
+* Method: put a project in front of the candidate, pay them $1,500, and have them work on it for a
   week. Forget the resume; who knows which part of the nike.com redesign they actually did. This
   gives more people a chance, and it avoids hiring an imaginary person.
 
@@ -239,20 +242,20 @@
 
 * It's a ritual that no one likes, and often leaves you uncertain about whether you got a fair deal
   or could've gotten more. Free your employees from this tress.
-* Basecamp's method:
-  * Salaries
-    * 5 levels per department/role.
-    * Everyone in the same level is paid the same.
-    * They pay top 10% of market, and track market each year by issuing raises.
-    * To increase comp greatly means increasing your level.
-  * Pay at SF rates even though their team is distributed, to combat the appeal of FANG.
-  * "We don't pay traditional bonuses at Basecamp, either, so our salaries are benchmarked against
-    other companies' salaries plus bonus packages. We used to do bonsues many years ago, but we
-    found that they were quickly treated as expected salary, so if they ever dipped, people felt
-    like they got a demotion."
-  * They pay 25% of the growth in EBITDA of that year out to the current employees.
-  * (Seems to me like they give competitive salary and no stock, so their packages are 1/2 of what
-    Google or FB will pay.)
+* Basecamp's comp method:
+* Salaries
+  * 5 levels per department/role.
+  * Everyone in the same level is paid the same.
+  * They pay top 10% of market, and track market each year by issuing raises.
+  * To increase comp greatly means increasing your level.
+* Pay at Bay Area rates even though their team is distributed, to combat the appeal of FANG.
+* "We don't pay traditional bonuses at Basecamp, either, so our salaries are benchmarked against
+  other companies' salaries plus bonus packages. We used to do bonuses many years ago, but we
+  found that they were quickly treated as expected salary, so if they ever dipped, people felt
+  like they got a demotion."
+* They pay 25% of the growth in EBITDA of that year out to the current employees.
+* (It seems to me like they give competitive salary and no stock, so their packages are 1/2 of what
+  Google or FB will pay.)
 
 ## Benefits who?
 
@@ -260,6 +263,7 @@
 * Basecamp's philosophy is to help people get away from work.
   * Fully paid vacations every year for everyone who's been with the company for more than a year.
     The whole trip is covered: airfare, hotel accommodations -- up to $5,000 per person or family.
+    * ($5,000 doesn't seem like enough for a family vacation.)
   * Three-day weekends all summer. May through September we only work 32-hour weeks. This allows
     everyone to take Friday off, or Monday off.
   * 30d paid sabbaticals every three years.
@@ -278,22 +282,19 @@
   productivity, you're fomenting resentment."
 * Offices should use "library rules": quiet, focused.
 
-## No "fakecations" -- encourage full disconnection.
-
-
 ## The wrong time for real time
 
 * "Following group chat at work is like being in an all-day meeting with random participants and no
   agenda. It's completely exhausting."
-* If it's an important decision to make, first "write it up", which moves it out of chat.
+* If it's an important decision to make, first "write it up," which moves it out of chat.
 * People will always misuse chat. Chat is only good for urgent communication, handling crises, and
   1:1 collaboration.
 
 ## "Dreadlines"
 
 * Delivery dates should either be flexible, or the scope of what gets delivered should be flexible.
-* A deadline with a flexible scope invites pushback, compromises, and tradeoffs-- all ingredients in
-  healthy, calm projects. Its' when you try to fix both scope and time that you have a recipe for
+* A deadline with a flexible scope invites pushback, compromises, and tradeoffs -- all ingredients
+  in healthy, calm projects. It's when you try to fix both scope and time that you have a recipe for
   dread and overwork.
 
 ## Don't be a knee jerk
@@ -368,7 +369,7 @@
 * Basecamp uses flat pricing, no matter the size of the customer. There's no "per seat" pricing
   model. The reason for this is they don't want to deal with outsized customers having influence
   over them, and don't want to worry about revenue concentration.
-  * (This is crazy. They must be giving up some much potential revenue. This is an SMB strategy).
+  * (This is crazy; they must be giving up so much potential revenue.)
 * On principle, they want to help small businesses, not the fortune 500. Those companies are already
   big enough.
 * "This leaves us free to make software for ourselves and on behalf of a broad base of customers,
