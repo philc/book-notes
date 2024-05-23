@@ -72,7 +72,7 @@
 * "Just over two years passed between the X.com-Confinity merger and PayPal's initial public
   offering on the Nasdaq, but many employees felt as though they'd worked a lifetime."
 * "Several said they did their life's finest work during this period."
-  * Unforgivingly intense, and remembered with pride and fondness.
+  * Unforgiving and intense, and remembered with pride and fondness.
 * "Ecology of talent": Bell Labs, Google, Florence.
   * "As he looked into these revolutionaries, he discovered them to be products of 'very fertile
     scenes involving lots and lots of people -- some of them artists, some of them collectors, some
@@ -85,7 +85,7 @@
 * Levchin learned programming as a kid in the Ukraine helping his mom detect radiation in food.
   Emigrated to Chicago when he was 16; Ukraine was hostile to Jews. Had little money.
 * UIUC undergrad. Hallmark of his intensity.
-  * "Levchin soon became consumsed by the world wide web and found networks and forums full of
+  * "Levchin soon became consumed by the world wide web and found networks and forums full of
     kindred digital spirits."
 * Marc Andreessen was from UIUC; he did Mosiac while there and then started Netsacpe.
 * "One thing that really shaped me -- and probably a lot of other people at Illinois -- was this
@@ -149,7 +149,7 @@
   * "Thiel could also see the value in operating experience -- time in the CEO chair could fine-tune
     his investor antennae."
 * "There were downsides to [their hiring] approach, too, of course. Hiring friends risked a
-  cloistered, exclusionary monoculture and made it excpetionally hard to let people go."
+  cloistered, exclusionary monoculture and made it exceptionally hard to let people go."
 * Thiel: "friends-turned-employees came preinstalled with trust. Trust produced speed."
 * "Brilliance, nonconformity, availability, and the willing suspension of disbelief -- these
   qualities defined Confinity's first hires and formed the foundation of its culture."
@@ -169,7 +169,7 @@
   office suites at 394 University Avenue in Palo Alto."
 * The opinion Confinity developed about the value of PR: "It was much more important for recruiting
   and for perception among investors than it is about actual product adoption."
-* On choosing a catchy name: "If people don't konw how to say something, or if they are fearful of
+* On choosing a catchy name: "If people don't know how to say something, or if they are fearful of
   saying it incorrectly, they will do anything to avoid saying it. Embarrassment is a very strong
   emotion."
 * Levchin on pitching your startup against Google: "To win, you need to tell a story about cogs. At
@@ -228,11 +228,11 @@
 
 * "Network effects trump everything else" and Paypal got to email payments first, and to eBay.
 * "Given a teetering market and a take-no-prisoners competitor, Thiel and others in the company
-  began considring an alternative course. 'A lot of us came to the conclusion that this would be a
+  began considering an alternative course. 'A lot of us came to the conclusion that this would be a
   winner-take-all market, and that this should be a single company. Or both of us would spend
   ourselves into oblivion."
 * X.com's initial offer for Paypal was 92/8% releative valuation!
-  * Final relval was 50-50.
+  * Final relative valuation was 50-50.
 * Elon wasn't excited: "To put Confinity on par with his own company was bad enough, but especially
   so when he considered X.com's lead in non-eBay accounts. He wasn't overly worried about market
   trends, user growth, burn rate, or the competitive landscape -- X.com could have won through will
@@ -277,9 +277,9 @@
   engineering-focused X.com."
 * X.com was at the mercy of eBay. One policy decision could wipe them out.
 * Harris was focusing on user growth, but the rest of leadership believed revenue growth was the
-  core problem. They were already growing virally.
+  core problem. They already had viral growth.
 * On Thiel wanting to depart: "The company would be fine without him in an operational role -- and
-  more importantly, he would be better off without the encumberances of executive life."
+  more importantly, he would be better off without the encumbrances of executive life."
 * "Musk also blanched at the CEO's desire to hire more business and finance heavies. 'He was going
   to "tame us young whippersnappers" with these, like seasoned financial executives or whatever. And
   we're like, "Uh, these are the same seasoned executives at these banks who can't do jack, who
@@ -310,7 +310,7 @@
 * Output vs. employee happiness
   * "In the view of X.com's leaders, growing organizations often made a crucial mistake: employee
     happiness became a bigger concern than output. Its leaders feared X.com would fall into the same
-    trap, and to avoid it, company leaders set a cultural tone of impatience. They sacrified
+    trap, and to avoid it, company leaders set a cultural tone of impatience. They sacrificed
     solidarity for speed and made decisions by fiat when necessary. 'It wasn't an open democracy of
     ideas,' recalled early X.com engineer and later Yelp cofounder Jeremy Stoppelman."
 * They developed the idea of two deposits into an account to verify its ownership.
@@ -357,7 +357,7 @@
     responsibility to those in attendance for combating each of the existential threats."
 * Wow, Paypal/Levchin were the first to develop and use a CAPTCHA, to deter signups by bots, who
   wanted to steal the $20 signup bonus.
-* "'Peter called it the dials,' Sacks remebered. 'It's easy to stop fraud if you're willing to kill
+* "'Peter called it the dials,' Sacks remembered. 'It's easy to stop fraud if you're willing to kill
   usability. What's hard is maintaining a sufficient level of usability without letting fraud get
   out of control. So Max controlled the fraud dial. I controlled the usability dial. And we'd come
   together to agree on a compromise.'"
@@ -409,12 +409,12 @@
   company. I [have] no desire to be a public CEO. I'd rather do other things. I don't want to go
   public,"' Knight recalled. 'He convinced me. I didn't think it was any more complicated than
   that.'"
-* Nov 18 1999 -> Feb 2 2000: from 1,000 userse to 100,000 users. Apr 15 2000: 1M users!
+* Nov 18 1999 -> Feb 2 2000: from 1,000 users to 100,000 users. Apr 15 2000: 1M users!
 * "Peter was right to sideline them. The investment bankers just got in the way of PayPal's
   success."
 * "Thiel raged about the media's coverage at the office. 'It really pissed Peter off,' engineer Russ
   Simmons remembered. 'And he gave this speech in front of the whole company talking about how they
-  were idiots and we were going to prove them wrong. That's one fo the times when I've seen him most
+  were idiots and we were going to prove them wrong. That's one of the times when I've seen him most
   fired up.'"
 
 ## Outlaws (chap 21)
