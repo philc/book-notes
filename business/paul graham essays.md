@@ -814,7 +814,6 @@
     * "Your best bet is probably to try living in several places when you're young. You can never
       tell what message a city sends till you live there, or even whether it still sends one. Often
       your information will be wrong."
-
 * A fundraising survival guide (Aug 2008)
   * Have low expectations: the disappointment from the process, and the outcome, being lower than
     one's expectations, will kill morale.
@@ -1311,7 +1310,7 @@
       doing great work and the oracle replied with a single word, my bet would be on 'curiosity.'"
   * "The discoveries are out there, waiting to be made. Why not by you?"
   * "One way to tell whether you're wasting time is to ask if you're producing or consuming. Writing
-    computer games is less likely to be a waste of tiem than playing them, and playing games where
+    computer games is less likely to be a waste of time than playing them, and playing games where
     you create something is less likely to be a waste of time than playing games where you don't."
 * Superlinear returns (Oct 2023)
   * "If your product is only half as good as your competitor's, you don't get half as many
