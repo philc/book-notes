@@ -42,4 +42,5 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 
 ## Relationships
 
-[The Happy Sleeper - Heather Turgeon](http://notes.philcrosby.com/the-happy-sleeper-heather-turgeon.html)
+[The Happy Sleeper - Heather Turgeon](http://notes.philcrosby.com/the-happy-sleeper-heather-turgeon.html)<br>
+[Bringing Up Bébé - Pamela Druckerman](http://notes.philcrosby.com/bringing-up-bebe-pamela-druckerman.html)

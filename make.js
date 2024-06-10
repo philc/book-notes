@@ -121,6 +121,7 @@ task("website", [], async () => {
     "lifestyle/what is culture for - school of life.md",
     "lifestyle/the psychology of money - morgan housel.md",
     "psychology/deep work - cal newport.md",
+    "relationships/bringing up bebe - pamela druckerman.md",
     "relationships/the happy sleeper - heather turgeon.md",
   ];
   await processPages(files);
