@@ -22,21 +22,23 @@
 * Consistency
   * Children have *very strong* associative learning. They are pattern seekers. Use this to your
     advantage. Children are also quick to let go of old patterns.
-  * "This is super important": sleep problems arose from even small inconsistencies. Consistency is
-    a powerful driver about how they learn.
+  * This is "super important": sleep problems arise from even small inconsistencies. Consistency is
+    a powerful driver for how the child learns.
 * Attunement
   * Babies need our warmth and soothing touch to feel bonded.
-  * Attachment theory is misinterpreted to mean "just stick by them". In addition to sticking by
-    your child, it also means empowering them to be independent. Give them enough room so they can
-    actually practice the skill of going to sleep.
-  * Kids need to struggle to learn. Same as watching them struggle with math problems. If you sit
-    next to them at night, they don't have the chance to struggle and learn to sleep.
-  * Attunement is: "I'm here and I'm watching, but I'm letting you try on your own, and I know you
-    can do it."
+  * Attachment theory is misinterpreted to mean "just stick by the child." In addition to sticking
+    by your child, it also means empowering the child to be independent. Give them enough room so
+    they can actually practice the skill of going to sleep.
+  * Kids need to struggle to learn. It's the same as letting them struggle with math problems before
+    jumping in to help. If you sit next to your child at night, they don't have the chance to
+    struggle and learn to sleep.
+  * Attunement: "I'm here and I'm watching, but I'm letting you try on your own, and I know you can
+    do it."
 * Insecure attachment also manifests in adults: have trouble sleeping without someone there; not
   comfortable being alone.
 * Attuned response to your child is generalizable: during the day, across all of their activities,
-  watch them struggle, and support gently, but don't step on until after awhile. Be curious.
+  watch them struggle, and support gently, but don't step in until after awhile. Be curious to see
+  how they handle themselves.
 
 ## Toddler - 5mo to 2 years (chap 4)
 
@@ -47,25 +49,27 @@
   * Regular nap schedule.
   * "Sleep wave."
 * Why does your baby wake up in the night?
-  * They all do. Good sleepers will self soothe again by themselves.
-  * Bad sleepers call out for external help because they're looking for the soothing trick that put
+  * They all do. But good sleepers will self soothe back to sleep, by themselves.
+  * Poor sleepers call out for external help because they're looking for the soothing trick that put
     them to sleep in the first place.
 * Early and consistent bedtime
-  * When they wake up and the stimuli around them are different, they're disoriented and will wake
-    up fully, calling out for you.
+  * When the child wakes up and the stimuli around them are different, they're disoriented and will
+    wake up fully, calling out for you.
   * If they go to sleep the same way that they will wake up, they will be able to self soothe again.
   * Once she's in her crib, if there's anything you do that she can't do herself later, you must get
-    rid of it from the environment. E.g. holding her, patting her back, music that's playing but
-    which eventually shuts off.
+    rid of it from the routine. E.g. holding her, patting her back, music that's playing but which
+    eventually shuts off.
   * Lower the lights in the house an hour before bedtime. Bright lights suppress melatonin. Use a
     dim lamp in their room.
-  * Keep the room cool. 65-68.
+  * Keep the room cool. 65-68F.
   * Early bedtime begets longer stretches of sleep.
   * Their bodies are programmed for early rising. So moving forward bedtime let's them stretch out
     their sleep.
-  * If parents come home right before their bedtime, it's very stimulating for the kids.
+  * If parents come home right before their bedtime, it's very stimulating for the kids and impairs
+    their ability to ramp down.
 * Bedtimes routines
-  * Highly sensitive to routine. Do the same thing each day, in the same order. It's soothing.
+  * Kids are highly sensitive to routine. Do the same thing each day, in the same order. It's
+    soothing.
   * Choose soothing activities rather than stimulating activities.
   * Do slow, non-stimulating movements during the last stretch of the bedtime routine.
   * They will have a Pavlovian-like response to the routine leading up to their descent into sleep.
@@ -77,11 +81,11 @@
   * Sleep wave lets you both respond to your child, while also making it clear that the baby is
     responsible for soothing.
   * Steps:
-    * Put baby down awake. Say the same stately every time before leaving. "Love you; rest well.
-      I'll be right outside." It's crucial that it's said exactly the same every time. Both parents.
-      Tone should be calm and matter of fact.
+    * Put baby down awake. Say the same statement each time before leaving. "Love you; rest well.
+      I'll be right outside." The statement should be consistent each time, and the tone should be
+      calm and matter of fact.
     * If they don't cry, then leave them be.
-    * If they're crying, wait for 5 minutes. The enter, stand at the door, or crib, where the baby
+    * If they're crying, wait for 5 minutes. Then enter, stand at the door, or crib, where the baby
       can see you, and say your script, and then leave. You should be in there only 7-10 seconds.
       Babies will protest for 20-60m the first night. Don't add any new steps, like patting her
       back, when you enter. She will be guessing whether she did something different to get that
@@ -91,8 +95,8 @@
       frequency and precision of your visits, she will identify your pattern, trust it, and then be
       satisfied soothing herself.
   * Parents get confused when the child protests the change.
-  * Baby will get louder and angrier when you first do this. That's her testing the pattern until
-    she determines it's reliable.
+  * The baby will get louder and angrier when you first do this. That's her testing the pattern
+    until she determines it's reliable.
   * Use 5m intervals, not longer, so that her tears are ones of protest, not ones of fear and
     abandonment.
   * Through the crying, you are responding to your baby. You're just not taking back the baton of
@@ -121,7 +125,6 @@
   * The baby is overdressed.
   * Feeding happens right before bed.
 
-
 ## 2-6 years old (chap 5)
 
 * Each element in the bedroom that's part of their routine, they will need to be able to control
@@ -139,16 +142,14 @@
   * Helps to keep them on track and cement the routine.
 * Any time you're working with a verbal child, talk with them about any changes you plan to make to
   the routine.
-* Don't ever make bedtime ("I'll send you to bed!") a punishment. It should be a thing they get to
-  do, not a thing they have to do.
+* Don't ever make bedtime a punishment ("Behave, or I'll send you to bed!"). It should be a thing
+  they get to do, not a thing they have to do.
 * Institute a "last call policy"
   * This is the "last call" for asking for water, asking any questions they may have, toilet trips,
-    etc. This gesture both meets their needs, and also contains it.
-  * They feel heard and contained.
-
+    etc. This gesture both meets their needs, and also contains it. They will feel heard.
 * Techniques for helping them fall asleep independently
   * "Reverse sleep wave"
-    * Rather than the child having to call for you, and you come in every 5 minutes, instead, you
+    * Rather than the child having to call for you to come check in on them, instead you can
       proactively check in every 5 minutes, whether the child calls you or not.
     * The first time you do the check, go in after only 45 seconds. That way they can get the idea
       that they don't need to prompt you, and nothing that they did brought you in. Then gradually
@@ -181,7 +182,7 @@
   * Use a baby proof gate at the bedroom door to keep them contained.
   * Naturally, close the door if they are OK having it closed.
 * Kids who come out of their room
-  * Goal is to be so repetitive and non-engaging that they deem it not worthy to call you in.
+  * The goal is to be so repetitive and non-engaging that they deem it not worthy to call you in.
   * If they come out, walk or carry them back into bed, saying your phrase. If they're crying, do
     the 5 minute checks. Perform no other actions -- the "last call" is over.
   * Expect them to get up 20 times the first night, as they thoroughly test the boundaries of this
@@ -194,18 +195,19 @@
 * Early wakings
   * It's harder for the kid to fall back to sleep at the end of their sleep cycle.
   * Don't shift their bedtime later in response.
-  * Don't let even a sliver of morning might seep in to their room.
+  * Don't let even a sliver of morning light seep in to their room.
   * Buy a clock that they can read so they will know they need to lie there until it's actually
     morning.
 * Naps
-  * You'll know it's time to drop the nap when they go peacefully into their crib, but just lie
-    there and don't fall asleep, and on days where they do nap, bedtime becomes a much bigger hassle
-    than usual.
+  * You'll know it's time to drop the nap when:
+    * They go peacefully into their crib, but then just lie there and don't fall asleep.
+    * On days where they do nap, bedtime becomes a much bigger hassle than usual.
   * Hold the nap time in place even if they've stopped sleeping for some days. The quiet time allows
-    them to physically rest and they will often sleep again. Temporary nap strikes are a thing. Many
-    parents mistakenly drop their kids naps at this time.
+    them to physically rest and they will often return to sleeping again. Temporary "nap strikes"
+    are a thing. Many parents mistakenly drop their kids naps at this time.
   * If they protest for 30-45m, then end nap time for that day.
-  * Maintain a quiet time once they end nap. And slowly move their bedtime up.
+  * Maintain a quiet time once they end nap. And slowly move their bedtime up so they don't lose the
+    sleep.
 * When to move from crib to big bed
   * Some kids stay in cribs until 3. Most exit at 2.5.
   * "Don't fix something that isn't broken."
@@ -214,21 +216,22 @@
   * Expand the crib by putting up a baby gate at their door.
 * Scary dreams
   * If your child wakes up due to a nightmare, go to them immediately.
-  * 3 year-olds start to have scary dreams because they're exposed to stories which make it clear
-    that bad things can happen.
+  * Three year-olds start to have scary dreams because they're exposed to stories which make it
+    clear that bad things can happen.
   * When your child expresses fears about being in the dark, express curiosity and discuss their
     fears, rather than just telling them there's nothing to be afraid of. Sit in the room in the
     dark with your kid, and talk about how the shadows are from objects, and flip on the lights and
-    show how the objects of the same no matter whether it's light or dark
-  * (Some sundry advice)
+    show how the objects of the same no matter whether it's light or dark.
   * Use the reverse sleep wave.
-  * Don't show them the scary portions of movies during the day.
-  * This often happens on the second half of the night, during rem sleep, when most rem sleep
+  * Fast-forward through the scary portions of any movies you watch with them.
+  * Bad dreams often happens on the second half of the night, during rem sleep, when most rem sleep
     occurs.
   * Night terrors are different from nightmares. They happen after ~2 hours, when the child is first
     exiting from deep sleep. The child is in a disassociated state and can't be consoled. They
     appear to be awake but won't engage with you. Just sit near them and wait it out. The child
     won't remember them in the morning.
+    * (This did happen a handful of times with my kids and it was bizarre. I had to just wait until
+      they returned to coherence; they were crying and couldn't be reasoned with).
 * School
   * When they start school their sleep will be disrupted. Hold on to your predictable structure.
 * Moving
@@ -238,7 +241,7 @@
   * If you need to have the kid sleep with you to make room for guests, tell them this is a special
     occasion.
 * Trips
-  * Do your best not resort to the most unhelpful sleep associations; staying with them until they
+  * Do your best not resort to the most unhelpful sleep associations: staying with them until they
     fall asleep, and having them sleep in your bed.
   * Some kids are OK with one-off sleepovers with the parents. Others really cling to it and have a
     hard time reverting to the usual routine.
