@@ -39,3 +39,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 ## Psychology
 
 [Deep Work - Cal Newport](http://notes.philcrosby.com/deep-work-cal-newport.html)
+
+## Relationships
+
+[The Happy Sleeper - Heather Turgeon](http://notes.philcrosby.com/the-happy-sleeper-heather-turgeon.html)
