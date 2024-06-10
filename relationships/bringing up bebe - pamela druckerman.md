@@ -1,4 +1,4 @@
-# Bringing Up Bebe - Pamela Druckerman
+# Bringing Up Bébé - Pamela Druckerman
 
 ## Gems
 
@@ -10,8 +10,7 @@
   use good judgment and to be aware and respectful of other people. I'm implying that she has a
   certain wisdom about the situation and that she's in command of herself. And I'm suggesting that I
   trust her."
-  * (I don't do this enough. Often, I lecture my daughter in public, to her shame, which she then
-    resents.)
+  * (I don't do this enough. Often, I lecture my daughter in public, which she then resents.)
 * "French experts view learning to cope with 'no' as a crucial step in a child's evolution. It
   forces them to understand that there are other people in the world, with needs as powerful as
   their own."
@@ -35,24 +34,24 @@
 
 * The American parenting problem: "One writer defines the problem as 'simply paying more attention
   to the upbringing of children than can possibly be good for them.'"
-* Argues that the overparenting wave came about due to: widening the rich-poor gap, which caused a
-  more competitive parenting mindset; misled beliefs in the 80s onward that children are
-  psychologically frail and need more of our attention; that kidnapper and abuser danger lurks
-  everywhere.
+* Argues that the overparenting wave came about due to:
+  * Widening of the rich-poor gap, which caused a more competitive parenting mindset.
+  * Misled beliefs in the 80s onward that children are psychologically frail and need more of our
+    attention.
+  * That kidnapper and abuser danger lurks everywhere.
 * "Yet the French have managed to be involved [in the lives of their children] without becoming
   obsessive. They assume that even good parents aren't at the constant service of their children."
 
 ## Paris is burping (chap 2)
 
-* Observes that French mothers are much calmer about pregnancy; they put on less weight, stress much
-  less over the best practices and asking "is it safe?", and yet they have equally healthy birth
-  stats.
+* French mothers are much calmer about pregnancy; they put on less weight, stress much less over the
+  best practices and asking "is it safe?", and yet they have equally healthy birth stats.
 
 ## Doing her nights (chap 3)
 
-* Argues French parents have their kids sleeping through the night within a reasonable number of
-  nights. Not using any fancy or branded sleep method. Basically, self-efficacy and being encourage
-  to trust their bodies.
+* Pamela argues that French parents have their kids sleeping through the night within a reasonable
+  number of nights, without using fancy or branded sleep methods. Basically, self-efficacy and being
+  encouraged to trust their bodies.
 * "The Pause": a common French parenting motion; pausing before attending to a baby's wants, to let
   them learn to self-soothe and deal with frustrations.
   * "The Pause works in part because parents believe that tiny babies aren't helpless blobs. They
@@ -74,12 +73,11 @@
   use good judgment and to be aware and respectful of other people. I'm implying that she has a
   certain wisdom about the situation and that she's in command of herself. And I'm suggesting that I
   trust her."
-  * (I don't do this enough. Often, I lecture my daughter in public, to her shame, which she then
-    resents.)
+  * (I don't do this enough. Often, I lecture my daughter in public, which she then resents.)
 * This is what French parents are "educating" their children about, fundamentally.
   * "I'm now convinced that the secret of why French kids rarely whine or collapse into tantrums --
-  or at least do so less than American kids -- is that they've developed the internal resources to
-  cope with frustration. They don't expect to get what they want instantly."
+    or at least do so less than American kids -- is that they've developed the internal resources to
+    cope with frustration. They don't expect to get what they want instantly."
 * "Kids learn how to distract themselves when they're made to wait. They just need to be given the
   chance."
 * Why do American parents bring snacks for their kids everywhere they go?
@@ -99,12 +97,12 @@
 
 ## Tiny little humans (chap 5)
 
-* On parents who try to have their kids hit developmental milestones (like learn the alphabet;
+* About parents who try to have their kids hit developmental milestones (like learn the alphabet;
   subtraction) sooner than their peers: "He didn't think that pushing kids to acquire skills ahead
   of schedule was either possible or desirable. He believed that children reach these milestones at
   their own speeds, driven by their own inner motors."
-* Cadre -- a strict frame, within which the kid has great liberty. The frame usually consists of
-  rules and times for eating, sleeping, watching Tv.
+* Cadre: a strict frame, within which the kid has great liberty. The frame usually consists of rules
+  and times for eating, sleeping, watching Tv.
 * Dolto popularized listening carefully to one's kids and giving them the credit of being rational,
   while still setting boundaries (a cadre).
 
@@ -188,8 +186,8 @@
   each vegetable is inherently rich and interesting. Parents see it as their job to bring the child
   around to appreciating this. They believe that just as they must teach the child how to sleep, how
   to wait, and how to say bonjour, they must teach her how to eat."
-* Suggests talking about the expected sound sand textures of new food, to engage the child and get
-  them to focus on it.
+* Pamela suggests talking about the expected sounds and textures of new food, to engage the child
+  and get them to focus on it.
   * "All the French baby books I read urge parents to stay calm and cheerful at mealtimes, and above
     all to stay the course, even if their child doesn't take a single bite. 'Don't force him, but
     don't give up on proposing it to him,' the government handbook explains. 'Little by little,
@@ -214,7 +212,7 @@
   they respect boundaries and have self-control. So alongside character, there has to be cadre."
 * "This idea that you're teaching, not policing, makes the tone a lot gentler in France." (versus
   disciplining).
-* "Authoritative, but not authoritarian": "the parents' response should almost always be yes."
+* Authoritative but not authoritarian: "the parents' response should almost always be yes."
 * "Children should watch a bit of television, so they have a shared culture with other kids."
 * "Instead of spanking, they recommend that parents become adept at saying no. Like Marcelli, they
   say that 'no' should be used sparingly. But once uttered, it must be definitive."
