@@ -38,7 +38,8 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 
 ## Psychology
 
-[Deep Work - Cal Newport](https://notes.philcrosby.com/deep-work-cal-newport.html)
+[Deep Work - Cal Newport](https://notes.philcrosby.com/deep-work-cal-newport.html)<br>
+[Four Thousand Weeks - Oliver Burkeman](https://notes.philcrosby.com/four-thousand-weeks-oliver-burkeman.html)
 
 ## Relationships
 
