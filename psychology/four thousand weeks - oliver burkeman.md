@@ -93,7 +93,6 @@
   because it's scary to confront the truth that almost everything worth doing, from marriage and
   parenting to business or politics, depends on cooperating with others, and therefore on exposing
   yourself to the emotional uncertainties of relationships."
-* (Related, from 37signals: FOMO vs. JOMO - joy of missing out)
 * "Freedom, sometimes, is to be found not in achieving greater sovereignty over your own schedule
   but in allowing yourself to be constrained by the rhythms of community -- participating in forms
   of social life where you *don't* get to decide exactly what you do or when you do it."
@@ -233,7 +232,7 @@
 
 ## You are here (chap 8)
 
-* Future chasing mindset -- "When I finally xyz, then I can relax/become satisfied" -- is a limiting
+* Future chasing mindset -- "When I finally XYZ, then I can relax/become satisfied" -- is a limiting
   mindset which converts the present moment into mere stepping stones to the future, sapping the
   present of enjoyment.
 * "[People are] like donkeys running after carrots that are hanging in front of their faces from
