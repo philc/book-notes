@@ -1222,6 +1222,70 @@
   * "One YC founder told me that if he were a first-time founder again he'd 'leave ideas that are
     up-front capital intensive to founders with established reputations'" so that there's less
     pressure in the fundraising stage.
+* Before the Startup (Oct 2024)
+  * "One of the advantages of having kids is that when you have to give advice, you can ask yourself
+    'what would I tell my own kids?'"
+  * The mechanics of startups are counterintuitive, and for this reason one is prone to ignore good
+    advice.
+    * However, one's instincts about people are still trustworthy. But founders don't heed them
+      enough. Don't overlook a feeling that someone is slippery or uncommitted.
+  * "Starting a startup is where gaming the system stops working."
+  * "Startups are as impersonal as physics."
+  * About Mark Zuckerberg: "Success has taken a lot of the serendipity out of his life. Facebook is
+    running him as much as he's running Facebook. And while it can be very cool to be in the grip of
+    a project you consider your life's work, there are advantages to serendipity too, especially
+    early in life. Among other things it gives you more options to choose your life's work from."
+  * "So how do you turn your mind into the type that startup ideas form in unconsciously? (1) Learn
+    a lot about things that matter, then (2) work on problems that interest you (3) with people you
+    like and respect."
+  * "If you think of technology as something that's spreading like a sort of fractal stain, every
+    moving point on the edge represents an interesting problem. So one guaranteed way to turn your
+    mind into the type that has good startup ideas is to get yourself to the leading edge of some
+    technology -- to cause yourself, as Paul Buchheit put it, to 'live in the future.'"
+  * "At its best, starting a startup is merely an ulterior motive for curiosity."
+* The Fatal Pinch (Dec 2014)
+  * The fatal pinch is having months of runway left, and no other way to survive than to raise more
+    money.
+  * How do you avoid it? "Y Combinator tells founders who raise money to act as if it's the last
+    they'll ever get. Because of the self-reinforcing nature of this situation works the other way
+    too: the less you need further investment, the easier it is to get."
+  * "If you change your sales conversations just a little from 'do you want to buy our product?' to
+    'what do you need that you'd pay a lot for?' you may find it's suddenly a lot easier to extract
+    money from customers."
+  * "As you dive into individual users' needs, keep your eyes open for narrow openings that have
+    wide vistas beyond."
+* How you know (Dec 2014)
+  * On the influence of books on the mind: "Your mind is like a compiled program you've lost the
+    source of. It works, but you don't know why."
+  * "Reading and experience are usually 'compiled' at the time they happen, using the state of your
+    brain at that time. The same book would get compiled differently at different points in your
+    life. Which means it is very much worth reading important books multiple times.'"
+* How to be an expert in a changing world (Dec 2014)
+  * "Have an explicit belief in change. People who fall victim to a monotonically increasing
+    confidence in their opinions are implicitly concluding the world is static. If you consciously
+    remind yourself it isn't, you start to look for change."
+  * "It seems to me that beliefs about the future are so rarely correct that they usually aren't
+    worth the extra rigidity they impose, and that the best strategy is simply to be aggressively
+    open-minded."
+  * "In many fields a year of focused work plus caring a lot would be enough" to be a practical
+    expert.
+* What doesn't seem like work? (Jan 2015)
+  * "[My father] told me that what he really liked was solving problems. To me the exercises at the
+    end of each chapter in a math textbook represent work, or at best a way to reinforce what you
+    learned in that chapter. To him the problems were the reward." (That's awesome).
+  * "He said that as soon as he got a new textbook he'd immediately work out all the problems -- to
+    the slight annoyance of his teacher, since the class was supposed to work through the book
+    gradually."
+* Default alive or default dead? (Oct 2015)
+  * (Great essay.)
+  * "The large staffs or successful startups are probably more the effect of growth than the cause."
+* Write like you talk (Oct 2015)
+  * "Written language is more complex [than spoken language], which makes it more work to read. It's
+    also more formal nd distant, which gives the reader's attention permission to drift. But perhaps
+    worst of all, the complex sentences and fancy words give you, the writer, the false impression
+    that you're saying more than you actually are."
+  * "If you simply manage to write in spoken language, you'll be ahead of 95% of writers. And it's
+    so easy to do: just don't let a sentence through unless it's the way you'd say it to a friend."
 
 * How to do great work (Jul 2023)
   * "There's a kind of excited curiosity that's both the engine and the rudder of great work. It
