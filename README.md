@@ -27,6 +27,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 ## Engineering
 
 [An Elegant Puzzle - Will Larson](https://notes.philcrosby.com/an-elegant-puzzle-will-larson.html)<br>
+[How Big Things Get Done - Bent Flyvberg](https://notes.philcrosby.com/how-big-things-get-done-bent-flyvbjerg.html)<br>
 [Mythical Man Month - Fred Brooks](https://notes.philcrosby.com/mythical-man-month-fred-brooks.html)<br>
 [Shape Up - Ryan Singer](https://notes.philcrosby.com/shape-up-ryan-singer.html)<br>
 [Thinking in Systems - Donella Meadows](https://notes.philcrosby.com/thinking-in-systems-donella-meadows.html)
