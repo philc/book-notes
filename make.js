@@ -101,6 +101,8 @@ async function createIndex(files) {
     throw new Error("Error styling <body> when bulding the index page.");
   }
   htmlStr = htmlStr.replace("<body>", '<body id="index-page">');
+  // Use a plain title without the "- Book Notes" suffix.
+  htmlStr = htmlStr.replace(/<title>.+?<\/title>/, "<title>Book Notes</title>");
   await Deno.writeTextFile(path.join(buildDir, "index.html"), htmlStr);
 }
 
