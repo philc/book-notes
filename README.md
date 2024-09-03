@@ -37,10 +37,15 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 [The Psychology of Money - Morgan Housel](https://notes.philcrosby.com/the-psychology-of-money-morgan-housel.html)<br>
 [What is Culture For - School of Life](https://notes.philcrosby.com/what-is-culture-for-school-of-life.html)
 
+## Philosophy
+
+[A Guide to the Good Life - William Irvine](https://notes.philcrosby.com/a-guide-to-the-good-life-william-irvine.html)<br>
+
 ## Psychology
 
 [Deep Work - Cal Newport](https://notes.philcrosby.com/deep-work-cal-newport.html)<br>
 [Four Thousand Weeks - Oliver Burkeman](https://notes.philcrosby.com/four-thousand-weeks-oliver-burkeman.html)
+
 
 ## Relationships
 
