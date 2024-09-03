@@ -21,14 +21,20 @@
     were -- is on evolutionary autopilot: He wants nothing more than to be comfortable and to take
     advantage of whatever opportunities for pleasure present themselves. My other self lacks
     self-discipline."
+  * (Externalizing our unproductive desires, separating them from our identity, so they can be
+    dispassionately managed.)
 * "It is curious, but my competitors in a race are simultaneously my teammates in the much more
   important competition against my other self. By racing against each other, we are all
   simultaneously racing against ourselves."
+* If one becomes unable to enjoy "anything but the best", it's a state worthy of pity. It is more of
+  an achievement to be able to find delight in the most primitive things.
 * Stoicism calls for plain living, but not for poverty. A luxurious lifestyle has the danger of
   compromising our character and consuming our attention.
   * Increasingly discerning tastes is a curse.
 * Tool: asking "will this improve my long-term happiness?" is a good way to extinguish our desires
   for short-term gratification and consumption.
+* Seneca: old age is full of delights and should be cherished. We graduate out of many vices and
+  appetites; we live with the full benefit of our years of wisdom. (This is a great framing.)
 
 ## Intro
 
@@ -39,15 +45,15 @@
 ## The first stoics (chap 2)
 
 * "The Stoics enjoyed whatever 'good things' happened to be available, but even as they did so, they
-  prepared themselves to give up the things in question."
-  * In contrast to the asceticism of the Cynics.
+  prepared themselves to give up the things in question." In contrast to the asceticism of the
+  Cynics.
 * Stoic virtue, which leads to a well-lived life.
   * "In the same way that a 'virtuous' (or excellent) hammer is one that performs well the function
     for which it was designed -- namely, to drive nails -- a virtuous individual is one who performs
     well the function for which humans were designed. To be virtuous, then, is to live as we were
     designed to live; it is to live, as Zeno put it, in accordance with nature. The stoics would add
     that if we do this, we will have a good life."
-    * Cultivate the Earth, honor and take care of others, be rational.
+  * Cultivate the Earth, honor and take care of others, be rational.
 * Later the Roman stoics emphasized tranquility as the desirable by-product of pursuing virtue, and
   made tranquility the ultimate goal.
 * "By pointing to the tranquility people would gain by pursuing virtue -- they would make Stoic
@@ -55,7 +61,7 @@
 
 ## Roman Stoicism (chap 3)
 
-* Compared to the deep joy of living virtuously, with content, and self-reliance, "pleasures of the
+* Compared to the deep joy of living virtuously, with contentment, and self-reliance, "pleasures of the
   flesh are 'paltry and trivial and fleeting.'"
 * Pairing life-philosophy with religion
   * "Epictetus would then tell the prospective student that if he wishes to have a good life, he
@@ -75,10 +81,9 @@
   * This adaptation happens as our wealth increases, we accumulate nicer belongings, and as we
     marry. We take it for granted. The antidote is negative visualization.
   * This adaptation has the power to extinguish our enjoyment of the world.
-  * "Satisfaction treadmill"
-    * "There are doubtless many things in our life to which we have adapted, things that we once
-      dreamed of having but that we now take for granted, including, perhaps, our spouse, our
-      children, our house, our car, and our job."
+  * Satisfaction treadmill: "There are doubtless many things in our life to which we have adapted,
+    things that we once dreamed of having but that we now take for granted, including, perhaps, our
+    spouse, our children, our house, our car, and our job."
   * "The easiest way for us to gain happiness is to learn how to want the things we already have."
   * "One reason children are capable of joy is because they take almost nothing for granted. To
     them, the world is wonderfully new and surprising."
@@ -122,7 +127,7 @@
   * "Previously, when we thought we could repeat them at will, a meal at this restaurant or a kiss
     shared with our lover might have been unremarkable. But now that we know they cannot be
     repeated, they will likely become extraordinary events: the meal will be the best we ever had at
-    the restaurant, and he parting kiss will be one of the most intensely bittersweet experiences
+    the restaurant, and the parting kiss will be one of the most intensely bittersweet experiences
     life has to offer."
   * "By contemplating the impermanence of everything in this world, we are forced to recognize that
     every time we do something could be the last time we do it, and this recognition can invest the
@@ -206,9 +211,8 @@
   Just don't take it heart.
 * "We should likewise be careful observers of the actions of other people. We can, after all, learn
   from their mistakes and their successes." (As case studies).
-* Becoming less sensitive to external inputs when practicing stoicism.
-  * "We will shrug off their insults and slights. We will also shrug off any praise they might
-    direct our way."
+* Becoming less sensitive to external inputs when practicing stoicism: "We will shrug off their
+    insults and slights. We will also shrug off any praise they might direct our way."
 
 ## Duty (chap 9)
 
@@ -221,24 +225,19 @@
   hand, we can ease our anguish on leaving this world by taking a moment to reflect on all the
   annoying people we will no longer have to deal with when we are gone."
 * Marcus concluded that doing his social duty was the best chance at having a good life. There's a
-  certain kind of delight that comes from fulfilling one's purpose, and doing good.
+  certain kind of delight that comes from fulfilling one's purpose.
 
 ## Social relations (chap 10)
 
 * Be selective of our friends; corrupted values and vices are contagious. Avoid those who are
   whiners and complainers; they destroy tranquility.
-* When annoyed by people: empathize -- no doubt we annoy others at times. And being annoyed makes
-  the whole experience worse for us -- it only hurts us.
+* When annoyed by people, 1) empathize. no doubt we annoy others at times. 2) Discard our annoyance.
+  It only makes the experience worse for ourselves.
   * (It seems to me the most productive thing to do is to help the person correct their annoying
     behavior -- that helps everyone, and is an act of kindness to the annoying person).
-* It's wasted -- and negative -- energy to speculate about what an annoying person is thinking.
+* It's wasted energy and a negative exercise to speculate about what an annoying person is thinking.
   * "We can also, Marcus suggests, lessen the negative impact other people have on our life by
     controlling our thoughts about them."
-* "People, Marcus reminds us, do not choose to have the faults they do. Consequently, there is a
-  sense in which the people who annoy us cannot help doing so."
-  * (In my opinion, this is too generous. Many faults could be diminished if not for malice and
-    pride, or selfishness, each of which shouldn't be simply looked over as innate, immutable
-    qualities, to be forgiven and forgotten.)
 * "Social fatalism" -- Marcus is resigned to accept people as they come.
   * "Even though it is possible to change others, we can take some of the agony out of dealing with
     them by telling ourselves that they are fated to behave as they do."
@@ -254,15 +253,14 @@
   remembered long after they've occurred, upsetting our tranquility.
 * "One of their sting-elimination strategies is to pause, when insulted, to consider whether what
   the insulter said is true. If it is, there is little reason to be upset."
-  * "Why is it an insult to be told what is self-evident?"
 * "As we make progress in our practice of Stoicism, we will become increasingly indifferent to other
   people's opinions of us."
-* "Indeed, a Stoic sage, were one to exist, would probably take the insults of his fellow humans to
-  be like the barking of a dog."
+* "A Stoic sage, were one to exist, would probably take the insults of his fellow humans to be like
+  the barking of a dog."
 * If a contemptible person insults you, it can be ignored. Maybe even find comfort in that, if
   they're upset with you, you must be doing the right thing.
-* The voicing of an insult doesn't intrinsically carry a string -- the harm only occurs if we let
-  it, but judging the words as harmful and then reacting negatively to them.
+* The voicing of an insult doesn't intrinsically carry a string. The harm only occurs if we let it,
+  by judging the words as harmful and then reacting negatively to them.
 * How to respond to insults? With humor (particularly self-deprecating humor), or with no response
   at all -- with a magnanimous air. A non-response robs the insulter of the pleasure of having upset
   us and seeing that effect.
@@ -275,9 +273,9 @@
 * The goal is not to silence grief; doing so would not honor the affection we have for the lost
   life. The goal is to avoid being excessively grief-stricken.
 * Negative visualization helps anticipate and remove the shock of losing a loved one.
-* "Retrospective negative visualization" is comparing the time that we got with a person to having
+* "Retrospective negative visualization" is comparing the time that we had with a person to having
   had no time at all. In doing so, we can be thankful of the time we had.
-* (some of the material in this chapter doesn't sound like a healthy, in-touch approach --
+* (some of the material in this chapter doesn't sound like a healthy, in-touch approach to me. E.g.
   "overcoming grief with reason")
 
 ## Anger (chap 13)
@@ -303,16 +301,12 @@
   * "Stoics value their freedom, and they are therefore reluctant to do anything that will give
     others power over them. But if we seek social status, we give other people power of us: We have
     to do things calculated to make them admire us, and we have to refrain from doing things that
-    will trigger their disfavor. Epictetus therefore advises us not to seek social status, since if
-    we make it our goal to please others, we will no longer be free to please ourselves. We will, he
-    says, have enslaved ourselves."
+    will trigger their disfavor.... We will, he says, have enslaved ourselves."
 * The foolish desire for "immortal fame"
-  * "Think about how foolish it is to want to be remembered after we die. For one thing, since we
-    are dead, we will not be able to enjoy our fame. For another, we are foolish to think that
-    future generations will praise us, without even having met us, when we find it so difficult to
-    praise our contemporaries, even though we meet them routinely. Instead of thinking about future
-    fame, Marcus says, we would do well to concern ourselves with our present situation; we should
-    'make the best of today.'"
+  * It's a strange, impractical ambition. We will not enjoy our posthumous fame and praise. It's
+    unlikely anyone will praise us, not having met us. It's
+  * "Instead of thinking about future fame, Marcus says, we would do well to concern ourselves with
+     our present situation; we should 'make the best of today.'"
 * Sometimes even your friend won't root for you to succeed, because if you do succeed, it will make
   them uncomfortable.
 
@@ -336,8 +330,6 @@
   friends and family, and his property, but he has taken with him into exile the things that matter
   most: his place in Nature and his virtue."
 * Exile is just a "change of location."
-* "Diogenes, with typical Cynic wit, responded that although it was true that the people of Sinope
-  had sentenced him to exile, he in turn had sentenced them to remain in Sinope."
 * Exile has helped some -- by curtailing their pace of luxurious living, and by causing some to
   become philosophers.
 
@@ -348,10 +340,8 @@
   going to worsen with the passing years. Although she may have believed she was immortal when she
   was twenty, her own mortality is now painfully obvious to her. Faced with death, she might finally
   be willing to settle for 'mere tranquility', and she might, as a result, be ripe for stoicism."
-  * 80/20 inverse. What a difference 60 years makes.
 * Seneca: old age is full of delights and should be cherished. We graduate out of many vices and
-  appetites; we live with the full benefit of our years of wisdom.
-  * (This is a great framing.)
+  appetites; we live with the full benefit of our years of wisdom. (This is a great framing.)
 * Using our knowledge of our proximity to death to our advantage:
   * "In our youth, because we assumed that we would live forever, we took our days for granted and
     as a result wasted many of them. In our old age, however, waking up each morning can be a cause
@@ -390,7 +380,7 @@
     pointless: they disturb me but have no impact at all on the person at whom I am angry. Indeed,
     if anything, they serve to compound the harm he does me. What a waste!"
 * Practicing yoga can be a good vehicle for voluntary discomfort.
-* Proactively looking for situation to practice stoic techniques:
+* Proactively looking for situations to practice stoic techniques:
   * "I like to engage in activities, such as competitive rowing, that give me butterflies simply so
     I can practice dealing with them."
 * My other self is a coward
@@ -399,11 +389,13 @@
     were -- is on evolutionary autopilot: He wants nothing more than to be comfortable and to take
     advantage of whatever opportunities for pleasure present themselves. My other self lacks
     self-discipline."
+  * (Externalizing our unproductive desires, separating them from our identity, so they can be
+    dispassionately managed.)
 * "It is curious, but my competitors in a race are simultaneously my teammates in the much more
   important competition against my other self. By racing against each other, we are all
   simultaneously racing against ourselves."
 * "As a consumer, I seem to have crossed some kind of great divide. It seems unlikely that, having
-  crossed it, I will ever be ale to return to the mindless consumerism that I once found to be so
+  crossed it, I will ever be able to return to the mindless consumerism that I once found to be so
   entertaining."
 * Tool: asking "will this improve my long-term happiness?" is a good way to extinguish our desires
   for short-term gratification and consumption.
