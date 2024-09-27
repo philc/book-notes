@@ -33,8 +33,6 @@
   * Increasingly discerning tastes is a curse.
 * Tool: asking "will this improve my long-term happiness?" is a good way to extinguish our desires
   for short-term gratification and consumption.
-* Seneca: old age is full of delights and should be cherished. We graduate out of many vices and
-  appetites; we live with the full benefit of our years of wisdom. (This is a great framing.)
 
 ## Intro
 
