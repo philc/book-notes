@@ -16,6 +16,10 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 * Sentences in parentheses are my personal comments.
 * Some books have a "gems" section at the top which contains the parts that I most want to remember.
 
+## Architecture
+
+[Suburban Nation - Andres Duany, Elizabeth Plater-Zyberk, Jeff Speck](https://notes.philcrosby.com/suburban-nation-andres-duany.html)
+
 ## Business
 
 [7 Powers - Hamilton Helmer](https://notes.philcrosby.com/7-powers-hamilton-helmer.html)<br>
