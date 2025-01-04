@@ -28,12 +28,14 @@
     volume, unpredictable quality.
   * "A maintainer must manage their relationship with casual contributors in order to retain
     enthusiasm for a project."
+* "Software incurs ongoing maintenance costs, both marginal (costs that are a function of its users)
+  and temporal (entropy, or costs associated with decay over time)."
 * OSS is like "free as in puppy." The software gets older, is less exciting, and has needs that
   increase with time.
 * Tech debt
   * Incremental piece-meal evolution by a myriad of contributors inevitably adds cruft.
-  * OSS is more susceptible to technical debt and scope creep because contributors are casual and
-    don't have full context on the project.
+  * OSS is more susceptible to technical debt and scope creep because contributors don't have full
+    context on the project.
 * Selling to developers: a product, or a library dependency
   * "Developers are finicky consumers. Not only are they discerning, with a high degree of
     sensitivity to slight differences between open source projects, but if they don't like the
@@ -45,11 +47,11 @@
     preferences makes most libraries easily substitutable.
 * "Much of the fatigue that open source developers experience comes not from making their code
   public but from expectations around making their code participatory."
-* Sole maintainer model has the advantage that it avoids overhead from collaboration
-  * Also the best model for achieving aesthetic goals like minimalism.
+* The sole maintainer model has the advantage that it avoids overhead from collaboration
+  * Also it's the best model for achieving aesthetic goals like minimalism.
 * Maintainers could consider charging for "write access" (the ability to appropriate their
-  attention) rather than charging for read access, or soliciting donations. Charging makes their
-  attention "excludable."
+  attention) rather than charging for read access, or they could solicit donations. Charging makes
+  their attention "excludable."
 
 
 ## Intro
@@ -63,8 +65,8 @@
   diminishing returns. If the value of maintaining code fails to outpace the rewards, many of these
   developers quietly retreat to the shadows."
 * The popular wisdom is that the solution for maintainer burnout is to bring on more contributors.
-  OSS is built by communities, right? But these calls for help often attract low-quality
-  contributors, creating more -- and undesirable -- work for the maintainer.
+  OSS is built by communities, right? But these calls for help often attract casual contributors,
+  creating more -- and undesirable -- work for the maintainer.
 * At Github, the author learned that it's a small core that maintains OSS software, not communities.
   Most contributors offer only one change to the project.
 * Maintainers have evolved to be curators.
@@ -72,8 +74,8 @@
     interactions, such as user requests, bug reports, and feature requests, which compete for their
     attention."
   * Community interactions are reactive tasks; writing code is a proactive task.
-* The problem maintainers now need to solve is how to direct the high volume of interactions, not
-  how to onboard more people to write code.
+* The new problem maintainers now need to solve is how to direct the high volume of interactions,
+  not how to onboard more people to write code.
 * Open source transitioned from small internet to big internet
   * OSS creators are like other creators on social media. The audience is large, and the audience
     doesn't really help the creator create.
@@ -86,8 +88,7 @@
   and PRs. At some point the maintainer spends more time on non-code work than code work.
 * To handle the growth, a maintainer must perform increasingly aggressive filtering of the inbound
   interactions, or distribute the load by recruiting more maintainers.
-* Developing is fun; closing issues and answering questions is generally not.
-* Popular projects have a bystander effect among users.
+* Writing code is fun; closing issues and answering questions is generally not as fun.
 * There are four types of projects:
   * Federations: high contributor growth, high user growth (e.g. Rust)
   * Clubs: high contributor growth, low user growth (e.g. Astropy)
@@ -102,28 +103,19 @@
     contributions.
 * Clubs
   * Many users are also contributors. Common in niche or very technical tools.
-  * "Clubs are similar to meetup or hobby groups: they attract a narrow group of users, who then
-    also become contributors because they have higher context for the project's activity and feel a
-    sense of affinity to the group. Clubs may not have a wide reach, but they're loved and built by
-    a group of enthusiasts."
+  * "Clubs may not have a wide reach, but they're loved and built by a group of enthusiasts."
   * Sticky (long retention of maintainers), but not magnetic (low attraction of new maintainers).
 * Toys
   * Personal projects. May be popular and cool, but no one is relying on them. Like tech demos.
 * Stadiums
   * Few maintainers, highly centralized stewardship.
   * This model is becoming increasingly common.
-  * Structure encourages one-to-many, rather than many-to-many, interaction patterns.
-* "If we think about who supplies labor to an open source project, it's 'expensive' to onboard new
-  maintainers, because maintenance often requires knowledge that isn't easily externalized to
-  others. So newcomers tend to make casual contributions, instead of pitching in on more complex
-  tasks around project management."
+  * The structure encourages one-to-many, rather than many-to-many, interaction patterns.
+* It's expensive to onboard new maintainers because "maintenance often requires knowledge that isn't
+  easily externalized to others. So newcomers tend to make casual contributions, instead of pitching
+  in on more complex tasks around project management."
 * "By making it easier to contribute, or reducing technical scope, maintainers might move their
   projects from a stadium to a federation model."
-* Node.js's strategy on attracting new contributors:
-  * "The purpose of Node.js's contribution policy is to gain contributors, to retain them as much as
-    possible, and to use a much larger and growing contributor base to manage the corresponding
-    influx of contributions... avoid creating big decision hierarchies. Instead, invest in a broad,
-    growing and empowered contributorship that can make progress without intervention."
 * "Centralized communities operate on the basis of limited attention. As proprietors of their
   communities, creators must manage user demand on their own. As a result, they tend to rely more
   heavily on automation, distributed user-to-user support, and the aggressive elimination of noise.
@@ -139,10 +131,9 @@
   * "Money and open source don't mix." The presence of an extrinsic motivator displaces the internal
     ones, which are key for making the volunteer commons model work.
 * The required ingredients for strangers to collaborate on open source projects:
-  * "A few conditions that Benkler identifies as necessary to pull of commons-based peer production
-    are intrinsic motivation, modular and granular tasks, and low coordination costs."
-  * "Modular" and "granular", so that the barrier to entry is low, and the scope is small. Similar
-    to the Unix aesthetic.
+  * Modular and granular, so that the barrier of entry is low and the scope is small. Similar to the
+    Unix tools aesthetic.
+  * Low coordination costs.
 * Keeping coordination costs low is difficult. Coordination work is usually not intrinsically
   motivated.
   * (could it be?)
@@ -155,10 +146,10 @@
     creator prioritizes work based on scarcity of attention: saying no to contributors, closing out
     issues, reducing user support. While the commons is tasked with resolving *coordination* issues,
     creators are defined by the need for *curation*."
-* (Were commons just a temporary historical phenomenon? It's intuitive that big project would be
+* (Were commons just a temporary historical phenomenon? It's intuitive that big projects would be
   driven by a couple of high-leverage engineers -- the maintainers -- not hundreds of minor
-  contributors. Maybe in the early days of open source, the population using it was mostly 10x
-  engineers, given how niche it was.)
+  contributors. Maybe in the early days of open source, the population using it was mostly very
+  capable engineers, given how niche of an activity development software was.)
 * How platforms broke apart the commons
   * Github created a highway where it was easy to discover what else was out there, and lowered the
     barrier to contributing. Also, it made everything look homogenous.
@@ -173,8 +164,8 @@
   established norms? How can you even label them as outsiders, when OSS is open to all?
 * "When it's unclear where to draw community boundaries, voting systems don't work very well,
   because there's no way to know whether those votes are representative of the total population."
-  * (Discusses possibly an open forum and thorough discussion process, but not dictation from a
-    leader, and also not a wide vote.)
+  * (The author discusses possibly an open forum and thorough discussion process, which is not
+    dictation from a leader and not a wide vote.)
 * "Creation is an intrinsic motivator, maintenance usually requires extrinsic motivation." -
   @Balupton.
 * "A proposed contribution might seem like a good idea on its own, but it's the maintainer who must
@@ -211,8 +202,6 @@
 * Casual contributors
   * They're transactional. The main difference between them and active contributors is that one is
     self-oriented, the other community-oriented.
-  * "Whereas active contributors show interest in adding value to others early on, casual
-    contributors demonstrate an acute, personal need at the outset."
   * "They represent the inverse of the maintainer's linchpin status: many in number, but little
     aggregate value."
   * Github has created the ideal conditions for the number of casual contributors to increase.
@@ -236,11 +225,10 @@
   increase with time.
 * "In reality, a widely used project makes itself unforkable because it's become more than just the
   code."
-* "Software incurs ongoing maintenance costs, but marginal (costs hat are a function of its users)
+* "Software incurs ongoing maintenance costs, both marginal (costs that are a function of its users)
   and temporal (entropy, or costs associated with decay over time)."
-* Software has zero marginal cost?
-  * Software has zero marginal costs only in its static state. In an active state, the support
-    required for additional users is a substantial cost (i.e. user support costs).
+* Does software have zero marginal cost? Yes, in its static state. But in its active state, the user
+  support required for additional users is a substantial cost.
 * Temporal costs
   * "It's not just code itself that requires maintenance either, but all the supporting knowledge
     that surrounds it. When code changes, its documentation must also change. The most upvoted
@@ -250,8 +238,8 @@
   * Incremental piece-meal evolution by a myriad of contributors inevitably adds cruft.
     * "Code is 'cleanest' when it's first released, because that's the time at which developers are
       thinking about the project holistically and writing it from scratch."
-  * OSS is more susceptible to technical debt and scope creep because contributors are casual and
-    don't have full context on the project.
+  * OSS is more susceptible to technical debt and scope creep because contributors don't have full
+    context on the project.
   * Test infrastructure and test suites are particularly prone to technical debt, in the form of
     coarse tests, flaky tests, slow tests.
 * Adapting to user needs
@@ -287,15 +275,15 @@
   them away for free. It's like a neighborhood art expo, or talent show, or how people put up
   Christmas lights for free.
   * We are motivated to share what we make and have that part of us understood by others.
-* Maybe we're over producing software and blogging, and now consumers treat it like everything is
-  highly substitutable and worth nothing, such that they demand and expect things of the producers
-  that they have no real right to.
+* Maybe we're over-producing software and blog posts, such that now consumers treat it like
+  everything is highly substitutable and worth nothing, such that they demand and expect things of
+  the producers that they have no real right to.
 * Participation
   * "Much of the fatigue that open source developers experience comes not from making their code
     public but from expectations around making their code participatory."
   * "Open source code, in static state, is a public good, meaning that it is both non-excludable and
     non-rivalrous. Like my neighbor's Christmas decorations, if it can be consumed at nearly zero
-    marginal cost, we should just let people have it.
+    marginal cost, we should just let people have it."
   * "The *production* of open source code, however, functions more like a commons -- meaning that it
     is non-excludable and rivalrous -- where *attention* is the rivalrous resource. Maintainers
     can't stop users from bidding for their attention."
@@ -344,16 +332,16 @@
   take inspiration from them. N=1 lets them keep the whole project in their heads and avoid any
   overhead resulting from collaboration.
   * "I won't use your code. I love that people send me ideas, but I actually enjoy coding... so I
-    will gladly take your suggestions, though I will write it myself." (Author of Lua, about PRs for
-    Lua)
-  * Sole maintainer makes it possible to achieve aesthetic goals like minimalism.
+    will gladly take your suggestions, though I will write it myself." (Roberto Ierusalimschy,
+    author of Lua, about PRs for Lua)
+  * The sole maintainer model makes it possible to achieve aesthetic goals like minimalism.
 * "User-to-user systems are a way of distributing costs without appropriating attention from
   producers."
   * John Resig: "The very first person I brought on to the jQuery project wasn't another developer
     to help contribute... it was someone to help manage our community."
 * Maintainers could consider charging for "write access" (the ability to appropriate their
-  attention) rather than charging for read access, or soliciting donations. Charging makes their
-  attention "excludable."
+  attention) rather than charging for read access, or they could solicit donations. Charging makes
+  their attention "excludable."
   * "One popular project hosts regular 'office hours' with its highest-paying supporters as a perk
     of sponsorship."
 * Argues that social status is the typical reward currency for creators, but open source developers
