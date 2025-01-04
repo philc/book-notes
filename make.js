@@ -122,6 +122,7 @@ task("website", [], async () => {
     "engineering/mythical man month - fred brooks.md",
     "engineering/shape up - ryan singer.md",
     "engineering/thinking in systems - donella meadows.md",
+    "engineering/working in public - nadia eghbal.md",
     "lifestyle/what is culture for - school of life.md",
     "lifestyle/the psychology of money - morgan housel.md",
     "philosophy/a guide to the good life - william irvine.md",
