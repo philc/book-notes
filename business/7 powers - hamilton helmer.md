@@ -196,6 +196,9 @@
 * Argues the quality / cost reduction gains over time -- "traveling along the experience curve" --
   are widely similar across firms.
 * Operational excellence is essential for establishing sources of power, but it is not itself power.
+* Cornered resource vs process power?
+  * If someone new joins your company and the power transfers to them, then it's process power. If
+    it doesn't, then it's cornered resource.
 
 ## The path to power - "me too" won't do (chap 8)
 
