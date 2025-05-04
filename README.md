@@ -27,6 +27,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 [Powerful - Patty McCord](https://notes.philcrosby.com/powerful-patty-mccord.html)<br>
 [Radical Candor - Kim Scott](https://notes.philcrosby.com/radical-candor-kim-scott.html)<br>
 [Slack - Tom DeMarco](https://notes.philcrosby.com/slack-tom-demarco.html)<br>
+[Zero to One - Peter Thiel](https://notes.philcrosby.com/zero-to-one-peter-thiel.html)<br>
 
 ## Engineering
 
