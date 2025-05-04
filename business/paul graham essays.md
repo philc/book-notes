@@ -89,6 +89,43 @@
   have to take a long detour to get where you wanted to go. THere is something you want to say, and
   the language won't let you."
 
+# Hackers and Painters (May 2003)
+
+* https://www.paulgraham.com/hp.html
+* For hackers, the label "computer science" is a problem. They want to be writing software, but the
+  discipline sounds like they should be doing science and writing research papers.
+  * "It's easy to drift away from building beautiful things toward building ugly things that make
+    more suitable subjects for research papers."
+* "I've found that the best sources of ideas are not the other fields that have the word 'computer'
+  in their names, but the other fields inhabited by makers. Painting has been a much richer source
+  of ideas than the theory of computation."
+* He likens programming by debugging to sketching.
+* For sketching, the language must be malleable.
+  * "A programming is for thinking of programs, not for expressing programs you've already thought
+    of. It should be a pencil, not a pen. Static typing would be a fine idea if people actually did
+    write programs the way they taught me to in college. But that's not how any of the hackers I
+    know write programs. We need a language that lets us scribble and smudge and smear, not a
+    language where you have to sit with a teacup of types balanced on your knee an dmake polite
+    conversation with a strict old aunt of a compiler."
+* Science and engineering disciplines envy math. But "writers and painters don't suffer from math
+  envy. They feel as if they're doing something completely unrelated. So are hackers, I think."
+* "The... problem with startups is that there is not much overlap between the kind of software that
+  makes money and the kind that's interesting to write."
+  * All makers face this problem.
+  * Programming languages are fun to write, but no one pays for them.
+* For Viaweb, he looked for people who hacked the fun stuff in their spare time, like open source
+  software. That was a strong cue for culture fit.
+* Writers and painters regularly rewrite drafts from scratch and incorporate their new ideas into
+  successive revisions. "Maybe it would be good for hackers to act more like painters, and regularly
+  start over from scratch, instead of continuing to work for years on one project."
+* Paintings are created by sketching, and then gradual refinement. So is software.
+* A good programming language should allow you to change your mind easily, like oil painting.
+  * "The key to flexibility, I think, is to make the language very abstract. The easiest program to
+    change is one that's short."
+* He thinks software collaboration should be like a painter's workshop -- sole ownership over a
+  small piece, such that one artist doesn't step on the toes of another.
+* Writing good code is about readable code. It's showing empathy for other developers.
+
 ## Great hackers (Jul 2004)
 
 * "Great hackers think of it as something they do for fun, and which they're delighted to find
@@ -229,9 +266,9 @@
 ## What you'll wish you'd known (in high school) (Jan 2005)
 
 * On the question "what do you want to do with your life"
-  * "Adults ask this mainly as a conversation starter. They want to know aht sort of person you are,
-    and this question is just to get you talking. They ask it the way you might poke a hermit crab
-    in a tide pool, to see what it does." (so good)
+  * "Adults ask this mainly as a conversation starter. They want to know what sort of person you
+    are, and this question is just to get you talking. They ask it the way you might poke a hermit
+    crab in a tide pool, to see what it does."
 * The theory of genius vs. hard work
   * "I'm not saying that there's no such thing as genius. But if you're trying to choose between two
     theories and one gives you an excuse for being lazy, the other one is probably right."
@@ -240,7 +277,7 @@
   yet. They're on the frontier of civilization.
 * Working in a clump of smart people on hard problems is a symptom of being upwind. A problem is
   hard if there's suspense that you will fail.
-* Kids should not see their identity as "high school students. That's a day job, because most
+* Kids should not see their identity as "high school students." That's a day job, because most
   schools do not offer enriching, challenging problems to pursue; there's no way to get done
   anything important, or follow your curiosity.
 * "The word 'aptitude' is misleading, because it implies something innate. The most powerful sort of
@@ -252,17 +289,18 @@
   curiosity. It is for all ambitious adults. ANd you don't have to wait to start."
 * "This may sound like bullshit. I'm just a minor, you may think, I have no money, I have to live at
   home, I have to do what adults tell me all day long. Well, most adults labor under restrictions
-  just as cumbersome, and they manage to get things done. If you think it' restrictive being a kid,
+  just as cumbersome, and they manage to get things done. If you think it's restrictive being a kid,
   imagine having kids."
 
 ## How to start a startup (Mar 2005)
 
+* https://www.paulgraham.com/start.html
 * Outline:
   * Start with good people
   * Make something people want
   * Spend little money
 * "It's hard, but possible."
-* "The rulers of technology business tend to come from technology, not business. So if you want to
+* "The rulers of technology businesses tend to come from technology, not business. So if you want to
   invest two years in something that will help you succeed in business, the evidence suggests you'd
   do better to learn how to hack than get an MBA."
 * Validate what customers want by rapidly prototyping. Pick a tech stack which allows for this.
@@ -270,7 +308,7 @@
   * Watch them work, watch them use your early software.
 * What founders want from software is the kind of product that typically becomes open-source,
   unfortunately.
-  * "You can use this as a way to generate ideas for startups: what od people who are not like you
+  * "You can use this as a way to generate ideas for startups: what do people who are not like you
     want from technology?"
 * "If you want ideas for startups, one of the most valuable things you could do is find a
   middle-sized non-technology company and spend a couple weeks just watching what they do with
@@ -279,15 +317,15 @@
   * "They're the most strategically valuable part of the market anyway. In technology, the low end
     always eats the high end. It's easier to make an inexpensive product more powerful than to make
     a powerful product cheaper."
-* It sounds like PG loved doing customer support:
-  * "Imagine talking to a customer support person who not only knew everything about the product,,
-    but would apologize abjectly if there was a bug,, and then fix it immediately, while you were on
+* PG on doing the customer support for Viaweb:
+  * "Imagine talking to a customer support person who not only knew everything about the product,
+    but would apologize abjectly if there was a bug, and then fix it immediately, while you were on
     the phone with them. Customers loved us. And we loved them."
 * "To make something users love, you have to understand them. And the bigger you are, the harder
   that is. So I say 'get big slow.' The slower you burn through your funding, the more time you have
   to learn."
 * "This was slightly embarrassing at the time, but in retrospect the grad-studenty atmosphere of our
-  office was another of those things we did right without knowing it." (Having a cheap, hacker
+  office was another of those things we did right without knowing it." (i.e. having a cheap, hacker
   culture).
 * "Besides being cheaper and better to work in, apartments tend to be in better locations than
   office buildings."
@@ -321,7 +359,7 @@
 * Every founder must pass through the phase of trying to execute a bad business idea so they can
   develop the sense of what a good, viable business idea is.
 * "Where there's muck, there's brass. Meaning that unpleasant work pays."
-* 'As it turns out, VC-backed startups are not that fearsome. They're too busy trying to spend all
+* "As it turns out, VC-backed startups are not that fearsome. They're too busy trying to spend all
   that money to get software written."
 * Thinks YC applicants are good at solving problems but poor at picking good problems, because
   school and society trains them to focus narrowly on solving pre-defined problems.
@@ -348,7 +386,7 @@
 * "The more general version of this problem is that there are too many new ideas for companies to
   explore them all. There might be 500 startups right now who think they're making something
   Microsoft might buy. Even Microsoft probably couldn't manage 500 development projects in-house."
-* "Big companies also don't pay people the right way. People developoing a new product in a big
+* "Big companies also don't pay people the right way. People developing a new product in a big
   company get paid roughly the same whether it succeeds or fails. People at a startup expect to get
   rich if the product succeeds, and get nothing if it fails. So naturally the people at the startup
   work a lot harder."
@@ -361,10 +399,10 @@
 * "Amateurs": people who work for the love of it.
   * "People working for love often surpass those working for money."
   * (I thought professional vs. amateur was a comparison of skill and depth of training, not
-    sponsorship...)
+    sponsorship.)
 * "Hackers tend to think business if for MBAs. But business administration is not what you're doing
-  in a startup. What' you're doing is business *creation*. And the first phase of that is mostly
-  product creation -- that is, hacking. That's the hard part. It's a lot harer to create something
+  in a startup. What you're doing is business *creation*. And the first phase of that is mostly
+  product creation -- that is, hacking. That's the hard part. It's a lot harder to create something
   people love than to take something people love and figure out how to make money from it."
 
 ## After the ladder (Aug 2005)
@@ -381,7 +419,7 @@
 ## Ideas for startups (Oct 2005)
 
 * http://www.paulgraham.com/ideas.html
-* (Helpful list of sources for ideas, which can be used to classify the types of ideas I'm having)
+* (Helpful list of sources for ideas, which can be used to classify the types of ideas one is having)
 * "The main value of your initial idea is that, in the process of discovering it's broken, you'll
   come up with your real idea."
 * "The initial idea is just a starting point -- not a blueprint, but a question. It might help if
@@ -400,7 +438,7 @@
     the resistance of the wood."
 * Recommends a "together-alone-together" sandwich of collaborating on new ideas.
 * Make thing X dramatically cheaper or easier is fertile ground for valuable ideas.
-  * "if you want to start a startup, you can take almost any existing technology produced by a big
+  * "If you want to start a startup, you can take almost any existing technology produced by a big
     company, and assume you could build something way easier to use."
 * The Woz route: build-for-yourself is the most fun route to ideas.
 * "It seems like it violates some kind of conservation law, but there it is: the best way to get a
@@ -476,6 +514,7 @@
 
 ## The hardest lessons for startups to learn (Apr 2006)
 
+* https://paulgraham.com/startuplessons.html
 * "Perhaps the most important reason to release early... is that it makes you work harder. When
   you're working on something that isn't released, problems are intriguing. In something that's out
   there, problems are alarming."
@@ -746,7 +785,7 @@
     confident salesmen, impressive offices, and software that conforms to all the current fashions."
 * Versus founding a startup:
   * "All users care about is whether you make something they like. If you don't, you're dead."
-  * Unlike joining a big company, the "test" of founding a startup taht makes useful software is not
+  * Unlike joining a big company, the "test" of founding a startup that makes useful software is not
     gameable. It's pure.
     * (Probably athletic performance is a similarly pure test).
 * "What we've found is that the variation between schools is so much smaller than the variation
@@ -793,8 +832,8 @@
 
 ## Six principles for making new things (Feb 2008)
 
-* "Find (a) simple soutions (b) to overlooked problems (c) that actually need to be solved, and (d)
-  deliver htme as informally as possible, (e) starting with a very crude version 1, then (f)
+* "Find (a) simple solutions (b) to overlooked problems (c) that actually need to be solved, and (d)
+  deliver them as informally as possible, (e) starting with a very crude version 1, then (f)
   iterating rapidly."
 
 ## You weren't meant to have a boss (Mar 2008)
@@ -910,7 +949,7 @@
 ## Why to start a startup in a bad economy (Oct 2008)
 
 * "The truth is... boring: the state of the economy doesn't matter much either way."
-* "Startups often make things cheaper, so in that respsect they're better positioned to prosper in a
+* "Startups often make things cheaper, so in that respect they're better positioned to prosper in a
   recession than big companies."
 * "Another advantage of bad times is that there's less competition. Technology trains leave the
   station at regular intervals. If everyone else is cowering in a corner, you may have a whole car
@@ -919,7 +958,7 @@
 ## The other half of "artists ship" (Nov 2008)
 
 * "It's natural for organizations to learn from mistakes. The problem is, people who propose new
-  checks almonst never conisder that the check itself has a cost."
+  checks almost never consider that the check itself has a cost."
 * "At big companies, software has to go through various approvals before it can be launched. And the
   cost of doing this can be enormous -- in fact, discontinuous."
   * Meaning, it gets so annoying to release something that the SWE quits and leaves for a startup.
@@ -928,7 +967,7 @@
 
 * "Cram schools turn wealth in one generation into credentials in the next."
   * Cram schools defeat the intention of tests of performance to filter for actual ability.
-* "History suggetss that, all other things being equal, a society prospers in proportion to its
+* "History suggests that, all other things being equal, a society prospers in proportion to its
   ability to prevent parents from influencing their children's success directly."
 * "The problem comes when parents use direct methods: when they are able to use their own wealth or
   power as a substitute for their children's qualities."
@@ -995,7 +1034,7 @@
 
 ## Maker's schedule, manager's schedule (Jul 2009)
 
-* (Very helpful for communicating workstyle preferences to managers)
+* (Very helpful for communicating work style preferences to managers)
 
 ## Ramen profitable (Jul 2009)
 
@@ -1052,7 +1091,7 @@
   outweigh the extra output lost."
 * "I've been surprised again and again by just how much more important persistence is than raw
   intelligence."
-* "Product devvelopment is a conversation with the user that doesn't really start till you launch."
+* "Product development is a conversation with the user that doesn't really start till you launch."
 * "It's so important to launch fast that it may be better to think of your initial version not as a
   product, but as a trick for getting users to start talking to you."
 * "The surprise is generally positive as well as negative. They won't like what you've built, but
@@ -1119,7 +1158,6 @@
   * Yahoo wanted to be a media company, not a tech company run by programmers, because they latched
     on to a business model of scaling brand ads.
 
-
 ## Schlep blindness (Jan 2012)
 
 * http://www.paulgraham.com/schlep.html
@@ -1127,13 +1165,12 @@
 * "A company is defined by the schleps it will undertake."
 * "The most dangerous thing about our dislike of schleps is that much of it is unconscious. Your
   unconscious won't even let you see ideas that involve painful schleps. That's schlep blindness."
-* On ideas which require high levels of challenge, schlep: "that scariness makes ambitious ideas
+* On ideas which require high levels of challenge and schlep: "that scariness makes ambitious ideas
   doubly valuable. In addition to their intrinsic value, they're like undervalued stocks in the
   sense that there's less demand for them among founders. If you pick an ambitious idea, you'll have
   less competition, because everyone else will have been frightened off by the challenges involved."
 * Example: why did so many startups try to build recipe sites or local event aggregators, instead of
   fixing payments, like Stripe did?
-
 
 ## Frighteningly ambitious startup ideas (Mar 2012)
 
@@ -1143,7 +1180,6 @@
   certainly mistaken. Start with something you know works, and when you expand, expand westward."
 * "The popular image of the visionary is someone with a clear view of the future, but empirically it
   may be better to have a blurry one."
-
 
 ## Writing and speaking (Mar 2012)
 
@@ -1157,7 +1193,6 @@
   hearing a talk can only spend as long thinking about sentence as it takes to hear it."
 * Talks are inferior to writing for sources of ideas. But they do give us a live impression o the
   speaker, and thus can be good tools for becoming energized and motivated.
-
 
 ## Startup = growth (Sep 2012)
 
@@ -1191,6 +1226,7 @@
 
 ## How to get startup ideas (Nov 2012)
 
+* https://www.paulgraham.com/startupideas.html
 * (Motivating; in short: it can be done; start building and embrace schleps.)
 * To start, optimize for something a few people want really badly.
   * "When you have an idea for a startup, ask yourself: who wants this right now? Who wants this so
@@ -1206,7 +1242,7 @@
 * Organic ideas
   * "The verb you want to be using with respect to startup ideas it not "think up" but "notice." At
     YC we call ideas that grow naturally out of the founders' own experiences 'organic' startup
-    ideas. The most successful startups almost all being this way."
+    ideas. The most successful startups almost all begin this way."
 * "What you should be spending your time on in college is ratcheting yourself into the future.
   College is an incomparable opportunity to do that."
   * Rather than studying "entrepreneurship", which is the easier part of forming a startup, and best
@@ -1216,7 +1252,7 @@
     problems.
   * "For some reason, the more a project has to count as research, the less likely it is to be
     something that could be turned into a startup."
-* Err on the side of doing things where you'll face competitors. Inexperienced founders usually give
+* "Err on the side of doing things where you'll face competitors. Inexperienced founders usually give
   competitors more credit than they deserve."
 * Developers have a preference to not interact with the messy world.
   * "But this preference is so widespread that the space of convenient startup ideas has been
@@ -1240,18 +1276,19 @@
 * Paul Buchheit, how how selling something bad can help you disqualify the idea, while discovering a
   new one that's actually valuable:
   * "The best technique I've found for dealing with YC companies that have bad ideas is to tell them
-    to go sell the product ASAP (before wasitng time building it). Not only do they learn that
+    to go sell the product ASAP (before wasting time building it). Not only do they learn that
     nobody wants what they are building, they very often come back with a real idea that they
     discovered in the process of trying to sell the bad idea."
 
 ## Do things that don't scale (Jul 2013)
 
+* https://paulgraham.com/ds.html
 * "Startups take off because the founders make them take off."
 * "Founders don't focus enough on individual customers [because] they worry it won't scale." But
   they have nothing to lose, and if they make their product so good that they can no longer scale
   their model, that's a great situation to be in.
 * "Tim cook doesn't send you a hand-written note after you buy a laptop. He can't. But you can.
-  That's one avantage of being small: you can provide a level of service no big company can."
+  That's one advantage of being small: you can provide a level of service no big company can."
 * "Once you realize that existing conventions are not the upper bound on user experience, it's
   interesting in a very pleasant way to think about how far you could go to delight your users."
   * Aim for insanely great.
@@ -1391,7 +1428,7 @@
 
 * "[My father] told me that what he really liked was solving problems. To me the exercises at the
   end of each chapter in a math textbook represent work, or at best a way to reinforce what you
-  learned in that chapter. To him the problems were the reward." (That's awesome).
+  learned in that chapter. To him the problems were the reward." (That's great).
 * "He said that as soon as he got a new textbook he'd immediately work out all the problems -- to
   the slight annoyance of his teacher, since the class was supposed to work through the book
   gradually."
@@ -1454,6 +1491,7 @@
 
 ## The bus ticket theory of genius (Nov 2019) **
 
+* https://paulgraham.com/genius.html
 * In short, to do great work requires: ability, determination, and an obsessive interest in a topic
   that matters.
 * "When you're obsessively interested in something, you don't need as much determination: you don't
@@ -1492,6 +1530,7 @@
 
 ## Billionaires build (Dec 2020)
 
+* https://www.paulgraham.com/ace.html
 * (This is about what YC looks for in teams, which happens to also be the same qualities that it
   takes to make a billionaire businessperson. It's a good reminder: startups are primarily about
   delighting users.)
@@ -1516,9 +1555,10 @@
 
 ## Earnestness (Dec 2020)
 
+* https://paulgraham.com/earnest.html
 * Earnest: "it means both that they're doing something for the right reasons, and that they're
   trying as hard as they can."
-* "Nerds" re interested in the topic for its own sake.
+* "Nerds" are interested in the topic for its own sake.
 * "When you zoom in on Silicon Valley, right into Jessica Livingston's brain, that's what her x-ray
   vision is seeking out in founders. Earnestness! Who'd have guessed?"
 * In startups with interesting work, "the fact that the work is genuinely interesting is a big part
@@ -1526,6 +1566,7 @@
 
 ## A Project of One's Own (June 2021) **
 
+* https://www.paulgraham.com/own.html
 * Working on your own engaging project vs work defined by someone else:
   * "You feel as if you're an animal in its natural habitat, doing what you were meant to do -- not
     always happy, maybe, but awake and alive."
@@ -1554,18 +1595,21 @@
     think this greatly risks the motivational benefits of having a team's eyes on your work and
     caring about an artifact that's shared with the team.)
 
-
 ## How to do great work (Jul 2023) **
 
 * https://www.paulgraham.com/greatwork.html
 * "There's a kind of excited curiosity that's both the engine and the rudder of great work. It will
   not only drive you, but if you let it have its way, will also show you what to work on."
+* "Four steps: choose a field, learn enough to get to the frontier, notice gaps, explore promising
+  ones. This is how practically everyone who's done great work has done it."
 * "Interest will drive you to work harder than mere diligence ever could."
-* "Fields change as you learn more about them. What mathematicians do, for example, is very
-  different from what you do in high school math classes. So you need to give different types of
-  work a chance to show you what they're like."
-* "A field should become *increasingly* interesting as you learn more about it. If it doesn't, it's
-  probably not for you."
+* "Fields change as you learn more about them... so you need to give different types of work a
+  chance to show you what they're like."
+  * "A field should become *increasingly* interesting as you learn more about it. If it doesn't, it's
+    probably not for you."
+* "While you need boldness, you don't usually need much planning. In most cases the recipe for doing
+  great work is simply: work hard on excitingly ambitious projects, and something good will come of
+  it." (staying upwind)
 * "Arrange your life so you have big blocks of time to work in. You'll shy away from hard tasks if
   you know you might be interrupted."
 * "It's ok to lie to yourself about how much work a project will entail, for example. Lots of great
@@ -1577,11 +1621,12 @@
 * "If you don't try to be the best, you won't even be good."
   * This is perhaps because ambition to be the best is qualitatively different than ambition to be
     good. So set yourself up for success by aiming for world class.
-* "Nerds have an advantage in doing great work: they expend little effort on seeming anything. In
-  fact that's basically the definition of a nerd. Nerds have a kind of innocent boldness that's
-  exactly what you need in doing great work. It's not learned; it's preserved from childhood. So
-  hold onto it. Be the one who puts things out there rather than the one who sits back and offers
-  sophisticated-sounding criticisms of them."
+* "Any energy that goes into how you seem comes out of being good. Nerds have an advantage in doing
+  great work: they expend little effort on seeming anything... Nerds have a kind of innocent
+  boldness that's exactly what you need in doing great work. It's not learned; it's preserved from
+  childhood. So hold onto it. Be the one who puts things out there rather than the one who sits back
+  and offers sophisticated-sounding criticisms of them."
+* "Be professionally curious about a few topics and idly curious about many more."
 * "Some of the very best work will seem like it took comparatively little effort, because it was in
   a sense already there. It didn't have to be built, just seen. It's a very good sign when it's hard
   to say whether you're creating something or discovering it."
@@ -1594,12 +1639,18 @@
   something slightly too difficult."
 * "Ideas that are the right kind of crazy tend to be exciting; they're rich in implications; whereas
   ideas that are merely bad tend to be depressing."
+* "People show much more originality in solving problems than in deciding which problems to solve."
+  Because problems are bigger bets; they could take years, whereas a specific solution can be
+  explored in days.
 * "One of the most interesting kinds of unfashionable problem is the problem that people think has
-  been fully explored, but hasn't."
+  been fully explored, but hasn't. Great work often takes something that already exists and shows
+  its latent potential."
   * "So if you're interested in a field that others think is tapped out, don't let their skepticism
     deter you. People are often wrong about this."
   * (This was the case when I started Liftoff in 2012. Every investor we spoke to said mobile
     performance marketing was "solved" and we were too late.)
+* "Working on an unfashionable problem can be very pleasing. There's no hype or hurry. Opportunists
+  and critics are both occupied elsewhere. The existing work often has an old-school solidity."
 * PG recommends to indulge yourself on what might seem to be interesting, but unimportant, problems.
   People tend to be too conservative in their assessment of what might be important.
 * "People think big ideas are answers, but often the real insight was in the question."
@@ -1621,19 +1672,21 @@
   * "Originality is the presence of new ideas, not the absence of old ones."
 * "One of the most powerful kinds of copying is to copy something from one field into another."
 * "The degree to which great work happens in clusters suggests that one's colleagues often make the
-  difference between doing great work and not."
-* "Avoid intermediaries between you and your audience."
+  difference between doing great work and not." Good colleagues offer you surprising insights,
+  because they can do things that you can't.
+* Having an audience is fuel for morale.
   * "The value of an audience doesn't grow anything like linearly with its size. Which is bad news
     if you're famous, but good news if you're just starting out, because it means a small but
     dedicated audience can be enough to sustain you. If a handful of people genuinely love what
     you're doing, that's enough."
+  * "Avoid intermediaries between you and your audience." Go direct.
 * "Don't marry someone who doesn't understand that you need to work, or sees your work as
   competition for your attention. If you're ambitious, you need to work; it's almost like a medical
   condition so someone who won't let you work either doesn't understand you, or does and doesn't
   care."
 * "The opinion of people you respect is signal. Fame, which is the opinion of a much larger group
   you might or might not respect, just adds noise."
-* The whole process of doing great work is a "dance with curiosity"
+* "Curiosity is the best guide." The whole process of doing great work is a "dance with curiosity"
   * "Notice how often that word [curiosity] has come up. If you asked an oracle the secret to doing
     great work and the oracle replied with a single word, my bet would be on 'curiosity.'"
 * "The discoveries are out there, waiting to be made. Why not by you?"
@@ -1670,3 +1723,22 @@
   exponential growth by word of mouth."
 * "Even now to most people the phrase 'your work' means their job. But to a writer or artist or
   scientist it means wahtever they're currently studying or creating."
+
+## How to start Google (Mar 2024)
+
+* https://www.paulgraham.com/google.html
+* "If it was obviously a good idea to start Apple or Google or Facebook, someone else would have
+  already done it. That's why the best startups grow out of projects that aren't meant to be
+  startups. You're not trying to start a company. You're just following your instincts about what's
+  interesting."
+* Getting into a good university matters because that is empirically where smart people congregate,
+  and being among smart people is essential for finding cofounders.
+* Universities are "where the cofounders are, they're also where the ideas are, because the best
+  ideas grow out of projects you do with the people who become your cofounders."
+
+## When to do what you love (Sep 2024)
+
+* It's easier to excel in tastes which are less popular, because they're less competitive:
+  * "It's clear that Bill Gates truly loved running a software company. He didn't just love
+    programming, which a lot of people do. He loved writing software for customers. That is a very
+    strange taste indeed, but if you have it, you can make a lot by indulging it."
