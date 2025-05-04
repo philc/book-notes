@@ -32,7 +32,7 @@
       supposed to do for the next few days to work on it. Yes, those errands may cost you more time
       when you finally get around to them."
   * "In theory it's good when the founders finally get enough money to hire people to do some of the
-    work for them. But it may be better to be oveerworked than interrupted. Once you dilute a
+    work for them. But it may be better to be overworked than interrupted. Once you dilute a
     startup with ordinary office workers -- with type-B procrastinators -- the whole company starts
     to resonate at their frequency. They're interrupt-driven, and soon you are too."
   * Working on important problems, as Hamming prescribed:
@@ -72,7 +72,7 @@
     morale, it makes other people want to help them, and above all, it helps them be decisive."
   * "When founders seem unfocused, I sometimes suggest they try to get customers to pay them for
     something, in the hopes that this constraint will prod them into action."
-  * "Having to hit a growth number every week forces founders to act, and acting veruss not acting
+  * "Having to hit a growth number every week forces founders to act, and acting versus not acting
     is the high bit of succeeding."
   * Thinking about startups as vectors, rather than scalars (i.e. just the idea)
     * "We should try thinking of them as pairs of what you're going to build, plus the unscalable
@@ -185,7 +185,7 @@
   * "If there's one piece of advice I would give about writing essays, it would be: don't do as
     you're told. Don't believe what you're supposed to. Don't write the essay readers expect; one
     learns nothing from what one expects."
-* What the bubble got right (Spe 2004)
+* What the bubble got right (Sep 2004)
   * "Going public early will not be the right plan for every company. And it can of course be
     disruptive -- by distracting the management, or by making the early employees suddenly rich."
     * (The only way to avoid crippling distraction, I think, is to have everyone there be for the
@@ -399,7 +399,7 @@
       supposed to do for the next few days to work on it. Yes, those errands may cost you more time
       when you finally get around to them."
   * "In theory it's good when the founders finally get enough money to hire people to do some of the
-    work for them. But it may be better to be oveerworked than interrupted. Once you dilute a
+    work for them. But it may be better to be overworked than interrupted. Once you dilute a
     startup with ordinary office workers -- with type-B procrastinators -- the whole company starts
     to resonate at their frequency. They're interrupt-driven, and soon you are too."
   * Hamming: "What's the best thing you could be working on, and why aren't you?"
@@ -637,7 +637,7 @@
       effective tactics.
     * "In industrialized countries the same thing happened with food in the middle of teh twentieth
       century."
-* Holding a program in one's head (chap 10)
+* Holding a program in one's head (Aug 2007)
   * "The danger of a distraction depends not on how long it is, but on how much it scrambles your
     brain."
   * "You can magnify the effect of a powerful language by using a style called bottom-up
@@ -735,6 +735,10 @@
     incumbents; you redefine the problem to make them irrelevant."
   * Anecdote from a recently acquired founder: his team was 1/13th as productive after the
     acquisition, as measured by LOC.
+* Six principles for making new things (Feb 2008)
+  * "Find (a) simple soutions (b) to overlooked problems (c) that actually need to be solved, and
+    (d) deliver htme as informally as possible, (e) starting with a very crude version 1, then (f)
+    iterating rapidly."
 * You weren't meant to have a boss (Mar 2008)
   * Lion analogy: how a lion feels in the wild vs. the zoo. Be a lion in the wild.
   * There's a natural size of group for humans to work with. Subdividing corporations into smaller
@@ -1013,7 +1017,7 @@
     * (PG talks about squandering time, but there's also great emotional benefit which comes from
       expunging an emotionally draining top idea from your mind, like a conflict.)
 * What happened to Yahoo (Aug 2010)
-  * (Fun essay about his observations from joining there in 1998).
+  * (Fun essay about his observations after joining them in 1998).
   * "In technology, once you have bad programmers, you're doomed. I can't think of an instance where
     a company has sunk into technical mediocrity and recovered. Good programmers want to work with
     other good programmers. So once the quality of programmers ast your company starts to drop, you
@@ -1037,7 +1041,7 @@
     payments, like Stripe did?
 
 * Frighteningly ambitious startup ideas (Mar 2012)
-  * "I think the way to use these bi ideas is not to try to identify a precise point in the future
+  * "I think the way to use these big ideas is not to try to identify a precise point in the future
     and then ask yourself how to get from here to there, like the popular image of a visionary."
   * "Don't try to construct the future like a building, because your current blueprint is almost
     certainly mistaken. Start with something you know works, and when you expand, expand westward."
@@ -1222,7 +1226,7 @@
   * "One YC founder told me that if he were a first-time founder again he'd 'leave ideas that are
     up-front capital intensive to founders with established reputations'" so that there's less
     pressure in the fundraising stage.
-* Before the Startup (Oct 2024)
+* Before the Startup (Oct 2014)
   * "One of the advantages of having kids is that when you have to give advice, you can ask yourself
     'what would I tell my own kids?'"
   * The mechanics of startups are counterintuitive, and for this reason one is prone to ignore good
@@ -1286,13 +1290,145 @@
     that you're saying more than you actually are."
   * "If you simply manage to write in spoken language, you'll be ahead of 95% of writers. And it's
     so easy to do: just don't let a sentence through unless it's the way you'd say it to a friend."
+* The Refragmentation (Jan 2016)
+  * (This is an essay about AMerica's transition from a low-resolution / compressed "Duplo" economy
+    and society, into a more fragmented, higher-resolution one, with many more and finer differences
+    between people and companies).
+  * Many people were bound together during WWII from being conscripted into the army. When they
+    returned, big companies provided a similar binding effect.
+  * National corporations were new: "developments in finance, communications, transportation, and
+    manufacturing enabled a new type of company whose goal was above all scale."
+    * Thousands of companies merged, chasing economies of scale.
+  * "Your prestige was the prestige of the institution you belonged to", whether academic, or the
+    climbing the corporate ladder of a large company.
+  * "The result of making college the canonical path for the ambitious was aw orld in which it was
+    socially acceptable to work for Henry Ford, but not to be Henry Ford."
+  * Version 1 vs Version 2 of our economy: version 2 was fragmented into more firms, had more
+    dynamism, offering a larger variety of products.
+    * "The companies in the S&P 500 in 1958 had been there an average of 61 years. By 2012 that
+      number was 18 years."
+  * One can make a fortune by creating wealth or by playing zero sum games. Both are viable.
+  * "A physicist who chose physics over Wall Street in 1990 was making a sacrifice that a physicist
+    in 1960 didn't have to think about."
+  * "The thing to be when I was a kid was an *executive*. If you weren't around then it's hard to
+    grasp the cachet the term had. The fancy version of everything was called the 'executive'
+    model." (rather than a founder).
+* Life is short (Jan 2016)
+  * Can we really say that life is short? With parenting, continuous time is made discrete: you
+    realize there are only a handful of snow days where your kid wants to make a snow fort. And it's
+    clearly a countable, small number. Thus, life is clearly short.
+  * For Paul, "arguments of the form 'Life is too short for x' have great force."
+  * "Bullshit" is what comes to mind when asking "what is life too short for?" "There's something
+    fake about it. It's the junk food of experience."
+  * If you're a small company, you can choose to avoid toxic customers (and thus avoid bullshit in
+    your corporate adventures).
+  * "One heuristic for distinguishing stuff that matters is to ask yourself whether you'll care
+    about it in the future."
+  * "Cultivate a habit of impatience about the things you most want to do" so we're not taken by
+    surprise and regret when life manifests its shortness.
+  * "Relentlessly prune bullshit, don't wait to do things that matter, and savor the time you have.
+    That's what you do when life is short."
+* The bus ticket theory of genius (Nov 2019) **
+  * In short, to do great work requires: ability, determination, and an obsessive interest in a topic
+    that matters.
+  * "When you're obsessively interested in something, you don't need as much determination: you
+    don't need to push yourself as hard when curiosity is pulling you."
+  * Which obsessions are promising? Ones where you're creating something rather than consuming, and
+    ones which are difficult.
+  * "It may help explain why different types of people excel at different kinds of work. Interest is
+    much more unevenly distributed than ability."
+  * Why might people be less likely to do great work once they have children? Children are
+    compelling, and interest in them can crowd out other interests.
+  * If this theory is true, then cultivating one's interest is a productive use of time on the path
+    to doing great work.
+  * Helping to uncover one's deep interests: ask yourself "if you could take a year off to work on
+    something that probably wouldn't be important but would be really interesting, what would it
+    be?"
+  * To avoid decline with age, don't give up "irresponsible" interests and side projects.
+  * Cultivating interests in kids
+    * "Different kids get interested in different things, and it's hard to make a child interested in
+      something they wouldn't otherwise be. Not in a way that sticks."
+    * (How much of a particular interest is inborn?)
+    * As a parent, you can only ensure that a subject gets a fair showing.
+* How to think for yourself (Nov 2020)
+  * Growing headcount tends to skew the company towards conventional mindedness, because that is
+    the much larger segment of the population, and growing headcount skews the culture towards the
+    population mean.
+    * "The most radical solution would be to grow revenues without growing the company. You think
+      hiring that junior PR person will be cheap, compared to a programmer, but what will be the
+      effect ont he average level of independent-mindedness in your company? (The growth in staff
+      relative to faculty seems to have had a similar effect on universities.) Perhaps the rule
+      about outsourcing work that's not your 'core competency' should be augmented by one about
+      outsourcing work by people who'd ruin your culture as employees."
+  * "The threshold for having opinions about politics is much lower than the one for having opinions
+    about set theory. so while there are some ideas in politics, in practice they tend to be swamped
+    by waves of intellectual fashion."
+* Billionaires build (Dec 2020)
+  * (This is about what YC looks for in teams, which happens to also be the same qualities that it
+    takes to make a billionaire businessperson. It's a good reminder: startups are primarily about
+    delighting users.)
+  * "What YC looks for, above all, is founders who understand some group of users and can make what
+    they want."
+  * There must be an eventual path to a big market.
+  * Larval market: small but growable. Like Apple's PC market circa 1976.
+  * The best case is founders building something that they and their peers wanted.
+  * He says upon digging, the specific market the founders believe exists often doesn't exist. Or,
+    they clearly haven't done the work to actually know whether it exists with some rigor.
+  * "The best thing you can do in a YC interview is to teach the partners about your users. So if
+    you want to prepare for your interview, one of the best ways to do it is to go talk to your
+    users and find out exactly what they're thinking."
+  * The 10m YC interview cannot be structured as a linear pitch: "there's not enough time for
+    sequential access. They need random access."
+  * The founders who become billionaires are the ones who keep working and take the company far,
+    because they're genuinely interested in the domain and have attachment to their project.
+  * "Users are what the partners want to know about in YC interviews, and what I want to know about
+    when I talk to founders that we funded ten years ago and who are billionaires now. What do users
+    want? What new things could you build for them? Founders who've become billionaires are always
+    eager to talk about that topic. That's how they became billionaires."
+* Earnestness (Dec 2020)
+  * Earnest: "it means both that they're doing something for the right reasons, and that they're
+    trying as hard as they can."
+  * "Nerds" re interested in the topic for its own sake.
+  * "When you zoom in on Silicon Valley, right into Jessica Livingston's brain, that's what her
+    x-ray vision is seeking out in founders. Earnestness! Who'd have guessed?"
+  * In startups with interesting work, "the fact that the work is genuinely interesting is a big
+    part of why it gets done so fast."
+* A Project of One's Own (June 2021) **
+  * Working on your own engaging project vs work defined by someone else:
+    * "You feel as if you're an animal in its natural habitat, doing what you were meant to do --
+      not always happy, maybe, but awake and alive."
+  * "If I had to choose between my kids getting good grades and working on ambitious projects of
+    their own, I'd pick the projects."
+    * He argues this is a more direct path to finding fulfilling work as an adult, than is learning
+      to do it through school.
+  * "When I was picking startups for Y Combinator, I didn't care about applicants' grades. But if
+    they'd worked on projects of their own, I wanted to hear all about those."
+  * "Whenever I was writing or programming, I was usually skating."
+    * (Skating rather than walking: it's both more fun and more productive)
+  * Programmers' tendency to rewrite the software they need form scratch is partly because it's so
+    enjoyable to do so. It converts "working with some external system" to "a project of one's
+    own." Even if it's very wasteful, it may net ahead for the organization because of the large
+    motivational benefits.
+  * "Though they're at opposite ends of the scale financially, startups and open source projects
+    have a lot in common, including the fact that they're often run by skaters."
+  * "Kids just plunge ina nd build their treehouse without worrying about whether they're wasting
+    their time, or how it compares to other treehouses."
+    * They have less friction than adults for adopting a project of one's own.
+  * "If a company could design its software in such a way that the best newly arrived programmers
+    always got a clean sheet, it could have a kind of eternal youth... if you had a software
+    backbone defining a game with sufficiently clear rules, individual programmers could write their
+    own players."
+    * (Interesting: like quants joining a hedge fund and trying to plug in a better algorithm. I
+      would think this greatly risks the motivational benefits of having a team's eyes on your work
+      and caring about an artifact that's shared with the team.)
 
 * How to do great work (Jul 2023)
+  * https://www.paulgraham.com/greatwork.html
   * "There's a kind of excited curiosity that's both the engine and the rudder of great work. It
     will not only drive you, but if you let it have its way, will also show you what to work on."
   * "Interest will drive you to work harder than mere diligence ever could."
   * "Fields change as you learn more about them. What mathematicians do, for example, is very
-    different from what you do in high school math classes. So you need ot give different types of
+    different from what you do in high school math classes. So you need to give different types of
     work a chance to show you what they're like."
   * "A field should become *increasingly* interesting as you learn more about it. If it doesn't,
     it's probably not for you."
@@ -1302,7 +1438,7 @@
     great things began with someone saying 'How hard could it be?'"
     * The optimism and self-confidence of youth helps overcome the activation energy required to
       start work on a project.
-  * "It many projects a lot of the best work happen sin what was meant to be the final stage," so
+  * "In many projects a lot of the best work happens in what was meant to be the final stage," so
     finish what you start.
   * "If you don't try to be the best, you won't even be good."
     * This is perhaps because ambition to be the best is qualitatively different than
@@ -1319,19 +1455,18 @@
   * "When you're doing work that could be seen as either creation or discovery, err on the side of
     discovery. Try thinking of yourself as a mere conduit through which the ideas take their natural
     shape."
-    * (I feel this way about some of my projects.)
   * "You're much more likely to have original ideas when you're working on something. Original ideas
     don't come from trying to have original ideas. They come from trying to build or understand
     something slightly too difficult."
   * "Ideas that are the right kind of crazy tend to be exciting; they're rich in implications;
-    whereas ideas that are merely bad tend to be depressing." (fun)
+    whereas ideas that are merely bad tend to be depressing."
   * "One of the most interesting kinds of unfashionable problem is the problem that people think has
     been fully explored, but hasn't."
     * "So if you're interested in a field that others think is tapped out, don't let their skepticism
       deter you. People are often wrong about this."
     * (This was the case when I started Liftoff in 2012. Every investor we spoke to said mobile
-      performance marketing was "figured out" and we were too late.)
-  * PG recommends to indulge yourself on what might seem to be interested, but unimportant,
+      performance marketing was "solved" and we were too late.)
+  * PG recommends to indulge yourself on what might seem to be interesting, but unimportant,
     problems. People tend to be too conservative in their assessment of what might be important.
   * "People think big ideas are answers, but often the real insight was in the question."
   * Planning vs. "evolving prototypes"
@@ -1352,10 +1487,6 @@
   * Copying or including existing work does not make the work unoriginal.
     * "Originality is the presence of new ideas, not the absence of old ones."
   * "One of the most powerful kinds of copying is to copy something from one field into another."
-  * Approaching people with a hobbyist's mindset
-    * "Most people who are very good at something are happy to talk about it with anyone who's
-      genuinely interested. If they're really good at their work, then they probably have a
-      hobbyist's interest in it, and hobbyists always want to talk about their hobbies."
   * "The degree to which great work happens in clusters suggests that one's colleagues often make
     the difference between doing great work and not."
   * "Avoid intermediaries between you and your audience."
