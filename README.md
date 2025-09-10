@@ -51,8 +51,8 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 ## Psychology
 
 [Deep Work - Cal Newport](https://notes.philcrosby.com/deep-work-cal-newport.html)<br>
+[Digital Minimalism - Cal Newport](https://notes.philcrosby.com/digital-minimalism-cal-newport.html)<br>
 [Four Thousand Weeks - Oliver Burkeman](https://notes.philcrosby.com/four-thousand-weeks-oliver-burkeman.html)
-
 
 ## Relationships
 
