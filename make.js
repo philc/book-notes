@@ -133,6 +133,7 @@ task("website", [], async () => {
     "psychology/deep work - cal newport.md",
     "psychology/digital minimalism - cal newport.md",
     "psychology/four thousand weeks - oliver burkeman.md",
+    "psychology/relentless - tim grover.md",
     "relationships/bringing up bebe - pamela druckerman.md",
     "relationships/the happy sleeper - heather turgeon.md",
   ];
