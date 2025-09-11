@@ -15,6 +15,8 @@ async function generatePage(path) {
   let str = (new TextDecoder("UTF-8")).decode(bytes);
   // Handle mdashes.
   str = str.replaceAll(" --", " &mdash;");
+  // Handle ellipses.
+  str = str.replaceAll("...", "&hellip;");
   const html = micromark(str, {
     extensions: [gfm()],
     htmlExtensions: [gfmHtml()],
