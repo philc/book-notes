@@ -135,6 +135,7 @@ task("website", [], async () => {
     "psychology/four thousand weeks - oliver burkeman.md",
     "psychology/relentless - tim grover.md",
     "relationships/bringing up bebe - pamela druckerman.md",
+    "relationships/playful parenting - lawrence cohen.md",
     "relationships/the happy sleeper - heather turgeon.md",
   ];
   await processPages(files);
