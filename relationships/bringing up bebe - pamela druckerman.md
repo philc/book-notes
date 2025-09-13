@@ -10,7 +10,6 @@
   use good judgment and to be aware and respectful of other people. I'm implying that she has a
   certain wisdom about the situation and that she's in command of herself. And I'm suggesting that I
   trust her."
-  * (I don't do this enough. Often, I lecture my daughter in public, which she then resents.)
 * "French experts view learning to cope with 'no' as a crucial step in a child's evolution. It
   forces them to understand that there are other people in the world, with needs as powerful as
   their own."
@@ -32,14 +31,14 @@
 
 ## Intro
 
-* The American parenting problem: "One writer defines the problem as 'simply paying more attention
-  to the upbringing of children than can possibly be good for them.'"
+* The American parenting problem: "simply paying more attention to the upbringing of children than
+  can possibly be good for them."
 * Argues that the overparenting wave came about due to:
   * Widening of the rich-poor gap, which caused a more competitive parenting mindset.
   * Misled beliefs in the 80s onward that children are psychologically frail and need more of our
     attention.
   * That kidnapper and abuser danger lurks everywhere.
-* "Yet the French have managed to be involved [in the lives of their children] without becoming
+* "The French have managed to be involved [in the lives of their children] without becoming
   obsessive. They assume that even good parents aren't at the constant service of their children."
 
 ## Paris is burping (chap 2)
@@ -83,8 +82,7 @@
 * Why do American parents bring snacks for their kids everywhere they go?
 * "In France the gouter is the official, and only, snack time. It's usually at about four thirty
   P.M., when kids get out of school. It has the same fixed status as other mealtimes and is
-  universally observed for kids."
-  * This preserves their hunger for the late dinner.
+  universally observed for kids." This preserves their hunger for the late dinner.
 * Eating meals together in an orderly fashion serves as "little capsules of patience training."
 * "Walter Mischel says the worst-case scenario for a kid from eighteen to twenty-four months of age
   is 'the child is busy and the child is happy, and the mother comes along with a fork full of
@@ -97,12 +95,12 @@
 
 ## Tiny little humans (chap 5)
 
-* About parents who try to have their kids hit developmental milestones (like learn the alphabet;
-  subtraction) sooner than their peers: "He didn't think that pushing kids to acquire skills ahead
-  of schedule was either possible or desirable. He believed that children reach these milestones at
-  their own speeds, driven by their own inner motors."
+* Should parents push their kids to hit development milestones faster than their peers? "He didn't
+  think that pushing kids to acquire skills ahead of schedule was either possible or desirable. He
+  believed that children reach these milestones at their own speeds, driven by their own inner
+  motors."
 * Cadre: a strict frame, within which the kid has great liberty. The frame usually consists of rules
-  and times for eating, sleeping, watching Tv.
+  and times for eating, sleeping, watching TV.
 * Dolto popularized listening carefully to one's kids and giving them the credit of being rational,
   while still setting boundaries (a cadre).
 
@@ -212,7 +210,8 @@
   they respect boundaries and have self-control. So alongside character, there has to be cadre."
 * "This idea that you're teaching, not policing, makes the tone a lot gentler in France." (versus
   disciplining).
-* Authoritative but not authoritarian: "the parents' response should almost always be yes."
+* Authoritative but not authoritarian: "the parents' response should almost always be yes" as long
+  as the child is operating within the cadre.
 * "Children should watch a bit of television, so they have a shared culture with other kids."
 * "Instead of spanking, they recommend that parents become adept at saying no. Like Marcelli, they
   say that 'no' should be used sparingly. But once uttered, it must be definitive."
@@ -226,9 +225,3 @@
 * To have a child feel good about themselves, they should feel good about their work for their own
   reasons, so French adults do not "praise everything a child does," as is common in American
   parenting.
-
-## The future in french (conclusion)
-
-* "I still declare, 'It's me who decides' in moments of crisis, to remind everyone that I'm in
-  charge. I see it as my job to stop my kids from being consumed by their own desires. But I also
-  try to say yes as often as I can."
