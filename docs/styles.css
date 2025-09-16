@@ -144,3 +144,11 @@ footer {
     color: #ffd586;
   }
 }
+
+/* Styles for phones in portrait mode. */
+@media screen and (max-device-width: 500px) {
+  /* Show less indentation in lists so there is less wrapping and better text justification. */
+  ul {
+    padding-left: 1.5em;
+  }
+}
