@@ -257,7 +257,7 @@
   the barking of a dog."
 * If a contemptible person insults you, it can be ignored. Maybe even find comfort in that, if
   they're upset with you, you must be doing the right thing.
-* The voicing of an insult doesn't intrinsically carry a string. The harm only occurs if we let it,
+* The voicing of an insult doesn't intrinsically carry a sting. The harm only occurs if we let it,
   by judging the words as harmful and then reacting negatively to them.
 * How to respond to insults? With humor (particularly self-deprecating humor), or with no response
   at all -- with a magnanimous air. A non-response robs the insulter of the pleasure of having upset
