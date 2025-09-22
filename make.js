@@ -13,15 +13,30 @@ const buildDir = "dist";
 async function generatePage(path) {
   const bytes = await Deno.readFile(path);
   let str = (new TextDecoder("UTF-8")).decode(bytes);
-  // Handle mdashes.
-  str = str.replaceAll(" --", " &mdash;");
-  // Handle ellipses.
-  str = str.replaceAll("...", "&hellip;");
-  const html = micromark(str, {
+
+  let html = micromark(str, {
     extensions: [gfm()],
     htmlExtensions: [gfmHtml()],
   });
-  return html;
+
+  // We replace mdashes and ellipses, but do so only on text not in a code block. This code block
+  // detection is an imperfect but simple approach.
+  let lines = html.split("\n");
+  let inCodeBlock = false;
+  lines = lines.map((line) => {
+    if (line.includes("</code>")) {
+      inCodeBlock = false;
+    } else if (line.includes("<code>")) {
+      inCodeBlock = true;
+    }
+    if (inCodeBlock) return line;
+
+    line = line.replaceAll(" --", " &mdash;");
+    line = line.replaceAll("...", "&hellip;");
+    return line;
+  });
+
+  return lines.join("\n");
 }
 
 async function wrapInLayout(html, title) {
@@ -159,10 +174,10 @@ task("gh-pages", ["website"], async () => {
 
   await ensure("git checkout gh-pages");
   // Preserve the CNAME file that allows this page to be hosted on a custom subdomain.
-  await ensure("mv docs/CNAME ./")
+  await ensure("mv docs/CNAME ./");
   await ensure("rm -f docs/*");
   await ensure("cp dist/* docs/");
-  await ensure("mv CNAME docs/")
+  await ensure("mv CNAME docs/");
   await ensure("git add docs");
   await ensure("git commit -a -m 'Update website'");
   await ensure("git push");
