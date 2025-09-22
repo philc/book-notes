@@ -2,10 +2,10 @@
 
 ## Intro
 
-* Her anecdote about Larry was that he loved candor whenever he detected it. He craved it because he
-  thought it was productive.
-  * (The anecdote made him seem like a gracious leader: when she criticized his motivations in an
-    email thread to the L-team, and she was gravely mistaken, but he didn't reprimand her for it.)
+* Scott's anecdote about Larry was that he loved candor whenever he detected it. He craved it
+  because he thought it was productive.
+  * (The anecdote made Larry seem like a gracious leader: when she criticized his motivations in an
+    email thread to the L-team and she was gravely mistaken, he didn't reprimand her for it.)
 * High quality relationships with your direct reports trickles down into the general culture.
   Relationships don't scale, but culture does.
 
