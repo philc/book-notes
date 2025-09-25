@@ -297,16 +297,15 @@
 * Optimizing for popularity leads to being enslaved by others. Popularity is not something we fully
   control.
   * "Stoics value their freedom, and they are therefore reluctant to do anything that will give
-    others power over them. But if we seek social status, we give other people power of us: We have
+    others power over them. But if we seek social status, we give other people power of us: we have
     to do things calculated to make them admire us, and we have to refrain from doing things that
-    will trigger their disfavor.... We will, he says, have enslaved ourselves."
+    will trigger their disfavor."
 * The foolish desire for "immortal fame"
   * It's a strange, impractical ambition. We will not enjoy our posthumous fame and praise. It's
-    unlikely anyone will praise us, not having met us. It's
-  * "Instead of thinking about future fame, Marcus says, we would do well to concern ourselves with
-     our present situation; we should 'make the best of today.'"
-* Sometimes even your friend won't root for you to succeed, because if you do succeed, it will make
-  them uncomfortable.
+    unlikely anyone will praise us, not having met us.
+  * Make the best of today, rather than concerning ourselves with our future fame.
+* Sometimes even your friend won't root for you to succeed, because if you do succeed, they will be
+  uncomfortable.
 
 ## Personal values - on luxurious living (chap 15)
 
@@ -315,7 +314,7 @@
 * Increasingly discerning tastes is a curse.
   * "People who achieve luxurious lifestyles are rarely satisfied: experiencing luxury only whets
     their appetite for even more luxury."
-* Musonious: eat for nourishment, and favor foods that require little prep.
+* Musonious on food: eat for nourishment, and favor foods that require little prep.
 * "Life's necessities are cheap and easily obtainable. Those who crave luxury typically have to
   spend considerable time and energy to attain [and maintain] it; those who eschew luxury can devote
   this same time and energy to other, more worthwhile undertakings."
@@ -328,7 +327,7 @@
   friends and family, and his property, but he has taken with him into exile the things that matter
   most: his place in Nature and his virtue."
 * Exile is just a "change of location."
-* Exile has helped some -- by curtailing their pace of luxurious living, and by causing some to
+* Exile has helped some people, by curtailing their pace of luxurious living, and by causing some to
   become philosophers.
 
 ## Old age (chap 17)
@@ -357,26 +356,21 @@
 * "Musonious observes that the time and energy people expend on illicit love affairs far outweighs
   the time and energy it would take them, as practicing Stoics, to develop the self-control required
   to avoid such affairs."
-* Having a philosophy of life reduces the effort required to make life's decisions
-  * "It is, after all, hard to know what to choose when you aren't really sure what you want."
 * The reward for practicing Stoicism is the ability to frequently take delight in the world around
   us.
 
 ## The decline of Stoicism (chap 20)
 
-* Argues Christianity promoted many of the same values of Stoicism and crowded out Stoicism.
-* "The Stoics understood that there is at best a loose connection between our external circumstances
-  and how happy we are. In particular, it is entirely possible for someone banished to a desolate
-  island to be happier than someone living a life of luxury."
+* Argues that Stoicism was crowded out by Christianity, because Christianity promotes the same
+  values as Stoicism.
 
 ## Practicing Stoicism (chap 22)
 
 * Start with negative visualization. Upon completing, you are left only with gratitude for what you
   have.
-* Having dark thoughts about a person when you can't openly confront them:
-  * "Instead I find myself having black thoughts about him. Again, these feelings of anger are
-    pointless: they disturb me but have no impact at all on the person at whom I am angry. Indeed,
-    if anything, they serve to compound the harm he does me. What a waste!"
+* Having dark thoughts about a person when you can't openly confront them: "these feelings of anger
+  are pointless: they disturb me but have no impact at all on the person at whom I am angry. Indeed,
+  if anything, they serve to compound the harm he does me. What a waste!"
 * Practicing yoga can be a good vehicle for voluntary discomfort.
 * Proactively looking for situations to practice stoic techniques:
   * "I like to engage in activities, such as competitive rowing, that give me butterflies simply so
@@ -392,13 +386,7 @@
 * "It is curious, but my competitors in a race are simultaneously my teammates in the much more
   important competition against my other self. By racing against each other, we are all
   simultaneously racing against ourselves."
-* "As a consumer, I seem to have crossed some kind of great divide. It seems unlikely that, having
-  crossed it, I will ever be able to return to the mindless consumerism that I once found to be so
-  entertaining."
 * Tool: asking "will this improve my long-term happiness?" is a good way to extinguish our desires
   for short-term gratification and consumption.
 * "I have likewise gone out of my way to put myself into situations that test my courage and
   willpower, in part to see whether I can pass such tests."
-  * Those practicing Stoicism often desire some kind of hardship, to truly see if their skills are
-    actually strong enough to weather hardship. They desire a test. E.g. welcoming insults, or even
-    death.
