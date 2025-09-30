@@ -60,19 +60,15 @@
   the immortality of the soul."
   * His aunt was devastated by the death of her six year old son. She "loathed the idea of behaving
     badly" and taking this life for granted.
-* "Don't you think that the essence of life and the strength f humanity lie in that spontaneous and
-  supportive brotherhood? As Aristotle wonderfully put it: 'Even calamities have a soul.'"
 * Learn to talk about lost loved ones with dignity, so that you can honor and enjoy the memory of
   them without being overwhelmed by the accompanying sting.
   * "Let make the recollection of our lost ones a sweet memory. No one willingly returns to a
-    subject he cannot think about without pain. So necessarily the names of those whom we have loved
-    and lost come back to us with a stinging anxiety; but there is sweetness even in this string." -
-    Seneca
+    subject he cannot think about without pain." - Seneca
 * "Today, sitting on the sofa with my granddaughters Vittoria and Penelope in my arms, I tell them
   about my youth as if it was a fairy tale."
 * "Obtaining everything at once deprives things of their true value."
 * Crushes on girls in his class:
-  * "It was time for the first emotions, the first dream,s the first desires, and everything was
+  * "It was time for the first emotions, the first dreams the first desires, and everything was
     hidden, secret, as hot as fire and as wild as a spring stream. It was life that flowered in the
     powerful strength of youth."
 * "Any project involves an effort and its ultimate purpose must be mankind and its dignity."
