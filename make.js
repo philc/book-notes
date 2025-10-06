@@ -152,6 +152,7 @@ task("website", [], async () => {
     "relationships/bringing up bebe - pamela druckerman.md",
     "relationships/playful parenting - lawrence cohen.md",
     "relationships/the happy sleeper - heather turgeon.md",
+    "relationships/the school of life - alain de botton.md",
   ];
   await processPages(files);
   await createIndex(files);

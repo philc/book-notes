@@ -59,4 +59,5 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 
 [Bringing Up Bébé - Pamela Druckerman](https://notes.philcrosby.com/bringing-up-bebe-pamela-druckerman.html)<br>
 [Playful Parenting - Lawrence Cohen](https://notes.philcrosby.com/playful-parenting-lawrence-cohen.html)<br>
-[The Happy Sleeper - Heather Turgeon](https://notes.philcrosby.com/the-happy-sleeper-heather-turgeon.html)
+[The Happy Sleeper - Heather Turgeon](https://notes.philcrosby.com/the-happy-sleeper-heather-turgeon.html)<br>
+[The School of Life - Alain de Botton](https://notes.philcrosby.com/the-school-of-life-alain-de-botton.html)
