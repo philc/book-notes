@@ -1,4 +1,4 @@
-# School of life - Alain de Botton
+# School of Life - Alain de Botton
 
 ## Gems
 
