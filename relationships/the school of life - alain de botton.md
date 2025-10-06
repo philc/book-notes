@@ -8,16 +8,15 @@
   * The lower the expectations of relationships, sex, work, children, politics, the greater our
     satisfaction in the actual outcomes.
 * Being a "generous onlooker", interpreter
-  * Even when they do not know any of the details, generous onlookers must make a stab at picturing
+  * "Even when they do not know any of the details, generous onlookers must make a stab at picturing
     the overall structure of what might have happened to the wretched being before them. They must
     guess that there will be sorrow and regret beneath the furious rantings, or a sense of
-    intolerable vulnerability behind the pomposity and snobbishness. They must intimate that early
-    trauma and let-down must have formed the backdrop to later transgressions. They will remember
-    that the person before them was once a baby too.
-* The "weakness of strength": the theory that weakness-free people do not exist. Each person's
-  weakness is the inevitable downside / shadow of one of their strengths. Comfort comes from not
-  viewing a person's weaknesses in isolation, but as the necessary cost of enjoying the strengths
-  that drew us to them.
+    intolerable vulnerability behind the pomposity and snobbishness... they will remember that the
+    person before them was once a baby too."
+* The "weakness of strength" theory
+  * Weakness-free people do not exist; each person's weakness is the inevitable downside / shadow of
+    one of their strengths. Comfort comes from not viewing a person's weaknesses in isolation, but
+    as the necessary cost of enjoying the strengths that drew us to them.
   * E.g. messy but creative; driven but self-centered; uncompromising but honest.
   * When meeting someone new, it's fascinating to see what new kinds of strengths they have, but
     they will always have corresponding weaknesses that will reveal themselves eventually.
@@ -37,26 +36,24 @@
   * "We should stop worrying quite so much whether or not people like us, and make that far more
     interesting and socially useful move: concentrate on showing that we like them."
 * A need to be alone
-  * "At a certain point, we have had enough of conversations that take us away from our own thought
-    processes, enough of external demands that stop us heeding our inner tremors, enough of the
-    pressure for superficial cheerfulness that denies the legitimacy of our latent melancholy -- and
-    enough of robust common sense that flattens our peculiarities and less well-charted ideas.
+  * All of us reach a limit for taking external input, and need to retreat to consult with our own
+    thoughts, alone.
   * Retreating to be alone allows us to be our best selves when we return to fellow humans. Rested,
     processed, full of original opinions.
 * The cure for unrequited love is more knowledge, so that they cease to look like the ultimate love
   for us. More knowledge will "set you free."
+  * Incumbent jobs and partners may seem less attractive than a shiny new alternative, but it's just
+    that we have an asymmetry of knowledge and don't know the new thing very well.
 * Partner-as-child; the "infant model of interpretation"
-  * With children, we forgive their obnoxious, hurtful behavior because we don't assign mean
-    intentions to kids. We have benevolent explanations for their behavior.
+  * Every child is good at loving little children. With children, we forgive their obnoxious,
+    hurtful behavior because we don't assign mean intentions to kids. We have benevolent
+    explanations for their behavior.
   * Consider doing the same with adults.
-    * "It's very touching that we live in a world where we have learned to be so kind to children;
-      it would be even nicer if we learned to be a little more generous toward the childlike parts
-      of one another."
-    * Everyone is generally very good at loving little children. Argues that parts of adults will
-      always remain childish, because they're tied to how the person was a a kid. And this is the
-      case with all adults.
+  * "It's very touching that we live in a world where we have learned to be so kind to children;
+    it would be even nicer if we learned to be a little more generous toward the childlike parts
+    of one another."
   * "The problem with adults is that they look misleadingly adult."
-* "It was meant to be nicer:" as children we were cherished. In marriage, that tends to wear off
+* "It was meant to be nicer": as children we were cherished. In marriage, that tends to wear off
    quickly and our partner isn't all that interested in the details of our lives and feelings. So
    don't judge our marital care against how we were treated as kids.
 * Marriage acts as a formal obstacle to make one's impulses less dangerous.
@@ -69,10 +66,6 @@
     have been dead a few centuries and lived on another continent. We can feel honored to count them
     among our best friends." (in the same way that children cling to transitional objects to embody
     and reactivate their memories of parental love when their parents aren't there).
-  * "The arts allow us to become the soulmates of people who, despite having been born in 1600 are,
-    in limited but crucial ways, our proper companions. The friendship may even be deeper than that
-    we could have enjoyed in person, for it is spared all the normal compromises that attend social
-    interactions."
   * What an honor, for one deceased, to be counted a s friend among the future generations of the
     living.
 
@@ -88,8 +81,8 @@
   Sometimes dramatically so.
 * Prior to romanticism, art was meant to "render tough or knotty lessons and make them easier to
   absorb." Art amplified ideas.
-* Ritual was used to combat the frequent forgetting of important but difficult lessons.
-  * E.g. remembering the seasons; remembering the dead; looking inside ourselves.
+* Ritual was used to combat the frequent forgetting of important but difficult lessons. E.g.
+  remembering the seasons; remembering the dead; looking inside ourselves.
 * It's a devastating belief to think that it's possible to be completely and enduringly happy.
 * Given the difficulty of life, and the presence of original sin, the best we can hope for is
   salves: understanding and companionship.
@@ -97,9 +90,6 @@
   properly open to the idea that suffering and disappointment are at the heart of human experience.
   It is not a disorder that needs to be cured; it is a tender-hearted, calm, dispassionate
   acknowledgment of how much agony we will inevitably have to travel through."
-* "The melancholy know that many of the things we most want are in tragic conflict: to feel secure
-  and yet to be free; to have money and yet not to have to be beholden to others; to be in
-  close-knit communities and yet not to be stifled by the expectations and demands of society; to"
 
 ## Knowing the past (chap 2)
 
@@ -114,9 +104,6 @@
   sensitivities. Not dramatic, but significant. People are the victims of their environments, not
   necessarily inherently mean or flawed.
   * (Is that really true? Aren't we giving too much credit to the environment?)
-  * (This assertion seems inherently flawed and gives too much Reddit to the environment. It's noble
-    to understand and empathize with a person's experiences, but ultimately their character is a
-    function of the choices they've made for themselves.)
 * The emotionally helpful childhood
   * (Helpful, dense section).
   * Children receive whole care from a powerful, generous adult: "They did not, all the while, ask
@@ -128,7 +115,7 @@
     turn to be tolerated."
   * The care-giver isn't jealous of the child. They get their recognition somewhere else. The parent
     wants the child to do well for their own sake.
-  * "the child learns that things that break can be fixed. Plans can go awry and new ones will be
+  * "The child learns that things that break can be fixed. Plans can go awry and new ones will be
     made."
   * Life isn't manufactured to be perfect, without disappointment.
 
@@ -139,10 +126,7 @@
 * In all of our relationships (friends, lover), we keep a barrier between what we say and what is
   really going on in our heads. No one else bears witness to our inner insanity, except therapists.
   Therapists are the one relationship we've constructed where it's OK to do so.
-* Therapists do not require us to reciprocate rapport
-  * "Like a parent who doesn't need a small child to reciprocate, the therapist voluntarily forgoes
-    equality in the relationship; they won't talk of their regrets or insist on their anecdotes.
-    They simply want to help us find what is best for us, understood on our terms."
+* Like a parent, therapists do not require us to reciprocate rapport.
 * The therapists most powerful tools: "do say more", "go on."
 * Why is therapy spread out over so many months? It's because revealing ourselves and considering
   issues longitudinally is important for getting to solutions. We can't get to the bottom of things
@@ -150,11 +134,11 @@
 * Building self-esteem: "when things don't go as we want, we can ask ourselves what a benevolent
   fair judge would say, and then actively rehearse to ourselves the words of consolation they would
   most likely have offered (we'll tend to know immediately)."
-* Warning against stoicism and relentlessly "manning up" when faced with trials
-  * "We are mental athletes at shrugging such things off, but there is a cost to our stoicism. From
-    small humiliations and slights, large blocks of resentment eventually form that render us unable
-    to love or trust. What we call depression is in fact sadness and anger that have for too long
-    not been paid the attention they deserve."
+* Warning against stoicism and relentlessly "manning up" when faced with trials: "we are mental
+  athletes at shrugging such things off, but there is a cost to our stoicism. From small
+  humiliations and slights, large blocks of resentment eventually form that render us unable to love
+  or trust. What we call depression is in fact sadness and anger that have for too long not been
+  paid the attention they deserve."
 * The importance of a breakdown
   * The big disruptions in "business as usual" shouldn't be censored and treated as scandalous.
     They're clear indicators that things must change. It's the body's or the mind's attempt to
@@ -167,7 +151,7 @@
     the overall structure of what might have happened to the wretched being before them. They must
     guess that there will be sorrow and regret beneath the furious rantings, or a sense of
     intolerable vulnerability behind the pomposity and snobbishness... they will remember that the
-    person before them was once a baby too.
+    person before them was once a baby too."
 * All of us can be richly generous in our interpretations, and in giving of sympathy. Unlike
   financial generosity, which is from rich to poor.
 * "Losers"
@@ -185,39 +169,38 @@
   * E.g. messy but creative; driven but self-centered; uncompromising but honest.
   * When meeting someone new, it's fascinating to see what new kinds of strengths they have, but
     they will always have corresponding weaknesses that will reveal themselves eventually.
-* What to think about our enemies
-  * "Contented people have no need to hurt others." So it must be the case that one's enemies must
-    be unwell in some way.
+* "Contented people have no need to hurt others", so it must be the case that one's enemies must be
+  unwell in some way.
 * Diplomacy
   * "Knowing the intensity of the craving for respect, diplomats -- though they may not always be
     able to agree with others -- take the trouble to show that they have bothered to see how things
     look through foreign eyes."
   * They work on the relationship just as hard as on the issue.
-  * True kindness requires uncommon candor in moments
-    * "True niceness does not mean seeming nice; it means helping the people we are going to
-      disappoint to adjust as best they can to reality. By administering a sharp, clean blow, the
-      diplomatic person kills off the torture of hope, accepting the frustration that is likely to
-      come their way: the diplomat is kind enough to let themselves sometimes be the target of
-      hate."
+  * True kindness requires uncommon candor in moments. "True niceness does not mean seeming nice; it
+    means helping the people we are going to disappoint to adjust as best they can to reality. By
+    administering a sharp, clean blow, the diplomatic person kills off the torture of hope,
+    accepting the frustration that is likely to come their way: the diplomat is kind enough to let
+    themselves sometimes be the target of hate."
 
 ## Charm (chap 5)
 
 * Shyness
   * This is curable by focusing on the universal identity that we share with everyone. We are not an
-    outcast, different, we have something to say and contribute.
+    outcast, different; we have something to say and contribute.
   * Local identity vs universal identity
     * Our local identity comprises our age, gender, skin color, sexuality, social background,
       wealth, career, religion, personality type.
     * "Universal identity is made up of what we have in common with every other member of the
       species: we all have problematic families, have been disappointed, have been idiotic, have all
       loved, have all had problems around money."
-  * The purpose of social intercourse: to find "an uncensored glimpse of what life looks through the
-    eyes of another person and the reassurance that we are not entirely alone" in our experience.
+  * The purpose of social intercourse is to find "an uncensored glimpse of what life looks through
+    the eyes of another person and the reassurance that we are not entirely alone" in our
+    experience.
 * Vulnerability
   * Failure is what makes friends. Not winning. Hearing about the failure, what we're sad about,
     that we're lonely, how we're being embarrassed. It's endearing.
-  * By being vulnerable, you're offering up the opportunity for others to hurt and humiliate you.
-    This vulnerability is creates makes friendship.
+  * By being vulnerable, you're offering up the valuable opportunity for others to hurt and
+    humiliate you.
 * Friendships
   * In short, be more friendly, and people will reciprocate.
   * Argues that people don't have well-defined thinking about whether they deeply like you as a
@@ -230,8 +213,6 @@
   * "We come to social life greedy to speak rather than listen, hungry to meet others but reluctant
     to hear them."
   * Good listeners help the speaker move from unconfused and agitated, to clear and serene.
-  * "They don't, as most people do, interrupt to intrude their own ideas; they interrupt to help the
-    other get back to their original, more sincere yet elusive concerns."
 * Social catastrophe
   * In recovering from severe faux pas, the author wonders whether we should just shut up and accept
     the failure, rather than profusely apologizing, justifying, or back-pedaling.
@@ -251,31 +232,28 @@
     identity, can land and be considered. This activity is not celebrated in a productivity-obsessed
     culture.
 * Nature
-  * Watching a sunset after a hectic work day
-    * "At this moment, nature seems to be sending us a humbling message: the incidents of our lives
-      are not terribly important. And yet, strangely, rather than being distressing, this sensation
-      can be a source of immeasurable solace and calm."
+  * Watching a sunset after a hectic work day: "At this moment, nature seems to be sending us a
+      humbling message: the incidents of our lives are not terribly important. And yet, strangely,
+      rather than being distressing, this sensation can be a source of immeasurable solace and
+      calm."
   * The scene of a desert, where nothing changes day to day, and changes take centuries. Our lives
     come and go and mean little on such time scales.
 
 ## Getting together (chap 7)
 
 * Romanticism: "a disaster for love and relationships."
-  * "Our strongest cultural voices have, to our huge cost, given us a very unhelpful script to apply
-    to a hugely tricky task."
 * Myths of romanticism
   * Love will be just as strong 20 years later, after kids.
     * It's "deeply hopeful about marriage. It tells us that marriage could combine all the
       excitement of a love affair with all the advantages of a settled and practical union."
   * Sex was made the pinnacle expression of love, coupling the two.
-  * Our partner will understand us intuitively
-  * Intuition beats analysis
+  * Our partner will understand us intuitively.
+  * Intuition beats analysis.
   * "True love accepts the other person for who they are."
-  * We don't need an education in love
+  * We don't need an education in love.
   * "We should have no secrets and spend constant time together (work shouldn't get in the way)."
 * "Classic" framework of love
-  * We're flawed and our partner is too.
-    * This primes spouses to be more understanding.
+  * We're flawed and our partner is too. This primes spouses to be more understanding.
   * Understanding one another is not a given. It will come with difficulty and require a lot of effort.
 * Realize that each of us "is a hellish proposition"
   * "We are necessarily going to bring an awesome amount of trouble into someone's life.
@@ -289,29 +267,24 @@
 * The longing for reassurance
   * Argues that the fear of rejection persists daily through long relationships. It's not just the
     beginning. Any minor withdraw or tiff can trigger it.
-  * When we deny our own fear of rejection, frequently one becomes either avoidant or controlling.
+  * When we deny our own fear of rejection, frequently we become either avoidant or controlling.
   * He says avoidant coping is learned as a child, when we tried to be close but got rejected or
     humiliated. "We grow suspicious, frantic, and easily furious in the face of the ambiguous
     moments of love."
 * Partner-as-child; the "infant model of interpretation"
-  * With children, we forgive their obnoxious, hurtful behavior because we don't assign mean
-    intentions to kids. We have benevolent explanations for their behavior.
+  * Every child is good at loving little children. With children, we forgive their obnoxious,
+    hurtful behavior because we don't assign mean intentions to kids. We have benevolent
+    explanations for their behavior.
   * Consider doing the same with adults.
-    * "It's very touching that we live in a world where we have learned to be so kind to children;
-      it would be even nicer if we learned to be a little more generous toward the childlike parts
-      of one another."
-    * Everyone is generally very good at loving little children. He argues that parts of adults will
-      always remain childish, because they're tied to how the person was a a kid. And this is the
-      case with all adults.
+  * "It's very touching that we live in a world where we have learned to be so kind to children;
+    it would be even nicer if we learned to be a little more generous toward the childlike parts
+    of one another."
   * "The problem with adults is that they look misleadingly adult."
-  * (This theory is helpful; I could see how it would soften one's interpretations of the actions of
-    other adults. But how far can one take it, really? Do you want as your partner, someone who
-    manifests emotionally as a young child? How do you collaborate and problem-solve?)
 * For the ancient Greeks, love is to adore someone's positive traits. For the negative traits, help
   educate them out of them.
-  * Nagging is an attempt to educate.
-    * But it doesn't work. It can feel self-righteous to nag, but the actual solution is to try
-      again, and harder, to communicate one's desires in a way the recipient will actually receive.
+  * Nagging is an attempt to educate. But it doesn't work. It can feel self-righteous to nag, but
+    the actual solution is to try again, and harder, to communicate one's desires in a way the
+    recipient will actually receive.
 
 ## Dealing with problems (chap 9)
 
@@ -328,8 +301,8 @@
       the best versions of ourselves" -- the mistaken belief that "whoever is right should win the
       argument".
   * Spoiling argument: spoiling the cheery mood of the other partner so they can be on the same
-    gloomy level as us. Doesn't work. Once their cheery afternoon is spoiled, they will resent you
-    rather than connect with you.
+    gloomy level as us. It doesn't work. Once their cheery afternoon is spoiled, they will resent
+    you rather than connect with you.
   * Absentee argument: the partner becomes a sink for every large disappointment in our lives, like
     a plateauing career, jealousy over the success of our old college friends, declining health.
     * The author argues that this is a marked cry for love and help. (I don't see how.)
@@ -359,8 +332,8 @@
     domestic matters, and doing so well is essential for the relationship. It requires a surprising
     amount of energy and attention.
 * "It was meant to be nicer": as children we were cherished. In marriage, that tends to wear off
-    quickly and our partner isn't all that interested in the details of our lives and feelings. So
-    don't judge our marital care against how we were treated as kids.
+   quickly and our partner isn't all that interested in the details of our lives and feelings. So
+   don't judge our marital care against how we were treated as kids.
 * "The wisdom of compromise": the author argues that it's possible that nursing yourself through a
   lifetime of sadness in a relationship is better than the alternatives, and it certainly shouldn't
   be labeled as "cowardice."
@@ -371,7 +344,7 @@
     * "We deliberately invite an elderly aunt or uncle whom we don't even like much to fly around
       the world to be there. We are willingly creating a huge layer of embarrassment were we ever to
       turn round and admit it might have been a mistake."
-  * Long relationships allows for gradual self-development: "It's too easy to seem kind and normal
+  * Long relationships allow for gradual self-development: "It's too easy to seem kind and normal
     when we keep starting new relationships." But true self-improvement can only come when
     considering others' views of us over long periods of time.
   * Some types of investments require security. Like having children, or giving up one's career.
@@ -382,11 +355,13 @@
   the consequences of our pursuing what makes us happy.
 * A beginner's mind: the belief that we are, by nature, foolish, and the ability to let go of trying
   to demonstrate our own dignity, and explore the world as a beginner would.
-* As kids, we play at many professions. Each of these "games" is a plausible alternate version of
-  ourselves. We're forced to specialize in adulthood to reap the benefits of mastery, income, and
-  the stability required to raise a family. The parallel with relationships is that we have to
-  choose one path and learn to live with the loss of the many potential alternate paths that we've
-  had to forego.
+* What else might have been?
+  * As kids, we play at many professions. Each of these "games" is a plausible alternate version of
+    ourselves.
+  * In adulthood, we're forced to specialize to reap the benefits of mastery, income, and the
+    stability required to raise a family.
+  * Similarly with our relationships, we must choose just one, and learn to live with the loss of
+    the many potential alternate lives that we must forego.
 * On consumerism
   * "The real crisis of capitalism is that product development lags so far behind the best insights
     of advertising. Since the 1960s, advertising has worked out just how much we need help with the
@@ -394,30 +369,27 @@
   * A lifestyle ad campaign can make you long for lost moments, like the sweet times past of rolling
     around on the carpet with your young kids, but can't deliver any solutions for you. A watchmaker
     cannot create for us a beautiful father-son relationship.
-  * Businesses target only the lower needs of Maslov's pyramid. "We have simply accepted... that
-    there is nothing business can do to address [the higher needs], when in fact, being able to
-    structure businesses around these needs would be the commercial equivalent of the discovery of
-    steam power or the invention of the electric light bulb."
+  * Businesses target only the lower needs of Maslov's pyramid.
 
 ## Culture (chap 11)
 
 * (An essay on the differences between classical and romanticism)
-  * Romanticism dominates modern thinking. It has many truths to impart, but must be balanced with
-    Classical thinking.
+* Romanticism dominates modern thinking. It has many truths to impart, but must be balanced with
+  Classical thinking.
 * "We need to fall silent -- more frequently than we do -- and simply listen."
 * Romanticism: "authenticity is the highest form of morality. Politeness is a lid that we place upon
   our real selves to suppress the truths that could free us."
   * Classical: "Strategic inauthenticity is the mark of a kindly soul."
 * Classical: "they are familiar enough with extremes to welcome things that are a little boring.
   They can see the charm of doing the laundry."
-* Purity: no side is likely to be entirely right. There is worth in opposing ideas; something to be
-  learned. No political party is "admirable at every turn."
-* People have come to dislike cheap things
+* Purity: no side is likely to be entirely right. There is worth and something to be learned from
+  opposing ideas. No political party is "admirable at every turn."
+* People have come to dislike cheap things.
   * "Industrialization has inadvertently... robbed certain experiences of their loveliness, interest
     and worth" by making those products cheap and widely available. Our psychology devalues them as
     a result.
   * We have mistakenly come to treat price as a token of intrinsic value.
-  * Around age 8, children understand what cheap vs expensive means, and now their method of value
+  * Around age 8, children understand what cheap vs expensive means, and their method of value
     becomes price.
   * Solution? We can't change our knowledge of the price, but we can pay less attention to what
     things cost and more to our own responses.
