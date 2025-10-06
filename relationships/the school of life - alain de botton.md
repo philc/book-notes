@@ -7,10 +7,6 @@
   malice) do the same to them."
   * The lower the expectations of relationships, sex, work, children, politics, the greater our
     satisfaction in the actual outcomes.
-* "In many areas of life, we observe a strange, unexpected phenomenon: a prejudice in favor of
-  abstruseness, density, enigma, and the esoteric. Our respect for explanations that come close to
-  incomprehensible, that provoke puzzlement, that employ uncommon words suggests an implicit belief
-  that the truth should not come in a form that is easily fathomable." (yes, curious)
 * Being a "generous onlooker", interpreter
   * Even when they do not know any of the details, generous onlookers must make a stab at picturing
     the overall structure of what might have happened to the wretched being before them. They must
@@ -23,9 +19,8 @@
   viewing a person's weaknesses in isolation, but as the necessary cost of enjoying the strengths
   that drew us to them.
   * E.g. messy but creative; driven but self-centered; uncompromising but honest.
-  * "It's always an option to move away and find people who will have new kinds of strengths, but
-  --as time will reveal -- they will also have new, fascinating, and associated kinds of
-  weaknesses."
+  * When meeting someone new, it's fascinating to see what new kinds of strengths they have, but
+    they will always have corresponding weaknesses that will reveal themselves eventually.
 * True kindness requires uncommon candor in moments
   * "True niceness does not mean seeming nice; it means helping the people we are going to
     disappoint to adjust as best they can to reality. By administering a sharp, clean blow, the
@@ -34,11 +29,8 @@
 * Vulnerability
   * Failure is what makes friends. Not winning. Hearing about the failure, what we're sad about,
     that we're lonely, how we're being embarrassed. It's endearing.
-    * (But what about demonstrating strength? Vulnerability, without power, is warm but irrelevant).
   * By being vulnerable, you're offering up the valuable opportunity for others to hurt and
     humiliate you.
-    * "Friendship is the dividend of gratitude that flows from an acknowledgment that one has
-      offered something very valuable by talking."
 * Friendship
   * "Friendships cannot develop until one side takes a risk and shows they are ready to like even
     when there's as yet no evidence that they are liked back."
@@ -71,7 +63,6 @@
   * "We deliberately invite an elderly aunt or uncle whom we don't even like much to fly around the
     world to be there. We are willingly creating a huge layer of embarrassment were we ever to turn
     round and admit it might have been a mistake."
-* (on our culture) "We need to fall silent -- more frequently than we do -- and simply listen."
 * Virtual friends, mentors, to give us solace and companionship
   * "Strangely, it appears that certain imaginary friends drawn from culture can end up feeling more
     real and in that sense more present to us than any of our real-life acquaintances, even if they
@@ -192,7 +183,7 @@
     one of their strengths. Comfort comes from not viewing a person's weaknesses in isolation, but
     as the necessary cost of enjoying the strengths that drew us to them.
   * E.g. messy but creative; driven but self-centered; uncompromising but honest.
-  * When meeting someone new, it's interesting to see what new kinds of strengths they have, but
+  * When meeting someone new, it's fascinating to see what new kinds of strengths they have, but
     they will always have corresponding weaknesses that will reveal themselves eventually.
 * What to think about our enemies
   * "Contented people have no need to hurt others." So it must be the case that one's enemies must
@@ -367,10 +358,9 @@
   * Romanticism ignores the practical fact that partners will collaborate heavily on all mundane
     domestic matters, and doing so well is essential for the relationship. It requires a surprising
     amount of energy and attention.
-* "It was meant to be nicer"
-  * As children we were cherished. In marriage, that tends to wear off quickly and our partner isn't
-    all that interested in the details of our lives and feelings. So don't judge our marital care
-    against how we were treated as kids.
+* "It was meant to be nicer": as children we were cherished. In marriage, that tends to wear off
+    quickly and our partner isn't all that interested in the details of our lives and feelings. So
+    don't judge our marital care against how we were treated as kids.
 * "The wisdom of compromise": the author argues that it's possible that nursing yourself through a
   lifetime of sadness in a relationship is better than the alternatives, and it certainly shouldn't
   be labeled as "cowardice."
