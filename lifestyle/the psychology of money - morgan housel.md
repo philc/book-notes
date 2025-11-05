@@ -51,9 +51,9 @@
 ## Luck and risk (chap 2)
 
 * "If you give luck and risk their proper respect, you realize that when judging people's financial
-success, -- both your own and others -- it's never as good or as bad as it seems."
-  * Gates had a 1 in a million kind of luck of attending a high school with a computer. Kent Evans,
-    his best friend: 1 in a million risk, dying in a high school mountaineering accident.
+  success -- both your own and others -- it's never as good or as bad as it seems."
+  * Gates had a one in a million kind of luck of attending a high school with a computer. Kent Evans,
+    his best friend: one in a million risk, dying in a high school mountaineering accident.
   * "For every Bill Gates there is a Kent Evans who was just as skilled and driven but ended up on
     the other side of life roulette."
 * People conclude that bad outcomes were a result of bad decisions, but like poker, we can't easily
@@ -154,7 +154,7 @@ guaranteed to participate in the growth from tail events.
   "I'll never make that mistake again."
 * Even though we have decades and centuries of economic data which we can use to predict the future,
   economies evolve over time, and so the recent history is the most valuable because "it's more
-  likely to include the important conditions that are relevant to the future?"
+  likely to include the important conditions that are relevant to the future."
 
 ## Room for error (chap 13)
 
