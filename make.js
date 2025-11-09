@@ -130,6 +130,7 @@ task("website", [], async () => {
   const files = [
     "architecture/suburban nation - andres duany.md",
     "business/7 powers - hamilton helmer.md",
+    "business/founders - jimmy soni.md",
     "business/it doesnt have to be crazy at work - jason fried.md",
     "business/powerful - patty mccord.md",
     "business/radical candor - kim scott.md",
