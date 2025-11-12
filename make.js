@@ -149,6 +149,7 @@ task("website", [], async () => {
     "psychology/deep work - cal newport.md",
     "psychology/digital minimalism - cal newport.md",
     "psychology/four thousand weeks - oliver burkeman.md",
+    "psychology/reinforcements - heidi grant.md",
     "psychology/relentless - tim grover.md",
     "relationships/bringing up bebe - pamela druckerman.md",
     "relationships/playful parenting - lawrence cohen.md",
