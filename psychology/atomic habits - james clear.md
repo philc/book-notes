@@ -203,8 +203,8 @@
 * The greater the friction, the less likely the habit. This can work to your advantage.
 * Another example if your phone is in another room, you won't be incentivize to check it for trivial
   updates.
-* We should ask ourselves: how can we design our world in a way that makes it easy to do the the
-  thing that will help us meet our goals?
+* We should ask ourselves: how can we design our world in a way that makes it easy to do the thing
+  that will help us meet our goals?
 
 ## Decisive moments (Chap 13)
 

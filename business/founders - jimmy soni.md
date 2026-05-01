@@ -315,7 +315,7 @@
 * "The outages still caused panicky all-nighters, but unlike in the early months, the company felt
   users were more forgiving. At this point, they needed PayPal as much as PayPal needed them."
 
-## Guerrillas (chap 18
+## Guerrillas (chap 18)
 
 * Sacks formed an "ebay response team" -- a cross functional group to work on the competitive
   threat.

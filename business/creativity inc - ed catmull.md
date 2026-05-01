@@ -299,7 +299,7 @@
   mandatory changes, which restored ownership to the directors.
 * Ed and John spent a lot of time fixing Disney Animation, and used it as an opportunity to empower
   other leaders to steer Pixar.
-  * They pushed "research trips" onto the folks at Disney ANimation, so that everything they threw
+  * They pushed "research trips" onto the folks at Disney Animation, so that everything they threw
     on screen -- sets, characters -- would be genuine.
 * About Tangled: "The movie went on to earn more than $590 million worldwide, becoming the
   second-highest-grossing film from Disney Animation ever, after The Lion King. The studio had its

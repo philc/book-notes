@@ -152,7 +152,7 @@
 * The decider should get facts, not recommendations. Asking for a person's recommendation carries
   the risk that the person's ego gets tied to it, which can lead to a political situation.
 * Go to direct sources of facts. Deep dive on some decisions, to stay connected to the org.
-  * Stevve Jobs would often go straight to the engineer who had the fact, rather than through their
+  * Steve Jobs would often go straight to the engineer who had the fact, rather than through their
     boss.
 * Persuading
   * This part of the work is necessary because only a small subset of the broader group were part of

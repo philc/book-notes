@@ -231,7 +231,7 @@
 
 * Let the team define their own approach. Risk-reducing via oversight might not be worth it.
 * Deploy and Q&A needs to be in cycle.
-* Docs and announcement are not done in the cycle.
+* Docs and announcements are not done in the cycle.
   * "Those are thin-tailed from a risk perspective (they never take 5x as long as we think they
     will) an are mostly handled by other teams. We'll often take care of those updates and publish
     an announcement about the new feature during cool-down after a cycle."

@@ -351,7 +351,7 @@
   * With three people, scheduling is easy.
   * Having such a small team tempers your ambition and keeps you honest.
   * Three is a sharp wedge. "The problem with four is that you almost always need to add a fifth to
-    manage the the team."
+    manage the team."
 
 ## Season's greetings
 

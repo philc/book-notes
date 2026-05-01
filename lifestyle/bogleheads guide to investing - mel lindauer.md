@@ -1,4 +1,4 @@
-# Bogleheads Guide to Invvesting - Mel Lindauer
+# Bogleheads Guide to Investing - Mel Lindauer
 
 ## Gems
 

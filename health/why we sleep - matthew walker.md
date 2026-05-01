@@ -449,7 +449,7 @@ relative to a full eight-hour night of sleep." You become immediately prone to s
   and sculpt the ideal timing of sleep."
 * (Splash water on your face before bed, to cool off?)
 * Unknowingly ejecting feet from the covers, to lower body temp:
-  * "The limb rebellion aids in keeping the body core cool, allowing to fall and stay asleep."
+  * "The limb rebellion aids in keeping the body core cool, allowing you to fall and stay asleep."
 * "A bedroom temperature of around 65F is ideal for the sleep of most people, assuming standard
   bedding and clothing."
 * Cool result: using a thermally cooled body suit reduces time to fall asleep by 20%, and reduced
