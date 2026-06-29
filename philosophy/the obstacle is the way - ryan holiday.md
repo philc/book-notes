@@ -14,7 +14,7 @@
   * "The process is about finishing the small task in front of you."
   * The nature of problems:
     * Every hard road is a system of connected composite parts that can be completed in sequence.
-    * This knowlege will bring us comfort and confidence.
+    * This knowledge will bring us comfort and confidence.
 * On loving -- not just bearing with -- everything that happens
   * "You love it because it's all fuel."
 * Using something bigger than ourselves for motivation
@@ -63,7 +63,7 @@
 
 * How you perceive situations is always your choice, and cannot be taken from you. As a result, we
   are never powerless.
-* Situations are neither good nor bad. Only our atittudes make them so.
+* Situations are neither good nor bad. Only our attitudes make them so.
 * On employee mistakes: "With a shift in perception, it can be exactly what you were looking for --
 the chance to pierce through defenses and teach a lesson that can be learned only by experience. A
 *mistake* becomes *training*."
@@ -73,7 +73,7 @@ the chance to pierce through defenses and teach a lesson that can be learned onl
 * Uncertainty and fear are relieved by authority. Training is authority. It's a release valve.
   * Astronauts are trained to rely on their training, and keep emotions like fear and panic from
     affecting their actions.
-  * The problems and stakes of space travel make our terrestirial high-stress situations, like
+  * The problems and stakes of space travel make our terrestrial high-stress situations, like
     speaking in front of a crowd, look inconsequential.
 
 ## Alter your perspective (Chap 6)
@@ -130,7 +130,7 @@ the chance to pierce through defenses and teach a lesson that can be learned onl
 * "The process is about finishing the small task in front of you."
 * The nature of problems:
   * Every hard road is a system of connected composite parts that can be completed in sequence.
-  * This knowlege will bring us comfort and confidence.
+  * This knowledge will bring us comfort and confidence.
   * "We shy away from writing a book or making a film even though it's our dream because it's so
   much work -- we can't imagine how we get from here to there."
   * (Yes; true; preparing for and then starting a company is really a system of related tasks that
@@ -176,7 +176,7 @@ the chance to pierce through defenses and teach a lesson that can be learned onl
   completely different, and better, person."
 * "Death doesn't make life pointless, but rather purposeful. And, fortunately, we don't have to
   nearly die to tap into this energy."
-  * It can be exhilirating and empowering, rather than morbid.
+  * It can be exhilarating and empowering, rather than morbid.
 * "The paths of glory leard but to the grave." - Thomas Gray
 * Why do we spend our time making more money than we could spend in a lifetime?
 * "They figure out what they need to do and do it, fitting in as much as possible before the clock

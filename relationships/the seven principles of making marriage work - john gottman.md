@@ -61,7 +61,7 @@
   * 'The history and philosophy or your marriage: highlight the positive history and the love which
     brought the couple together.
   * 'Seven Week Course in Fondness and Admiration': a schedule of daily rehearsing of positive
-    thoughts and a related tasks which positively
+    thoughts and related tasks which positively
 
 ## 3: Turn towards each other and not away (chap 5)
 
@@ -91,7 +91,7 @@
 ## 5: Solve solvable problems (chap 7, 8, 9)
 
 * 70% of conflicts fall into the perpetual variety.
-  * Since they're perpetual by nature, you must chose a partner who's differences you can live with
+  * Since they're perpetual by nature, you must choose a partner whose differences you can live with
     and cope with. Choosing your spouse is the same as choosing your set of unsolvable problems.
   * If the problems cannot be coped with, they become obstacles, and the couple gets into a
     gridlock, leading to the four horsemen.

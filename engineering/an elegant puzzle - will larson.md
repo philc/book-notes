@@ -271,4 +271,4 @@
     * You must be able to frame the role's work without referencing other existing roles in order
       for it to succeed long-term. Roles should not be framed as support.
   * Brittle organization: As you move away from generalized roles and toward specialists (to gain
-    efficiency), your organization becomes brittle because it more single points of failure.
+    efficiency), your organization becomes brittle because it has more single points of failure.

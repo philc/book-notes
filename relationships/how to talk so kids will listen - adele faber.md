@@ -162,7 +162,7 @@
   problem-solved together, and now the kid can wear whatever they want on the weekend, and on school
   days, the mother puts out 2 outfits and the daughter picks one.
 * Having kids write even basic goals for themselves (sports, academics) is very powerful. It seems
-  so grow-up and serious. Writing things down is much more powerful than just talking about it. You
+  so grown-up and serious. Writing things down is much more powerful than just talking about it. You
   can even ask kids to write down a schedule and figure out how they're going to make time for the
   things they want to do.
 * Don't take hope away by protecting them from disappointment: don't say "it's very unlikely you can
@@ -223,7 +223,7 @@
   they will accept it and live up to it.
 * Even favorable roles are dangerous, e.g. "she brings me so much joy", because they may feel like
   they always need to be on their best behavior to live up to that role, and misrepresent their true
-  feelings if they ever get angry our burnt out.
+  feelings if they ever get angry or burnt out.
 * Give them the freedom to be who they want to be and not get crushed or burnt out by the high
   standard you set for them.
 
@@ -262,6 +262,6 @@
   * They're hard for any age. If you're going to play board games like Candy Land, then the person
     who completes the board first can be in first place, but let everybody else complete the game.
   * Kids love races. A way to make them noncompetitive is to buy a stopwatch, have one kid race, and
-    the other kid time then and then have them switch, and then have them try to beat their own
+    the other kid time them and then have them switch, and then have them try to beat their own
     times. You might think they would directly compare, but they don't enough to ruin the fun. They
     focus on beating their own times.

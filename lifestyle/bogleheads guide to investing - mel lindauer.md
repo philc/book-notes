@@ -13,7 +13,7 @@
 
 ## Know what you're buying part 1 (chap 3)
 
-* Why buy bonds? They have how correlation with stocks, so they act as a stabilizing force for the
+* Why buy bonds? They have low correlation with stocks, so they act as a stabilizing force for the
   portfolio.
 
 ## Know what you're buying part 2 (chap 4)
@@ -78,7 +78,7 @@
   whose yield is taxed at ordinary income tax rates."
   * "For this reason, and the fact that stocks benefit from the lower capital gains tax rates, we
     generally recommend placing stocks in taxable accounts and bonds in tax-advantaged accounts."
-* "Municipal bond sand bond funds generally provide lower yields than comparable taxable bonds."
+* "Municipal bonds and bond funds generally provide lower yields than comparable taxable bonds."
 
 ## Taxes part 2 (chap 11)
 
@@ -86,7 +86,7 @@
 * IRA
   * Traditional: contributions can be deductible. Gains are taxed.
   * Roth: contributions are taxed, the growth is not taxed.
-    * No required minimum distribution at age 70.5. THis allows continued growth for the benefit of
+    * No required minimum distribution at age 70.5. This allows continued growth for the benefit of
       heirs.
     * Heirs pay no income tax on proceeds, as they do with traditional IRAs.
   * (Describes back door Roth)
@@ -104,7 +104,7 @@
   they would be private).
 * Argues that even 10 year performance window of a mutual fund does not predict future performance,
   based on studies.
-* "Since the 1960s, the average return of the top-20 mutual funds in each decade as less than the
+* "Since the 1960s, the average return of the top-20 mutual funds in each decade was less than the
   market index return in the next decade."
 * Market timing is a complete myth. No one has done it reliably and successfully.
 
@@ -165,7 +165,7 @@
 ## Protect your assets by being well-insured (chap 21)
 
 * "To be a successful investor requires being a good risk manager. Managing risk means having a plan
-  to cover the downside. THat's what insurance is all about -- damage control to prevent the
+  to cover the downside. That's what insurance is all about -- damage control to prevent the
   unforeseen from smashing your nest egg."
 * "Only insure against the big catastrophes and disasters that you can't afford to pay for out of
   pocket. The cheapest insurance is self-insurance."

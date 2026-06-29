@@ -143,7 +143,7 @@
   * E.g. Taobao crushing eBay despite its established network effects.
 * "As powerful as network effects can be, it is important to remember that WTP and customer delight
   are the currency that ultimately counts. In this sense, there is nothing magical about network
-  effects. An increase in WTP that results form network effects is no more valuable than increases
+  effects. An increase in WTP that results from network effects is no more valuable than increases
   in WTP that reflect great ideas, a more pleasant customer experience, or less-expensive
   complements."
 * Favoring one group on the platform: Etsy favoring sellers; Amazon favoring buyers.
@@ -176,7 +176,7 @@
   matching does not imply paying the same compensation ('paying market'). Matching means creating as
   much value for your employees."
 * "Companies create more attractive working conditions to lower WTS. They then share this value by
-  reducing compensation. As long as th drop in WTS is greater than the reduction in salaries, both
+  reducing compensation. As long as the drop in WTS is greater than the reduction in salaries, both
   employees and companies are better off."
 * Lowering wages after improving WTS is hard, for two reasons:
   * 1) power - the company is easily seen as abusing its bargaining power over employees, even if in
@@ -184,7 +184,7 @@
   * 2) experience: on the way in, you can't willingly accept lower wages without first experiencing
     the company and its employee experience.
   * "Compensation below market is immediate and certain. More attractive working conditions,
-    however, are felt over time and are difficult to asset when you are deciding whether to take
+    however, are felt over time and are difficult to assess when you are deciding whether to take
     that new job."
   * (So then... how does one actually translate improvements in work experience to achieve a lower
     WTS among the workforce? Maybe employee experience ultimately improves WTS by improving employee

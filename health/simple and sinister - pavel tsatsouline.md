@@ -62,7 +62,7 @@
   * Sit as deeply as you can without letting your elbows drop. Lean forward and back
 * Hip bridge
   * Put shoes or a pillow between your knees so they stay together and clinched. This forces your
-    abs to activate, rater than relying on a hyper-extended back.
+    abs to activate, rather than relying on a hyper-extended back.
   * Go as high as you can for 5 seconds. Get maximal glute contraction.
 * Halo
   * Keep your shoulders down as much as you can.
@@ -184,7 +184,7 @@
   * "If you can no longer pinch your cheeks, the gig is up. Ditto for your abs: failing to tense
     them at the top of the swing not only robs your power, but also endangers your spine."
 * Tool: speed run
-  * Race the clock: do your 10 swings in five minutes. Uses glycolsis. Accelerates gains. Use
+  * Race the clock: do your 10 swings in five minutes. Uses glycolysis. Accelerates gains. Use
     infrequently, "as a side dish." Do once every 4 workouts, or once a week. Us a lighter
     kettlebell, one step down.
   * Then 1 minute rest, then 10 get-ups in 10 minutes, one weight down from the weight you "own".

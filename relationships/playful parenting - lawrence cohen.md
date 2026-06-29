@@ -160,7 +160,7 @@
   * "Replay:" For example, if a child had a disappointing defeat that day, let her replay it with
     you through wrestling. You represent the obstacle or bully. The object of the game is not
     necessarily for her to win this time around, though that can be helpful, but more important, to
-    right all out with you cheering her on.
+    right it all out with you cheering her on.
 * Stop when someone is hurt
   * "Interrupting wrestling -- or any activity -- to pay attention to physical injuries is
     especially key for boys, who are often encouraged to be stoical and keep playing."

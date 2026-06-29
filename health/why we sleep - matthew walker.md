@@ -12,7 +12,7 @@
   * "What emerges from all of those studies is that REM sleep is not optional during early human
     life, but obligatory. Every hour of REM sleep appears to count, as evidenced by the desperate
     attempt by a fetus or newborn to regain any REM sleep when it is lost."
-  * At birth, the NREM/REM ratio beings at 50/50, and throughout childhood, slowly transitions to
+  * At birth, the NREM/REM ratio begins at 50/50, and throughout childhood, slowly transitions to
     80/20.
   * Argues that brain pathway expansion is the priority early in life, and is done via REM. Pruning
     pathways, for efficiency, becomes the priority at puberty, and is done through NREM.
@@ -135,7 +135,7 @@
     allow some people to have a more efficient enzyme which clears it in less than three hours.
   * Beware dark chocolate at night, because it contains caffeine.
   * Caffeine crash: the high contrast between complete wakefulness because of adenosine blockage,
-    versus the high adenosine count once the caffeine wars off.
+    versus the high adenosine count once the caffeine wears off.
   * (Fun diagram of the effects of various drugs on spiderweb building. Caffeine produced the worst
     results).
 * Sleep pressure and circadian rhythm do not coordinate, but they are usually aligned.
@@ -167,8 +167,8 @@
 * All animals studied have some form of sleep, where they are passive and unresponsive to external
   stimuli, and when deprived, they seek to recuperate it.
 * Dolphins sleep in one brain hemisphere at a time.
-* Birds that group together in a flock will from a line; the middle of the flock sleeps with both
-  halves of their brain. The end guards will sleep with only 1/2 of their rains, keeping one eye
+* Birds that group together in a flock will form a line; the middle of the flock sleeps with both
+  halves of their brain. The end guards will sleep with only 1/2 of their brains, keeping one eye
   open.
   * Amazing: "At some point, the two end-guards will stand up, rotate 180 degrees, and sit back
     down, allowing the other side of their respective brains to enter deep sleep."
@@ -231,7 +231,7 @@
 * "What emerges from all of those studies is that REM sleep is not optional during early human life,
   but obligatory. Every hour of REM sleep appears to count, as evidenced by the desperate attempt by
   a fetus or newborn to regain any REM sleep when it is lost."
-* At birth, the NREM/REM ratio beings at 50/50, and throughout childhood, slowly transitions to
+* At birth, the NREM/REM ratio begins at 50/50, and throughout childhood, slowly transitions to
   80/20.
 * Argues that brain pathway expansion is the priority early in life, and is done via REM. Pruning
   pathways, for efficiency, becomes the priority at puberty, and is done through NREM.
@@ -344,7 +344,7 @@
   crashes.
 * Power naps temporarily stave off severe lapses in concentration, but for a short time, and to a
   limited degree.
-* Impulse and reward centers of the brain -- the stratum -- become hyperactive in response to
+* Impulse and reward centers of the brain -- the striatum -- become hyperactive in response to
   rewards when the person is sleep deprived.
   * "The heightened sensitivity of these hedonic regions was linked to a loss of the rational
     control from the prefrontal context."

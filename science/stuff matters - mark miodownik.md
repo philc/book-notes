@@ -18,7 +18,7 @@
   * As you bend a paper clip, you are causing approximately 100,000,000,000,000 [crystal]
     dislocations to move at a speed of thousands of hundreds of meters per second."
     * Amazing -- the interaction of the micro scale with the human scale.
-  * Heating any metal will soften sit.
+  * Heating any metal will soften it.
     * "The melting point of a metal is an indicator of how tightly the metal atoms are stuck
       together and so also affects how easily the dislocations move."
   * Rock can only practically be carved with metal tools, so the discovery of smelting unlocked

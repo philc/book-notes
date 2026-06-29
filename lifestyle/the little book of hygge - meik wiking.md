@@ -104,7 +104,7 @@
 
 * The author (who researches happiness) believes Danes are happy because of 1) the welfare state,
   and 2) abundant, deep social connections. Hygge contributes to developing meaningful connections.
-* Savoring good food and gratitude, and being thanful for it, are hygge.
+* Savoring good food and gratitude, and being thankful for it, are hygge.
 * "Research also shows that grateful people tend to recover more quickly from trauma and suffering
   than others and are less likely to get stressed in different situations."
 * "Hygge may function as a driver for happiness on an everyday basis. Hygge gives us the language,
@@ -112,5 +112,5 @@
   bit of it every day."
 * "Happiness consists more ins mall conveniences or pleasures that occur every day, than in great
   pieces of good fortune that happen but seldom."
-  * Managing for happiness each day, with teh samllt hings, rather than each decade, with the big
+  * Managing for happiness each day, with the small things, rather than each decade, with the big
     moments.

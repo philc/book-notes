@@ -30,7 +30,7 @@
 * Do not filter items which are not in use, or haven't been used in a year, or some criteria like
   that. This will only lead to unhappiness. It's a negative lens. Instead, seek to identify what you
   cherish, and keep those things.
-* Imagine if you space was only filled with the things which give you joy. How great would that be?
+* Imagine if your space was only filled with the things which give you joy. How great would that be?
 * Tidy by category
   * Repetition and wasted work will kill your motivation. To tidy by category, get it all out of the
     drawers and closets and gather it in one place that will allow you to make global optimization
@@ -56,7 +56,7 @@ Clothes:
   drawer for years and forgotten about, they don't like that sad lifestyle.
 * Get every piece of clothing out on the floor so you see how much you have, and better dedupe.
 * Average wardrobe contains 168 items.
-* Star with off seasonal clothes. Then loungewear.
+* Start with off seasonal clothes. Then loungewear.
 * Don't downgrade everything that's now subpar to loungewear. What you wear around the house does
   affect your self image. Don't do sweats.
 * The problem with storing off-season clothes
@@ -79,7 +79,7 @@ Books:
   gives you a thrill of joy if you're just looking at it on the shelf. Hold it, look at its cover,
   touch its page. Then you will be able to judge whether it still gives you joy, or whether you can
   move on from it and your life.
-* Imagine if you had a bookshelf full of only books that you love and I give you joy. Wouldn't that
+* Imagine if you had a bookshelf full of only books that you love and give you joy. Wouldn't that
   be a great life? That's the goal.
 * Keep only those books that will move you just see them on your shelves, even if you never plan to
   crack it open again.
@@ -119,7 +119,7 @@ Mementos:
 * Pick a designated spot for everything you own. If you have items in your house without a home then
   the chances that they'll get lost or accumulate more clutter multiplies.
 * If you have a shelf with nothing on it and you put something on it that doesn't have a home, that
-  shelf becomes a dumping ground for other random things. (This is happened to me with my
+  shelf becomes a dumping ground for other random things. (This has happened to me with my
   bookshelves -- we put sunglasses on there and now other trinkets).
 * It's easy to maintain a house in order if you come home from work and can put down all of your
   things quickly and with no thought.
@@ -148,7 +148,7 @@ Mementos:
 
 ## Tidying transforms lives (chap 5)
 
-* Tiding is the process by which you select all of the things you've accumulated in your life to
+* Tidying is the process by which you select all of the things you've accumulated in your life to
   reflect what you really enjoy an what you really value. When somebody walks through a home that's
   well tidied, they will immediately get a sense of what that person is about and what they like. If
   you prune every book on your shelf to only include the ones that you love, it will become clear
@@ -162,4 +162,4 @@ Mementos:
 * The reason the author spent so much of her life on tidying is because she gets an immense amount
   of satisfaction and exhilaration from sending possessions on their way to be the most useful
   somewhere else in the world for someone else, and loves the idea of the universe clicking into
-  place when an item fines it's true owner and gives them joy.
+  place when an item finds its true owner and gives them joy.

@@ -73,7 +73,7 @@
 * "The problem with the airport is that we tend to go there when we have a plane to catch. As a
   result, we are panicked, argumentative, stressed."
 * The airport is where many amazing journeys are about to begin among the people there. Do some
-  people watching and speculate about what will happen tot hem.
+  people watching and speculate about what will happen to them.
 
 ## The pleasures of the flight (chap 10)
 

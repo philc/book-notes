@@ -149,7 +149,7 @@
 * (Were commons just a temporary historical phenomenon? It's intuitive that big projects would be
   driven by a couple of high-leverage engineers -- the maintainers -- not hundreds of minor
   contributors. Maybe in the early days of open source, the population using it was mostly very
-  capable engineers, given how niche of an activity development software was.)
+  capable engineers, given how niche of an activity software development was.)
 * How platforms broke apart the commons
   * Github created a highway where it was easy to discover what else was out there, and lowered the
     barrier to contributing. Also, it made everything look homogenous.

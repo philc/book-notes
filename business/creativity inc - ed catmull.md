@@ -32,7 +32,7 @@
 * "Self-expression, palpable energy; air of possibility."
 * What makes Pixar special: "We will always have problems, many of them hidden from our view; that
   we work hard to uncover these problems, even if doing so means making ourselves uncomfortable; and
-  that, when we come across a problem, we marshall all of our energies to solve it."
+  that, when we come across a problem, we marshal all of our energies to solve it."
 * His lifelong dream was to animate a feature film. It took Ed 20 years to do that. Once Toy Story
   shipped, his internal compass of purpose was adrift.
 * "As I turned my attention from solving technical problems to engaging with the philosophy of sound
@@ -171,7 +171,7 @@
   thus more success than careful design and planning. And you get less attached to an approach.
 * Product research versus development and scaling phase:
   * "We've set up a system in which directors are allowed to spend years in the development phase of
-    a movie, where the costs off iteration and exploration are relatively low. (At this point, we're
+    a movie, where the costs of iteration and exploration are relatively low. (At this point, we're
     paying the director's and story artists' salaries but not putting anything into production,
     which is where costs explode.)
 
@@ -303,7 +303,7 @@
     on screen -- sets, characters -- would be genuine.
 * About Tangled: "The movie went on to earn more than $590 million worldwide, becoming the
   second-highest-grossing film from Disney Animation ever, after The Lion King. The studio had its
-  first number one hit in sixteen years, and the reverberations with the building were palpable."
+  first number one hit in sixteen years, and the reverberations within the building were palpable."
 
 ## Notes day (chap 13)
 

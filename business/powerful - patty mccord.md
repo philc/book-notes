@@ -98,7 +98,7 @@
 * Their cultural model is that of a sports team. They want the very best team composition. As the
   business changes, the team composition must also change. And so they made it explicit that the
   goal of management was to put together the best team and that would mean sometimes, they must
-  bring in people from outside, or let existing people people go, or have people change roles. Just
+  bring in people from outside, or let existing people go, or have people change roles. Just
   like a sports team: they're always scouting for new talent and shaping the best team given the
   talent they have.
 * Career planning
@@ -153,7 +153,7 @@
   and give them much higher offers.
 * If you can't pay market for every position, focus on paying the highest rates for the most
   important position for your company. It seems like a no brainer. Having a universal compensation
-  schedule where you you tie your compensation to some percentile of what you perceive as market is
+  schedule where you tie your compensation to some percentile of what you perceive as market is
   too coarse of a strategy. There are some positions which are much more important to have stars and
   then others.
 * Proactively let people go. Make that a part of your culture. It's good for the business, for the
@@ -164,5 +164,5 @@
   department woods just can't be true is not in this not a promise you should've made.
 * Get rid of PIPs. They're not great tools for genuinely changing performance. Instead, just be
   candid and give very regular feedback in every 1:1.
-* Have a high bar. Ask yourself is this person excellent, do they love wheat they do, and does the
+* Have a high bar. Ask yourself is this person excellent, do they love what they do, and does the
   company really need someone great in that position?

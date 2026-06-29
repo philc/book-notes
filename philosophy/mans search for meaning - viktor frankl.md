@@ -31,7 +31,7 @@
   inner retreat during the hard labor.
   * "This intensification of inner life helped the prisoner find a refuge from the emptiness,
     desolation and spiritual poverty of his existence, by letting him escape into the past.
-* Identity broke down, ego suffered a loss of values. The The circumstances were so meaningless;
+* Identity broke down, ego suffered a loss of values. The circumstances were so meaningless;
   being used until physical resources were depleted, then efficiently killed, in service of men you
   hate.
 * Reaction to "enforced community life."
@@ -103,7 +103,7 @@
   suffering and death should save the human being he loved from a painful end. For this man,
   suffering and death were meaningful; his was a sacrifice of the deepest significance. He did not
   want to die for nothing."
-* Upon their liberation day, they did not celebrate with mad joy. They has this capability stamped
+* Upon their liberation day, they did not celebrate with mad joy. They had this capability stamped
   out of them over the years of captivity. Their freedom appeared as a dream -- unreal, unlikely.
   * "We had literally lost the ability to feel pleased and had to relearn it slowly."
   * Some ate ravenously for days. Others couldn't stop talking; they desired to express themselves.
@@ -147,7 +147,7 @@
   * "The logotherapist's role consists of widening and broadening the visual field of the patient so
     that the whole spectrum of potential meaning becomes conscious and visible to him."
     * Rather than producing a specific picture.
-  * Meaning must be found outside ourselves -- in a cause, or another person, or God. The more oen
+  * Meaning must be found outside ourselves -- in a cause, or another person, or God. The more one
     forgets himself, the more meaning he finds.
   * Meaning of life can be discovered in three ways:
     * To create/do a deed

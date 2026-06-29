@@ -29,7 +29,7 @@
       ongoing maintenance.
     * This is the transition that a program that was written for personal use undergoes before it's
       usable by the public, or open-sourced.
-      * (Yes -- it's always requires a surprising amount of extra work to make my personal software
+      * (Yes -- it always requires a surprising amount of extra work to make my personal software
         usable by other people.)
   * Going from a program -> a programming system incurs a 3x growth in complexity.
     * A programming system is a collection of interfacing programs for large tasks. E.g. a

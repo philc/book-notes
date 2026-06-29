@@ -44,7 +44,7 @@
   beloved and precious friend."
 * Wisdom from his father
   * "'Do you want to be the richest man in the cemetery?' 'Remember that debt works on Sundays, too'.
-    I have learned a lot of about life from him not only through his words, but also through the
+    I have learned a lot about life from him not only through his words, but also through the
     tears he sometimes shed."
   * At bedtime his mother would place her hand on each of her children's foreheads and say "God
     bless you." They deeply remember the experience.

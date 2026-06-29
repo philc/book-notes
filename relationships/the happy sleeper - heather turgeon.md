@@ -63,7 +63,7 @@
     dim lamp in their room.
   * Keep the room cool. 65-68F.
   * Early bedtime begets longer stretches of sleep.
-  * Their bodies are programmed for early rising. So moving forward bedtime let's them stretch out
+  * Their bodies are programmed for early rising. So moving forward bedtime lets them stretch out
     their sleep.
   * If parents come home right before their bedtime, it's very stimulating for the kids and impairs
     their ability to ramp down.
@@ -227,7 +227,7 @@
   * Bad dreams often happens on the second half of the night, during rem sleep, when most rem sleep
     occurs.
   * Night terrors are different from nightmares. They happen after ~2 hours, when the child is first
-    exiting from deep sleep. The child is in a disassociated state and can't be consoled. They
+    exiting from deep sleep. The child is in a dissociated state and can't be consoled. They
     appear to be awake but won't engage with you. Just sit near them and wait it out. The child
     won't remember them in the morning.
     * (This did happen a handful of times with my kids and it was bizarre. I had to just wait until
@@ -236,7 +236,7 @@
   * When they start school their sleep will be disrupted. Hold on to your predictable structure.
 * Moving
   * Maintain as much familiarity as possible.
-  * Visit the new home a few times to try lay there, before you do a hard cutover.
+  * Visit the new home a few times to try lying there, before you do a hard cutover.
 * Guests visiting the house
   * If you need to have the kid sleep with you to make room for guests, tell them this is a special
     occasion.

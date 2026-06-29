@@ -145,7 +145,7 @@
     learn twice as much about China during the second decade of his residence."
   * The right magnification of a country depends on its size and complexity, and one's personal
     interest in the country.
-    * (For me, feudal Japan warrants grater magnification than say Taiwan).
+    * (For me, feudal Japan warrants greater magnification than say Taiwan).
 * The Wise-Line
   * The path that one takes when exploring a country or place. "A 'wise line' captures the country's
     most characteristic landscapes, villages, towns, and cultures."

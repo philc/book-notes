@@ -96,7 +96,7 @@
 * X.com wanted to be an internet bank but regulatory work was slow and high-overhead.
 * Musk: "You start off with an idea, and that idea is mostly wrong. And then you adapt that idea and
   keep refining it and you listen to criticism. And then engage in sort of a recursive
-  self-improvement... keep iterating on a loop that says,, 'Am I doing something useful for other
+  self-improvement... keep iterating on a loop that says, 'Am I doing something useful for other
   people?' Because that's what a company is supposed to do."
   * "Too much precision in early plans, he believed, cut that iteration loop prematurely."
 * Musk fired his cofounder (a finance guy), and then his other co-founder (product guy) left also as

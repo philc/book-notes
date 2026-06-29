@@ -77,8 +77,8 @@
   * We develop a brittle, insistent tendency to say that all is very well. "This is lovely, isn't
     it?" we might press, leaving no room for any ideas to the contrary.
 * Drawbacks to lying to ourselves
-  * We might key opportunities for growth and learning
-    * The things we are in denial about are painful,l but they simultaneously contain material that
+  * We might miss key opportunities for growth and learning
+    * The things we are in denial about are painful, but they simultaneously contain material that
       is potentially vital to our overall growth and development.
   * We're not nice to be around: lying to yourself creates delusional views, defensiveness, and a
     condemning posture.
@@ -95,7 +95,7 @@
     of ourselves.
   * Judging ourselves is helpful for being grounded in reality and for self-improvement.
   * Strategies to change the tone of the inner voice
-    * Identify a nice voice we knew int he past and give it more scope. Perhaps there was a kindly
+    * Identify a nice voice we knew in the past and give it more scope. Perhaps there was a kindly
       grandmother.
     * Try to become an imaginary friend to ourselves. In friendship, we know instinctively how to
       deploy strategies of wisdom and consolation. Good friends like you as you already are, and

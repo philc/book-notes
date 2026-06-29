@@ -122,8 +122,8 @@
     lots.
 * Open space is often residual: it's made up of extra space between clusters of properties, rather
   than pooled together intelligently.
-* "Sports fields are often designed ease of maintenance rather than for accessibility. As a result,
-  they tend to be consolidated into excessively large parcels well beyond pedestrian range."
+* "Sports fields are often designed for ease of maintenance rather than for accessibility. As a
+  result, they tend to be consolidated into excessively large parcels well beyond pedestrian range."
 * The authors argue that curved streets and cul-de-sacs create a disorienting environment.
   * (That sounds reasonable. But I would guess the intent is a more organic and interesting
     landscape, where walking uncovers more behind the bend.)
@@ -250,7 +250,7 @@
 ## The victims of sprawl (chap 7)
 
 * Children lose their autonomy in suburbia; their mobility is only to the edge of the subdivision.
-* Typically, one parent has to become the parent's personal chauffeur ("soccer mom").
+* Typically, one parent has to become the child's personal chauffeur ("soccer mom").
 * Cul-de-sac kid: "the child who lives as a prisoner of a thoroughly safe and unchallenging
   environment."
 * Authors argue that kids living in suburbs contribute to teen auto deaths (because they must drive
@@ -328,11 +328,11 @@
 * Pioneers to new urban developments arrive in this order:
   * Risk-oblivious: artists, college grads
   * Risk-aware: yuppies
-  * Rise-averse: middle class
+  * Risk-averse: middle class
   * Each group needs different housing styles.
 * City "master plans", so that each new building is not a permit battle.
   * "Most successful plans seem to share two qualities: first, they were completed through a fully
-    open, interactive, public involvement process: and second, they includ ea physically based urban
+    open, interactive, public involvement process: and second, they include a physically based urban
     code that was passed into law."
 
 ## How to make a town (chap 10)

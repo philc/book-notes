@@ -289,7 +289,7 @@
 * The main pitch element to your 20th hire should be: the team.
 * "Be the Google of 1999, not the Google of 2014" when pitching candidates.
 * "Internal peace is what enables a startup to survive at all."
-  * Internal conflict is like an autoimmune disease. he says defining clear roles where every person
+  * Internal conflict is like an autoimmune disease. He says defining clear roles where every person
     was uniquely responsible for one thing reduced conflict.
 * "You don't need to worry if your company doesn't make sense to conventional professionals. Better
   to be called a cult -- or even a mafia."

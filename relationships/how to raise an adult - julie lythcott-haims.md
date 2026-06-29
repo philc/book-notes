@@ -148,7 +148,7 @@
 * "If you become a neurosurgeon concert pianist, good for you. Your parent pushed you. You don't get
   that without someone *making* you do your homework and *making* you practice."
 
-## We're hurting their job prospects (chap 9
+## We're hurting their job prospects (chap 9)
 
 * Over-parented kids are not equipped for workforce scenarios. "Orchids" -- they perish outside the
   greenhouse.

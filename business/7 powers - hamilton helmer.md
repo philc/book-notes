@@ -117,7 +117,7 @@
   * Or, if the customer had to customize the deployment of the solution.
 * Benefit: firm can charge higher prices.
 * Barrier: to offer an equivalent product, competitors must compensate customers for Switching
-  Costs. This makes share grains for the entrant expensive, and thus less attractive.
+  Costs. This makes share gains for the entrant expensive, and thus less attractive.
 * Note that Switching Costs do not offer power over new, potential customers. Entrants can compete
   for those new customers without suffering from the barrier.
   * (E.g. Google Docs targeted new businesses, not existing businesses who were already using MS

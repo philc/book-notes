@@ -368,7 +368,7 @@
     forces you to focus on facts, not theories."
 * "Starting with history discourages the common and distracting tendency we all have to define a
   problem not by the systems' actual behavior, but by the lack of our favorite solution."
-  * (Yes; this an easy error to make when looking how to apply technology to a domain.)
+  * (Yes; this is an easy error to make when looking how to apply technology to a domain.)
 * "Expose your mental models to the light of day"
   * By writing them down and discussing them. This helps improve the model to be more consistent and
     rigorous. Mental models alone are slippery.

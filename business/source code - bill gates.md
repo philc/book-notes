@@ -28,6 +28,6 @@
   * "My mother was the first person to extend her hand, welcome you, and smooth your way into the
     group in a room. The minister of our church once said that my mother 'never met an unimportant
     person.'"
-  * His parents garduate from UW, and Gates is born 3 (?) years later. They move from Seattle to a
+  * His parents graduate from UW, and Gates is born 3 (?) years later. They move from Seattle to a
     suburb still under construction.
 * View Ridge (chap 2)

@@ -1,4 +1,4 @@
-# Vababonding - Rolf Potts
+# Vagabonding - Rolf Potts
 
 ## Intro
 
@@ -97,7 +97,7 @@ thing convictions won't stand up to the problems that come along" - Ed Buryn.
 
 ## Meet your neighbors (chap 6)
 
-* The experience off vagabonding revolves around the people you meet on the road.
+* The experience of vagabonding revolves around the people you meet on the road.
   * "If you view the world as a predominately hostile place, it will be" wrote Ed Buryn. By this
     same logic, a positive worldview can lead to inspiring, human-centered road experiences.
 * Don't congregate just with people you like: fellow travelers, while easy and rewarding, will be

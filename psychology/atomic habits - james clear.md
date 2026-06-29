@@ -36,7 +36,7 @@
   * Imagine if it was easy and completely automatic to get into your running clothes and put on your
     shoes and start your jog. Now after that part, continuing the jog is much easier and you're
     spending little energy overcoming inertia in the shower. Instead, you're spending all of your
-    energy on the finer points points on the habit, like how fast you're running.
+    energy on the finer points on the habit, like how fast you're running.
   * I think this works because the gateway ritual reinforces the identity that you want to create.
     If you put your gym shoes on every day, then you're going to feel like a runner even if you're
     only out there running for 5 minutes. That identity will help the habit grow.
@@ -227,7 +227,7 @@
   * Imagine if it was easy and completely automatic to get into your running clothes and put on your
     shoes and start your jog. Now after that part, continuing the jog is much easier and you're
     spending little energy overcoming inertia in the shower. Instead, you're spending all of your
-    energy on the finer points points on the habit, like how fast you're running.
+    energy on the finer points on the habit, like how fast you're running.
   * I think this works because the gateway ritual reinforces the identity that you want to create.
     If you put your gym shoes on every day, then you're going to feel like a runner even if you're
     only out there running for 5 minutes. That identity will help the habit grow.
@@ -247,7 +247,7 @@
 
 ## Commitment devices (chap 14)
 
-* Commitment device, or a Ulysses Pat
+* Commitment device, or a Ulysses Pact
   * A condition you put on yourself in to lock in good behavior for your future self, rather than
   relying on your desires and temperament in a future moment.
   * Examples
@@ -258,7 +258,7 @@
 
 ## Make it satisfying (chap 15)
 
-* Rewards come in to flavors: immediate and delayed.
+* Rewards come in two flavors: immediate and delayed.
   * For good habits, the cost is immediate and the reward is delayed. Like exercise.
   * For bad habits, it's the opposite. Gratification comes immediately, and then regret later. Like
     overeating.
@@ -296,7 +296,7 @@
 * Look inside yourself and ask yourself what feels natural to you? What makes you most feel alive?
   That's probably what you should be focusing on. That is where you will get results faster than the
   average person.
-* Another way to think about this is to create a game that leverage is your strength and avoid your
+* Another way to think about this is to create a game that leverages your strength and avoid your
   weaknesses and play that game, rather than play the game or the sports that everyone else is
   playing.
 * Dilbert: the intersection of drawing and SWE background.

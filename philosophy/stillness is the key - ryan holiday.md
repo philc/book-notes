@@ -116,7 +116,7 @@
 ## Slow down, think deeply (chap 5)
 
 * Sit and think quietly about what you want, and how to get there. Almost no one does this.
-* Anne frank used her journal for therapy: "Paper has more patience than people."
+* Anne Frank used her journal for therapy: "Paper has more patience than people."
 * Seneca: "When darkness had fallen and his wife had gone to sleep, he explained to a friend, 'I
   examine my entire day and go back over what I've done and said, hiding nothing from myself,
   passing nothing by.' Then he would go to bed, finding that 'the sleep which follows this

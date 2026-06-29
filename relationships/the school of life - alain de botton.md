@@ -66,7 +66,7 @@
     have been dead a few centuries and lived on another continent. We can feel honored to count them
     among our best friends." (in the same way that children cling to transitional objects to embody
     and reactivate their memories of parental love when their parents aren't there).
-  * What an honor, for one deceased, to be counted a s friend among the future generations of the
+  * What an honor, for one deceased, to be counted as a friend among the future generations of the
     living.
 
 ## Intro
@@ -212,7 +212,7 @@
 * Good listening
   * "We come to social life greedy to speak rather than listen, hungry to meet others but reluctant
     to hear them."
-  * Good listeners help the speaker move from unconfused and agitated, to clear and serene.
+  * Good listeners help the speaker move from confused and agitated, to clear and serene.
 * Social catastrophe
   * In recovering from severe faux pas, the author wonders whether we should just shut up and accept
     the failure, rather than profusely apologizing, justifying, or back-pedaling.

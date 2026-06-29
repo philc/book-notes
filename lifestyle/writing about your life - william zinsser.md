@@ -1,4 +1,4 @@
-# Writing About Your Life - Willian Zinsser
+# Writing About Your Life - William Zinsser
 
 ## Gems
 

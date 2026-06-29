@@ -61,7 +61,7 @@
   us achieve emotional balance. Art that does this is considered beautiful. Since everyone has
   different emotional shortages, everyone has different tastes in art.
 * Film can educate us by example, and deliver a balancing view to what we're missing. That's why
-  there's so many genre of film.
+  there's so many genres of film.
 * "Our tastes will depend on what spectrum of our emotional makeup lies in shadow and is hence in
   need of stimulation and emphasis."
 
@@ -72,7 +72,7 @@
 
 ## Knowledge (chap 5)
 
-* Literate is a reality simulation which teaches us what befalls us if we behave in certain ways. Or
+* Literature is a reality simulation which teaches us what befalls us if we behave in certain ways. Or
   more generally, what humanity is like.
 * "'When two people part, it is the one who is not in love who makes the tender speeches.' The
   clarity won't make the lover return; but it will do the next best thing: help us to feel less

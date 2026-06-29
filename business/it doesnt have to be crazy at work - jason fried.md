@@ -241,7 +241,7 @@
 ## Don't negotiate salaries
 
 * It's a ritual that no one likes, and often leaves you uncertain about whether you got a fair deal
-  or could've gotten more. Free your employees from this tress.
+  or could've gotten more. Free your employees from this stress.
 * Basecamp's comp method:
 * Salaries
   * 5 levels per department/role.

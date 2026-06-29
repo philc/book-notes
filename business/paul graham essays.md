@@ -190,7 +190,7 @@
 * "Due to a series of historical accidents the teaching of writing has gotten mixed together with
   the study of literature."
   * As so kids practice writing by analyzing symbolism in Literature.
-* (Interesting argument / history about howe we came upon the habit of analyzing modern literature
+* (Interesting argument / history about how we came upon the habit of analyzing modern literature
   and how it got bundled with writing instruction)
 * Late 1800s: professors were expected to do research, not just teach.
   * "Colleges had long taught English composition. But how do you do research on composition? The
@@ -330,11 +330,11 @@
 * "Besides being cheaper and better to work in, apartments tend to be in better locations than
   office buildings."
 * "I may be an extremist, but I think hiring people is the worst thing a company can do."
-  * Running expense; requires more rel estate; slows collaboration.
+  * Running expense; requires more real estate; slows collaboration.
 
 ## A unified theory of VC suckage (Mar 2005)
 
-* VCs are funds, and charge AUM feeds. This encourages funds to be large.
+* VCs are funds, and charge AUM fees. This encourages funds to be large.
 * "Like steroids, these sudden huge investments can do more harm than good."
 * "Google survived enormous VC funding because it could legitimately absorb large amounts of money.
   They had to buy a lot of servers and a lot of bandwidth to crawl the whole Web. Less fortunate
@@ -409,7 +409,7 @@
 
 * "Economic statistics are misleading because they ignore the value of safe jobs. An easy job from
   which one can't be fired is worth money."
-  * As is the case with jobs at bid companies.
+  * As is the case with jobs at big companies.
 * "One of the main causes of the decay of the corporate ladder is the trend for takeovers that began
   in the 1980s. Why waste your time climbing a ladder that might disappear before you reach the
   top?"
@@ -547,7 +547,7 @@
   * Some fields have lower overlap between teachers and the top practitioners. This is why majoring
     in business in undergrad is not a good idea -- you will not be learning from the best
     practitioners.
-  * (Although for undergrad isn't it more important that the professor is a good teacher rater than
+  * (Although for undergrad isn't it more important that the professor is a good teacher rather than
     a good practitioner?)
 * "The eminent... are weighed down by their eminence. Eminence is like a suit: it impresses the
   wrong people, and it constrains the wearer."
@@ -893,7 +893,7 @@
   you overhear. It's not something you have to seek out, but something you can't turn off."
 * "The conversations you overhear tell you what sort of people you're among."
   * You want "high-quality eaves dropping."
-* "Because ambitions are to some extend incompatible and admiration is a zero-sum game, each city
+* "Because ambitions are to some extent incompatible and admiration is a zero-sum game, each city
   tends to focus on one type of ambition."
 * "Someone starting a startup in New York would feel like a second class citizen. There's already
   something else people in New York admire more."
@@ -1191,7 +1191,7 @@
 * "Any given person is dumber as a member of an audience than as a reader. Just as s speaker ad
   libbing can only spend as long thinking about each sentence as it takes to say it, a person
   hearing a talk can only spend as long thinking about sentence as it takes to hear it."
-* Talks are inferior to writing for sources of ideas. But they do give us a live impression o the
+* Talks are inferior to writing for sources of ideas. But they do give us a live impression of the
   speaker, and thus can be good tools for becoming energized and motivated.
 
 ## Startup = growth (Sep 2012)
@@ -1441,7 +1441,7 @@
 ## Write like you talk (Oct 2015)
 
 * "Written language is more complex [than spoken language], which makes it more work to read. It's
-  also more formal nd distant, which gives the reader's attention permission to drift. But perhaps
+  also more formal and distant, which gives the reader's attention permission to drift. But perhaps
   worst of all, the complex sentences and fancy words give you, the writer, the false impression
   that you're saying more than you actually are."
 * "If you simply manage to write in spoken language, you'll be ahead of 95% of writers. And it's so
@@ -1449,7 +1449,7 @@
 
 ## The Refragmentation (Jan 2016)
 
-* (This is an essay about AMerica's transition from a low-resolution / compressed "Duplo" economy
+* (This is an essay about America's transition from a low-resolution / compressed "Duplo" economy
   and society, into a more fragmented, higher-resolution one, with many more and finer differences
   between people and companies).
 * Many people were bound together during WWII from being conscripted into the army. When they
@@ -1459,7 +1459,7 @@
   * Thousands of companies merged, chasing economies of scale.
 * "Your prestige was the prestige of the institution you belonged to", whether academic, or the
   climbing the corporate ladder of a large company.
-* "The result of making college the canonical path for the ambitious was aw orld in which it was
+* "The result of making college the canonical path for the ambitious was a world in which it was
   socially acceptable to work for Henry Ford, but not to be Henry Ford."
 * Version 1 vs Version 2 of our economy: version 2 was fragmented into more firms, had more
   dynamism, offering a larger variety of products.
@@ -1578,13 +1578,13 @@
   they'd worked on projects of their own, I wanted to hear all about those."
 * "Whenever I was writing or programming, I was usually skating."
   * (Skating rather than walking: it's both more fun and more productive)
-* Programmers' tendency to rewrite the software they need form scratch is partly because it's so
+* Programmers' tendency to rewrite the software they need from scratch is partly because it's so
   enjoyable to do so. It converts "working with some external system" to "a project of one's own."
   Even if it's very wasteful, it may net ahead for the organization because of the large
   motivational benefits.
 * "Though they're at opposite ends of the scale financially, startups and open source projects have
   a lot in common, including the fact that they're often run by skaters."
-* "Kids just plunge ina nd build their treehouse without worrying about whether they're wasting
+* "Kids just plunge in and build their treehouse without worrying about whether they're wasting
   their time, or how it compares to other treehouses."
   * They have less friction than adults for adopting a project of one's own.
 * "If a company could design its software in such a way that the best newly arrived programmers

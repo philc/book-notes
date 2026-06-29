@@ -240,7 +240,7 @@
       exercise.
   * Don't overhelp. Give kids the thrill of overcoming challenges.
   * Ask the child to tell you "all about" something she's interested in or currently working on. Let
-    hear be the teacher. This is empowering and connecting.
+    her be the teacher. This is empowering and connecting.
 * Self-care for the parent
   * Self-talk
     * You're flooded; how to relieve your emotions, so you can talk to your kids with kindness and

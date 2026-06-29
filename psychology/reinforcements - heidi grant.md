@@ -28,7 +28,7 @@
     Avoid vague appeals, like "I'd like to pick your brain" -- they can't connect how that vague
     help will result in some outcome.
 
-## Asking for help makes us feed bad (chap 1)
+## Asking for help makes us feel bad (chap 1)
 
 * This chapter has a list of psychological experiments surfacing just how terrifying it is to ask a
   random stranger for a favor.
@@ -39,7 +39,7 @@
 
 ## We assume others will say no (chap 2)
 
-* In summary: it's actually difficulty for people to say no to to our request for help.
+* In summary: it's actually difficult for people to say no to our request for help.
 * Why do we underestimate how likely people are to do favors?
   * There's a lot of psychological, interpersonal pressure for people to say yes. If they like you,
     it will hurt them to say no. And they don't want to let you down.

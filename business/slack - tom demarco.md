@@ -313,7 +313,7 @@
 
 * In periods of growth, people feel like they're winning, and have less anxiety about change. Change
   is perceived differently, as "growth-related change", e.g. necessary scaling and refactoring now
-  that our team or business is larger. It's good. This is the easiest time to introduce chance.
+  that our team or business is larger. It's good. This is the easiest time to introduce change.
 * Introducing change during decline carries the added baggage that people are anxious about
   corporate health, and maybe their jobs.
 
