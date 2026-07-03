@@ -68,7 +68,7 @@ async function processPages(files) {
     await Deno.writeTextFile(dest, html);
   }
 
-  const resources = ["styles.css", "favicon.png", "github.svg"];
+  const resources = ["styles.css", "favicon.png", "github.svg", "robots.txt"];
   for (const file of resources) {
     await Deno.copyFile(path.join("website", file), path.join(buildDir, file));
   }
