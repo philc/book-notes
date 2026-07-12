@@ -130,15 +130,14 @@
   * (Does this really not happen to women? The book says "it never does." I don't believe it.)
   * Women tend to have emotional memories "pop in", rather than images. Perhaps because their brains
     are equipped more for emotional processing.
-  * Reassurance: "Most men I spoke with said they enjoy being visual but wish they could reserve it
-    entirely for their wives."
-  * Reassurance: "He can see a beautiful woman without the sexual temptation." It can be admiring
-    beauty, as one admires a sculpture.
-  * God created all men this way, for some reason. Even Job had to make a covenant not to look upon
-    women with lust, and even before doing so, God described him as "the finest man in all the
-    earth."
-  * Anecdote: "There is no relationship with the woman who catches your eye. With your wife, you
-    have a deep and long and meaningful relationship. There is no competition there."
+* Reassurance: "Most men I spoke with said they enjoy being visual but wish they could reserve it
+  entirely for their wives."
+* Reassurance: "He can see a beautiful woman without the sexual temptation." It can be admiring
+  beauty, as one admires a sculpture.
+* God created all men this way, for some reason. Even Job had to make a covenant not to look upon
+  women with lust, and even before doing so, God described him as "the finest man in all the earth."
+* Anecdote: "There is no relationship with the woman who catches your eye. With your wife, you have
+  a deep and long and meaningful relationship. There is no competition there."
 
 ## Chocolate, flowers, bait fishing (chap 8)
 
@@ -159,7 +158,7 @@
 
 ## The truth about taking care of yourself (chap 9)
 
-* A chapter about maintaining physical appearance / beauty; sensitive for most women.
+* A chapter about maintaining physical appearance / beauty; sensitive topic for most women.
 * Men want her to make an effort to be attractive for him.
 * This means in shape, put together, and has energy to do activities together.
 * "Since men are so visual, seeing us make the effort to look good makes them feel loved and cared
