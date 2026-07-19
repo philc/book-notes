@@ -23,6 +23,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 ## Business
 
 [7 Powers - Hamilton Helmer](https://notes.philcrosby.com/7-powers-hamilton-helmer.html)<br>
+[Creativity, Inc. - Ed Catmull](https://notes.philcrosby.com/creativity-inc-ed-catmull.html)<br>
 [Founders - Jimmy Soni](https://notes.philcrosby.com/founders-jimmy-soni.html)<br>
 [It Doesn't Have to Be Crazy at Work - Jason Fried](https://notes.philcrosby.com/it-doesnt-have-to-be-crazy-at-work-jason-fried.html)<br>
 [Powerful - Patty McCord](https://notes.philcrosby.com/powerful-patty-mccord.html)<br>
