@@ -42,6 +42,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 
 ## Lifestyle
 
+[Destination Earth - Nicos Hadjicostis](https://notes.philcrosby.com/destination-earth-nicos-hadjicostis.html)<br>
 [The Dream of Solomeo - Brunello Cucinelli](https://notes.philcrosby.com/the-dream-of-solomeo-brunello-cucinelli.html)<br>
 [The Psychology of Money - Morgan Housel](https://notes.philcrosby.com/the-psychology-of-money-morgan-housel.html)<br>
 [What is Culture For - School of Life](https://notes.philcrosby.com/what-is-culture-for-school-of-life.html)
