@@ -128,12 +128,12 @@
   Provide strong feedback mechanisms, like Pixar's 3-month Braintrust reviews.
 * Candor is a better term/goal than honesty.
   * Candor has less moral baggage than honesty, so it's easier to ask for, and easier to give.
-* Brain trust is their system for straight-talk. It roots out mediocrity.
+* Braintrust is their system for straight-talk. It roots out mediocrity.
   * Another term for this is "solutions group."
 * The members saw each other as peers. There was not energy spent on getting credit for an idea,
   winning points, pleasing supervisors.
 * By the nature of the deep creative work, the director fuses with the project and loses
-  perspective. Passion blinds them. The Braintrust helps maintains the perspective.
+  perspective. Passion blinds them. The Braintrust helps maintain the perspective.
 * "By removing from the Braintrust the power to mandate solutions, we affect the dynamics of the
   group in ways I believe are essential."
   * More like "peer review." The solutions will be tough, and so the director has to be the one to
