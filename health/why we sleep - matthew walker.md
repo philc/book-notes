@@ -15,10 +15,9 @@
   * At birth, the NREM/REM ratio begins at 50/50, and throughout childhood, slowly transitions to
     80/20.
   * Argues that brain pathway expansion is the priority early in life, and is done via REM. Pruning
-    pathways, for efficiency, becomes the priority at puberty, and is done through NREM.
-  * Good analogy of an ISP using use-dependent shaping of the network
-    * "A use-reshaping and downsizing must still occur if maximum network efficiency is to be
-      achieved."
+    pathways, for efficiency, becomes the priority at puberty, and is done via NREM.
+  * Analogy of an ISP using use-dependent shaping of the network: "a use-reshaping and downsizing
+    must still occur if maximum network efficiency is to be achieved."
 * Aging
   * In our 40s, the deep NREM brainwaves are less deep and less powerful -- 60% less so than when we
     were teens.
@@ -30,7 +29,7 @@
 * Learning
   * Sleep prior to learning primes the brain to be able to form more memories. Like clearing the
     deck of the previous day's learning so there's more space for the new.
-  * 20% improvement in ability to memorize facts, after a nap
+  * There's a 20% improvement in ability to memorize facts, after a nap.
   * Sleep after learning performs memory consolidation, committing the new information.
   * After studying, sleep. Time awake before the exam accelerates forgetting.
   * "Before having slept, participants were fetching memories from the short-term storage site of
@@ -63,8 +62,8 @@
   you crave junk food.
 * The author conjectures that dreaming provides a form of therapy which removes the "emotional
   charge" of our most painful experiences.
-  * (This has been proven experimentally: sleeping reduced emotional response upon recalling a
-    disturbing image, but only after dream sleep.)
+  * This has been proven experimentally: sleeping reduced emotional response upon recalling a
+    disturbing image, but only after dream sleep.
   * "Through its therapeutic work at night, REM sleep performed the elegant trick of divorcing the
     bitter emotional rind from the information-rich fruit. We can therefore learn and usefully
     recall salient life events without being crippled by the emotional baggage that those painful
@@ -84,15 +83,14 @@
 
 ## To sleep (chap 1)
 
-* "Vehicular accidents caused by drowsy driving exceed those caused by alcohol and drugs combined."
 * Sleep is clearly designed to be important. It is a bounty of health benefits.
 * "Sleep is the single most effective thing we can do to reset our brain and body health each day."
   It's yours for the taking.
 
 ## Caffeine, jet lag, and melatonin (chap 2)
 
-* Circadian rhythm, the "powerful sculpting force" around the day. It controls release of hormones
-  and your mood throughout the day.
+* Circadian rhythm: the "powerful sculpting force" around the day. It controls the release of
+  hormones and your mood throughout the day.
 * When daylight is absent, the natural human circadian rhythm is 24.25 hours. For some mammals, it's
   less than 24hrs. The sunlight resets our imprecise internal clock.
 * "While light is the most reliable and thus the primary zeitgeber (synchronizer), there are many
@@ -111,15 +109,15 @@
   owls, including higher rates of depression, anxiety, diabetes, cancer, heart attack, and stroke."
   * Owls are disadvantaged because the work place has standardized on the early lark schedule.
 * Melatonin
-  * Melatonin is the hormone emitted by your brain to implement the circadian rhythm.
-    * It ramps up at dusk and coordinates the timing of sleep to other brain regions.
+  * Melatonin is the hormone emitted by your brain to implement the circadian rhythm. It ramps up at
+    dusk and coordinates the timing of sleep to other brain regions.
   * Pace of jet lag adjustment
     * "It's a slow process. For every day you are in a different time zone, your suprachiasmatic
       nucleus can only readjust by about one hour. It therefore took me about eight days to readjust
       to London time after having been in San Francisco."
-  * Traveling Westward is easier than eastward, because it's easier to stretch a day and stay up
+  * Traveling westward is easier than eastward, because it's easier to stretch a day and stay up
     late than it is to shrink a day.
-  * Flight crews do routinely make long haul flights. Disturbing.
+  * Flight crews do routinely make long haul flights. (Disturbing.)
     * "Parts of their brains -- specifically those related to learning and memory -- had physically
       shrunk, suggesting the destruction of brain cells caused by the biological stress of time-zone
       travel."
@@ -160,7 +158,7 @@
 * "Mere seconds before the dreaming phase begins, and for as long as the REM-sleep period lasts, you
   are completely paralyzed. There is no tone in the voluntary muscles of your body. None
   whatsoever."
-  * Your muscles maintain tone in NREM sleep.
+  * Our muscles maintain tone in NREM sleep.
 
 ## Ape beds, dinosaurs, and napping with half a brain (chap 4)
 
@@ -180,20 +178,10 @@
 * "From a prescription written long ago in our ancestral genetic code, the practice of natural
   biphasic sleep, and a healthy diet, appear to be the keys to a long-sustained life."
   * Argues that there's a measurable, decreased risk of heart disease in enclaves of Greece where
-    siestas still happen. I wonder why do kids stop napping -- would they take a siesta if they had
-    less stimulation?
-* (There's a lot of wishful evolutionary speculation in this chapter)
+    siestas still happen. (I wonder why do kids stop napping -- would they take a siesta if they had
+    less stimulation?)
 * Argues that our intensity of sleep, i.e. the proportion of REM sleep, is what enables us to be
   intelligent and socially complex, when compared to other animals.
-* The power of REM sleep for our species, when it's used for emotional processing:
-  * "We humans can instantiate vast numbers of emotions in our embodied brains, and thereafter,
-    deeply experience and even regulate those emotions. Moreover, we can recognize and help shape
-    the emotions of others. Through both of these intra- and interpersonal processes, we can forge
-    the types of cooperative alliances that are necessary to establish large social groups, and
-    beyond groups, entire societies brimming with powerful structures and ideologies. What may at
-    first blush have seemed like a modest asset awarded by REM sleep to a single individual is, I
-    believe, one of the most valuable commodities ensuring the survival and dominance of our species
-    as a collective."
 * On the value of creativity vs. the value of social complexity
   * "Creativity is an evolutionary powerful tool, yes. But it is largely limited to an individual.
     Unless creative, ingenious solutions can be shared between individuals through the emotionally
@@ -215,8 +203,8 @@
     pathways."
 * On autism
   * "Imbalances in synaptic connections are common in autistic individuals: excess amounts of
-    connectivity in some parts of the brain, deficiencies in others." There's less hardware for
-    social engagement.
+    connectivity in some parts of the brain, deficiencies in others." There's often less hardware
+    for social engagement.
   * The brain's uneven development when they're young may have a root cause in their sleep drive
     * "Biologically, it is as if the day and night are far less light and dark, respectively, for
       autistic individuals. As a consequences, there is a weaker signal for when stable wake and
@@ -234,14 +222,13 @@
 * At birth, the NREM/REM ratio begins at 50/50, and throughout childhood, slowly transitions to
   80/20.
 * Argues that brain pathway expansion is the priority early in life, and is done via REM. Pruning
-  pathways, for efficiency, becomes the priority at puberty, and is done through NREM.
-* Good analogy of an ISP using use-dependent shaping of the network
-  * "A use-reshaping and downsizing must still occur if maximum network efficiency is to be
-    achieved."
+  pathways, for efficiency, becomes the priority at puberty, and is done via NREM.
+* Analogy of an ISP using use-dependent shaping of the network: "A use-reshaping and downsizing must
+  still occur if maximum network efficiency is to be achieved."
 * A tree analogy of a brain's maturation through life
   * "A tree as it first comes into bud in the spring (babyhood), then bursts into leaf during the
     summer (late childhood), then matures in color come the fall (early adolescence), and finally
-    sheds its leave in the winter (late adolescence and early adulthood)."
+    sheds its leaves in the winter (late adolescence and early adulthood)."
 * "The ability to learn, retain, and thus remember new memories persists, even when set against the
   backdrop of general connectivity down-scaling throughout late development. Nevertheless, by
   teenage years, the brain is less malleable, or plastic, than during infancy or early childhood --
@@ -271,10 +258,10 @@
 
 * Sleep prior to learning primes the brain to be able to form more memories. Like clearing the deck
   of the previous day's learning so there's more space for the new.
-* 20% improvement in ability to memorize facts, after a nap
+* There's a 20% improvement in ability to memorize facts, after a nap.
   * "The difference between the two groups at six p.m. was not small: a 20 percent learning
     advantage for those who slept."
-* Shallow NREM sleep contains electrical waves from the hippocampus (short-term memories) to the
+* Shallow NREM sleep conveys electrical waves from the hippocampus (short-term memories) to the
   cortex, clearing out the hippocampus and committing that information to long-term storage.
 * Elderly (age 60-80) have a 40% deficit of sleep spindles in their shallow NREM sleep, and thus
   less capability to learn and remember factual information.
@@ -351,9 +338,8 @@
 * "Insufficient sleep during childhood significantly predicts early onset of drug and alcohol use in
   that same child during their later adolescent years, even when controlling for other high-risk
   traits, such as anxiety, attention deficits, and parental history of drug use."
-* In the movie Memento, "the part of his brain that was damaged was the hippocampus. It is the very
-  same structure that sleep deprivation will attack, blocking your brain's capacity for new
-  learning."
+* In the movie Memento, the main character's brain had a damaged hippocampus. This is the same part
+  of the brain that sleep deprivation disables.
 * Cramming for an exam gives you only short-term recall
   * "Those few memories you are able to learn while sleep-deprived are forgotten far more quickly in
     the hours and days thereafter."
@@ -386,8 +372,8 @@ relative to a full eight-hour night of sleep." You become immediately prone to s
 
 * The author conjectures that dreaming provides a form of therapy which removes the "emotional
   charge" of our most painful experiences.
-  * (This has been proven experimentally: sleeping reduced emotional response upon recalling a
-    disturbing image, but only after dream sleep.)
+  * This has been proven experimentally: sleeping reduced emotional response upon recalling a
+    disturbing image, but only after dream sleep.
 * "Through its therapeutic work at night, REM sleep performed the elegant trick of divorcing the
   bitter emotional rind from the information-rich fruit. We can therefore learn and usefully recall
   salient life events without being crippled by the emotional baggage that those painful experiences
@@ -405,26 +391,19 @@ relative to a full eight-hour night of sleep." You become immediately prone to s
 
 ## Dream creativity and dream control (chap 11)
 
-* "Upon awakenings from NREM sleep, participants did not appear to be especially creative, solving
+* "Upon awakening from NREM sleep, participants did not appear to be especially creative, solving
   few of the anagram puzzles. But it was a different story when I woke them up out of REM sleep,
   from the dreaming phase. Overall, problem-solving abilities rocketed up, with participants solving
   15 to 35 percent more puzzles when emerging from REM sleep compared with awakenings from NREM
   sleep or during daytime waking performance!" (Neat. Although could it be that they were simply
   more alert because of the physiological nature of REM sleep?)
 * Being awoken from NREM vs. REM sleep and being tested on memory association networks:
-  * "Gone is the hierarchy of logical associative connection. The REM-sleep dreaming brain was
-    utterly uninterested in bland, commonsense links -- the one-step-to-the-next associations.
-    Instead, the REM-sleep brain was shortcutting the obvious links and favoring very distantly
-    related concepts. The logic guards had left the REM-sleep dreaming brain."
   * Widening our mental aperture: "The brain becomes actively biased toward seeking out the most
     distant, nonobvious links between sets of information."
 * "Learning versus comprehension. REM sleep allows your brain to move beyond the former and truly
   grasp the latter."
 * "A problem difficult at night is resolved in the morning after the committee of sleep has worked
   on it." - John Steinbeck
-* "Different from solidifying memories, which we now realize to be the job of NREM sleep, REM sleep,
-  and the act of dreaming, takes that which we have learned in one experience setting and seeks to
-  apply it to others stored in memory."
 * On Edison: maybe he slept less as he claimed, but he generously used daytime napping as a tool,
   calling it "the genius gap."
 
@@ -448,8 +427,6 @@ relative to a full eight-hour night of sleep." You become immediately prone to s
   and temperature therefore synergistically, though independently, dictate nightly melatonin levels
   and sculpt the ideal timing of sleep."
 * (Splash water on your face before bed, to cool off?)
-* Unknowingly ejecting feet from the covers, to lower body temp:
-  * "The limb rebellion aids in keeping the body core cool, allowing you to fall and stay asleep."
 * "A bedroom temperature of around 65F is ideal for the sleep of most people, assuming standard
   bedding and clothing."
 * Cool result: using a thermally cooled body suit reduces time to fall asleep by 20%, and reduced
@@ -458,9 +435,6 @@ relative to a full eight-hour night of sleep." You become immediately prone to s
   * "The hot bath invites blood to the surface of your skin, giving you that flushed appearance.
     When you get out of the bath, those dilated blood vessels on the surface quickly help radiate
     out inner heat, and your core body temperature plummets."
-* Alarm clock: "Participants artificially wrenched from sleep will suffer a spike in blood pressure
-  and a shock acceleration in heart rate caused by an explosive burst of activity from the
-  fight-or-flight branch of the nervous system."
 
 ## Hurting and helping your sleep - pills vs. therapy (chap 14)
 
@@ -500,10 +474,9 @@ relative to a full eight-hour night of sleep." You become immediately prone to s
 
 ## A new vision for sleep in the twenty-first century (chap 16)
 
-* How to make better sleeping habits stick.
-  * "One practice known to convert a healthy new habit into a permanent way of life is exposure to
-    your own data."
-* Author notes that schools teach diet, P.E., sex, and alcohol, but none teach about the promise of
+* How to make better sleeping habits stick: "One practice known to convert a healthy new habit into
+  a permanent way of life is exposure to your own data."
+* The author notes that schools teach diet, P.E., sex, and alcohol, but none teach the promise of
   sleep and sleep hygiene.
 * Cool idea: work health insurance programs give workers more time off if they string together 20
   nights of 7+hr sleep.
