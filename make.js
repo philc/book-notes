@@ -149,6 +149,7 @@ task("website", [], async () => {
     "lifestyle/tidying up - marie kondo.md",
     "lifestyle/what is culture for - school of life.md",
     "philosophy/a guide to the good life - william irvine.md",
+    "philosophy/the obstacle is the way - ryan holiday.md",
     "psychology/deep work - cal newport.md",
     "psychology/digital minimalism - cal newport.md",
     "psychology/four thousand weeks - oliver burkeman.md",
