@@ -148,6 +148,7 @@ task("website", [], async () => {
     "lifestyle/the psychology of money - morgan housel.md",
     "lifestyle/tidying up - marie kondo.md",
     "lifestyle/what is culture for - school of life.md",
+    "lifestyle/writing about your life - william zinsser.md",
     "philosophy/a guide to the good life - william irvine.md",
     "philosophy/the obstacle is the way - ryan holiday.md",
     "psychology/deep work - cal newport.md",
