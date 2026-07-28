@@ -53,6 +53,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 ## Philosophy
 
 [A Guide to the Good Life - William Irvine](https://notes.philcrosby.com/a-guide-to-the-good-life-william-irvine.html)<br>
+[Man's Search for Meaning - Viktor Frankl](https://notes.philcrosby.com/mans-search-for-meaning-viktor-frankl.html)<br>
 [The Obstacle Is the Way - Ryan Holiday](https://notes.philcrosby.com/the-obstacle-is-the-way-ryan-holiday.html)<br>
 
 ## Psychology

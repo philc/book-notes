@@ -151,6 +151,7 @@ task("website", [], async () => {
     "lifestyle/what is culture for - school of life.md",
     "lifestyle/writing about your life - william zinsser.md",
     "philosophy/a guide to the good life - william irvine.md",
+    "philosophy/mans search for meaning - viktor frankl.md",
     "philosophy/the obstacle is the way - ryan holiday.md",
     "psychology/deep work - cal newport.md",
     "psychology/digital minimalism - cal newport.md",
