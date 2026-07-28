@@ -160,6 +160,7 @@ task("website", [], async () => {
     "relationships/bringing up bebe - pamela druckerman.md",
     "relationships/for men only - shaunti and jeff feldhahn.md",
     "relationships/for women only - shaunti feldhahn.md",
+    "relationships/how to raise an adult - julie lythcott-haims.md",
     "relationships/playful parenting - lawrence cohen.md",
     "relationships/the happy sleeper - heather turgeon.md",
     "relationships/the school of life - alain de botton.md",
