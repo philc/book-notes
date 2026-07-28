@@ -136,6 +136,7 @@ task("website", [], async () => {
     "business/powerful - patty mccord.md",
     "business/radical candor - kim scott.md",
     "business/slack - tom demarco.md",
+    "business/the score takes care of itself - bill walsh.md",
     "business/zero to one - peter thiel.md",
     "engineering/an elegant puzzle - will larson.md",
     "engineering/how big things get done - bent flyvbjerg.md",
