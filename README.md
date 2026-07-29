@@ -66,6 +66,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 
 ## Relationships
 
+[Arguments - Alain de Botton](https://notes.philcrosby.com/arguments-alain-de-botton.html)<br>
 [Bringing Up Bébé - Pamela Druckerman](https://notes.philcrosby.com/bringing-up-bebe-pamela-druckerman.html)<br>
 [For Men Only - Shaunti and Jeff Feldhahn](https://notes.philcrosby.com/for-men-only-shaunti-and-jeff-feldhahn.html)<br>
 [For Women Only - Shaunti Feldhahn](https://notes.philcrosby.com/for-women-only-shaunti-feldhahn.html)<br>
