@@ -30,16 +30,15 @@
 ## The interminable argument
 
 * "I feel you don't respect my intelligence."
-  * From this springs sensitivity to differences in judgment.
+* From this springs sensitivity to differences in judgment.
 
 ## The domestic argument
 
+* E.g. an argument about laundry, some chore.
 * "When conflict does occur, it is handled impatiently, with a certainty that it shouldn't be
   occurring and a determination to end it as soon as possible. Unconvinced of the legitimacy of our
   domestic disagreements, we end up bullying and nagging on the one side, and shirking and waving
   away complaints on the other."
-* "We refuse to take our complaints seriously, and so our arguments end up scrappy, lazy and
-  oblique."
 * "We can come to see the domestic sphere for what it really is: a superficially trivial arena in
   which we meet, in disguised form, the most important themes of psychology -- the tension between
   the longing for freedom and the fear of entrapment, the horror of constraint and the desire for
@@ -51,7 +50,6 @@
   sufficiently supported to undertake the change they (almost always) already know is due. It isn't
   enough to be sometimes right in relationships; we need to be generous enough in giving out signs
   of love in order that our partner can admit when they are in the wrong."
-  * (This applies for children also)
 
 ## The spoiling argument
 
@@ -63,29 +61,27 @@
 
 ## The escalation argument
 
-* We might term such disputes 'escalation arguments', where a discussion about topic X swiftly
-  unleashes an only tenuously related but much larger accusation around Y, which the recipient
-  dismisses as having been incorrectly introduced."
+* A discussion about topic X causes a larger accusation around barely-related topic Y. The recipient
+  dismisses Y because it doesn't seem related.
 * "The person making the accelerated vindictive remark looks like they are being disproportionate
   and seems at fault for suddenly turning up the heat, but a dangerous wall of steam has been
   building up for which both parties are arguably responsible."
-  * Past areas of tension had not been adequately dealt with and flushed.
-* "The accuser is moving swiftly and directly to the core of an issue that should have been covered
-  long ago. The escalated argument is signaling some unfinished business."
-  * (Even if the timing is inconvenient and inappropriate).
+  * Tension from a past conflict has not been adequately dealt with, and it's resurfacing.
+* "The escalated argument is signaling some unfinished business." (Even if the timing is
+  inconvenient and inappropriate).
 
 ## The eve-of-journey argument
 
 * Why does one spouse fight with the other on the eve of a departure?
-  * "What's happening is that our yearning for love is meeting with a dark, intimate dread: that we
-    are deeply dependent on a lover who we don't control, whose affection is out of our command and
-    who is about to be taken away from us for a long time."
+* "What's happening is that our yearning for love is meeting with a dark, intimate dread: that we
+  are deeply dependent on a lover who we don't control, whose affection is out of our command and
+  who is about to be taken away from us for a long time."
 
 ## The absentee argument
 
+* E.g. a missed text or late arrival.
 * To soothe ourselves from the other disappointments in life, "we reroute all the humiliation and
-  rage that one else had time for onto the shoulders of the one person who cares most about our
-  well-being."
+  rage... onto the shoulders of the one person who cares most about our well-being."
 * (Despite what the author says, this sounds to me like a really crummy argument type, with no real
   redeeming quality behind it).
 
@@ -97,10 +93,8 @@
 * "We should cease cynically lauding the idea of the normal when it suits us by acknowledging that
   almost everything that is beautiful and worth appreciating in our relationship is deeply
   un-normal."
-* "We should stop badgering our partners with phony democratic arguments and admit to something far
-  truer and possibly more effective in its honest vulnerability: that we would love for something to
-  happen because, and only because, it would make us very happy if it did -- and very upset if it
-  didn't."
+* "We should stop badgering our partners with phony democratic arguments" and just be honest that
+  something should happen simply because it would make us happy if it did.
 
 ## The argument from excessive logic
 
@@ -122,8 +116,8 @@
 
 * "Because everything outward is particularly nice, the unhappy parts of our minds become more
   conspicuous."
-  * The author argues that this is why arguments can even break out in idyllic locations, when we're
-    on a trip to enjoy each other's company.
+* The author argues that this is why arguments can even break out in idyllic locations, when we're
+  on a trip to enjoy each other's company.
 * "By contrast, it is sometimes our exposure to grim realities -- to bleak stories of war, to
   tragedies and misfortune or to places where nature is hostile (a barren desert; a cold, craggy,
   storm-swept island) -- that make our inner distress feel less important or pressing. We're more
@@ -141,9 +135,9 @@
   the candidates that we already have in our lives."
 * "We should accept, with good grace and a touch of dark humor, that life simply gives us few
   opportunities to be totally content."
-  * (This school always concludes this way about relationships and happiness. It's depressing,
-    almost defeatist. Maybe the truth is that there are ample opportunities, but we make ourselves
-    discontented because of selfishness and sin.)
+  * (The author always concludes this way about relationships and happiness. It's depressing; almost
+    defeatist. A more hopeful version is that there are ample opportunities for happiness in
+    relationships, but we make ourselves discontented because of selfishness and sin.)
 
 ## Towards less bitter arguments
 
