@@ -165,6 +165,7 @@ task("website", [], async () => {
     "relationships/how to raise an adult - julie lythcott-haims.md",
     "relationships/playful parenting - lawrence cohen.md",
     "relationships/the happy sleeper - heather turgeon.md",
+    "relationships/the mans guide to women - john gottman and julie schwartz gottman.md",
     "relationships/the school of life - alain de botton.md",
   ];
   await processPages(files);

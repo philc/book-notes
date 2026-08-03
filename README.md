@@ -73,4 +73,5 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 [How to Raise an Adult - Julie Lythcott-Haims](https://notes.philcrosby.com/how-to-raise-an-adult-julie-lythcott-haims.html)<br>
 [Playful Parenting - Lawrence Cohen](https://notes.philcrosby.com/playful-parenting-lawrence-cohen.html)<br>
 [The Happy Sleeper - Heather Turgeon](https://notes.philcrosby.com/the-happy-sleeper-heather-turgeon.html)<br>
+[The Man's Guide to Women - John Gottman and Julie Schwartz Gottman](https://notes.philcrosby.com/the-mans-guide-to-women-john-gottman-and-julie-schwartz-gottman.html)<br>
 [The School of Life - Alain de Botton](https://notes.philcrosby.com/the-school-of-life-alain-de-botton.html)
