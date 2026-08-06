@@ -71,6 +71,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 [For Men Only - Shaunti and Jeff Feldhahn](https://notes.philcrosby.com/for-men-only-shaunti-and-jeff-feldhahn.html)<br>
 [For Women Only - Shaunti Feldhahn](https://notes.philcrosby.com/for-women-only-shaunti-feldhahn.html)<br>
 [How to Raise an Adult - Julie Lythcott-Haims](https://notes.philcrosby.com/how-to-raise-an-adult-julie-lythcott-haims.html)<br>
+[How to Talk So Kids Will Listen - Adele Faber](https://notes.philcrosby.com/how-to-talk-so-kids-will-listen-adele-faber.html)<br>
 [Now Say This - Heather Turgeon](https://notes.philcrosby.com/now-say-this-heather-turgeon.html)<br>
 [Playful Parenting - Lawrence Cohen](https://notes.philcrosby.com/playful-parenting-lawrence-cohen.html)<br>
 [The Happy Sleeper - Heather Turgeon](https://notes.philcrosby.com/the-happy-sleeper-heather-turgeon.html)<br>
