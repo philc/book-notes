@@ -1,4 +1,4 @@
-# Psychology of Money - Morgan Housel
+# The Psychology of Money - Morgan Housel
 
 ## Gems
 
