@@ -163,6 +163,7 @@ task("website", [], async () => {
     "relationships/for men only - shaunti and jeff feldhahn.md",
     "relationships/for women only - shaunti feldhahn.md",
     "relationships/how to raise an adult - julie lythcott-haims.md",
+    "relationships/now say this - heather turgeon.md",
     "relationships/playful parenting - lawrence cohen.md",
     "relationships/the happy sleeper - heather turgeon.md",
     "relationships/the mans guide to women - john gottman and julie schwartz gottman.md",
