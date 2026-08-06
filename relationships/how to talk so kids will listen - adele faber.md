@@ -159,7 +159,7 @@
 * Children who feel good about their abilities will gladly accept new challenges when they come.
   They'll raise their hand in school when there's a new challenge.
 * Dangers of praise
-  * Receiving praise for work that the recipient knows is trival or not good will make them doubt
+  * Receiving praise for work that the recipient knows is trivial or not good will make them doubt
     the judgement and sincerity of the praise giver.
   * Praise can create anxiety if the receiver feels like they'll have to achieve a perfect
     performance next time to receive the same type of praise.
@@ -243,7 +243,7 @@
   your kid loses their cell phone, consider praising how long they kept the cell phone in their
   possession, and let them naturally brainstorm how they're going to keep it from being lost again
   in the future, and take pride in their ownership. A similar scenario is when they get a bad grade.
-* Rather than putting a kid in a role -- "they're picky eater", "they're shy", "they're slow to warm
+* Rather than putting a kid in a role -- "they're a picky eater", "they're shy", "they're slow to warm
   up to new things" as a defense towards other adults as to why your kid is not engaging with them,
   instead use the phrase "when they're ready". This seems to satisfy everybody's concern that the
   kid isn't engaging in the way they expect.
@@ -252,5 +252,5 @@
     who completes the board first can be in first place, but let everybody else complete the game.
   * Kids love races. A way to make them noncompetitive is to buy a stopwatch, have one kid race, and
     the other kid time them and then have them switch, and then have them try to beat their own
-    times. You might think they would directly compare, but they don't enough to ruin the fun. They
+    times. You might think they would directly compare, but they don't care enough to ruin the fun. They
     focus on beating their own times.
