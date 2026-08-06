@@ -181,7 +181,7 @@
   * Praise can create anxiety if they feel like they'll have to achieve a perfect performance next
     time to receive the same type of praise. "The pressure is on."
 * Descriptive praise vs. evaluative praise
-  * Descriptive praise: describe what you see or how you've been made to feel in specifics, and
+  * Descriptive praise: describe what you see and how you've been made to feel, in specifics, and
     leave the actual valuation out of it.
     * Your child, once they hear how they made you feel, will praise themselves.
   * Examples
@@ -194,18 +194,25 @@
     * It's more self-evidently genuine, because you have to express detailed observations about the
       work when conveying the praise. You can't just say "it's good" and then look away. It shows
       "proof of work."
+    * It's connecting and warm if you relate it to how it affected you specifically.
   * Praising effort vs. results
     * Praise the level of effort instead of the result. Showing that you recognize the effort
       demonstrates that you understand what the person went through to get the accomplishment. Also,
       applying effort is generally a much more robust goal than achieving specific outcomes, because
       effort is what the person can control; so praise effort.
+    * Avoid focusing the praise on immutable qualities that they can't control, e.g. intelligence.
+    * The focus should be on the person's behavior, not their worth. Avoid labeling them -- "you're
+      a good person", "you're a musical prodigy" -- because this is high-pressure and is less
+      specific guidance than focusing on the specific behavior.
   * The emphasis of the praise should be on them, not you
     * "I am so proud of you because of X" actually diminishes the accomplishment, because it's
-      shifted the focus from their achievement to your pride.
+      shifted the focus from their achievement to your pride, and introduces "your approval" into
+      the picture.
     * "I knew you could do it" is giving credit to your foresight, not their accomplishment.
     * Instead, focus on how big of accomplishment it is, and the effort involved. "You must be so
       proud of yourself; this was only possible with months and months of hard work and diligent
       preparation."
+    * Avoid praise that can come off as a control tool, e.g. "I like it when you are quiet."
 * Do not praise by comparison
   * It puts relationships (siblings, close friends, classmates) in a weird, competitive light
   * "Oh you've tied your shoes all by yourself; your little brother can't do that."
@@ -214,6 +221,10 @@
     into it, and it sounded like real music. You don't need to say that they were the best one. They
     should be focusing on the outcome they want, and their own performance. Not how they stack up
     against the other kids.
+* (This is also known as "labeled praise", "behavior-specific praise", "behavior-based recognition"
+  in other literature).
+* This method applies generally, for kids and adults, at home and at the workplace. Naturally, with
+  adults, avoid teacher language and use peer language.
 * [(Article](http://www.parents-central.com/2012/descriptive-praise-a-powerful-motivator-to-shape-your-childs-behavior/s) for further reading)
 
 ## Freeing children from roles (chapter 6)
