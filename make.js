@@ -153,6 +153,7 @@ task("website", [], async () => {
     "philosophy/a guide to the good life - william irvine.md",
     "philosophy/mans search for meaning - viktor frankl.md",
     "philosophy/the obstacle is the way - ryan holiday.md",
+    "psychology/50th law - 50 cent and robert greene.md",
     "psychology/deep work - cal newport.md",
     "psychology/digital minimalism - cal newport.md",
     "psychology/four thousand weeks - oliver burkeman.md",

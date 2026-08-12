@@ -58,6 +58,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 
 ## Psychology
 
+[50th Law - 50 Cent, Robert Greene](https://notes.philcrosby.com/50th-law-50-cent-and-robert-greene.html)<br>
 [Deep Work - Cal Newport](https://notes.philcrosby.com/deep-work-cal-newport.html)<br>
 [Digital Minimalism - Cal Newport](https://notes.philcrosby.com/digital-minimalism-cal-newport.html)<br>
 [Four Thousand Weeks - Oliver Burkeman](https://notes.philcrosby.com/four-thousand-weeks-oliver-burkeman.html)<br>
