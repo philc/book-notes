@@ -167,13 +167,8 @@
     * Building and using an external writing cabin on one's own property.
 * Office layout: should provide inspiration and serendipity, but also focus and privacy when
   working. The Hub and Spoke model achieves this. The spokes can be offices of small teams or pairs
-  of people.
-  * On the office space at MIT labs: "This combination of soundproofed offices connected to large
-    common areas yields a hub-and-spoke architecture of innovation in which both serendipitous
-    encounter and isolated deep thinking are supported. It's a setup that straddles a spectrum where
-    on one extreme we find solo thinker, isolated from inspiration but free from distraction, and on
-    the other extreme, we find the fully collaborative thinker in an open office, flush with
-    inspiration but struggling to support the deep thinking needed to build on it."
+  of people, where they can work in quiet solitude, and the hub is the common area where people
+  cross paths and collaborate.
   * In office spaces, "you should try to optimize each effort (depth and serendipity) separately, as
     opposed to mixing them together into a sludge that impedes both goals."
 * Accountability: the presence of the other party waiting for your next insight -- be it someone
@@ -188,10 +183,6 @@
   * "If you want to win the war for attention, don't try to say 'no' to the trivial distractions you
     find on the information smorgasbord; try to say 'yes' to the subject that arouses a terrifying
     longing, and let the terrifying longing crowd out everything else."
-* "I used to focus on lag measures of deep work, such as papers published per year. These measures,
-  however, lacked influence on my day-to-day behavior because there was nothing I could do in the
-  short term that could immediately generate a noticeable change to this long-term metric."
-  * Now he focuses on time spent in a state of deep work dedicated toward his wildly important goal.
 * "For teams, consider a scoreboard of a leading metric for the wildly important goal. It will drive
   them towards that goal and give them the focus, even when other demands vie for their attention."
 * Downtime helps recharge the energy (willpower) needed to work deeply
@@ -201,18 +192,17 @@
     perform complicated tasks like figuring out when to cross a street or walk around a slow group.
     So this activity drains your directed attention rather than restoring it. Nature requires much
     less directed attention to walk through.
-* Beware of the short-term productivity dip which comes at the expense of tomorrow's deep work
-  * "If you keep interrupting your evening to check and respond to email, or put aside a few hours
-    after dinner to catch up on an approaching deadline, you're robbing your directed attention
-    centers of the uninterrupted rest they need for restoration."
+* Beware of the short-term productivity boost which comes at the expense of tomorrow's deep work.
+  * If you're interrupting your evening downtown to check email or advance a work project, "you're
+    robbing your directed attention centers of the uninterrupted rest they need for restoration."
 * The work that evening downtime replaces is usually not that important
   * It's not deep work, either because you're fatigued and can't do more, or you don't set up the
     environment for depth.
   * On the other hand, if you need to finish some shallow work to unlock time tomorrow for deep
     work, then working in the evening rather than resting can be worthwhile.
 * Beware the dynamic of attention residue: residue from even small contact with work (like checking
-  email) is large and pollutes your mindshare for awhile, preventing you from fulling focusing on
-  the activity in front of you.
+  email) is large and pollutes your mindshare for awhile, preventing you from fully focusing on the
+  activity in front of you.
 * Making a high-level plan for how to complete an incomplete task will improve the odds that you
   later execute the plan. But importantly, it lets your mind release it from the foreground. This
   was documented in the paper "Consider It Done!".
@@ -229,12 +219,8 @@
   goals: improving your ability to concentrate intensely *and* overcoming your desire for
   distraction."
 * "Don't take breaks from distraction; instead, take breaks from focus"
-  * This means scheduling email or internet use into blocks, and not using either distraction during
-    blocks of deep work. Strengthen your "attention selecting" muscles.
-* Be invincible to the temptation to context switch
-  * "To summarize, to succeed with deep work you must rewire your brain to be comfortable resisting
-    distracting stimuli. This doesn't mean that you have to eliminate distracting behaviors; it's
-    sufficient that you instead eliminate the ability of such behaviors to hijack your attention."
+* Be invincible to the temptation to context switch. You must develop the ability for distractions
+  in the environment to hijack your attention, or remove yourself from those distractions.
 * "Roosevelt dashes": interval training for your muscles of intense concentration
   * Time challenge yourself on a task, so that you must work with great intensity.
   * "Like Roosevelt at Harvard, attack the task with every free neuron until it gives way under your
@@ -250,28 +236,18 @@
 * Structure your deep thinking time
   * You can't just leverage an open mental landscape. Prepare beforehand to identify the important
     variables at play, and their values, so you have them at hand. Also define the "next-step
-    questions" you need to answer. Finally, consolidate the answer you produced, plus rationale.
-* Suggested workout: memorize a deck of cards. It's a pure and hard mental exercise requiring
-  concentration.
+    questions" you need to answer.
 
 ## Quit social media (chap 6)
 
 * "Networking tools fragment our attention."
 * The Craftsman Approach to Tool Selection: "identify the core factors that determine success and
   happiness in your professional and personal life. Adopt a tool only if its positive impacts on
-  those factors substantially outweigh its negative impacts." Social media does not make the cut for
-  most craftsmen.
-* On the lack of Twitter usage by Michael Lewis and other writers: "Twitter doesn't support the 20
-  percent of activities that generate the bulk of the success in their writing careers. Even though
-  in isolation this service might return some minor benefits, when their careers are viewed as a
-  whole, they're likely more successful not using Twitter, and redirecting that time to more
-  fruitful activities, than if they added it into their schedule as one more thing to manage."
+  [your success and happiness] substantially outweigh its negative impacts." Social media does not
+  make the cut for most people.
 * Quid pro quo -- liking someone's post because they liked yours -- is why you can build an audience
   on social networks even if you've produced no compelling content worthy of an audience. But these
   audiences are shallow and worthless.
-* "Social networks can be fun, but in the scheme of your life and what you want to accomplish,
-  they're a lightweight whimsy, one unimportant distraction among many threatening to derail you
-  from something deeper."
 * Avoid bite-sized entertainment, like BuzzFeed, when standing in line. It's a cognitive crutch. "33
   Dogs Winning at Everything."
 * Make how you spend your non-working 16 hours each day deliberate. Then you will fill it with
@@ -298,7 +274,6 @@
 * Time blocking
   * Method: a sheet of lined paper; every line is 30m, and assigned to a task block.
   * "Give every minute of your work day a job."
-  * "Treat your time with respect."
   * Allow the schedule to be flexible. Rewrite the remaining part of the day if you under-estimate.
     Ignore the schedule if something important or inspiring happens. The goal is to encourage
     thoughtfulness, not to restrict.
@@ -312,7 +287,7 @@
     work, which will then limit your shallow work.
   * E.g. a junior professor capping travel to 5 trips per year, rather than 10-15. Traveling
     generates lots of shallow work like travel logistics and preparing talks.
-  * The only activity that matters for professors is doing deep work towards a research deliverable.
+  * The only activity that matters for professors is deep work towards a research deliverable.
 * Make people who send you email do more work
   * A "send filter" is a prompt for your senders which makes them consider carefully if their
     message is worthwhile. Also, it sets the expectation that you won't respond to every inbound
