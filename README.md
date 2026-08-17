@@ -23,6 +23,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 ## Business
 
 [7 Powers - Hamilton Helmer](https://notes.philcrosby.com/7-powers-hamilton-helmer.html)<br>
+[Better Simpler Strategy - Felix Oberholzer-Gee](https://notes.philcrosby.com/better-simpler-strategy-felix-oberholzer-gee.html)<br>
 [Creativity, Inc. - Ed Catmull](https://notes.philcrosby.com/creativity-inc-ed-catmull.html)<br>
 [Founders - Jimmy Soni](https://notes.philcrosby.com/founders-jimmy-soni.html)<br>
 [It Doesn't Have to Be Crazy at Work - Jason Fried](https://notes.philcrosby.com/it-doesnt-have-to-be-crazy-at-work-jason-fried.html)<br>
@@ -58,7 +59,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 
 ## Psychology
 
-[50th Law - 50 Cent, Robert Greene](https://notes.philcrosby.com/50th-law-50-cent-and-robert-greene.html)<br>
+[50th Law - 50 Cent and Robert Greene](https://notes.philcrosby.com/50th-law-50-cent-and-robert-greene.html)<br>
 [Deep Work - Cal Newport](https://notes.philcrosby.com/deep-work-cal-newport.html)<br>
 [Digital Minimalism - Cal Newport](https://notes.philcrosby.com/digital-minimalism-cal-newport.html)<br>
 [Four Thousand Weeks - Oliver Burkeman](https://notes.philcrosby.com/four-thousand-weeks-oliver-burkeman.html)<br>
