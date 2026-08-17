@@ -2,8 +2,8 @@
 
 ## Gems
 
-* The idea that the pair of WTS (willingness to sell) and WTP (willingness to pay) is a radically
-  simple model which helps focus everyone's activities.
+* The pair of WTS (willingness to sell) and WTP (willingness to pay) is a radically simple model
+  which helps focus everyone's activities.
   * "Unless an activity increases WTP or decreases WTS, it will not contribute to the firm's
     competitive standing. When I visit companies, I am always impressed by the myriad of activities
     I observe. At the same time, I often find myself at a loss to see how certain initiatives will
@@ -15,22 +15,17 @@
 
 ## Simpler, better (chap 1)
 
-* "As our strategic initiatives multiply, something unforeseen happens. In concentrating on all the
-  trees, we lose sight of the forest."
 * "In this world, strategic planning becomes an annual ritual that feels bureaucratic and less than
   helpful in resolving critical issues."
-* "When no one knows when to say no, most ideas (brought forward by talented and ambitious
-  employees) seem like good ideas. And when most ideas seem like good ideas, we end up in...
-  hyperactivity."
 * Framework:
   * Value is the delta between a customer's willingness-to-pay (WTP) and the firm's
     willingness-to-sell (WTS)
   * (This framework seems overly simple. Most hard strategic questions center on risk, achieving a
-    monopoly and locking out competition.)
+    monopoly, and locking out competition.)
 * "Think value, not profit, and profit will follow."
 * "Value drivers are the criteria that make up WTP and WTS. They are the product and service
   attributes that are important to your customers."
-  * Strategy should focus on a small number of these, and make them explicit.
+  * Strategy should focus on a small number of these value drivers, and make them explicit.
 * "Accomplished strategists are comfortable promoting only a few value drivers and withholding
   resources from many others. How did Paul Buchheit, Gmail's lead developer, express this idea? 'If
   your product is great, it doesn't need to be good.'"
@@ -42,34 +37,30 @@
 * In short, we should be optimistic about the number of opportunities to create significant value,
   because there exists such large variance in companies in the same industry, no matter the
   industry.
-* "Some industries are blessed with high average returns, others decidedly less so. Take, for
-  instance, US insurance, a highly competitive industry. Mean returns are close to zero (1.2
-  percent); the median insurance company destroys substantial value."
-  * (It seems that simply picking a rising industry to start a company makes it much easier to
-    perform well.)
-* Argues that a firm should focus on its competitive place within an industry, rather than changing
-  industries, to achieve the largest/easiest impact on profitability.
+* The author argues that a firm should focus on its competitive place within an industry, rather
+  than changing industries, to achieve the largest/easiest impact on profitability.
   * "From the standpoint of profitability, industries are fairly similar. Companies inside an
     industry, however, tend to be very different."
-* ROIC for all top companies declines over time. It's difficult/impossible to stay ahead as scale
-  grows.
+* The return on invested capital (ROIC) for all top companies declines over time. It's
+  difficult/impossible to stay ahead as scale increases.
 
 ## Think value, not profit (chap 3)
 
-* One can focus on value capture, but that should come after value creation. The author argues that
-  value creation should be the primary focus of a business.
+* One can focus on value capture, but that should come after value creation. Value creation should
+  be the primary focus of a business.
 * "Unless an activity increases WTP or decreases WTS, it will not contribute to the firm's
   competitive standing. When I visit companies, I am always impressed by the myriad of activities I
   observe. At the same time, I often find myself at a loss to see how certain initiatives will help
   increase WTP or decrease WTS."
-* The visualization tool used in the book is "value sticks." Ascii example:
-  * WTS |- wholesale price given to retailers -- firm's margin -- price given to consumers -| WTP
-* He argues that this framework is valuable because it greatly simplifies. It focuses the business
-  on just two levers.
+* The visualization tool used in the book is "value sticks." Here's an ASCII art example:
+
+        WTS |- wholesale price given to retailers - firm's margin - price given to consumers -| WTP
+
+* This framework is valuable because it greatly simplifies. It focuses the business on just two
+  levers.
 * "If the value stick of a business closely resembles the value stick of other businesses, how do
   you suppose customers choose? They will focus on price, putting pressure on margins and reducing
-  the firm's ability to capture the value it creates."
-  * E.g. airline carriers.
+  the firm's ability to capture the value it creates." E.g. airline carriers.
 * "Strategists think in differences. Exceptional product quality and outstanding working conditions
   do not confer a lasting advantage if they can be matched easily by rival firms."
 
@@ -91,7 +82,7 @@
 ## Looking for helpers - winning with complements (chap 6)
 
 * "Products and services that raise the willingness-to-pay (WTP) for another product are called
-  complements" (or "helpers"). E.g. smartphones, with app stores full of apps.
+  complements" (or "helpers"). E.g. smartphones and with app stores full of apps.
 * "Complements are particularly powerful if they raise the WTP for your product specifically.
   Apple's FaceTime application raises the WTP for iPhones and not for Android devices."
 * Examples:
@@ -100,7 +91,8 @@
   * Michelin and tire guides
   * Dunkin Donuts and selling coffee
   * Tesla and its supercharger network
-* Michelin's guide was not a specific complement; it helped all tire merchants
+  * Facetime and iPhones
+* Michelin's guide was not a specific complement. It helped all tire merchants.
   * "If you want to grow the category -- a rising tide lifts all boats -- non-proprietary,
     industry-level complements suit your needs best. If your goal is to gain market share,
     proprietary complements are more powerful."
@@ -114,26 +106,26 @@
   share of the mutual value created.
 * "The ability to move pools of profit from intensely competitive domains to calmer waters is one of
   the great benefits of producing complements in-house and controlling their supply, as Apple does."
-  * From hardware, and now to software and app fees.
+  * From hardware, and now to software and app store fees.
 
 ## Tipping points (chap 8)
 
 * Network effects drive up WTP as other customers adopt the product.
-* E.g. more establishments accepting cashless payments -> higher consumer WTP for cashless payments
+* E.g. more establishments accepting cashless payments -> higher consumer WTP for cashless payments.
 * Many network effects are per-region. E.g. many countries have their own messaging app.
 * Adoption of the service increases WTP, but often with diminishing returns, which result in "value
   thresholds."
-* Argues that network effects can be added to an industry which seemingly doesn't have them, to
-  strengthen the business. Like FaceTime, and UberPool.
+* Network effects can be added to an industry which seemingly doesn't have them, to strengthen the
+  business. Like FaceTime, and UberPool.
 * Competitors or suppliers who manage to establish a network effect will shrink your margins, so you
-  must see it early and beat or buy them. OpenTable ate restaurants' margins.
+  must see it early and beat or buy them. OpenTable ate the margin of restaurants.
 
 ## Strategies for underdogs (chap 9)
 
 * How to compete with businesses that have network effects
   * Increase customer delight in ways that don't depend on scale.
   * Focus on the unfavored/unloved customer type.
-  * Focus on a smaller set of customers..
+  * Focus on a smaller set of customers.
 * Note that in industries with network effects like online auction aggregators (ebay), each store
   added to their site adds decreasing marginal utility to buyers. So a new entrant can climb the WTP
   curve quickly with much less scale, because the early stores added to the platform have higher
@@ -157,8 +149,6 @@
 
 ## Feeling heard - value for employees (chap 10)
 
-* "Services dominate advanced economies -- they contribute almost 80 percent of US GDP -- and both
-  their cost and their value to customers are greatly influenced by the engagement of employees."
 * "Increased compensation lowers the firm's margins. There is no value creation, only
   redistribution. By contrast, more attractive working conditions *create more value* by reducing
   WTS, the lowest compensation that a person is willing to accept for the work."
@@ -189,9 +179,8 @@
   * (So then... how does one actually translate improvements in work experience to achieve a lower
     WTS among the workforce? Maybe employee experience ultimately improves WTS by improving employee
     retention, rather than lowering cash compensation.)
-* "Making work more attractive need not be rocket science. Consult any of your staff engagement
-  surveys. Like Quest, you will find that employees have many ideas to make their work more
-  pleasant. Pursue the ones that also raise productivity."
+* "You will find that employees have many ideas to make their work more pleasant. Pursue the ones
+  that also raise productivity."
 
 ## Gigs and passions (chap 11)
 
@@ -238,14 +227,10 @@
   its own ways to raise WTP.
   * (This is in contrast to Hamilton Helmer's Seven Powers, which puts more weight on strategic
     advantage, saying that operational excellence is not a durable differentiating strategy. Maybe
-    they agree, but are referencing different timescales here).
+    they agree, but are referencing different timescales?).
 
 ## Being Bad in the Service of Good (chap 17)
 
-* "Just as much as our job is to build something genuinely useful, something which really does make
-  people's working lives simpler, more pleasant and more productive, our job is also to understand
-  what people think they want and then translate the value of Slack into their terms." - Stewart
-  Butterfield.
 * On the "hero executive" that can do everything: "the danger is to take this model of personal
   success and apply it to organizations. (Some) people can be good at almost everything, but
   companies cannot. Firms must pick and choose where they strive for excellence lest they be
@@ -254,10 +239,10 @@
 
 ## Guiding investment (chap 18)
 
-* (Kind of interesting in this chapter to see a few tools used in strategy consulting, but it felt
+* (Somewhat interesting in this chapter to see a few tools used in strategy consulting, but it felt
   like an MBA smorgasbord).
 * Generally, try to deepen an area of differentiation rather than catch up on some other area, so
-  you remain differentiated and aren't forced to compete merely on price.
+  that you remain differentiated and aren't forced to compete merely on price.
 
 ## Connecting the dots (chap 19)
 
