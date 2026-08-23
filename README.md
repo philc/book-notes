@@ -42,6 +42,10 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 [Thinking in Systems - Donella Meadows](https://notes.philcrosby.com/thinking-in-systems-donella-meadows.html)<br>
 [Working in Public - Nadia Eghbal](https://notes.philcrosby.com/working-in-public-nadia-eghbal.html)
 
+## Health
+
+[Simple and Sinister - Pavel Tsatsouline](https://notes.philcrosby.com/simple-and-sinister-pavel-tsatsouline.html)
+
 ## Lifestyle
 
 [Destination Earth - Nicos Hadjicostis](https://notes.philcrosby.com/destination-earth-nicos-hadjicostis.html)<br>
