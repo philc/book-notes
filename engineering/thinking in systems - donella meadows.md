@@ -3,7 +3,7 @@
 ## Gems
 
 * Changing elements -- e.g. the players on the team -- usually has the least effect on the system's
-  behavior. Changing interconnections, and function, usually have much larger effects.
+  behavior. Changing interconnections, and function, usually has much larger effects.
 * The delay in changing stocks is why it takes so long for a business to gain traction. The stocks
   of employees, customers, and word of mouth accumulate slowly.
 * "Especially complex and sophisticated are the mental models we develop from direct, intimate
@@ -21,18 +21,15 @@
 
 ## Introduction
 
-* Argues these problems are the symptoms of "messes." Messes result from the inherent structure of
-  complex systems:
-  * "Hunger, poverty, environmental degradation, economic instability, unemployment... no one
-    deliberately creates those problems, no one wants them to persist, but they persist
-    nonetheless."
+* "Hunger, poverty, environmental degradation, economic instability, unemployment... no one
+  deliberately creates those problems, no one wants them to persist, but they persist nonetheless."
+  * These problems are the symptoms of "messes." Messes result from the inherent structure of
+    complex systems:
 * "Words and sentences must, by necessity, come only one at a time in linear, logical order. Systems
   happen all at once. They are connected not just in one direction, but in many directions
   simultaneously."
   * So pictures and graphs must be used. (This book has many systems diagrams, which look like UML
     diagrams.)
-* Systems theory is a complementary lens to the observant human eye, and the detail-revealing
-  microscope. It's not a superior lens. "The more ways of seeing, the better."
 
 ## The basics (chap 1)
 
@@ -43,7 +40,7 @@
 * "Systems can be nested within systems. Therefore, there can be purposes within purposes."
   * E.g. "the university", which is composed of each population / stakeholder group within it.
 * Changing elements -- e.g. the players on the team -- usually has the least effect on the system's
-  behavior. Changing interconnections, and function, usually have much larger effects.
+  behavior. Changing interconnections, and function, usually has much larger effects.
 * Stocks: foundation of a system. These are elements that are a store, a measurable quantity. The
   quantities need not be physical; "accumulated goodwill" is a stock.
 * Flows: "Stocks change over time through the action of a flow. Flows are filling and draining,
@@ -128,7 +125,7 @@
   system property."
 * Self-organizing systems
   * Evolutionary systems, like life forms and societies, are hard to predict and model.
-  * Self-organization produces heterogeneity and unpredictability. It is likely to come up with
+  * "Self-organization produces heterogeneity and unpredictability. It is likely to come up with
     whole new structures, whole new ways of doing things. It requires freedom and experimentation,
     and a certain amount of disorder."
   * Self-organizing systems generate hierarchy. There are subsystems, aggregated into larger
@@ -140,9 +137,6 @@
 ## Why systems surprise us (chap 4)
 
 * (An inventory of ways our mental models often fail to capture the complexity of reality.)
-* "The acquisition of knowledge always involves the revelation of ignorance -- almost *is* the
-  revelation of ignorance. Our knowledge of the world instructs us first of all that the world is
-  greater than our knowledge of it." - Wendell Berry
 * "Especially complex and sophisticated are the mental models we develop from direct, intimate
   experience of nature, people, and organizations immediately around us." These are superior to
   conjectured models.
@@ -170,7 +164,7 @@
   * E.g. hiring more salespeople may shift the bottleneck to engineering.
 * Bounded rationality: humans in a system have incomplete information, and imperfect competence: we
   underestimate risk, have bias, interpret our information incorrectly. So no actor optimally acts
-  for his own self good, or the good of the system."
+  for his own self good, or the good of the system.
 
 ## System traps... and opportunities (chap 5)
 
@@ -195,11 +189,7 @@
     various goals of the subsystems, usually by providing an overarching goal that allows all actors
     to break out of their bounded rationality."
 * Tragedy of the commons
-  * "In any commons system there is, first of all, a resource that is commonly shared (the pasture).
-    For the system to be subject to tragedy, the resource must not only be limited, but erodable
-    when overused."
-  * "The structure of a commons system makes selfish behavior much more convenient and profitable
-    than behavior that is responsible to the whole community and to the future."
+  * In a "tragedy of the commons", there must be a shared resource that is erodable when used.
   * "Every user benefits directly from its use, but shares the costs of its abuse with everyone
     else. Therefore, there is very weak feedback from the condition of the resource to the decisions
     of the resource users. The consequence is overuse of the resource, eroding it until it becomes
@@ -268,7 +258,7 @@
 * Rule beating
   * Distorting behavior so that rules appear to be followed, but not in spirit.
   * E.g. killing endangered species on your own land, so that the land can be developed.
-  * Laws must be designed to keep in mind the system's self-organizing evasive behaviors in mind.
+  * Laws must be designed to keep in mind the system's self-organizing evasive behaviors.
   * "If the desired system state is national security, and that is defined as the amount of money
     spent on the military, the system will produce military spending."
   * "If you define the goal of a society as GNP, that society will do its best to produce GNP. It
@@ -283,9 +273,7 @@
 * "Places in a system where a small change could lead to a large shift in behavior."
 * Argues systems are complex, and even when we can identify the leverage points, we use them in the
   wrong direction.
-* "Numbers, the sizes of flows, are dead last on my list of powerful interventions."
-* "Probably 90 -- no 95, no 99 percent -- of our attention goes to parameters, but there's not a lot
-  of leverage in them."
+* Parameters like the size of flows are usually not an impactful intervention.
 * "If the system is chronically stagnant, parameter changes rarely kick-start it. If it's wildly
   variable, they usually don't stabilize it."
 * Impactful levers, in ascending order of leverage
@@ -320,10 +308,8 @@
       successful' loops, any place where the more you have of something, the more you have the
       possibility of having more."
   * Information flows: the structure of who does and does not have access to information
-    * "Missing information flows is one of the most common causes of system malfunction. Adding or
-      restoring information can be a powerful intervention, usually much easier and cheaper than
-      rebuilding physical infrastructure."
-    * Adding an information flow adds a new loop to the system.
+    * A missing information flow is a common cause of system malfunction. Adding the missing
+      information flow is impactful. Adding an information flow adds a new loop to the system.
   * Rules: incentives, punishments, constraints
     * "If you want to understand the deepest malfunctions of systems, pay attention to the rules and
       to who has power over them."
@@ -338,12 +324,7 @@
       with it.
   * Paradigms: the mindset out of which the system -- its goals, structure, rules, delays,
     parameters -- arises
-    * "So how do you change paradigms? Thomas Kuhn, who wrote the seminal book about the great
-      paradigm shifts of science, has a lot to say about that. You keep pointing at the anomalies
-      and failures in the old paradigm. You keep speaking and acting, loudly and with assurance,
-      from the new one. You insert people with the new paradigm in places of public visibility and
-      power. You don't waste time with reactionaries; rather, you work with active change agents and
-      with the vast middle ground of people who are open-minded."
+    * (I didn't follow the advice about changing paradigms)
   * Transcending paradigms
     * Meaning "to keep oneself unattached in the area of paradigms, to stay flexible, to realize
       that *no* paradigm is 'true,' that every one, including the one that sweetly shapes your own
@@ -356,9 +337,6 @@
 
 * "It's one thing to understand how to fix a system and quite another to wade in and fix it."
   * Even once you understand addiction loops, you cannot quit coffee.
-* "Social systems are the external manifestations of cultural thinking patterns and of profound
-  human needs, emotions, strengths, and weaknesses. Changing them is not as simple as saying 'now
-  all change,' or of trusting that he who knows the good shall do the good."
 * All serious systems thinkers learn that they can't fully understand large nonlinear systems:
   variance in behavior is high, there's irreducible complexity. You can only learn from systems, and
   try redesigning them.
@@ -376,19 +354,9 @@
     what. The more you do that, in any form, the clearer your thinking will become, the faster you
     will admit your uncertainties and correct your mistakes, and the more flexible you will learn to
     be."
-* "You can make a system work better with surprising ease if you can give it more timely, more
-  accurate, more complete information."
-* "Language pollution" (fun term)
-  * That which doesn't convey clear, precise, forceful meaning.
-  * "Use language with care and enrich it with systems concepts."
-* Don't over-index on quality metrics when inspecting and evaluating systems.
-  * "Human beings have been endowed not only with the ability to count, but also with the ability to
-    assess quality. Be a quality detector."
 * Local responsibility in the system
   * "'Intrinsic responsibility' means that the system is designed to send feedback about the
     consequences of decision making directly and quickly and compellingly to the decision makers.
     Because the pilot of a plane rides in the front of the plane, that pilot is intrinsically
     responsible. He or she will experience directly the consequences of his or her decisions."
-  * Having smoking companies pay for smoking-related healthcare costs.
-* "Nature designs in fractals, with intriguing detail on every scale from the microscopic to the
-  macroscopic."
+  * E.g. Having smoking companies pay for smoking-related healthcare costs.
