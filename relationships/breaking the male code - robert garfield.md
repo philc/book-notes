@@ -52,12 +52,10 @@
     themselves and each other about their personal life challenges."
   * Young adults can use mentors at this stage in thier life but don't establish or aren't receptive
     to these relationships.
-* In 1:1 settings, emotional intelligence is higher. In group settings, "the important feelings
-  often get left out or tamped down in this environment."
 * Middle age
   * 35-50 is the most challenging emotional stage: bonding with spouse, raising kids, making
     professional moves, all at the same time.
-  * "Men often complain, with justification, that their old friendships don't feel emotionally
+  * "Men often complain... that their old friendships don't feel emotionally
     responsive to the new wave of responsibility they are experiencing."
   * Men need guy friends more than ever in this phase and need to be intentional about it.
 
@@ -82,19 +80,8 @@
 * Safety: one must never be perceived as disclosing personal information of your friends as gossip.
   This sends the signal that you're "not friend material."
 * Mutual sparring
-  * Conveying respect: "the habit of routinely trading insults or solely making 'innocent' jokes at
-    the other guy's expense with no added warmth or substances can get old and, frankly, annoying
-    over time."
   * "While most will put up with it, they definitely will not open up when it's coming at them."
-  * Mutual sparring is enjoyable in small doses
-* Active listening
-  * Reflection: "a friend's ability to reflect back to us important things we've been saying. In
-    short, a good friend presents you to you."
-  * When mirroring back what they've heard, good listeners tend to helpfully simplify and clarify
-    what has been said.
-* Share similar experiences: "the purpose here is not to give corrective advice but to support your
-  friend emotionally in whatever he is experiencing. 'I get it' are three of the most powerful words
-  in our language."
+  * Mutual sparring is enjoyable in small doses.
 
 ## Staying the course (chap 7)
 
@@ -103,9 +90,6 @@
   feeling about things?" Not sports.
 * Add fresh rituals to your routine. Novelty is as important as consistency.
 * Be honest with your friends. "A true friend is someone who stabs you in the front." - Oscar Wilde.
-* "When a geographical disruption occurs in a close friendship, you may need to do some serious
-  emotional processing, talking, and planning with your friend to continue nurturing your
-  friendship."
 
 ## Friendship first aid (chap 8)
 
@@ -118,18 +102,9 @@
 
 ## The men behind your marriage (chap 9)
 
-* "Don't be afraid to notice your friend's stress and bring it to his attention."
-* "For most guys, this kind of concern and inquiry is appreciated; opinions and judgments, usually
-  not."
-* "Wait for an asnwer. If your friend is downplaying the roblem, you can say something about how you
-  feel (or felt) observing this: 'It's troubling to see how different you are when you two are
-  together!' Or 'Hey, man, that was upsetting. You nearly took her head off. What are you so angry
-  about?' Your freeling responses will let him know that you care and are reacting to what's going
-  on."
 * "The most important thing is to support your friend in figuring this out for himself. Hold off on
   weighing in or predicting an outcome."
 * Don't pile on, complaining about your own relationship. It shifts focus from him to you.
-* Share your experience only when asked.
 
 ## The father's club (chap 10)
 
