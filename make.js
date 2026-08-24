@@ -149,6 +149,7 @@ task("website", [], async () => {
     "lifestyle/destination earth - nicos hadjicostis.md",
     "lifestyle/how to travel - school of life.md",
     "lifestyle/the dream of solomeo - brunello cucinelli.md",
+    "lifestyle/the little book of hygge - meik wiking.md",
     "lifestyle/the psychology of money - morgan housel.md",
     "lifestyle/tidying up - marie kondo.md",
     "lifestyle/what is culture for - school of life.md",
