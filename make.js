@@ -152,6 +152,7 @@ task("website", [], async () => {
     "lifestyle/the little book of hygge - meik wiking.md",
     "lifestyle/the psychology of money - morgan housel.md",
     "lifestyle/tidying up - marie kondo.md",
+    "lifestyle/vagabonding - rolf potts.md",
     "lifestyle/what is culture for - school of life.md",
     "lifestyle/writing about your life - william zinsser.md",
     "philosophy/a guide to the good life - william irvine.md",

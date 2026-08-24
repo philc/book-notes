@@ -54,6 +54,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 [The Life-Changing Magic of Tidying Up - Marie Kondo](https://notes.philcrosby.com/tidying-up-marie-kondo.html)<br>
 [The Little Book of Hygge - Meik Wiking](https://notes.philcrosby.com/the-little-book-of-hygge-meik-wiking.html)<br>
 [The Psychology of Money - Morgan Housel](https://notes.philcrosby.com/the-psychology-of-money-morgan-housel.html)<br>
+[Vagabonding - Rolf Potts](https://notes.philcrosby.com/vagabonding-rolf-potts.html)<br>
 [What is Culture For - School of Life](https://notes.philcrosby.com/what-is-culture-for-school-of-life.html)<br>
 [Writing About Your Life - William Zinsser](https://notes.philcrosby.com/writing-about-your-life-william-zinsser.html)
 
