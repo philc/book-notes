@@ -49,6 +49,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 ## Lifestyle
 
 [Destination Earth - Nicos Hadjicostis](https://notes.philcrosby.com/destination-earth-nicos-hadjicostis.html)<br>
+[How to Travel - School of Life](https://notes.philcrosby.com/how-to-travel-school-of-life.html)<br>
 [The Dream of Solomeo - Brunello Cucinelli](https://notes.philcrosby.com/the-dream-of-solomeo-brunello-cucinelli.html)<br>
 [The Life-Changing Magic of Tidying Up - Marie Kondo](https://notes.philcrosby.com/tidying-up-marie-kondo.html)<br>
 [The Psychology of Money - Morgan Housel](https://notes.philcrosby.com/the-psychology-of-money-morgan-housel.html)<br>

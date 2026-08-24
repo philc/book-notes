@@ -147,6 +147,7 @@ task("website", [], async () => {
     "engineering/working in public - nadia eghbal.md",
     "health/simple and sinister - pavel tsatsouline.md",
     "lifestyle/destination earth - nicos hadjicostis.md",
+    "lifestyle/how to travel - school of life.md",
     "lifestyle/the dream of solomeo - brunello cucinelli.md",
     "lifestyle/the psychology of money - morgan housel.md",
     "lifestyle/tidying up - marie kondo.md",
