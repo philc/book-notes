@@ -18,15 +18,11 @@
 
 ## Intro
 
-* "Rather than focus on what a work of art might tell us about the time and place it was made or
-  about the person who created it, we should develop the confidence to do exactly that which we
-  might feel discouraged to do: relate cultural masterpieces to our own dilemmas and pains."
+* A work of art can tell us about its historical context, but more importantly, it can help us
+  relate to our own pain and suffering.
 
 ## Companionship (chap 1)
 
-* "The legacy of Romanticism has been an epidemic of loneliness, as we are repeatedly brought up
-  against the truth: the radical inability of any one other person to wholly grasp who we truly
-  are."
 * "Art can, for adults, function as more sophisticated versions of transitional objects. What we are
   at heart looking for in friendship is not necessarily someone we can touch and see in front of us,
   but a person who shares, and can help us develop, our sensibility and our values."
@@ -50,16 +46,12 @@
   moments of intense happiness are; they see this lovely, innocent moment against the backdrop of
   life's sorrows and troubles -- adding a layer of poignancy and tenderness which the child can't as
   yet imagine. And this is what makes the sight so moving to the parent."
-* In defense of sweet / sentimental art
-  * "It's because we're burdened with frustrations, disappointments, failings, errors, regrets and
-    compromises that the sight of grace, innocence, lightness and carefree joy is so moving; and if
-    we cry it is because we're glimpsing something we love and need and yet cannot now hold on to."
 
 ## Balance (chap 3)
 
-* Helpful framing of art: art is produced to supply us with what we lack emotionally, thus helping
-  us achieve emotional balance. Art that does this is considered beautiful. Since everyone has
-  different emotional shortages, everyone has different tastes in art.
+* A helpful framing: art is produced to supply us with what we lack emotionally, to help us achieve
+  emotional balance. Art that does this is considered beautiful. Since everyone has different
+  emotional shortages, everyone has different tastes in art.
 * Film can educate us by example, and deliver a balancing view to what we're missing. That's why
   there's so many genres of film.
 * "Our tastes will depend on what spectrum of our emotional makeup lies in shadow and is hence in
@@ -72,8 +64,8 @@
 
 ## Knowledge (chap 5)
 
-* Literature is a reality simulation which teaches us what befalls us if we behave in certain ways. Or
-  more generally, what humanity is like.
+* Literature is a reality simulation which teaches us what befalls us if we behave in certain ways;
+  or more generally, what humanity is like.
 * "'When two people part, it is the one who is not in love who makes the tender speeches.' The
   clarity won't make the lover return; but it will do the next best thing: help us to feel less
   confused by, and alone with, the misery of having been left."
@@ -88,9 +80,7 @@
 
 ## Appreciation (chap 7)
 
-* "[We] are prone to racing through the years while forgetting the wonder, fragility and beauty of
-  existence. It's fortunate, therefore, that we have art."
-* Art is a form of advertising to remind us of what is good and beautiful
+* Art is a form of advertising to remind us of what is good and beautiful.
   * "If advertising images carry a lot of the blame for instilling a sickness in our souls, the
     images of artists reconcile us with our realities and reawaken us to the genuine, but too-easily
     forgotten, value of our lives."
