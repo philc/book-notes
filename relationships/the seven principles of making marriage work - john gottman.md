@@ -6,12 +6,15 @@
   positivity, which provides security and helps the couple push through conflict and annoyance.
 * Repair attempts are key.
 * "Harsh startup" determines the outcome of the discussion.
+* Reunions: stress-reducing conversations at the end of each workday.
+* Admiration and appreciation: find some way every day to communicate genuine affection and
+  appreciation towards your spouse.
 
 ## Intro (chap 1)
 
 * People in unhappy marriages die faster, are more prone to sickness, and their children are more
   likely to have behavioral problems.
-* Half of divorces happen within the first 7 years of the marriage.
+* Half of divorces happen within the first seven years of the marriage.
 * Gottman's approach was to study couples in a Love Lab -- a synthetic environment where they could
   study the nature of the conflict.
 * The foundation of a happy marriage is a strong friendship. It creates a general positivity about
@@ -55,16 +58,6 @@
   reminding yourself of why you love this person in the first place. Recall the history that got you
   together.
 * Fondness and admiration are the antidote for contempt.
-* Exercises in this book:
-  * I appreciate…: list things you appreciate about your partner. Ground it in an incident. Then
-    share it with your partner.
-  * 'The history and philosophy or your marriage: highlight the positive history and the love which
-    brought the couple together.
-  * 'Seven Week Course in Fondness and Admiration': a schedule of daily rehearsing of positive
-    thoughts and related tasks which positively
-
-## 3: Turn towards each other and not away (chap 5)
-
 * Stay connected about the mundane things in life so you can begin accruing into the emotional bank
   account rather than leaving it empty.
 * These interactions are the foundation for romance and connection -- beyond just the cushion of
@@ -96,47 +89,47 @@
   * If the problems cannot be coped with, they become obstacles, and the couple gets into a
     gridlock, leading to the four horsemen.
   * Many happy marriages exist without having resolved any of their big issues.
-* Techniques
-  * Soften your startup
-    * Arguments end in the same tone that they begin.
-    * Couples divorce because of the distancing to avoid fights, rather than the actual fights.
-    * Women tend to have harsher startups.
-    * "I'm so tired today because of work; can you please take the garbage out?" vs. "what's wrong
-      with you? You never take the garbage out!"
-    * Complain, but don't blame.
-    * Make "I" statements: speak about what the situation does to you.
-    * Describe what's happening; don't judge or evaluate.
-    * Be explicit and specific with what you want. Your partner isn't a mind reader.
-    * Be appreciative.
-  * Make repair attempts
-    * These are brakes on the conversation to prevent escalation.
-    * The most important property is that they're obvious, recognizable, and "get through" to your
-      spouse.
-    * Examples:
-      * I'm feeling scared.
-      * Can you make things safer for me?
-      * Please be gentler with me.
-      * Can we take a break? I'm starting to feel flooded.
-      * I can see my part in all of this.
-      * Let's find our common ground.
-      * Hang in there -- don't withdraw.
-      * This is not your problem -- it's our problem.
-    * When a person is flooded (heart rate > 100 bpm), discussion has to stop, before stonewalling
-      begins. The flooded person can't hear what's being said.
-    * Soothe yourself and each other
-      * These are techniques for returning from being flooded.
-      * Some couples can self-soothe as part of a discussion. Ideally, your partner is a critical
-        part of your soothing process, which ties you together.
-      * Examples
-        * You give each other massages to calm down.
-        * Lie down
-        * 10m of deep breathing
-  * Compromise
-    * You don't need to accept everything your partner argues for, but you do need to accept some of
-      it.
-    * Men typically have a harder time accepting influence from their wives than vice versa.
-    * Exercise: find common ground. Draw a circle. Write the non-negotiable things inside,
-      negotiable things outside. Start negotiating using this info.
+* Techniques:
+* Soften your startup
+  * Arguments end in the same tone that they begin.
+  * Couples divorce because of the distancing to avoid fights, rather than the actual fights.
+  * Women tend to have harsher startups.
+  * "I'm so tired today because of work; can you please take the garbage out?" vs. "what's wrong
+    with you? You never take the garbage out!"
+  * Complain, but don't blame.
+  * Make "I" statements: speak about what the situation does to you.
+  * Describe what's happening; don't judge or evaluate.
+  * Be explicit and specific with what you want. Your partner isn't a mind reader.
+  * Be appreciative.
+* Make repair attempts
+  * These are brakes on the conversation to prevent escalation.
+  * The most important property is that they're obvious, recognizable, and "get through" to your
+    spouse.
+  * Examples:
+    * I'm feeling scared.
+    * Can you make things safer for me?
+    * Please be gentler with me.
+    * Can we take a break? I'm starting to feel flooded.
+    * I can see my part in all of this.
+    * Let's find our common ground.
+    * Hang in there -- don't withdraw.
+    * This is not your problem -- it's our problem.
+  * When a person is flooded (heart rate > 100 bpm), discussion has to stop, before stonewalling
+    begins. The flooded person can't hear what's being said.
+  * Soothe yourself and each other
+    * These are techniques for returning from being flooded.
+    * Some couples can self-soothe as part of a discussion. Ideally, your partner is a critical
+      part of your soothing process, which ties you together.
+    * Examples
+      * You give each other massages to calm down.
+      * Lie down
+      * 10m of deep breathing
+* Compromise
+  * You don't need to accept everything your partner argues for, but you do need to accept some of
+    it.
+  * Men typically have a harder time accepting influence from their wives than vice versa.
+  * Exercise: find common ground. Draw a circle. Write the non-negotiable things inside,
+    negotiable things outside. Start negotiating using this info.
 * Common solvable problems
   * Bringing stress from outside into the marriage
     * E.g. wife is upset because there's no food after a crappy day of work and the husband forgot
@@ -147,9 +140,6 @@
     * Establish a sense of "we-ness" or solidarity between husband and wife.
     * Spouse must prefer the marriage first. It's their new nuclear family. This does not mean they
       love their family of origin less. But the in-laws must get used to it and accept it.
-  * Money
-    * Be better organized with money.
-    * Plan your goals and trade off some of yours for the other.
   * Sex
     * Since it has a huge potential for hurt, embarrassment, and rejection, couples tend to
       negotiate about it in vague, imprecise terms.
@@ -165,10 +155,10 @@
     * "Who does what" exercise: map out all existing chores, with two columns: now, ideal. Discuss.
   * Becoming parents
     * Solutions:
-      * Work on the marital friendship (although don't seesaw between investing in the spouse and
-        then the baby).
-      * Have the dad care for the baby, and don't supervise him.
-      * Give mom a break.
+    * Work on the marital friendship (although don't seesaw between investing in the spouse and
+      then the baby).
+    * Have the dad care for the baby, and don't supervise him.
+    * Give mom a break.
 
 ## 6: Overcoming gridlock (chap 10)
 
@@ -200,7 +190,7 @@
 
 ## Magic Five Hours (chap 12)
 
-* An investment plan of 5 hours per week to significantly renew the marriage.
+* An investment plan of five hours per week to significantly renew the marriage.
 * Parting: before saying goodbyes in the morning, find out one thing which is happening in the
   partner's life that day.
 * Reunions: stress-reducing conversations at the end of each workday.
