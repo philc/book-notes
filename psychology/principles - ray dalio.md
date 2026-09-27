@@ -2,32 +2,25 @@
 
 ## Gems
 
-* Over his life, he's learned to love the struggles
-  * "In time, I realized that the satisfaction of success doesn't come from achieving your goals,
-    but from struggling well. To understand what I mean, imagine your greatest goal, whatever it is
-    -- making a ton of money, winning an Academy Award, running a great organization, being great at
-    a sport. Now imagine instantaneously achieving it. You'd be happy at first, but not for long.
-    You would soon find yourself needing something else to struggle for."
-* My life as a game
-  * "I have found it helpful to think of my life as if it were a game in which each problem I face
-    is a puzzle I need to solve. By solving the puzzle, I get a gem in the form of a principle that
-    helps me avoid the same sort of problem in the future. Collecting these gems continually
-    improves my decision making, so I am able to ascend to higher and higher levels of play in which
-    the game gets harder and the stakes become even greater."
-* Pain + Reflection = Progress
-  * "Though this process of pushing your limits, of sometimes failing and sometimes breaking through
-    -- and deriving benefits from both your failures and your successes -- is not for everyone, if
-    it is for you, it can be so thrilling that it becomes addictive. Life will inevitably bring you
-    such moments, and it'll be up to you to decide whether you want to go back for more."
+* "In time, I realized that the satisfaction of success doesn't come from achieving your goals, but
+  from struggling well. To understand what I mean, imagine your greatest goal, whatever it is --
+  making a ton of money, winning an Academy Award, running a great organization, being great at a
+  sport. Now imagine instantaneously achieving it. You'd be happy at first, but not for long. You
+  would soon find yourself needing something else to struggle for."
+* "I have found it helpful to think of my life as if it were a game in which each problem I face is
+  a puzzle I need to solve. By solving the puzzle, I get a gem in the form of a principle that helps
+  me avoid the same sort of problem in the future. Collecting these gems continually improves my
+  decision making, so I am able to ascend to higher and higher levels of play in which the game gets
+  harder and the stakes become even greater."
 * Weigh second and third-order consequences
-  * Nature sorts people by those who respond to first order consequences (they will fail) vs. those
-    who respond to second order (they will succeed)
-    * "Quite often the first-order consequences are the temptations that cost us what we really
-      want, and sometimes they are the barriers that stand in our way. It's almost as though nature
-      sorts us by throwing us trick choices that have both types of consequences and penalizing
-      those who make their decisions on the basis of the first-order consequences alone."
+  * Nature sorts people by those who respond to first-order consequences (they will fail) vs. those
+    who respond to second-order (they will succeed).
+  * "Quite often the first-order consequences are the temptations that cost us what we really want,
+    and sometimes they are the barriers that stand in our way. It's almost as though nature sorts us
+    by throwing us trick choices that have both types of consequences and penalizing those who make
+    their decisions on the basis of the first-order consequences alone."
   * Examples
-    * Exercise: pain is the 1st order; health and attractiveness are the second.
+    * Exercise: pain is the first order; health and attractiveness are the second.
     * Rich food: good taste is the first order; lethargy and weight gain are the second.
 * Radical open-mindedness requires you to replace your attachment to always being right with the joy
   of learning what's true. Learn to take joy in obtaining the best data for your decisions.
@@ -35,21 +28,22 @@
   terribly handicapped."
   * The best answer to a problem can rarely be entirely produced by you. Gather inputs so you can
     cover every angle.
-* "If you had asked me what my objective was when I started out, I would've said it was to have fun
-  working with people I like. Work was a game I played with passion and I wanted to have a blast
-  playing it with people I enjoyed and respected."
-* Be radically open-minded
-  * Closed-minded people focus much more on being understood than on understanding others.
-    Open-minded people feel compelled to see things through others' eyes.
-  * Closed-minded people are more likely to make statements than ask questions.
-* Habits
-  * "If you do just about anything frequently enough over time, you will form a habit that will
-    control you. Good habits are those that get you to do what your 'upper-level you' wants, and bad
-    habits are those that are controlled by your 'lower-level you' and stand in the way of getting
-    what your 'upper-level you' wants. You can create a better set of habits if you understand how
-    this part of your brain works. For example, you can develop a habit that will make you 'need' to
-    work out at the gym."
-
+* "If you do just about anything frequently enough over time, you will form a habit that will
+  control you. Good habits are those that get you to do what your 'upper-level you' wants, and bad
+  habits are those that are controlled by your 'lower-level you' and stand in the way of getting
+  what your 'upper-level you' wants. You can create a better set of habits if you understand how
+  this part of your brain works. For example, you can develop a habit that will make you 'need' to
+  work out at the gym."
+* Recognize that most cases in life are just "another one of those", and apply the principles you've
+  developed for that case. "This will allow you to massively reduce the number of decisions you have
+  to make."
+* "Aligning what you say with what you think and what you think with what you feel will make you
+  much happier and much more successful. Thinking solely about what's accurate instead of how it is
+  perceived pushes you to focus on the most important things."
+* "Don't pay as much attention to people's conclusions as to the reasoning that led them to their
+  conclusions. It is common for conversations to consist of people sharing their conclusions rather
+  than exploring the reasoning that led to those conclusions. As a result, there is an overabundance
+  of confidently expressed bad opinions."
 
 ## Intro
 
@@ -58,31 +52,23 @@
 * We get principles through experience and parents. Religion and legal frameworks provide holistic
   packages of principles.
 * As a kid, "I got excited about visualizing things to go after".
-* "I believe that the key to success lies in knowing how much to both strive for a lot and fail
-  well."
+* The key to success: how to strive for a lot, and how to fail well.
 * "Experience taught me how invaluable it is to reflect on and write down my decision-making
   criteria whenever I made a decision, so I got in the habit of doing that. With time, my collection
   of principles became like a collection of recipes for decision making."
-  * Eventually I could express my decision-making criteria as algorithms to embed in computers.
-* Part I: where I'm coming from
-  * You are naturally gifted with intelligence, but decision making abilities (i.e. wisdom) must be
-    acquired through "encounters with reality."
+* You are naturally gifted with intelligence, but decision-making abilities (i.e. wisdom) must be
+  acquired through "encounters with reality."
 
 ## My call to adventure (chap 1, 2, 3)
 
-* Grew up in the 1960s, which was an era of great ambition. Inspirational. Kennedy's space race.
+* He grew up in the 1960s, which was an era of great ambition. Inspirational. Kennedy's space race.
 * Learned how to be "radically open-minded" so he could gather high-quality disagreement and
   convince himself of the best idea.
   * "I sought out the smartest people who disagreed with me so I could try to understand their
     reasoning."
-  * "This experience led me to build Bridgewater as an idea meritocracy -- not an autocracy in which
-    I lead and others follow, and not a democracy in which everyone's vote is equal -- but a
-    meritocracy that encourages thoughtful disagreements and explores and weighs people's opinions
-    in proportion to their merits."
-* Pulling Bridgewater out of China after a year's experiment
-  * "I don't regret my choice. I learned that if you work hard and creatively, you can have just
-    about anything you want, but not everything you want. Maturity is the ability to reject good
-    alternatives in order to pursue even better ones."
+  * He founded Bridgewater to be an idea meritocracy, rather than an autocracy (where everyone
+    follows the founder) or democracy, that encourages "thoughtful disagreements and explores and
+    weighs people's opinions in proportion to their merits."
 * The joy and value of "seeing the world through someone else's eyes"
   * "I've also learned that judging people before really seeing things through their eyes stands in
     the way of understanding their circumstances -- and that isn't smart."
@@ -93,26 +79,25 @@
   * Should Bridgewater stay a boutique or become a big institution? "I felt about this
     fork-in-the-road choice the way I felt about most others -- that whether or not we could have
     our cake and eat it too was merely a test of our creativity and character. For example, I could
-    envision ways in which technology would help us get the most out of people" (and not become
-    bloated).
+    envision ways in which technology would help us get the most out of people" and not become
+    bloated.
   * "I didn't like the alternative of not allowing ourselves to become all we could be."
 * "Another one of those"
   * "More and more, we saw everything as 'another one of those' -- another of a certain type of
     situation like hiring, firing, determining compensation, dealing with dishonesty -- that had
     principles for handling them."
-* Recordings of meetings where decisions were considered and taken were edited, and then used as
-  boot camps for new hires.
-* He struggled to help his bipolar son, who made it out OK.
+* Bridgewater recorded meetings where people weighed and made decisions, then edited the recordings
+  into boot camps for new hires.
+* He struggled to help his bipolar son, who eventually made it out OK.
   * "That journey through hell gave me a much deeper understanding of how and why we see things
     differently. I learned that much of how we think is physiological and can be changed."
-* In 2008 he had two full time jobs: managing investments, and managing the business. He calculated
-  that it would take 165 hours to do each well, and so he couldn't have one person fill both rolls.
+* In 2008 he had two full-time jobs: managing investments, and managing the business. He calculated
+  that it would take 165 hours to do each well, and so he couldn't have one person fill both roles.
   * "To me, the greatest success you can have as the person in charge is to orchestrate others to do
     things well without you. A step below that is doing things well yourself."
-* "Suck the marrow out of life"
-  * At 60, he wanted to set up Bridgewater to run without him. He wanted to remain head of the
-    investment arm, hand operational control over to someone else, and pursue his hobbies and family
-    and friends. He wanted to "suck the marrow out of life."
+* At 60, he wanted to set up Bridgewater to run without him. He wanted to remain head of the
+  investment arm, hand operational control over to someone else, and pursue his hobbies and family
+  and friends. He wanted to "suck the marrow out of life."
 
 ## Returning the boon (chap 6)
 
@@ -120,9 +105,9 @@
   * "In the third and last phase of life, when others no longer depend on us and we no longer have
     to work, we are free to savor life."
     * His framing of "work as a game" makes it possible to still enjoy and be amazing at work until
-      you die. The difference in phase 3 is you want to afford yourself the luxury of getting out of
-      the critical path and not be essential, because this affords you greater latitude in your
-      pursuits.
+      you die. The difference in phase three is you want to afford yourself the luxury of getting
+      out of the critical path and not be essential, because this affords you greater latitude in
+      your pursuits.
   * "I wasn't going to stop playing the markets, because that's a game I've loved playing since I
     was twelve and I will keep playing until I die. But I didn't want to be *needed* in either role,
     because of the key-man risk that would create for the company."
@@ -139,16 +124,14 @@
     become fully systemized over the years, and so it's now hard to screw up. The other parts of
     Bridgewater rely much more heavily on the quality of people and their decisions.
 * Anticipating the European debt crisis
-  * He saw it coming, explained it painstakingly to policy makers, recommended counter measures, and
+  * He saw it coming, explained it painstakingly to policy makers, recommended countermeasures, and
     the worst was avoided.
   * "I came to respect most of the policymakers I worked with and to feel sorry for them because of
     the terrible positions they were in. Most are highly principled people who are forced to operate
     in unprincipled environments."
-  * Policy makers must maximize their country's well being, or even more narrowly, their
-    constituents' well being, and this prevents them from cooperating over long time frames or
+  * Policy makers must maximize their country's well-being, or even more narrowly, their
+    constituents' well-being, and this prevents them from cooperating over long time frames or
     seeing the full picture and optimizing that.
-* At this point in his life he's realized that he needs to pay it forward. "You can't take it with
-  you when you die."
 * Wrestling with the questions of philanthropy
   * "Imagine being faced with the choice between a big night out on the town or saving a child's
     life. That was essentially the choice we constantly faced."
@@ -160,10 +143,10 @@
     * How many of your generations should you budget to protect?
   * "While we have felt compelled to help, we've discovered it is very difficult to have a
     significant impact relative to the size of the problem."
-    * E.g. how to sustainably help 10k disadvantaged kids convert into positive contributors to
+    * E.g. how to sustainably help 10,000 disadvantaged kids convert into positive contributors to
       society?
 
-## Looking back from a higher level (Chap 8)
+## Looking back from a higher level (chap 8)
 
 * Over his life, he learned to "love his struggles" because each was an important opportunity to
   grow and develop timeless principles.
@@ -178,7 +161,7 @@
   * "Being well-known is probably worse than being anonymous, all things considered."
   * The burden of being famous and having resources is immense.
 
-## Embrace reality and deal with it (Chap 9)
+## Embrace reality and deal with it (chap 9)
 
 * My life as a game
   * "I have found it helpful to think of my life as if it were a game in which each problem I face
@@ -200,7 +183,7 @@
     works."
   * He's looked to nature and the common themes of all animals to put the human struggle into
     perspective.
-* "Don't get hung up on your views of how things "should" be because you will miss out on learning
+* "Don't get hung up on your views of how things 'should' be because you will miss out on learning
   how they really are."
 * "Evolving is life's greatest accomplishment and its greatest reward"
   * Striving is its own goal and reward.
@@ -230,15 +213,15 @@
   * "Nature" poses trick questions for the important matters. Many consistently fail. Those who can
     focus on the second order will hit their goals and succeed.
   * "Don't let pain stand in the way of your progress."
-  * Nature sorts people by those who respond to first order consequences (they will fail) vs. those
-    who respond to second order (they will succeed)
-    * "Quite often the first-order consequences are the temptations that cost us what we really
-      want, and sometimes they are the barriers that stand in our way. It's almost as though nature
-      sorts us by throwing us trick choices that have both types of consequences and penalizing
-      those who make their decisions on the basis of the first-order consequences alone."
+  * Nature sorts people by those who respond to first-order consequences (they will fail) vs. those
+    who respond to second-order (they will succeed).
+  * "Quite often the first-order consequences are the temptations that cost us what we really
+    want, and sometimes they are the barriers that stand in our way. It's almost as though nature
+    sorts us by throwing us trick choices that have both types of consequences and penalizing
+    those who make their decisions on the basis of the first-order consequences alone."
 * Look at the machine from the highest level
   * Distinguish between you as the designer of your machine and you as a worker with your machine
-    * "To be successful, the "designer/manager you" has to be objective about what the "worker you"
+    * "To be successful, the 'designer/manager you' has to be objective about what the 'worker you'
       is really like, not believing in him more than he deserves, or putting him in jobs he
       shouldn't be in."
   * Think of yourself as a set of machines and you have the ability to alter your machines to
@@ -268,7 +251,7 @@
   * Each problem you face is an opportunity. The painful ones are the greatest opportunities.
   * Don't avoid confronting problems because they are rooted in harsh realities that are unpleasant
     to look at.
-    * I (think he's advising to weed out the emotion of shame if it's preventing you from overcoming
+    * (I think he's advising to weed out the emotion of shame if it's preventing you from overcoming
       your pride, acknowledging poor performance, and troubleshooting.)
   * "Once you identify a problem, don't tolerate it. You need to develop a fierce intolerance of
     badness of any kind, regardless of its severity."
@@ -278,32 +261,28 @@
     causes and become equipped to think strategically.
 * Design a plan that will get you around the problems
   * Think about your problem as a set of outcomes produced by a machine.
-    * This distances yourself from the performance you currently have, and helps reveal how to close
+    * This distances you from the performance you currently have, and helps reveal how to close
       the gaps. Be objective and dispassionate.
   * "Movie script model": think of your plan as being like a movie script in that you visualize who
     will do what through time.
     * Start with coarse goals; layer in granularity, then plot all of the actions over time.
-* Push through to completion
-  * Do what's necessary to push these designs through to results
 * Weakness doesn't matter if you find solutions
   * Everyone has at least one big thing that stands in their way of success. Each person typically
-    fails at one particular step in this five step process more often than the others. Which part
-    are you the most weak?
+    fails at one particular step in this five-step process more often than the others. In which part
+    are you weakest?
   * "Humility can be even more valuable than having good mental maps if it leads you to seek out
     better answers than you could come up with on your own. Having both open-mindedness and good
     mental maps is most powerful of all."
-  * On a grid of "what you know" vs. "humble & open-minded", you want to be in the upper right.
+  * On a grid with axes "what you know" vs. "humble & open-minded", you want to be in the upper
+    right.
 
 ## Be radically open-minded (chap 20)
 
-* Have humility.
-* Optimize through data collection. That will build your confidence in your decision making, and
-  yield better decisions.
 * Recognize your two barriers: your ego and your blind spots.
   * The lower brain exerts desires and emotions which are hidden from the prefrontal cortex, and
     thus hard to correct or control.
 * Radical open-mindedness requires you to replace your attachment to always being right with the joy
-  of learning what's true. Instead, learn to take joy in obtaining the best data for your decisions.
+  of learning what's true. Learn to take joy in obtaining the best data for your decisions.
 * The ability to perform well when you don't have the knowledge is more important than having tons
   of knowledge.
 * Open-mindedness requires true, non-judgmental empathy.
@@ -312,22 +291,21 @@
   * The best answer to a problem can rarely be entirely produced by you. Gather inputs so you can
     cover every angle.
 * Appreciate the art of thoughtful disagreement
-  * Where both people step outside themselves and explore the other's view, to ensure they are not
-    wrong. The goal is not conflict, or to persuade, and you must learn to do this so others don't
-    feel like it's a conflict.
+  * This is where both people step outside themselves and explore the other's view, to ensure they
+    are not wrong. The goal is not conflict, or to persuade; and you must learn to do this so others
+    don't feel like it's a conflict.
   * "In thoughtful disagreement, your goal is not to convince the other party that you are right --
-  it is to find out which view is true and decide what to do about it. In thoughtful disagreement,
-  both parties are motivated by the genuine fear of missing important perspectives."
+    it is to find out which view is true and decide what to do about it. In thoughtful disagreement,
+    both parties are motivated by the genuine fear of missing important perspectives."
   * "To me, it's pointless when people get angry with each other when they disagree because most
     disagreements aren't threats as much as opportunities for learning. People who change their
     minds because they learned something are the winners, whereas those who stubbornly refuse to
     learn are the losers."
-  * Dalio prefers to ask questions in this type of dialogue, rather than make statements.
 * Triangulate your view with believable people who are willing to disagree.
 * Recognize the signs of closed-mindedness and open-mindedness that you should watch out for
   * Closed-minded people block others from speaking. If it seems like someone isn't leaving space
     for the other person in a conversation, it's possible they are blocking. To get around blocking,
-    enforce the "two minute rule": each person can speak for at least two minutes before being
+    enforce the "two-minute rule": each person can speak for at least two minutes before being
     interrupted.
   * Closed-minded people focus much more on being understood than on understanding others.
     Open-minded people feel compelled to see things through others' eyes.
@@ -339,9 +317,6 @@
 
 * We're wired differently -- that's the reality. So how do we take that into account when
   collaborating to find out what is true?
-* Self-interest vs. collective interest: "Wilson explains that man is perpetually suspended between
-  the two extreme forces that created us: Individual selection which prompted sin, and group
-  selection which promoted virtue."
 * Habitual behavior is driven by the basal ganglia.
   * "If you do just about anything frequently enough over time, you will form a habit that will
     control you. Good habits are those that get you to do what your 'upper-level you' wants, and bad
@@ -359,7 +334,7 @@
   * Before they understood this at Bridgewater, conversations between Ts and Fs could be really
     frustrating. "Now we laugh as we bump up against our differences."
 * "Getting the right people in the right roles in support of your goal is the key to succeeding at
-  whatever you choose to accomplish"
+  whatever you choose to accomplish."
 
 ## Learn how to make decisions effectively (chap 22)
 
@@ -367,14 +342,13 @@
 * Decision making is a two-step process: learning and then deciding.
 * Synthesize the decision at hand
   * "One of the most important decisions you can make is who to ask questions of"
-    * "Listening to uninformed people is worse than having no answers at all."
+  * "Listening to uninformed people is worse than having no answers at all."
   * "New is overvalued relative to great. For example, when choosing which movie to watch or what
     book to read, are you drawn to proven classics or the newest big thing? In my opinion, it is
     smarter to choose the great over the new."
   * Don't over-generalize from too few data points.
 * Synthesize the situation through time
-  * Focus on the right level of detail -- usually higher level than you think. Stay out of the
-    weeds.
+  * Focus on the right level of detail. Usually higher level than you think. Stay out of the weeds.
   * Be imprecise; embrace the phrase "by and large" to describe patterns.
     * Focusing on the details when doing macro analysis is the wrong approach.
     * People who volunteer exceptions which are unimportant distract the conversation. This wastes
@@ -383,27 +357,24 @@
     important things.
 * Navigate levels effectively
   * Use the terms "above the line" and "below the line" to establish which level a conversation is
-    on
-    * "An above-the-line conversation addresses the main points and a below-the-line conversation
-      focuses on the sub-points. When a line of reasoning is jumbled and confusing, it's often
-      because the speaker has gotten caught up in below-the-line details without connecting them
-      back to the major points. An above-the-line discourse should progress in an orderly and
-      accurate way to its conclusion, only going below the line when it's necessary to illustrate
-      something about one of the major points."
+    on: "An above-the-line conversation addresses the main points and a below-the-line conversation
+    focuses on the sub-points. When a line of reasoning is jumbled and confusing, it's often because
+    the speaker has gotten caught up in below-the-line details without connecting them back to the
+    major points. An above-the-line discourse should progress in an orderly and accurate way to its
+    conclusion, only going below the line when it's necessary to illustrate something about one of
+    the major points."
 * Make your decisions as expected value calculations
   * Rather than favoring outcomes which are most probable. Many of us hate losses, even if the
-    magnitude is small, but that's not correctly optimizing.
+    magnitude is small, but that's not the correct optimization.
   * Raising the probability of being right is valuable no matter what your probability of being
     right already is.
     * Going from 80% confidence to 90% confidence halves the number of losses you will have. So
-      gather more information to make you convert some of your losses into wins.
-* Prioritize by weighing the value of additional information against the cost of not deciding
-  * "You need to constantly evaluate the marginal benefit of gathering more information against the
-    marginal cost of waiting to decide."
+      gather more information to convert some of your losses into wins.
+* Prioritize by weighing the value of additional information against the cost of not deciding.
 * Use principles
-  * "Almost all 'cases at hand' are just 'another one of those', identifying which 'one of those' it
-    is, and then applying well-thought-out principles for dealing with it. This will allow you to
-    massively reduce the number of decisions you have to make."
+  * Recognize that most cases in life are just "another one of those", and apply the principles
+    you've developed for that case. "This will allow you to massively reduce the number of decisions
+    you have to make."
   * "Make it a game to identify which pattern a new situation represents, and thus which principles
     should be brought to bear."
 
@@ -432,19 +403,18 @@
   selling them to another firm, even when there was still tremendous uncertainty about the deal.
   * (But people are generally terrible at keeping cool under uncertainty. How did they think this
     was a good idea?)
-  * Author says that this helped build and maintain trust with that department.
+  * Dalio says that this helped build and maintain trust with that department.
 * It's not genuine to hide how the business is doing from the employees. It might be convenient in
   the short-run, but will make people less trusting in the long-run and hamper the company. "I
   believe that it's almost always better to shoot straight, even when you don't have all the answers
   or when there's bad news to convey."
-* Realize that you have nothing to fear from knowing the truth
-  * The doctor's diagnosis will benefit you in the long run, because you'll be able to respond to
-    it.
+* Realize that you have nothing to fear from knowing the truth. The doctor's diagnosis will benefit
+  you in the long run, because you'll be able to respond to it.
 * Have integrity and demand it from others
-  * Avoid having a "duality" -- different inside from your outside.
+  * Avoid having a "duality": a different inside from your outside.
   * "Aligning what you say with what you think and what you think with what you feel will make you
     much happier and much more successful. Thinking solely about what's accurate instead of how it
-    is perceived pushes you to focus on the most important things." (yes, sounds more efficient)
+    is perceived pushes you to focus on the most important things."
   * Never say anything about someone that you wouldn't say to them directly and don't try people
     without accusing them to their faces.
 * Create an environment where "no one has the right to hold a critical opinion without speaking up"
@@ -452,29 +422,24 @@
   * Be extremely open. "It's simple: just don't filter."
 * Be radically transparent
   * Not totally transparent... but way more than most companies.
-  * Use transparency to help enforce justice
-    * He wants justice to prevail. If they violate a law, he believes the SEC should give
-      Bridgewater what it deserves.
   * Make sure those who are given radical transparency recognize their responsibilities to handle it
     well and to weigh things intelligently.
-    * People who are given the privilege of information need to know the boundaries around its use.
 
 ## Cultivate meaningful work and meaningful relationships (chap 25)
 
-* Is Bridgewater like a family, or a team? he says "like a family business." There's deep connection
+* Is Bridgewater like a family, or a team? He says "like a family business." There's deep connection
   and support, but they will (lovingly) cut a member who's not performing.
 * "For example, we put into place a policy that we would pay for half of practically any activities
   that people want to do together up to a set cap."
-* Be loyal to the common mission and not to anyone who is not operating consistently within it
+* Be loyal to the common mission and not to anyone who is not operating consistently within it.
 * Be crystal clear on what the deal is
-  * Make sure people give more consideration to others than they demand for themselves
-    * If you approach disagreements with this principle in mind, there will be much less emotional
-      energy spend on "who is offending whom."
+  * Make sure people give more consideration to others than they demand for themselves. If you
+      approach disagreements with this principle in mind, there will be much less emotional energy
+      spent on "who is offending whom."
   * Make sure that people understand the difference between fairness and generosity
     * E.g. demanding a cash equivalent if you're not eligible for a perk.
     * "Generosity is good and entitlement is bad, and they can easily be confused, so be crystal
       clear on which is which."
-  * Pay fairly. The compensation for work must be economically viable for both sides.
 * Recognize that the size of the organization can pose a threat to meaningful relationships
   * 50-100 still feels like a community, so carve up departments as needed to preserve that feel at
     some level of the org.
@@ -484,10 +449,8 @@
 * Scenario: firing someone who had made a severe mistake would've encouraged the remaining employees
   to hide their mistakes.
 * "Don't feel bad about your mistakes or those of others. Love them!"
-* Don't worry about looking good -- worry about achieving your goals
-  * Get over "blame" and "credit" and get on with "accurate" and "inaccurate"
-* "Remember to reflect when you experience pain"
-  * Go towards the pain, live where it is. It's a precious resource; use it to learn and grow.
+* Don't worry about looking good -- worry about achieving your goals. Get over "blame" and "credit"
+  and get on with "accurate" and "inaccurate".
 * "Know that nobody can see themselves objectively." So you need outside data to truly understand
   yourself when you're making mistakes.
 
@@ -500,7 +463,6 @@
 * Watch out for assertive "fast talkers"
   * This is a technique where the speaker makes assertions faster than they can be assessed. It
     doesn't allow for rigorous discourse.
-    * (I hate this.)
   * "Recognize that it's your responsibility to make sense of things and don't move on until you do.
     If you're feeling pressured, say something like 'Sorry, but I'm going to need to slow you down
     so I can make sense of what you're saying.' Then ask your questions. All of them."
