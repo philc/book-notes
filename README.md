@@ -72,6 +72,7 @@ You can view the notes here on GitHub, or as more nicely-formatted HTML
 [Digital Minimalism - Cal Newport](https://notes.philcrosby.com/digital-minimalism-cal-newport.html)<br>
 [Four Thousand Weeks - Oliver Burkeman](https://notes.philcrosby.com/four-thousand-weeks-oliver-burkeman.html)<br>
 [Meditations for Mortals - Oliver Burkeman](https://notes.philcrosby.com/meditations-for-mortals-oliver-burkeman.html)<br>
+[Principles - Ray Dalio](https://notes.philcrosby.com/principles-ray-dalio.html)<br>
 [Reinforcements - Heidi Grant](https://notes.philcrosby.com/reinforcements-heidi-grant.html)<br>
 [Relentless - Tim Grover](https://notes.philcrosby.com/relentless-tim-grover.html)
 

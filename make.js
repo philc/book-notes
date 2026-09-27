@@ -164,6 +164,7 @@ task("website", [], async () => {
     "psychology/digital minimalism - cal newport.md",
     "psychology/four thousand weeks - oliver burkeman.md",
     "psychology/meditations for mortals - oliver burkeman.md",
+    "psychology/principles - ray dalio.md",
     "psychology/reinforcements - heidi grant.md",
     "psychology/relentless - tim grover.md",
     "relationships/arguments - alain de botton.md",
